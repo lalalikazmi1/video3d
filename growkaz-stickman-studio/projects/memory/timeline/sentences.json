@@ -1,0 +1,686 @@
+[
+ {
+  "i": 0,
+  "start": 0.0,
+  "end": 6.24,
+  "text": "In 1984, in North Carolina, a young woman named Jennifer Thompson was attacked in her home."
+ },
+ {
+  "i": 1,
+  "start": 6.8,
+  "end": 9.3,
+  "text": "During the attack, she did something remarkable."
+ },
+ {
+  "i": 2,
+  "start": 9.96,
+  "end": 12.7,
+  "text": "She forced herself to study her attacker's face."
+ },
+ {
+  "i": 3,
+  "start": 13.32,
+  "end": 14.26,
+  "text": "Every detail."
+ },
+ {
+  "i": 4,
+  "start": 14.86,
+  "end": 19.24,
+  "text": "She promised herself that if she survived, she would make sure he was caught."
+ },
+ {
+  "i": 5,
+  "start": 19.88,
+  "end": 22.7,
+  "text": "Days later, she picked a man out of a photo lineup."
+ },
+ {
+  "i": 6,
+  "start": 23.14,
+  "end": 24.76,
+  "text": "Then again in a live lineup."
+ },
+ {
+  "i": 7,
+  "start": 25.3,
+  "end": 29.18,
+  "text": "In court, she pointed at him and said she was absolutely certain."
+ },
+ {
+  "i": 8,
+  "start": 29.18,
+  "end": 31.54,
+  "text": "His name was Ronald Cotton."
+ },
+ {
+  "i": 9,
+  "start": 32.1,
+  "end": 33.88,
+  "text": "He was sentenced to life in prison."
+ },
+ {
+  "i": 10,
+  "start": 34.56,
+  "end": 35.84,
+  "text": "There was just one problem."
+ },
+ {
+  "i": 11,
+  "start": 36.48,
+  "end": 38.1,
+  "text": "Ronald Cotton was innocent."
+ },
+ {
+  "i": 12,
+  "start": 38.88,
+  "end": 42.8,
+  "text": "More than ten years later, DNA evidence proved it was another man."
+ },
+ {
+  "i": 13,
+  "start": 43.38,
+  "end": 44.54,
+  "text": "Jennifer hadn't lied."
+ },
+ {
+  "i": 14,
+  "start": 45.0,
+  "end": 46.98,
+  "text": "She truly remembered Ronald's face."
+ },
+ {
+  "i": 15,
+  "start": 47.64,
+  "end": 51.12,
+  "text": "Her memory had been rewritten, and she never felt it happen."
+ },
+ {
+  "i": 16,
+  "start": 51.78,
+  "end": 55.2,
+  "text": "So how can a memory that feels so real be so wrong?"
+ },
+ {
+  "i": 17,
+  "start": 55.2,
+  "end": 58.06,
+  "text": "And how often is yours doing the same thing?"
+ },
+ {
+  "i": 18,
+  "start": 58.88,
+  "end": 61.7,
+  "text": "We tend to think of memory like a video camera."
+ },
+ {
+  "i": 19,
+  "start": 62.22,
+  "end": 65.72,
+  "text": "Something happens, the brain records it, and later we press play."
+ },
+ {
+  "i": 20,
+  "start": 66.18,
+  "end": 68.22,
+  "text": "But that's not how memory works at all."
+ },
+ {
+  "i": 21,
+  "start": 68.86,
+  "end": 76.24,
+  "text": "Back in 1932, psychologist Frederic Bartlett asked people to read an unfamiliar folk tale, then retell it later."
+ },
+ {
+  "i": 22,
+  "start": 76.82,
+  "end": 79.52,
+  "text": "Each time they retold it, the story changed."
+ },
+ {
+  "i": 23,
+  "start": 80.0,
+  "end": 81.56,
+  "text": "Strange details disappeared."
+ },
+ {
+  "i": 24,
+  "start": 82.2,
+  "end": 85.62,
+  "text": "Confusing parts were replaced with things that made more sense to them."
+ },
+ {
+  "i": 25,
+  "start": 85.9,
+  "end": 89.66,
+  "text": "And the people retelling it had no idea they were changing anything."
+ },
+ {
+  "i": 26,
+  "start": 90.3,
+  "end": 92.26,
+  "text": "Bartlett realised something important."
+ },
+ {
+  "i": 27,
+  "start": 93.04,
+  "end": 94.86,
+  "text": "Remembering isn't replaying."
+ },
+ {
+  "i": 28,
+  "start": 95.2,
+  "end": 95.92,
+  "text": "It's rebuilding."
+ },
+ {
+  "i": 29,
+  "start": 96.84,
+  "end": 106.1,
+  "text": "Every time you recall a memory, your brain reconstructs it from fragments, and fills in the gaps with what it expects, what it believes, and what it has heard since."
+ },
+ {
+  "i": 30,
+  "start": 106.72,
+  "end": 109.86,
+  "text": "And this means memories can be changed from the outside."
+ },
+ {
+  "i": 31,
+  "start": 110.58,
+  "end": 117.32,
+  "text": "In 1974, psychologists Elizabeth Loftus and John Palmer showed students films of car crashes."
+ },
+ {
+  "i": 32,
+  "start": 117.94,
+  "end": 119.82,
+  "text": "Then they asked one simple question."
+ },
+ {
+  "i": 33,
+  "start": 120.4,
+  "end": 122.84,
+  "text": "How fast were the cars going when they hit each other?"
+ },
+ {
+  "i": 34,
+  "start": 123.3,
+  "end": 126.3,
+  "text": "But for some students, they changed just one word."
+ },
+ {
+  "i": 35,
+  "start": 126.74,
+  "end": 130.06,
+  "text": "How fast were the cars going when they smashed into each other?"
+ },
+ {
+  "i": 36,
+  "start": 130.52,
+  "end": 133.84,
+  "text": "The students who heard \"smashed\" estimated higher speeds."
+ },
+ {
+  "i": 37,
+  "start": 134.28,
+  "end": 138.76,
+  "text": "And a week later, the researchers asked everyone whether they had seen any broken glass."
+ },
+ {
+  "i": 38,
+  "start": 138.76,
+  "end": 141.42,
+  "text": "There was no broken glass in the film."
+ },
+ {
+  "i": 39,
+  "start": 141.7,
+  "end": 145.72,
+  "text": "But the \"smashed\" group was more than twice as likely to say they had seen it."
+ },
+ {
+  "i": 40,
+  "start": 146.14,
+  "end": 146.88,
+  "text": "One word."
+ },
+ {
+  "i": 41,
+  "start": 147.3,
+  "end": 149.9,
+  "text": "And people remembered something that never happened."
+ },
+ {
+  "i": 42,
+  "start": 150.52,
+  "end": 152.84,
+  "text": "Loftus wanted to know how far this could go."
+ },
+ {
+  "i": 43,
+  "start": 153.34,
+  "end": 155.1,
+  "text": "Could you plant an entire memory?"
+ },
+ {
+  "i": 44,
+  "start": 155.64,
+  "end": 158.78,
+  "text": "In the 1990s, she and Jacqueline Pickrell tried."
+ },
+ {
+  "i": 45,
+  "start": 159.14,
+  "end": 163.98,
+  "text": "They gave volunteers short stories about events from their childhood, supplied by their families."
+ },
+ {
+  "i": 46,
+  "start": 164.64,
+  "end": 166.7,
+  "text": "All were true except one."
+ },
+ {
+  "i": 47,
+  "start": 167.1,
+  "end": 172.62,
+  "text": "A story about getting lost in a shopping mall as a child, and being rescued by an elderly stranger."
+ },
+ {
+  "i": 48,
+  "start": 173.34,
+  "end": 176.08,
+  "text": "None of the volunteers had ever been lost in a mall."
+ },
+ {
+  "i": 49,
+  "start": 176.44,
+  "end": 180.46,
+  "text": "But after a few interviews, about a quarter of them came to remember it."
+ },
+ {
+  "i": 50,
+  "start": 180.94,
+  "end": 182.84,
+  "text": "Some even added their own details."
+ },
+ {
+  "i": 51,
+  "start": 183.58,
+  "end": 184.74,
+  "text": "What the stranger looked like."
+ },
+ {
+  "i": 52,
+  "start": 185.14,
+  "end": 186.22,
+  "text": "How scared they felt."
+ },
+ {
+  "i": 53,
+  "start": 186.86,
+  "end": 190.9,
+  "text": "A completely false childhood memory, built from a few sentences."
+ },
+ {
+  "i": 54,
+  "start": 191.8,
+  "end": 195.36,
+  "text": "Now you might be thinking, sure, small details can blur."
+ },
+ {
+  "i": 55,
+  "start": 195.36,
+  "end": 198.3,
+  "text": "But I'd never forget something truly important."
+ },
+ {
+  "i": 56,
+  "start": 198.92,
+  "end": 199.86,
+  "text": "Let's test that."
+ },
+ {
+  "i": 57,
+  "start": 200.44,
+  "end": 203.14,
+  "text": "On the morning of January the 28th, 1986,"
+ },
+ {
+  "i": 58,
+  "start": 204.04,
+  "end": 207.14,
+  "text": "the space shuttle Challenger exploded shortly after launch."
+ },
+ {
+  "i": 59,
+  "start": 207.68,
+  "end": 215.46,
+  "text": "The next day, psychologists Ulric Neisser and Nicole Harsch asked a group of students to write down exactly how they had heard the news."
+ },
+ {
+  "i": 60,
+  "start": 216.08,
+  "end": 219.66,
+  "text": "Around two and a half years later, they asked the same students again."
+ },
+ {
+  "i": 61,
+  "start": 220.26,
+  "end": 222.8,
+  "text": "Many of the stories had completely changed."
+ },
+ {
+  "i": 62,
+  "start": 222.8,
+  "end": 224.06,
+  "text": "Different places."
+ },
+ {
+  "i": 63,
+  "start": 224.48,
+  "end": 225.14,
+  "text": "Different people."
+ },
+ {
+  "i": 64,
+  "start": 225.56,
+  "end": 227.08,
+  "text": "Different ways of hearing the news."
+ },
+ {
+  "i": 65,
+  "start": 227.74,
+  "end": 229.3,
+  "text": "And here's the unsettling part."
+ },
+ {
+  "i": 66,
+  "start": 229.96,
+  "end": 232.84,
+  "text": "Many students were highly confident in their new version."
+ },
+ {
+  "i": 67,
+  "start": 233.42,
+  "end": 239.38,
+  "text": "When they were shown their own handwritten accounts from the day after, some insisted the new memory was the real one."
+ },
+ {
+  "i": 68,
+  "start": 240.04,
+  "end": 242.56,
+  "text": "Psychologists call these flashbulb memories."
+ },
+ {
+  "i": 69,
+  "start": 243.14,
+  "end": 245.72,
+  "text": "They feel vivid and permanent, like a photograph."
+ },
+ {
+  "i": 70,
+  "start": 246.42,
+  "end": 250.68,
+  "text": "But research suggests they can fade and change much like ordinary memories."
+ },
+ {
+  "i": 71,
+  "start": 250.68,
+  "end": 253.56,
+  "text": "What stays strong is not the accuracy."
+ },
+ {
+  "i": 72,
+  "start": 254.1,
+  "end": 254.96,
+  "text": "It's the confidence."
+ },
+ {
+  "i": 73,
+  "start": 255.74,
+  "end": 257.74,
+  "text": "And that brings us back to Jennifer Thompson."
+ },
+ {
+  "i": 74,
+  "start": 258.4,
+  "end": 261.16,
+  "text": "After the attack, she saw Ronald Cotton's photo."
+ },
+ {
+  "i": 75,
+  "start": 261.8,
+  "end": 263.08,
+  "text": "Then she saw him in a lineup."
+ },
+ {
+  "i": 76,
+  "start": 263.66,
+  "end": 265.56,
+  "text": "Then she saw him again in court."
+ },
+ {
+  "i": 77,
+  "start": 266.14,
+  "end": 270.1,
+  "text": "Each time, his face was laid over the blurry memory of that night."
+ },
+ {
+  "i": 78,
+  "start": 270.56,
+  "end": 273.14,
+  "text": "And each time, she became more certain."
+ },
+ {
+  "i": 79,
+  "start": 273.74,
+  "end": 276.28,
+  "text": "Her confidence wasn't proof that her memory was right."
+ },
+ {
+  "i": 80,
+  "start": 276.72,
+  "end": 279.72,
+  "text": "It may have been a sign of how many times it had been rewritten."
+ },
+ {
+  "i": 81,
+  "start": 279.72,
+  "end": 289.88,
+  "text": "According to the Innocence Project, mistaken eyewitness identification played a role in around seven out of ten wrongful convictions later overturned by DNA evidence."
+ },
+ {
+  "i": 82,
+  "start": 290.46,
+  "end": 292.68,
+  "text": "So why would your brain work this way?"
+ },
+ {
+  "i": 83,
+  "start": 293.14,
+  "end": 294.76,
+  "text": "Why not just keep a perfect record?"
+ },
+ {
+  "i": 84,
+  "start": 295.34,
+  "end": 298.6,
+  "text": "One idea is that memory was never designed to be an archive."
+ },
+ {
+  "i": 85,
+  "start": 299.24,
+  "end": 301.64,
+  "text": "It was designed to help you survive the future."
+ },
+ {
+  "i": 86,
+  "start": 302.28,
+  "end": 309.54,
+  "text": "A flexible memory can blend old experiences with new information, so you can predict what will happen next and make better choices."
+ },
+ {
+  "i": 87,
+  "start": 310.16,
+  "end": 313.4,
+  "text": "Keeping the gist matters more than keeping every detail."
+ },
+ {
+  "i": 88,
+  "start": 313.78,
+  "end": 320.5,
+  "text": "Some research also suggests that when you recall a memory, it can become temporarily changeable before it's stored again."
+ },
+ {
+  "i": 89,
+  "start": 321.16,
+  "end": 324.54,
+  "text": "Every remembering is a chance for something new to slip in."
+ },
+ {
+  "i": 90,
+  "start": 325.06,
+  "end": 326.56,
+  "text": "Most of the time, that's helpful."
+ },
+ {
+  "i": 91,
+  "start": 327.04,
+  "end": 333.58,
+  "text": "But it means your memory is less like a recording, and more like a story you keep editing, without noticing the edits."
+ },
+ {
+  "i": 92,
+  "start": 334.12,
+  "end": 335.84,
+  "text": "So what can you do about it?"
+ },
+ {
+  "i": 93,
+  "start": 336.46,
+  "end": 338.16,
+  "text": "First, write things down."
+ },
+ {
+  "i": 94,
+  "start": 338.82,
+  "end": 344.62,
+  "text": "If something matters, a conversation, an agreement, an event, record it as soon as you can."
+ },
+ {
+  "i": 95,
+  "start": 345.16,
+  "end": 349.76,
+  "text": "A note made on the day is usually far more reliable than a memory years later."
+ },
+ {
+  "i": 96,
+  "start": 350.5,
+  "end": 352.8,
+  "text": "Second, be careful with confidence."
+ },
+ {
+  "i": 97,
+  "start": 353.4,
+  "end": 356.22,
+  "text": "Feeling sure is not the same as being right."
+ },
+ {
+  "i": 98,
+  "start": 356.76,
+  "end": 361.54,
+  "text": "When you and someone else remember an event differently, it's possible neither of you is lying."
+ },
+ {
+  "i": 99,
+  "start": 362.02,
+  "end": 363.98,
+  "text": "Both memories may have drifted."
+ },
+ {
+  "i": 100,
+  "start": 364.4,
+  "end": 366.48,
+  "text": "And third, watch the words."
+ },
+ {
+  "i": 101,
+  "start": 367.22,
+  "end": 372.52,
+  "text": "Leading questions, retold stories and old photos can all reshape what you remember."
+ },
+ {
+  "i": 102,
+  "start": 373.1,
+  "end": 378.74,
+  "text": "If you want to know what really happened, ask open questions, and listen before you fill in the gaps."
+ },
+ {
+  "i": 103,
+  "start": 379.46,
+  "end": 381.52,
+  "text": "As for Ronald Cotton and Jennifer Thompson?"
+ },
+ {
+  "i": 104,
+  "start": 382.12,
+  "end": 386.04,
+  "text": "After he was freed, she asked to meet him, and apologised."
+ },
+ {
+  "i": 105,
+  "start": 386.04,
+  "end": 386.78,
+  "text": "He forgave her."
+ },
+ {
+  "i": 106,
+  "start": 387.24,
+  "end": 391.86,
+  "text": "They became friends, and wrote a book together about memory, mistakes and forgiveness."
+ },
+ {
+  "i": 107,
+  "start": 392.82,
+  "end": 395.7,
+  "text": "Your memory is one of the most powerful things you have."
+ },
+ {
+  "i": 108,
+  "start": 396.28,
+  "end": 397.08,
+  "text": "It's who you are."
+ },
+ {
+  "i": 109,
+  "start": 397.46,
+  "end": 398.64,
+  "text": "But it isn't a camera."
+ },
+ {
+  "i": 110,
+  "start": 399.26,
+  "end": 400.22,
+  "text": "It's a storyteller."
+ },
+ {
+  "i": 111,
+  "start": 400.94,
+  "end": 405.48,
+  "text": "So, have you ever been completely sure about a memory, and then found out it was wrong?"
+ },
+ {
+  "i": 112,
+  "start": 406.02,
+  "end": 406.8,
+  "text": "Tell me in the comments."
+ },
+ {
+  "i": 113,
+  "start": 407.46,
+  "end": 410.94,
+  "text": "And subscribe, because your mind is stranger than you think."
+ }
+]
