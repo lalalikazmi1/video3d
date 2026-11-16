@@ -51,3 +51,35 @@ registerShot('b', { draw(g, t) {
     text(g, `${i + 1}. ${d.name}`, cx, cy + 232, { size: 28, color: ui.cream, font: FONTS.ui, weight: 900 });
   });
 } });
+
+// ---- role characters: costume tells you who they are ----
+export const ROLES = [
+  { name: 'FIREFIGHTER', role: 'Helmet + shield, fire coat, air tank', o: { top: 'turnout', legs: '#b8903a', head: 'firehelmet', headColor: '#c8322a', color2: '#f2ece4', gloves: '#2a2a30' }, pose: 'ready', expr: 'determined' },
+  { name: 'POLICE OFFICER', role: 'Peaked cap, badge, duty belt', o: { top: 'police', legs: '#1a2440', head: 'policecap', headColor: '#22304f', color2: '#f2c21a' }, pose: 'crossArms', expr: 'neutral' },
+  { name: 'DOCTOR', role: 'Scrubs, surgical cap, stethoscope', o: { top: 'scrubs', legs: '#3f9e9a', head: 'surgeoncap', headColor: '#3f9e9a' }, pose: 'explain', expr: 'smile', prop: 'tablet' },
+  { name: 'SOLDIER', role: 'Army helmet, camo fatigues', o: { top: 'military', legs: '#4f5a36', head: 'armyhelmet', headColor: '#4f5a36' }, pose: 'stand', expr: 'determined' },
+  { name: 'CHEF', role: 'Tall white hat, chef coat, apron', o: { top: 'chefcoat', head: 'chefhat', color2: '#2c2a30' }, pose: 'holdFront', expr: 'happy', prop: 'cup' },
+  { name: 'KING', role: 'Gold crown, royal robe', o: { top: 'robe', head: 'crown', headColor: '#f2c21a', color2: '#f2c21a' }, pose: 'point', expr: 'smirk' },
+  { name: 'SCIENTIST', role: 'Lab coat, glasses, notes', o: { top: 'labcoat', face: 'glasses', head: 'bun' }, pose: 'think', expr: 'thinking', prop: 'paper' },
+  { name: 'DETECTIVE', role: 'Trench coat, fedora, flashlight', o: { top: 'trench', color: '#8a6a44', head: 'fedora', headColor: '#4a3a2a' }, pose: 'holdFront', expr: 'thinking', prop: 'flashlight' },
+];
+function roleSheet(g, t, list, title) {
+  const M = mood('night'), ui = S().ui, GY = E.H * 0.7, s = 1.05, step = E.W / list.length;
+  backdrop(g, [shade(M.dark, -0.4), shade(M.wall, -0.35)]); FX.stars(g, t, { count: 60 });
+  g.fillStyle = shade(M.floor, -0.45); g.fillRect(0, GY, E.W, E.H);
+  text(g, title, E.W / 2, 80, { size: 54, color: ui.gold, font: FONTS.title, weight: 700, spacing: 6, glow: 14, glowColor: alpha(ui.gold, 0.5) });
+  list.forEach((d, i) => { const x = step * (i + 0.5);
+    FX.lightCone(g, x, 120, { angle: Math.PI / 2, spread: 0.22, len: GY - 60, color: M.key, a: 0.1 }); FX.pool(g, x, GY + 6, 95, 16, M.key, 0.35);
+    drawFigure(g, { x, y: GY, s, facing: 1, outfit: d.o, pose: POSES[d.pose], expr: d.expr, prop: d.prop, rim: { color: M.rim, dir: [0, -1], w: 4 } });
+    text(g, String(i + 1), x, GY + 70, { size: 30, color: alpha(ui.cream, 0.6), font: FONTS.ui, weight: 900 });
+    text(g, d.name, x, GY + 120, { size: 25, color: ui.cream, font: FONTS.ui, weight: 900, spacing: 1 });
+    text(g, d.role, x, GY + 158, { size: 16, color: alpha(ui.cream, 0.7), font: FONTS.ui, weight: 700 }); });
+}
+registerShot('c', { draw(g, t) { roleSheet(g, t, ROLES, 'ROLE CHARACTERS'); } });
+registerShot('d', { draw(g, t) {
+  const M = mood('night'), ui = S().ui; backdrop(g, [shade(M.dark, -0.4), shade(M.wall, -0.35)]);
+  text(g, 'ROLE CHARACTERS: CLOSE-UPS', E.W / 2, 70, { size: 46, color: ui.gold, font: FONTS.title, weight: 700, spacing: 5 });
+  ROLES.forEach((d, i) => { const cx = E.W / 4 * ((i % 4) + 0.5), cy = 300 + Math.floor(i / 4) * 500; const ly = cy + 205;
+    glow(g, cx, cy, 260, M.rim, 0.12); bigFace(g, cx, cy, 100, { outfit: d.o, expr: d.expr, rimColor: M.rim, rimSide: 1 });
+    text(g, `${i + 1}. ${d.name}`, cx, ly, { size: 28, color: ui.cream, font: FONTS.ui, weight: 900 }); });
+} });

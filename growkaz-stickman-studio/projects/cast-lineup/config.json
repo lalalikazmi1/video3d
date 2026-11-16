@@ -6,7 +6,7 @@
  "style": "ember",
  "voiceover": "input/voiceover.mp3",
  "script": "input/script.txt",
- "duration": 4.0,
+ "duration": 8.0,
  "captions": false,
  "bars": null,
  "fadeIn": 0.5,

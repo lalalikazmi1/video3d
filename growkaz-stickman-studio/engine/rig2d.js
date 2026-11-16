@@ -158,6 +158,38 @@ function drawHeadwear(g, o, hx, hy, r, pass) {
       seg(g, [[hx - r * 0.95, hy - r * 0.48], [hx - r * 1.5, hy - r * 0.2], [hx - r * 1.7, hy + r * 0.1]], r * 0.16, fill(c)); break; }
     case 'ponytail': { g.strokeStyle = fill(o._ink); g.lineWidth = r * 0.42; g.lineCap = 'round'; g.beginPath(); g.moveTo(hx - r * 0.7, hy - r * 0.55); g.quadraticCurveTo(hx - r * 1.7, hy - r * 0.4, hx - r * 1.45, hy + r * 0.75); g.stroke();
       if (o.headColor && !sil) seg(g, [[hx - r * 0.9, hy - r * 0.75], [hx - r * 0.8, hy - r * 0.35]], r * 0.22, o.headColor); break; }
+    case 'firehelmet': {   // traditional firefighter helmet: dome, long back brim, front shield
+      g.fillStyle = fill(c); g.beginPath(); g.ellipse(hx, hy - r * 0.38, r * 1.08, r * 0.95, 0, Math.PI, Math.PI * 2); g.fill();
+      g.beginPath(); g.moveTo(hx + r * 1.05, hy - r * 0.42); g.quadraticCurveTo(hx - r * 0.2, hy - r * 0.2, hx - r * 1.95, hy - r * 0.05); g.lineTo(hx - r * 1.9, hy - r * 0.32); g.quadraticCurveTo(hx - r * 0.2, hy - r * 0.55, hx + r * 1.1, hy - r * 0.6); g.closePath(); g.fill();
+      if (!sil) { seg(g, [[hx - r * 0.1, hy - r * 1.3], [hx - r * 0.1, hy - r * 0.45]], r * 0.12, dark);
+        rr(g, hx + r * 0.5, hy - r * 1.25, r * 0.55, r * 0.7, r * 0.12); g.fillStyle = o.color2 || '#f2ece4'; g.fill(); circle(g, hx + r * 0.78, hy - r * 0.9, r * 0.14, dark);
+        g.strokeStyle = alpha(hi, 0.8); g.lineWidth = r * 0.08; g.beginPath(); g.ellipse(hx - r * 0.2, hy - r * 0.62, r * 0.6, r * 0.45, 0, Math.PI * 1.15, Math.PI * 1.55); g.stroke(); }
+      break; }
+    case 'policecap': {
+      rr(g, hx - r * 1.0, hy - r * 1.25, r * 2.0, r * 0.62, r * 0.18); g.fillStyle = fill(c); g.fill();
+      rr(g, hx - r * 0.9, hy - r * 0.68, r * 1.8, r * 0.3, r * 0.06); g.fillStyle = fill(dark); g.fill();
+      seg(g, [[hx + r * 0.3, hy - r * 0.42], [hx + r * 1.3, hy - r * 0.3]], r * 0.2, fill(shade(c, -0.5)));
+      if (!sil) { circle(g, hx + r * 0.25, hy - r * 0.95, r * 0.2, o.color2 || '#f2c21a'); seg(g, [[hx - r * 0.9, hy - r * 0.55], [hx + r * 0.9, hy - r * 0.55]], r * 0.06, '#e8e4dc'); }
+      break; }
+    case 'chefhat': {
+      rr(g, hx - r * 0.8, hy - r * 1.05, r * 1.6, r * 0.55, r * 0.1); g.fillStyle = fill('#f4f1ea'); g.fill();
+      for (const [dx, dy, rad] of [[-0.5, -1.45, 0.5], [0.05, -1.7, 0.6], [0.55, -1.42, 0.5]]) circle(g, hx + dx * r, hy + dy * r, rad * r, fill('#f4f1ea'));
+      if (!sil) seg(g, [[hx - r * 0.8, hy - r * 0.62], [hx + r * 0.8, hy - r * 0.62]], r * 0.06, '#c9c4ba');
+      break; }
+    case 'armyhelmet': {
+      g.fillStyle = fill(c); g.beginPath(); g.ellipse(hx, hy - r * 0.3, r * 1.15, r * 1.0, 0, Math.PI, Math.PI * 2); g.fill();
+      rr(g, hx - r * 1.25, hy - r * 0.38, r * 2.5, r * 0.16, r * 0.06); g.fillStyle = fill(dark); g.fill();
+      if (!sil) { for (const [dx, dy] of [[-0.5, -0.8], [0.2, -1.0], [0.6, -0.6], [-0.1, -0.55]]) circle(g, hx + dx * r, hy + dy * r, r * 0.13, dark); seg(g, [[hx + r * 0.9, hy - r * 0.3], [hx + r * 0.6, hy + r * 0.7]], r * 0.05, dark); }
+      break; }
+    case 'surgeoncap': {
+      g.fillStyle = fill(c); g.beginPath(); g.ellipse(hx, hy - r * 0.35, r * 1.06, r * 0.8, 0, Math.PI, Math.PI * 2); g.fill();
+      if (!sil) { seg(g, [[hx - r * 1.0, hy - r * 0.38], [hx + r * 1.0, hy - r * 0.38]], r * 0.1, dark); seg(g, [[hx - r * 1.0, hy - r * 0.38], [hx - r * 1.45, hy - r * 0.1]], r * 0.08, dark); }
+      break; }
+    case 'crown': {
+      const y0 = hy - r * 0.75, y1 = hy - r * 1.5;
+      g.fillStyle = fill(c); g.beginPath(); g.moveTo(hx - r * 0.85, y0); for (let i = 0; i <= 4; i++) { const x = hx - r * 0.85 + i * r * 0.425; g.lineTo(x, i % 2 ? y1 + r * 0.32 : y1); } g.lineTo(hx + r * 0.85, y0); g.closePath(); g.fill();
+      if (!sil) { for (const dx of [-0.85, 0, 0.85]) circle(g, hx + dx * r, y1 - r * 0.05, r * 0.11, '#fff3d6'); circle(g, hx, y0 - r * 0.25, r * 0.15, o.color2 || '#d64a33'); }
+      break; }
     case 'bun': circle(g, hx - r * 0.55, hy - r * 0.95, r * 0.45, fill(o._ink)); break;
     case 'curly': for (let i = 0; i < 7; i++) { const a = Math.PI * (1.05 + i * 0.13); circle(g, hx + Math.cos(a) * r * 0.92, hy + Math.sin(a) * r * 0.92, r * 0.34, fill(o._ink)); } break;
     case 'spiky': g.fillStyle = fill(o._ink); g.beginPath(); for (let i = 0; i <= 6; i++) { const a = Math.PI * (1.05 + i * 0.15); const rr2 = i % 2 ? r * 1.45 : r * 0.95; g.lineTo(hx + Math.cos(a) * rr2, hy + Math.sin(a) * rr2); } g.closePath(); g.fill(); break;
@@ -177,6 +209,22 @@ function torsoWear(g, o, p, pass) {
       if (!sil && o.top === 'jersey' && o.number) { g.fillStyle = o.color2 || '#fff'; g.font = '700 24px Nunito'; g.textAlign = 'center'; g.textBaseline = 'middle'; g.fillText(o.number, (sx + hx) / 2 + 2, (sy + hy) / 2); }
       if (!sil && o.top === 'tracksuit') seg(g, [[sx + 12, sy + 2], [hx + 12, hy]], 3, o.color2 || '#ffffff');
       break; }
+    case 'turnout': case 'police': case 'scrubs': case 'military': case 'chefcoat': case 'robe': {
+      const base = { turnout: '#b8903a', police: '#22304f', scrubs: '#3f9e9a', military: '#4f5a36', chefcoat: '#f2efe8', robe: '#6b2a8a' }[o.top];
+      const col = sil ? o._sil : o.color || base, dk = sil ? o._sil : shade(col, -0.25), long = o.top === 'turnout' || o.top === 'robe';
+      const top = sy - 7, bot = hy + (long ? 30 : o.top === 'robe' ? 60 : 10);
+      g.fillStyle = col; g.beginPath(); g.moveTo(sx - 16, top + 6); g.quadraticCurveTo(sx, top - 5, sx + 16, top + 6); g.lineTo(hx + (long ? 20 : 15), bot); g.lineTo(hx - (long ? 20 : 15), bot); g.closePath(); g.fill();
+      if (o.top === 'robe') poly(g, [[hx - 18, hy], [hx + 18, hy], [hx + 40, hy + 92], [hx - 40, hy + 92]], col);
+      if (sil) break;
+      if (o.top === 'turnout') { for (const dy of [0.45, 0.85]) { const y = lerp(sy, hy, dy); g.fillStyle = '#e8f04a'; g.fillRect(sx - 15, y, 31, 5); g.fillStyle = '#d8dcd8'; g.fillRect(sx - 15, y + 5, 31, 3); }
+        g.fillStyle = '#e8f04a'; g.fillRect(hx - 19, bot - 9, 39, 5); seg(g, [[sx + 2, sy], [hx + 2, bot]], 2, dk);
+        rr(g, sx - 30, sy + 4, 14, 46, 6); g.fillStyle = '#2a2a30'; g.fill(); }                                  // air tank on the back
+      if (o.top === 'police') { rr(g, sx + 4, sy + 8, 11, 13, 3); g.fillStyle = o.color2 || '#f2c21a'; g.fill(); seg(g, [[sx + 1, sy], [hx + 1, hy + 8]], 2, dk); g.fillStyle = '#16161c'; g.fillRect(hx - 16, hy - 4, 32, 7); g.fillStyle = o.color2 || '#f2c21a'; g.fillRect(hx - 2, hy - 4, 6, 7); }
+      if (o.top === 'scrubs') { seg(g, [[sx - 8, sy - 2], [sx + 2, sy + 12], [sx + 11, sy - 2]], 2.4, dk); g.strokeStyle = '#2b2b33'; g.lineWidth = 2.6; g.beginPath(); g.moveTo(sx - 9, sy - 3); g.quadraticCurveTo(sx - 4, sy + 30, sx + 6, sy + 28); g.stroke(); circle(g, sx + 8, sy + 28, 4, '#c9ccd2'); }
+      if (o.top === 'military') { for (let i = 0; i < 6; i++) circle(g, sx - 8 + (i * 7) % 22, lerp(sy, hy, 0.15 + (i * 0.37) % 0.8), 4, dk); rr(g, sx + 3, sy + 6, 10, 9, 2); g.fillStyle = dk; g.fill(); g.fillStyle = '#2a2418'; g.fillRect(hx - 16, hy - 4, 32, 6); }
+      if (o.top === 'chefcoat') { for (const dy of [0.25, 0.5, 0.75]) { circle(g, sx + 3, lerp(sy, hy, dy), 2.4, '#bdb6aa'); circle(g, sx + 11, lerp(sy, hy, dy), 2.4, '#bdb6aa'); } rr(g, hx - 15, hy - 14, 30, 30, 4); g.fillStyle = o.color2 || '#2c2a30'; g.fill(); }
+      if (o.top === 'robe') { seg(g, [[sx - 16, sy - 1], [sx + 16, sy - 1]], 7, '#f4f0e6'); for (let i = 0; i < 5; i++) circle(g, sx - 12 + i * 6, sy - 1, 1.6, '#16161c'); seg(g, [[hx - 40, hy + 90], [hx + 40, hy + 90]], 4, o.color2 || '#f2c21a'); }
+      break; }
     case 'labcoat': case 'trench': {
       const col = sil ? o._sil : o.top === 'labcoat' ? '#ebe7f0' : o.color || '#2c2833';
       g.fillStyle = col; g.beginPath(); g.moveTo(sx - 15, sy - 5); g.lineTo(sx + 15, sy - 5); g.lineTo(hx + 25, hy + 44); g.lineTo(hx - 23, hy + 44); g.closePath(); g.fill();
@@ -185,8 +233,8 @@ function torsoWear(g, o, p, pass) {
       break; }
   }
 }
-function sleeve(o) { if (['hoodie', 'tracksuit', 'labcoat', 'trench', 'suit'].includes(o.top)) return 'long'; if (['jersey', 'tshirt'].includes(o.top)) return 'short'; return null; }
-function sleeveColor(o, far) { const c = o.top === 'labcoat' ? '#f3f0f6' : o.top === 'trench' ? o.color || '#2c2833' : o.top === 'suit' ? o.color || '#2a2833' : o.color || '#d64a33'; return far ? shade(c, -0.3) : c; }
+function sleeve(o) { if (['hoodie', 'tracksuit', 'labcoat', 'trench', 'suit', 'turnout', 'police', 'military', 'chefcoat', 'robe'].includes(o.top)) return 'long'; if (o.top === 'scrubs') return 'short'; if (['jersey', 'tshirt'].includes(o.top)) return 'short'; return null; }
+function sleeveColor(o, far) { const c = o.top === 'labcoat' ? '#f3f0f6' : o.top === 'trench' ? o.color || '#2c2833' : o.top === 'suit' ? o.color || '#2a2833' : ({ turnout: '#b8903a', police: '#22304f', scrubs: '#3f9e9a', military: '#4f5a36', chefcoat: '#f2efe8', robe: '#6b2a8a' }[o.top] && !o.color) ? { turnout: '#b8903a', police: '#22304f', scrubs: '#3f9e9a', military: '#4f5a36', chefcoat: '#f2efe8', robe: '#6b2a8a' }[o.top] : o.color || '#d64a33'; return far ? shade(c, -0.3) : c; }
 
 // ---------- main draw ----------
 // drawFigure(g, { x, y, s, facing, pose, rot, outfit, expr, talk, blink, look, rim:{dir:[x,y], color, w}, dim, alpha, prop, shadow })
@@ -267,8 +315,8 @@ export function bigFace(g, cx, cy, r, o = {}) {
   const st = S(), ink = st.ink, of = o.outfit || {}, rc = o.rimColor || '#ffc68a', side = o.rimSide ?? -1;
   g.save(); g.translate(cx, cy); if (o.tilt) g.rotate(o.tilt);
   // shoulders / clothing at the bottom
-  const top = of.top || 'none', cc = top === 'labcoat' ? '#ebe7f0' : of.color || ink;
-  g.fillStyle = top === 'none' ? ink : cc; g.beginPath(); g.ellipse(0, r * 1.65, r * 1.25, r * 0.85, 0, Math.PI, Math.PI * 2); g.fill();
+  const top = of.top || 'none', ROLE = { turnout: '#b8903a', police: '#22304f', scrubs: '#3f9e9a', military: '#4f5a36', chefcoat: '#f2efe8', robe: '#6b2a8a' }, cc = top === 'labcoat' ? '#ebe7f0' : of.color || ROLE[top] || ink;
+  g.fillStyle = top === 'none' ? ink : cc; g.beginPath(); g.ellipse(0, r * 1.65, r * 1.25, r * 0.85, 0, Math.PI, Math.PI * 2); g.fill(); if (top === 'turnout') { g.save(); g.beginPath(); g.ellipse(0, r * 1.65, r * 1.25, r * 0.85, 0, Math.PI, Math.PI * 2); g.clip(); g.fillStyle = '#e8f04a'; g.fillRect(-r * 1.3, r * 1.22, r * 2.6, r * 0.12); g.fillStyle = '#d8dcd8'; g.fillRect(-r * 1.3, r * 1.34, r * 2.6, r * 0.06); g.restore(); } if (top === 'police') { rr(g, r * 0.35, r * 1.05, r * 0.2, r * 0.24, r * 0.05); g.fillStyle = of.color2 || '#f2c21a'; g.fill(); } if (top === 'robe') { g.save(); g.beginPath(); g.ellipse(0, r * 1.65, r * 1.25, r * 0.85, 0, Math.PI, Math.PI * 2); g.clip(); g.fillStyle = '#f4f0e6'; g.fillRect(-r * 1.3, r * 0.82, r * 2.6, r * 0.16); g.restore(); }
   if (of.head === 'hood') { const hc = of.headColor || of.color || '#d64a33'; circle(g, side * -r * 0.04, r * 0.06, r * 1.2, shade(hc, -0.15)); g.strokeStyle = alpha(shade(hc, 0.4), 0.7); g.lineWidth = r * 0.05; g.beginPath(); g.arc(-r * 0.05, 0, r * 1.12, Math.PI * 1.1, Math.PI * 1.5); g.stroke(); }
   // rim crescent on the lit side
   g.save(); g.beginPath(); g.arc(0, 0, r + r * 0.06, 0, Math.PI * 2); g.arc(side * r * 0.07, r * 0.02, r, 0, Math.PI * 2, true); g.fillStyle = rc; g.fill('evenodd'); g.restore();
