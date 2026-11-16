@@ -56,3 +56,35 @@ registerShot('G', { draw(g) {
   bigText(g, '+$150', E.W * 0.6, E.H * 0.32, 170, '#5fd17a'); bigText(g, '−$100', E.W * 0.6, E.H * 0.6, 170, ui.accent);
   bigText(g, 'WOULD YOU TAKE IT?', E.W * 0.5, E.H * 0.88, 110, '#fff4d6', { align: 'center' });
 } });
+
+// ---- Proximity video ----
+const HER = { top: 'dress', color: '#3a8fd6', head: 'bun' };
+function heart(g, x, y, s, c) { glow(g, x, y, s * 2.2, c, 0.7); g.save(); g.translate(x, y); g.scale(s / 100, s / 100); g.beginPath();
+  g.moveTo(0, 35); g.bezierCurveTo(-110, -40, -55, -120, 0, -60); g.bezierCurveTo(55, -120, 110, -40, 0, 35); g.closePath();
+  g.fillStyle = c; g.fill(); g.lineWidth = 10; g.strokeStyle = '#0a0508'; g.stroke(); g.restore(); }
+// H — two neighbours' faces, glowing heart between, distance arrow
+registerShot('H', { draw(g) {
+  const ui = S().ui; g.fillStyle = radGrad(g, E.W / 2, E.H * 0.6, 0, 1100, ['#3a1418', '#140a0e', '#050305']); g.fillRect(0, 0, E.W, E.H);
+  FX.stars(g, 0, { count: 60, area: [0, 0, E.W, E.H] });
+  bigFace(g, E.W * 0.2, E.H * 0.78, 300, { outfit: YOU, expr: 'smile', look: [1, -0.2], rimColor: ui.gold, rimSide: 1 });
+  bigFace(g, E.W * 0.8, E.H * 0.78, 300, { outfit: HER, expr: 'smile', look: [-1, -0.2], rimColor: ui.gold, rimSide: -1 });
+  heart(g, E.W / 2, E.H * 0.6, 150, ui.accent);
+  seg(g, [[E.W * 0.36, E.H * 0.86], [E.W * 0.64, E.H * 0.86]], 8, '#fff4d6'); for (const sd of [-1, 1]) seg(g, [[E.W / 2 + sd * E.W * 0.14 - sd * 30, E.H * 0.86 - 25], [E.W / 2 + sd * E.W * 0.14, E.H * 0.86], [E.W / 2 + sd * E.W * 0.14 - sd * 30, E.H * 0.86 + 25]], 8, '#fff4d6');
+  text(g, 'A FEW STEPS', E.W / 2, E.H * 0.93, { size: 56, color: ui.gold, font: FONTS.ui, weight: 900, stroke: 10, strokeColor: '#0a0508' });
+  bigText(g, 'LOVE IS', E.W / 2, E.H * 0.13, 150, '#fff4d6', { align: 'center' });
+  bigText(g, 'JUST DISTANCE?', E.W / 2, E.H * 0.31, 150, ui.accent, { align: 'center' });
+} });
+// I — apartment hallway: two facing doors, heart over the gap
+function door(g, x, y, w, h, n, lit) { const ui = S().ui; rr(g, x - w / 2 - 14, y - h - 14, w + 28, h + 14, 10); g.fillStyle = '#2a1a14'; g.fill();
+  rr(g, x - w / 2, y - h, w, h, 6); g.fillStyle = lit ? '#7a3a22' : '#4a2a1c'; g.fill(); circle(g, x + w * 0.32, y - h * 0.45, 12, ui.gold);
+  text(g, n, x, y - h * 0.8, { size: 54, color: ui.gold, font: FONTS.ui, weight: 900 }); }
+registerShot('I', { draw(g) {
+  const ui = S().ui; g.fillStyle = linGrad(g, 0, 0, 0, E.H, ['#1a0e0c', '#2a1610', '#0a0506']); g.fillRect(0, 0, E.W, E.H);
+  glow(g, E.W / 2, E.H * 0.1, 500, ui.gold, 0.35);
+  door(g, E.W * 0.13, E.H * 0.98, 300, 640, '4A', true); door(g, E.W * 0.87, E.H * 0.98, 300, 640, '4B', true);
+  heart(g, E.W / 2, E.H * 0.72, 130, ui.accent);
+  bigText(g, 'THE ONE', E.W / 2, E.H * 0.15, 170, '#fff4d6', { align: 'center' });
+  bigText(g, 'LIVES NEXT DOOR?', E.W / 2, E.H * 0.36, 130, ui.gold, { align: 'center' });
+  bigFace(g, E.W * 0.32, E.H * 0.9, 220, { outfit: YOU, expr: 'surprised', look: [1, -0.3], rimColor: ui.gold, rimSide: 1 });
+  bigFace(g, E.W * 0.68, E.H * 0.9, 220, { outfit: HER, expr: 'happy', look: [-1, -0.3], rimColor: ui.gold, rimSide: -1 });
+} });
