@@ -1,0 +1,177 @@
+[
+  {
+    "text": "And",
+    "startMs": 220,
+    "endMs": 330,
+    "timestampMs": 560,
+    "confidence": 0.651183
+  },
+  {
+    "text": " so",
+    "startMs": 330,
+    "endMs": 450,
+    "timestampMs": 920,
+    "confidence": 0.992922
+  },
+  {
+    "text": " my",
+    "startMs": 450,
+    "endMs": 680,
+    "timestampMs": 1240,
+    "confidence": 0.629709
+  },
+  {
+    "text": " fellow",
+    "startMs": 680,
+    "endMs": 1170,
+    "timestampMs": 1600,
+    "confidence": 0.996826
+  },
+  {
+    "text": " Americans",
+    "startMs": 1170,
+    "endMs": 1980,
+    "timestampMs": 2220,
+    "confidence": 0.924899
+  },
+  {
+    "text": ",",
+    "startMs": 1980,
+    "endMs": 3290,
+    "timestampMs": 3400,
+    "confidence": 0.613552
+  },
+  {
+    "text": " ask",
+    "startMs": 3290,
+    "endMs": 4010,
+    "timestampMs": 3780,
+    "confidence": 0.820024
+  },
+  {
+    "text": " not",
+    "startMs": 4010,
+    "endMs": 5410,
+    "timestampMs": 4300,
+    "confidence": 0.911971
+  },
+  {
+    "text": " what",
+    "startMs": 5410,
+    "endMs": 5420,
+    "timestampMs": 5580,
+    "confidence": 0.917818
+  },
+  {
+    "text": " your",
+    "startMs": 5420,
+    "endMs": 5970,
+    "timestampMs": 5880,
+    "confidence": 0.985851
+  },
+  {
+    "text": " country",
+    "startMs": 5970,
+    "endMs": 6550,
+    "timestampMs": 6320,
+    "confidence": 0.98233
+  },
+  {
+    "text": " can",
+    "startMs": 6550,
+    "endMs": 6850,
+    "timestampMs": 6660,
+    "confidence": 0.987445
+  },
+  {
+    "text": " do",
+    "startMs": 6850,
+    "endMs": 7050,
+    "timestampMs": 6860,
+    "confidence": 0.995752
+  },
+  {
+    "text": " for",
+    "startMs": 7050,
+    "endMs": 7350,
+    "timestampMs": 7120,
+    "confidence": 0.994723
+  },
+  {
+    "text": " you",
+    "startMs": 7350,
+    "endMs": 7630,
+    "timestampMs": 7560,
+    "confidence": 0.98685
+  },
+  {
+    "text": ",",
+    "startMs": 7630,
+    "endMs": 8190,
+    "timestampMs": 8300,
+    "confidence": 0.580798
+  },
+  {
+    "text": " ask",
+    "startMs": 8190,
+    "endMs": 8630,
+    "timestampMs": 8520,
+    "confidence": 0.608903
+  },
+  {
+    "text": " what",
+    "startMs": 8630,
+    "endMs": 8740,
+    "timestampMs": 8800,
+    "confidence": 0.984386
+  },
+  {
+    "text": " you",
+    "startMs": 8740,
+    "endMs": 9000,
+    "timestampMs": 9100,
+    "confidence": 0.934901
+  },
+  {
+    "text": " can",
+    "startMs": 9000,
+    "endMs": 9440,
+    "timestampMs": 9380,
+    "confidence": 0.94121
+  },
+  {
+    "text": " do",
+    "startMs": 9440,
+    "endMs": 9720,
+    "timestampMs": 9600,
+    "confidence": 0.988169
+  },
+  {
+    "text": " for",
+    "startMs": 9720,
+    "endMs": 9960,
+    "timestampMs": 9840,
+    "confidence": 0.769702
+  },
+  {
+    "text": " your",
+    "startMs": 9960,
+    "endMs": 10260,
+    "timestampMs": 10060,
+    "confidence": 0.992888
+  },
+  {
+    "text": " country",
+    "startMs": 10260,
+    "endMs": 10990,
+    "timestampMs": 10440,
+    "confidence": 0.995473
+  },
+  {
+    "text": ".",
+    "startMs": 10990,
+    "endMs": 11000,
+    "timestampMs": 10720,
+    "confidence": 0.797165
+  }
+]
