@@ -1,0 +1,23 @@
+{
+ "title": "Brand",
+ "aspect": "16:9",
+ "resolution": "1080p",
+ "fps": 24,
+ "style": "ember",
+ "voiceover": "input/voiceover.mp3",
+ "script": "input/script.txt",
+ "duration": 6.0,
+ "captions": false,
+ "bars": "none",
+ "fadeIn": 0,
+ "fadeOut": 0,
+ "music": {
+  "enabled": false,
+  "gainDb": -17
+ },
+ "sfx": {
+  "enabled": false,
+  "gainDb": -6
+ },
+ "loudness": -14
+}
