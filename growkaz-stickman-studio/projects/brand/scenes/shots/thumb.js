@@ -34,3 +34,25 @@ registerShot('E', { draw(g) {
   bigText(g, 'IS YOUR GUT', E.W / 2, E.H * 0.13, 150, '#fff4d6', { align: 'center' });
   bigText(g, 'LYING?', E.W / 2, E.H * 0.33, 170, ui.accent, { align: 'center' });
 } });
+
+// F — LOSING HURTS MORE: devastated face, scale crashing toward −$10
+function scaleT(g, x, y, s, tilt) { const c = '#fff4d6'; g.save(); g.translate(x, y); g.scale(s, s); seg(g, [[0, 0], [0, -300]], 12, c); g.translate(0, -300); g.rotate(tilt); seg(g, [[-300, 0], [300, 0]], 12, c); circle(g, 0, 0, 18, S().ui.gold);
+  for (const sd of [-1, 1]) { g.save(); g.translate(sd * 300, 0); g.rotate(-tilt); seg(g, [[-90, 120], [0, 0], [90, 120]], 5, c); rr(g, -120, 120, 240, 26, 12); g.fillStyle = sd < 0 ? '#5fd17a' : S().ui.accent; g.fill();
+    text(g, sd < 0 ? '+$10' : '−$10', 0, sd < 0 ? 200 : 210, { size: sd < 0 ? 70 : 110, color: sd < 0 ? '#5fd17a' : S().ui.accent, font: FONTS.ui, weight: 900, stroke: 14, strokeColor: '#0a0508' }); g.restore(); }
+  g.restore(); }
+registerShot('F', { draw(g) {
+  const ui = S().ui; g.fillStyle = linGrad(g, 0, 0, E.W, 0, ['#0c1a10', '#140a0e', '#4a0a0a']); g.fillRect(0, 0, E.W, E.H);
+  glow(g, E.W * 0.72, E.H * 0.6, 700, ui.accent, 0.35); FX.stars(g, 0, { count: 60, area: [0, 0, E.W, E.H] });
+  scaleT(g, E.W * 0.68, E.H * 0.84, 0.9, 0.38);
+  bigFace(g, E.W * 0.22, E.H * 0.66, 330, { outfit: YOU, expr: 'cry', look: [0.6, 0.2], rimColor: ui.gold, rimSide: 1 });
+  bigText(g, 'LOSING', E.W * 0.5, E.H * 0.14, 170, '#fff4d6', { align: 'center' });
+  bigText(g, 'HURTS MORE', E.W * 0.5, E.H * 0.33, 150, ui.accent, { align: 'center' });
+} });
+
+// G — the bet: would you take it?
+registerShot('G', { draw(g) {
+  const ui = S().ui; g.fillStyle = radGrad(g, E.W * 0.5, E.H * 0.5, 0, 1100, ['#3a1a0a', '#120a0c', '#050305']); g.fillRect(0, 0, E.W, E.H);
+  glow(g, E.W * 0.32, E.H * 0.52, 420, ui.gold, 0.6); circle(g, E.W * 0.32, E.H * 0.52, 230, shade(ui.gold, -0.15)); circle(g, E.W * 0.32, E.H * 0.52, 190, ui.gold); text(g, '$', E.W * 0.32, E.H * 0.53, { size: 260, color: shade(ui.gold, -0.45), font: FONTS.title, weight: 700 });
+  bigText(g, '+$150', E.W * 0.6, E.H * 0.32, 170, '#5fd17a'); bigText(g, '−$100', E.W * 0.6, E.H * 0.6, 170, ui.accent);
+  bigText(g, 'WOULD YOU TAKE IT?', E.W * 0.5, E.H * 0.88, 110, '#fff4d6', { align: 'center' });
+} });
