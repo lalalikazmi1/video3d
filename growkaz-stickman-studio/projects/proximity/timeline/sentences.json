@@ -1,0 +1,830 @@
+[
+ {
+  "i": 0,
+  "start": 0.0,
+  "end": 2.56,
+  "text": "Think about the most important people in your life."
+ },
+ {
+  "i": 1,
+  "start": 3.18,
+  "end": 3.84,
+  "text": "Your best friend."
+ },
+ {
+  "i": 2,
+  "start": 4.34,
+  "end": 5.06,
+  "text": "Your first love."
+ },
+ {
+  "i": 3,
+  "start": 5.62,
+  "end": 7.32,
+  "text": "Maybe the person you're with right now."
+ },
+ {
+  "i": 4,
+  "start": 8.04,
+  "end": 10.12,
+  "text": "Now ask yourself a strange question."
+ },
+ {
+  "i": 5,
+  "start": 10.82,
+  "end": 11.88,
+  "text": "How did you meet them?"
+ },
+ {
+  "i": 6,
+  "start": 12.86,
+  "end": 15.04,
+  "text": "Chances are, the answer isn't fate."
+ },
+ {
+  "i": 7,
+  "start": 15.56,
+  "end": 16.34,
+  "text": "It isn't destiny."
+ },
+ {
+  "i": 8,
+  "start": 16.94,
+  "end": 17.74,
+  "text": "It's distance."
+ },
+ {
+  "i": 9,
+  "start": 18.44,
+  "end": 19.4,
+  "text": "You sat near them."
+ },
+ {
+  "i": 10,
+  "start": 19.66,
+  "end": 20.6,
+  "text": "You lived down the hall."
+ },
+ {
+  "i": 11,
+  "start": 21.12,
+  "end": 25.96,
+  "text": "You took the same bus, worked the same shift, or kept running into them at the same coffee shop."
+ },
+ {
+  "i": 12,
+  "start": 26.58,
+  "end": 28.82,
+  "text": "It sounds almost too simple to be true."
+ },
+ {
+  "i": 13,
+  "start": 28.82,
+  "end": 36.86,
+  "text": "But decades of research point to one quiet force that shapes who we befriend, who we date, and even who we marry."
+ },
+ {
+  "i": 14,
+  "start": 37.7,
+  "end": 40.02,
+  "text": "Psychologists call it the proximity effect."
+ },
+ {
+  "i": 15,
+  "start": 40.58,
+  "end": 44.68,
+  "text": "And once you see it, you'll never look at \"the one\" the same way again."
+ },
+ {
+  "i": 16,
+  "start": 45.66,
+  "end": 52.22,
+  "text": "Let's start in 1950, at a housing complex for married students at the Massachusetts Institute of Technology."
+ },
+ {
+  "i": 17,
+  "start": 52.88,
+  "end": 55.16,
+  "text": "The apartments were called Westgate West."
+ },
+ {
+  "i": 18,
+  "start": 56.2,
+  "end": 58.22,
+  "text": "Families were assigned to them more or less at random."
+ },
+ {
+  "i": 19,
+  "start": 58.8,
+  "end": 60.82,
+  "text": "Nobody chose their neighbours."
+ },
+ {
+  "i": 20,
+  "start": 60.82,
+  "end": 63.36,
+  "text": "And that made it a perfect natural experiment."
+ },
+ {
+  "i": 21,
+  "start": 64.48,
+  "end": 70.38,
+  "text": "Psychologists Leon Festinger, Stanley Schachter and Kurt Back asked the residents a simple question."
+ },
+ {
+  "i": 22,
+  "start": 71.08,
+  "end": 72.66,
+  "text": "Who are your closest friends here?"
+ },
+ {
+  "i": 23,
+  "start": 73.52,
+  "end": 75.0,
+  "text": "The answers were startling."
+ },
+ {
+  "i": 24,
+  "start": 75.64,
+  "end": 81.6,
+  "text": "People were far more likely to be friends with the person living right next door than with someone just two doors away."
+ },
+ {
+  "i": 25,
+  "start": 82.18,
+  "end": 87.4,
+  "text": "And friendships dropped off sharply as the distance grew, even across a few metres of hallway."
+ },
+ {
+  "i": 26,
+  "start": 88.46,
+  "end": 90.96,
+  "text": "But here's the part that surprised the researchers most."
+ },
+ {
+  "i": 27,
+  "start": 91.48,
+  "end": 93.86,
+  "text": "It wasn't just physical distance that mattered."
+ },
+ {
+  "i": 28,
+  "start": 94.36,
+  "end": 96.82,
+  "text": "It was how often people's paths crossed."
+ },
+ {
+  "i": 29,
+  "start": 97.58,
+  "end": 103.5,
+  "text": "Residents who lived near the stairs, or next to the mailboxes, made more friends than anyone else in the building."
+ },
+ {
+  "i": 30,
+  "start": 103.98,
+  "end": 105.18,
+  "text": "Not because they were nicer."
+ },
+ {
+  "i": 31,
+  "start": 105.64,
+  "end": 107.14,
+  "text": "Not because they were more interesting."
+ },
+ {
+  "i": 32,
+  "start": 107.7,
+  "end": 110.44,
+  "text": "Simply because everyone walked past their door."
+ },
+ {
+  "i": 33,
+  "start": 111.22,
+  "end": 113.8,
+  "text": "The researchers called this functional distance."
+ },
+ {
+  "i": 34,
+  "start": 114.36,
+  "end": 116.2,
+  "text": "And it suggests something unsettling."
+ },
+ {
+  "i": 35,
+  "start": 116.92,
+  "end": 120.64,
+  "text": "Your social life may have been shaped by where the staircase was."
+ },
+ {
+  "i": 36,
+  "start": 121.64,
+  "end": 123.46,
+  "text": "Have you ever noticed this in your own life?"
+ },
+ {
+  "i": 37,
+  "start": 124.0,
+  "end": 127.66,
+  "text": "The friends you made at school were often the ones who sat closest to you."
+ },
+ {
+  "i": 38,
+  "start": 128.02,
+  "end": 131.58,
+  "text": "The coworker you trust most probably sits a few desks away."
+ },
+ {
+  "i": 39,
+  "start": 132.06,
+  "end": 135.72,
+  "text": "The neighbour you wave to every morning is the one whose door faces yours."
+ },
+ {
+  "i": 40,
+  "start": 136.4,
+  "end": 140.7,
+  "text": "We like to believe we choose our people carefully, based on who they are."
+ },
+ {
+  "i": 41,
+  "start": 140.7,
+  "end": 144.6,
+  "text": "But very often, we choose from whoever happens to be nearby."
+ },
+ {
+  "i": 42,
+  "start": 145.84,
+  "end": 147.6,
+  "text": "So friendship follows proximity."
+ },
+ {
+  "i": 43,
+  "start": 148.36,
+  "end": 149.22,
+  "text": "But what about love?"
+ },
+ {
+  "i": 44,
+  "start": 150.36,
+  "end": 157.84,
+  "text": "Back in 1932, a sociologist named James Bossard looked through five thousand marriage licences in the city of Philadelphia."
+ },
+ {
+  "i": 45,
+  "start": 158.38,
+  "end": 163.66,
+  "text": "He found that about one third of the couples had lived within five blocks of each other before they married."
+ },
+ {
+  "i": 46,
+  "start": 164.26,
+  "end": 165.24,
+  "text": "Five blocks."
+ },
+ {
+  "i": 47,
+  "start": 165.94,
+  "end": 168.14,
+  "text": "In a city of almost two million people."
+ },
+ {
+  "i": 48,
+  "start": 168.78,
+  "end": 171.04,
+  "text": "Of course, cities have changed since then."
+ },
+ {
+  "i": 49,
+  "start": 171.44,
+  "end": 173.74,
+  "text": "But the pattern kept showing up in new forms."
+ },
+ {
+  "i": 50,
+  "start": 174.48,
+  "end": 180.2,
+  "text": "In 1974, psychologist Mady Segal studied trainees at a police academy in Maryland."
+ },
+ {
+  "i": 51,
+  "start": 180.88,
+  "end": 185.02,
+  "text": "The trainees were given seats and rooms in alphabetical order by last name."
+ },
+ {
+  "i": 52,
+  "start": 185.7,
+  "end": 193.72,
+  "text": "Months later, when they were asked to name their closest friend in the class, a striking number named someone whose last name started with a nearby letter."
+ },
+ {
+  "i": 53,
+  "start": 194.36,
+  "end": 195.0,
+  "text": "Think about that."
+ },
+ {
+  "i": 54,
+  "start": 195.48,
+  "end": 198.12,
+  "text": "The alphabet was deciding who became friends."
+ },
+ {
+  "i": 55,
+  "start": 199.0,
+  "end": 200.42,
+  "text": "So why does this happen?"
+ },
+ {
+  "i": 56,
+  "start": 200.98,
+  "end": 204.56,
+  "text": "Why should a few metres, or a few letters, matter so much?"
+ },
+ {
+  "i": 57,
+  "start": 205.22,
+  "end": 207.96,
+  "text": "Psychologists point to three forces working together."
+ },
+ {
+  "i": 58,
+  "start": 208.58,
+  "end": 210.62,
+  "text": "The first is simple availability."
+ },
+ {
+  "i": 59,
+  "start": 211.24,
+  "end": 213.02,
+  "text": "You can't fall for someone you never meet."
+ },
+ {
+  "i": 60,
+  "start": 213.5,
+  "end": 216.38,
+  "text": "The people around us are the ones we actually get to know."
+ },
+ {
+  "i": 61,
+  "start": 216.8,
+  "end": 221.82,
+  "text": "And every conversation, every small moment, is a chance for a connection to begin."
+ },
+ {
+  "i": 62,
+  "start": 222.42,
+  "end": 224.46,
+  "text": "The second force is even more surprising."
+ },
+ {
+  "i": 63,
+  "start": 225.02,
+  "end": 227.24,
+  "text": "It's called the mere exposure effect."
+ },
+ {
+  "i": 64,
+  "start": 227.84,
+  "end": 234.48,
+  "text": "In the 1960s, psychologist Robert Zajonc showed that people tend to like things more, the more often they see them."
+ },
+ {
+  "i": 65,
+  "start": 235.06,
+  "end": 235.32,
+  "text": "Shapes."
+ },
+ {
+  "i": 66,
+  "start": 235.76,
+  "end": 236.06,
+  "text": "Words."
+ },
+ {
+  "i": 67,
+  "start": 236.48,
+  "end": 236.82,
+  "text": "Faces."
+ },
+ {
+  "i": 68,
+  "start": 237.42,
+  "end": 239.62,
+  "text": "Even when they don't remember seeing them before."
+ },
+ {
+  "i": 69,
+  "start": 240.1,
+  "end": 245.94,
+  "text": "In 1992, researchers Richard Moreland and Scott Beach tested this in a real classroom."
+ },
+ {
+  "i": 70,
+  "start": 246.62,
+  "end": 249.38,
+  "text": "They had four women attend a large university lecture."
+ },
+ {
+  "i": 71,
+  "start": 249.86,
+  "end": 250.88,
+  "text": "One never came."
+ },
+ {
+  "i": 72,
+  "start": 251.36,
+  "end": 254.56,
+  "text": "The others came five, ten, or fifteen times."
+ },
+ {
+  "i": 73,
+  "start": 255.08,
+  "end": 256.06,
+  "text": "They sat quietly."
+ },
+ {
+  "i": 74,
+  "start": 256.42,
+  "end": 257.56,
+  "text": "They didn't talk to anyone."
+ },
+ {
+  "i": 75,
+  "start": 258.24,
+  "end": 261.56,
+  "text": "At the end of the term, students were shown photos of the four women."
+ },
+ {
+  "i": 76,
+  "start": 262.06,
+  "end": 267.02,
+  "text": "The more often a woman had attended, the more attractive and likable the students rated her."
+ },
+ {
+  "i": 77,
+  "start": 267.02,
+  "end": 270.56,
+  "text": "Even though most students said they didn't remember seeing her at all."
+ },
+ {
+  "i": 78,
+  "start": 271.16,
+  "end": 275.34,
+  "text": "Your brain was quietly falling for familiarity, without telling you."
+ },
+ {
+  "i": 79,
+  "start": 275.66,
+  "end": 276.72,
+  "text": "Why would it do that?"
+ },
+ {
+  "i": 80,
+  "start": 277.32,
+  "end": 281.86,
+  "text": "One idea is that, for most of our history, the familiar was usually the safe."
+ },
+ {
+  "i": 81,
+  "start": 282.42,
+  "end": 287.74,
+  "text": "If you'd seen someone many times and nothing bad happened, your brain started to relax around them."
+ },
+ {
+  "i": 82,
+  "start": 287.96,
+  "end": 290.42,
+  "text": "That comfort can slowly turn into liking."
+ },
+ {
+  "i": 83,
+  "start": 291.28,
+  "end": 292.08,
+  "text": "And the third force?"
+ },
+ {
+  "i": 84,
+  "start": 292.92,
+  "end": 293.52,
+  "text": "Expectation."
+ },
+ {
+  "i": 85,
+  "start": 293.52,
+  "end": 303.36,
+  "text": "In 1967, psychologists John Darley and Ellen Berscheid gave women information about two other women, and told them they would soon be getting to know one of them."
+ },
+ {
+  "i": 86,
+  "start": 303.92,
+  "end": 309.3,
+  "text": "The participants rated the person they expected to meet as more likable, before they had met either one."
+ },
+ {
+  "i": 87,
+  "start": 309.82,
+  "end": 314.38,
+  "text": "When we know we'll keep seeing someone, our minds start looking for reasons to like them."
+ },
+ {
+  "i": 88,
+  "start": 314.66,
+  "end": 317.22,
+  "text": "It's easier to live alongside someone you like."
+ },
+ {
+  "i": 89,
+  "start": 317.9,
+  "end": 318.78,
+  "text": "But here's the twist."
+ },
+ {
+  "i": 90,
+  "start": 319.56,
+  "end": 321.62,
+  "text": "Proximity doesn't only create love."
+ },
+ {
+  "i": 91,
+  "start": 322.12,
+  "end": 324.44,
+  "text": "It turns up the volume on everything."
+ },
+ {
+  "i": 92,
+  "start": 325.2,
+  "end": 333.98,
+  "text": "In 1976, researchers Ebbe Ebbesen, Glenn Kjos and Vladimir Konečni studied residents of a condominium complex in California."
+ },
+ {
+  "i": 93,
+  "start": 334.84,
+  "end": 337.68,
+  "text": "Yes, most of the people's friends lived close by."
+ },
+ {
+  "i": 94,
+  "start": 338.2,
+  "end": 340.4,
+  "text": "But so did most of the people they disliked."
+ },
+ {
+  "i": 95,
+  "start": 341.02,
+  "end": 346.78,
+  "text": "The neighbour who becomes your best friend, and the neighbour you can't stand, often live on the same floor."
+ },
+ {
+  "i": 96,
+  "start": 347.58,
+  "end": 349.88,
+  "text": "Closeness gives people more chances to connect."
+ },
+ {
+  "i": 97,
+  "start": 350.48,
+  "end": 353.08,
+  "text": "It also gives them more chances to annoy each other."
+ },
+ {
+  "i": 98,
+  "start": 353.82,
+  "end": 354.34,
+  "text": "Loud music."
+ },
+ {
+  "i": 99,
+  "start": 354.84,
+  "end": 355.88,
+  "text": "Blocked parking spaces."
+ },
+ {
+  "i": 100,
+  "start": 356.42,
+  "end": 358.86,
+  "text": "That one dog that never stops barking."
+ },
+ {
+  "i": 101,
+  "start": 359.56,
+  "end": 361.28,
+  "text": "Proximity isn't a love potion."
+ },
+ {
+  "i": 102,
+  "start": 361.78,
+  "end": 362.68,
+  "text": "It's an amplifier."
+ },
+ {
+  "i": 103,
+  "start": 363.54,
+  "end": 364.64,
+  "text": "So what about today?"
+ },
+ {
+  "i": 104,
+  "start": 365.18,
+  "end": 367.0,
+  "text": "We don't need to live next door anymore."
+ },
+ {
+  "i": 105,
+  "start": 367.42,
+  "end": 368.12,
+  "text": "We have phones."
+ },
+ {
+  "i": 106,
+  "start": 369.02,
+  "end": 373.6,
+  "text": "Sociologist Michael Rosenfeld and his colleagues have tracked how American couples meet."
+ },
+ {
+  "i": 107,
+  "start": 374.18,
+  "end": 383.04,
+  "text": "By 2017, meeting online had become the most common way for heterosexual couples in the United States to meet, overtaking meeting through friends."
+ },
+ {
+  "i": 108,
+  "start": 383.72,
+  "end": 386.54,
+  "text": "But even online, proximity hasn't disappeared."
+ },
+ {
+  "i": 109,
+  "start": 387.14,
+  "end": 388.22,
+  "text": "It's changed shape."
+ },
+ {
+  "i": 110,
+  "start": 389.14,
+  "end": 390.78,
+  "text": "Dating apps sort people by distance."
+ },
+ {
+  "i": 111,
+  "start": 391.54,
+  "end": 394.54,
+  "text": "Group chats put the same faces in front of you every day."
+ },
+ {
+  "i": 112,
+  "start": 395.08,
+  "end": 401.2,
+  "text": "The person who keeps replying to your stories, whose name you see again and again, is becoming familiar."
+ },
+ {
+  "i": 113,
+  "start": 401.84,
+  "end": 404.88,
+  "text": "And familiar, as we've seen, tends to feel good."
+ },
+ {
+  "i": 114,
+  "start": 404.88,
+  "end": 407.64,
+  "text": "Proximity used to mean the same hallway."
+ },
+ {
+  "i": 115,
+  "start": 408.32,
+  "end": 410.08,
+  "text": "Now it can mean the same feed."
+ },
+ {
+  "i": 116,
+  "start": 410.98,
+  "end": 412.76,
+  "text": "So what does all of this mean for you?"
+ },
+ {
+  "i": 117,
+  "start": 413.4,
+  "end": 418.66,
+  "text": "First, if you want new friends, or new love, distance matters more than you think."
+ },
+ {
+  "i": 118,
+  "start": 419.36,
+  "end": 422.14,
+  "text": "Show up to the same places, again and again."
+ },
+ {
+  "i": 119,
+  "start": 422.62,
+  "end": 425.88,
+  "text": "The same class, the same gym time, the same café."
+ },
+ {
+  "i": 120,
+  "start": 426.66,
+  "end": 428.98,
+  "text": "Let familiarity do its quiet work."
+ },
+ {
+  "i": 121,
+  "start": 428.98,
+  "end": 430.1,
+  "text": "Say hello."
+ },
+ {
+  "i": 122,
+  "start": 430.64,
+  "end": 431.74,
+  "text": "Ask a small question."
+ },
+ {
+  "i": 123,
+  "start": 432.42,
+  "end": 436.5,
+  "text": "Proximity creates the chance, but someone still has to take it."
+ },
+ {
+  "i": 124,
+  "start": 436.9,
+  "end": 441.48,
+  "text": "Second, when you feel drawn to someone, it's worth asking one honest question."
+ },
+ {
+  "i": 125,
+  "start": 442.18,
+  "end": 443.3,
+  "text": "Do I like this person?"
+ },
+ {
+  "i": 126,
+  "start": 443.76,
+  "end": 445.16,
+  "text": "Or do I just see them a lot?"
+ },
+ {
+  "i": 127,
+  "start": 445.64,
+  "end": 447.78,
+  "text": "Because proximity can open the door."
+ },
+ {
+  "i": 128,
+  "start": 448.04,
+  "end": 450.8,
+  "text": "But it can't tell you whether someone is right for you."
+ },
+ {
+  "i": 129,
+  "start": 451.48,
+  "end": 455.94,
+  "text": "Shared values, kindness and respect still matter far more over time."
+ },
+ {
+  "i": 130,
+  "start": 455.94,
+  "end": 459.9,
+  "text": "And third, be a little kinder to the people around you."
+ },
+ {
+  "i": 131,
+  "start": 460.14,
+  "end": 464.54,
+  "text": "Your neighbours, your coworkers, the person you see every morning on the train."
+ },
+ {
+  "i": 132,
+  "start": 465.44,
+  "end": 473.64,
+  "text": "Studies like these suggest that many of the important relationships in your life could come from people already within a few steps of where you are right now."
+ },
+ {
+  "i": 133,
+  "start": 474.1,
+  "end": 478.24,
+  "text": "So maybe the one isn't out there somewhere, waiting across the world."
+ },
+ {
+  "i": 134,
+  "start": 478.88,
+  "end": 480.56,
+  "text": "Maybe they're just down the hall."
+ },
+ {
+  "i": 135,
+  "start": 480.98,
+  "end": 484.52,
+  "text": "So, who in your life did you meet simply because they were close by?"
+ },
+ {
+  "i": 136,
+  "start": 485.08,
+  "end": 485.82,
+  "text": "Tell me in the comments."
+ },
+ {
+  "i": 137,
+  "start": 486.46,
+  "end": 490.36,
+  "text": "And subscribe, because the science of love is stranger than you think."
+ }
+]

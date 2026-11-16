@@ -1,0 +1,6460 @@
+{
+ "source": "whisper:small.en+script",
+ "words": [
+  {
+   "word": "Think",
+   "start": 0.0,
+   "end": 0.26
+  },
+  {
+   "word": "about",
+   "start": 0.26,
+   "end": 0.5
+  },
+  {
+   "word": "the",
+   "start": 0.5,
+   "end": 0.68
+  },
+  {
+   "word": "most",
+   "start": 0.68,
+   "end": 0.88
+  },
+  {
+   "word": "important",
+   "start": 0.88,
+   "end": 1.42
+  },
+  {
+   "word": "people",
+   "start": 1.42,
+   "end": 1.8
+  },
+  {
+   "word": "in",
+   "start": 1.8,
+   "end": 2.06
+  },
+  {
+   "word": "your",
+   "start": 2.06,
+   "end": 2.18
+  },
+  {
+   "word": "life.",
+   "start": 2.18,
+   "end": 2.56
+  },
+  {
+   "word": "Your",
+   "start": 3.18,
+   "end": 3.24
+  },
+  {
+   "word": "best",
+   "start": 3.24,
+   "end": 3.5
+  },
+  {
+   "word": "friend.",
+   "start": 3.5,
+   "end": 3.84
+  },
+  {
+   "word": "Your",
+   "start": 4.34,
+   "end": 4.46
+  },
+  {
+   "word": "first",
+   "start": 4.46,
+   "end": 4.72
+  },
+  {
+   "word": "love.",
+   "start": 4.72,
+   "end": 5.06
+  },
+  {
+   "word": "Maybe",
+   "start": 5.62,
+   "end": 5.88
+  },
+  {
+   "word": "the",
+   "start": 5.88,
+   "end": 6.08
+  },
+  {
+   "word": "person",
+   "start": 6.08,
+   "end": 6.34
+  },
+  {
+   "word": "you're",
+   "start": 6.34,
+   "end": 6.54
+  },
+  {
+   "word": "with",
+   "start": 6.54,
+   "end": 6.72
+  },
+  {
+   "word": "right",
+   "start": 6.72,
+   "end": 6.94
+  },
+  {
+   "word": "now.",
+   "start": 6.94,
+   "end": 7.32
+  },
+  {
+   "word": "Now",
+   "start": 8.04,
+   "end": 8.32
+  },
+  {
+   "word": "ask",
+   "start": 8.32,
+   "end": 8.62
+  },
+  {
+   "word": "yourself",
+   "start": 8.62,
+   "end": 8.9
+  },
+  {
+   "word": "a",
+   "start": 8.9,
+   "end": 9.16
+  },
+  {
+   "word": "strange",
+   "start": 9.16,
+   "end": 9.62
+  },
+  {
+   "word": "question.",
+   "start": 9.62,
+   "end": 10.12
+  },
+  {
+   "word": "How",
+   "start": 10.82,
+   "end": 11.06
+  },
+  {
+   "word": "did",
+   "start": 11.06,
+   "end": 11.2
+  },
+  {
+   "word": "you",
+   "start": 11.2,
+   "end": 11.34
+  },
+  {
+   "word": "meet",
+   "start": 11.34,
+   "end": 11.58
+  },
+  {
+   "word": "them?",
+   "start": 11.58,
+   "end": 11.88
+  },
+  {
+   "word": "Chances",
+   "start": 12.86,
+   "end": 13.04
+  },
+  {
+   "word": "are,",
+   "start": 13.04,
+   "end": 13.42
+  },
+  {
+   "word": "the",
+   "start": 13.7,
+   "end": 13.78
+  },
+  {
+   "word": "answer",
+   "start": 13.78,
+   "end": 14.12
+  },
+  {
+   "word": "isn't",
+   "start": 14.12,
+   "end": 14.76
+  },
+  {
+   "word": "fate.",
+   "start": 14.76,
+   "end": 15.04
+  },
+  {
+   "word": "It",
+   "start": 15.56,
+   "end": 15.68
+  },
+  {
+   "word": "isn't",
+   "start": 15.68,
+   "end": 15.98
+  },
+  {
+   "word": "destiny.",
+   "start": 15.98,
+   "end": 16.34
+  },
+  {
+   "word": "It's",
+   "start": 16.94,
+   "end": 17.4
+  },
+  {
+   "word": "distance.",
+   "start": 17.4,
+   "end": 17.74
+  },
+  {
+   "word": "You",
+   "start": 18.44,
+   "end": 18.66
+  },
+  {
+   "word": "sat",
+   "start": 18.66,
+   "end": 18.94
+  },
+  {
+   "word": "near",
+   "start": 18.94,
+   "end": 19.14
+  },
+  {
+   "word": "them.",
+   "start": 19.14,
+   "end": 19.4
+  },
+  {
+   "word": "You",
+   "start": 19.66,
+   "end": 19.84
+  },
+  {
+   "word": "lived",
+   "start": 19.84,
+   "end": 19.98
+  },
+  {
+   "word": "down",
+   "start": 19.98,
+   "end": 20.22
+  },
+  {
+   "word": "the",
+   "start": 20.22,
+   "end": 20.34
+  },
+  {
+   "word": "hall.",
+   "start": 20.34,
+   "end": 20.6
+  },
+  {
+   "word": "You",
+   "start": 21.12,
+   "end": 21.22
+  },
+  {
+   "word": "took",
+   "start": 21.22,
+   "end": 21.36
+  },
+  {
+   "word": "the",
+   "start": 21.36,
+   "end": 21.54
+  },
+  {
+   "word": "same",
+   "start": 21.54,
+   "end": 21.76
+  },
+  {
+   "word": "bus,",
+   "start": 21.76,
+   "end": 22.08
+  },
+  {
+   "word": "worked",
+   "start": 22.4,
+   "end": 22.6
+  },
+  {
+   "word": "the",
+   "start": 22.6,
+   "end": 22.8
+  },
+  {
+   "word": "same",
+   "start": 22.8,
+   "end": 23.06
+  },
+  {
+   "word": "shift,",
+   "start": 23.06,
+   "end": 23.4
+  },
+  {
+   "word": "or",
+   "start": 23.68,
+   "end": 23.88
+  },
+  {
+   "word": "kept",
+   "start": 23.88,
+   "end": 24.08
+  },
+  {
+   "word": "running",
+   "start": 24.08,
+   "end": 24.38
+  },
+  {
+   "word": "into",
+   "start": 24.38,
+   "end": 24.68
+  },
+  {
+   "word": "them",
+   "start": 24.68,
+   "end": 24.86
+  },
+  {
+   "word": "at",
+   "start": 24.86,
+   "end": 24.98
+  },
+  {
+   "word": "the",
+   "start": 24.98,
+   "end": 25.08
+  },
+  {
+   "word": "same",
+   "start": 25.08,
+   "end": 25.32
+  },
+  {
+   "word": "coffee",
+   "start": 25.32,
+   "end": 25.62
+  },
+  {
+   "word": "shop.",
+   "start": 25.62,
+   "end": 25.96
+  },
+  {
+   "word": "It",
+   "start": 26.58,
+   "end": 26.84
+  },
+  {
+   "word": "sounds",
+   "start": 26.84,
+   "end": 27.08
+  },
+  {
+   "word": "almost",
+   "start": 27.08,
+   "end": 27.38
+  },
+  {
+   "word": "too",
+   "start": 27.38,
+   "end": 27.74
+  },
+  {
+   "word": "simple",
+   "start": 27.74,
+   "end": 28.18
+  },
+  {
+   "word": "to",
+   "start": 28.18,
+   "end": 28.36
+  },
+  {
+   "word": "be",
+   "start": 28.36,
+   "end": 28.5
+  },
+  {
+   "word": "true.",
+   "start": 28.5,
+   "end": 28.82
+  },
+  {
+   "word": "But",
+   "start": 28.82,
+   "end": 29.54
+  },
+  {
+   "word": "decades",
+   "start": 29.54,
+   "end": 29.94
+  },
+  {
+   "word": "of",
+   "start": 29.94,
+   "end": 30.32
+  },
+  {
+   "word": "research",
+   "start": 30.32,
+   "end": 30.72
+  },
+  {
+   "word": "point",
+   "start": 30.72,
+   "end": 31.06
+  },
+  {
+   "word": "to",
+   "start": 31.06,
+   "end": 31.24
+  },
+  {
+   "word": "one",
+   "start": 31.24,
+   "end": 31.6
+  },
+  {
+   "word": "quiet",
+   "start": 31.6,
+   "end": 32.1
+  },
+  {
+   "word": "force",
+   "start": 32.1,
+   "end": 32.56
+  },
+  {
+   "word": "that",
+   "start": 32.56,
+   "end": 32.8
+  },
+  {
+   "word": "shapes",
+   "start": 32.8,
+   "end": 33.12
+  },
+  {
+   "word": "who",
+   "start": 33.12,
+   "end": 33.44
+  },
+  {
+   "word": "we",
+   "start": 33.44,
+   "end": 33.6
+  },
+  {
+   "word": "befriend,",
+   "start": 33.6,
+   "end": 34.02
+  },
+  {
+   "word": "who",
+   "start": 34.5,
+   "end": 34.62
+  },
+  {
+   "word": "we",
+   "start": 34.62,
+   "end": 34.82
+  },
+  {
+   "word": "date,",
+   "start": 34.82,
+   "end": 35.14
+  },
+  {
+   "word": "and",
+   "start": 35.48,
+   "end": 35.62
+  },
+  {
+   "word": "even",
+   "start": 35.62,
+   "end": 35.96
+  },
+  {
+   "word": "who",
+   "start": 35.96,
+   "end": 36.26
+  },
+  {
+   "word": "we",
+   "start": 36.26,
+   "end": 36.46
+  },
+  {
+   "word": "marry.",
+   "start": 36.46,
+   "end": 36.86
+  },
+  {
+   "word": "Psychologists",
+   "start": 37.7,
+   "end": 38.18
+  },
+  {
+   "word": "call",
+   "start": 38.18,
+   "end": 38.56
+  },
+  {
+   "word": "it",
+   "start": 38.56,
+   "end": 38.76
+  },
+  {
+   "word": "the",
+   "start": 38.76,
+   "end": 38.96
+  },
+  {
+   "word": "proximity",
+   "start": 38.96,
+   "end": 39.46
+  },
+  {
+   "word": "effect.",
+   "start": 39.46,
+   "end": 40.02
+  },
+  {
+   "word": "And",
+   "start": 40.58,
+   "end": 40.74
+  },
+  {
+   "word": "once",
+   "start": 40.74,
+   "end": 40.9
+  },
+  {
+   "word": "you",
+   "start": 40.9,
+   "end": 41.1
+  },
+  {
+   "word": "see",
+   "start": 41.1,
+   "end": 41.32
+  },
+  {
+   "word": "it,",
+   "start": 41.32,
+   "end": 41.56
+  },
+  {
+   "word": "you'll",
+   "start": 41.82,
+   "end": 41.98
+  },
+  {
+   "word": "never",
+   "start": 41.98,
+   "end": 42.28
+  },
+  {
+   "word": "look",
+   "start": 42.28,
+   "end": 42.54
+  },
+  {
+   "word": "at",
+   "start": 42.54,
+   "end": 42.7
+  },
+  {
+   "word": "\"the",
+   "start": 42.7,
+   "end": 43.0
+  },
+  {
+   "word": "one\"",
+   "start": 43.0,
+   "end": 43.34
+  },
+  {
+   "word": "the",
+   "start": 43.34,
+   "end": 43.76
+  },
+  {
+   "word": "same",
+   "start": 43.76,
+   "end": 44.04
+  },
+  {
+   "word": "way",
+   "start": 44.04,
+   "end": 44.28
+  },
+  {
+   "word": "again.",
+   "start": 44.28,
+   "end": 44.68
+  },
+  {
+   "word": "Let's",
+   "start": 45.66,
+   "end": 46.0
+  },
+  {
+   "word": "start",
+   "start": 46.0,
+   "end": 46.22
+  },
+  {
+   "word": "in",
+   "start": 46.22,
+   "end": 46.48
+  },
+  {
+   "word": "1950,",
+   "start": 46.48,
+   "end": 47.24
+  },
+  {
+   "word": "at",
+   "start": 47.66,
+   "end": 47.82
+  },
+  {
+   "word": "a",
+   "start": 47.82,
+   "end": 47.94
+  },
+  {
+   "word": "housing",
+   "start": 47.94,
+   "end": 48.24
+  },
+  {
+   "word": "complex",
+   "start": 48.24,
+   "end": 48.74
+  },
+  {
+   "word": "for",
+   "start": 48.74,
+   "end": 49.02
+  },
+  {
+   "word": "married",
+   "start": 49.02,
+   "end": 49.32
+  },
+  {
+   "word": "students",
+   "start": 49.32,
+   "end": 49.8
+  },
+  {
+   "word": "at",
+   "start": 49.8,
+   "end": 50.04
+  },
+  {
+   "word": "the",
+   "start": 50.04,
+   "end": 50.18
+  },
+  {
+   "word": "Massachusetts",
+   "start": 50.18,
+   "end": 50.72
+  },
+  {
+   "word": "Institute",
+   "start": 50.72,
+   "end": 51.48
+  },
+  {
+   "word": "of",
+   "start": 51.48,
+   "end": 51.66
+  },
+  {
+   "word": "Technology.",
+   "start": 51.66,
+   "end": 52.22
+  },
+  {
+   "word": "The",
+   "start": 52.88,
+   "end": 53.08
+  },
+  {
+   "word": "apartments",
+   "start": 53.08,
+   "end": 53.44
+  },
+  {
+   "word": "were",
+   "start": 53.44,
+   "end": 53.78
+  },
+  {
+   "word": "called",
+   "start": 53.78,
+   "end": 54.12
+  },
+  {
+   "word": "Westgate",
+   "start": 54.12,
+   "end": 54.72
+  },
+  {
+   "word": "West.",
+   "start": 54.72,
+   "end": 55.16
+  },
+  {
+   "word": "Families",
+   "start": 56.2,
+   "end": 56.2
+  },
+  {
+   "word": "were",
+   "start": 56.2,
+   "end": 56.44
+  },
+  {
+   "word": "assigned",
+   "start": 56.44,
+   "end": 56.76
+  },
+  {
+   "word": "to",
+   "start": 56.76,
+   "end": 56.94
+  },
+  {
+   "word": "them",
+   "start": 56.94,
+   "end": 57.12
+  },
+  {
+   "word": "more",
+   "start": 57.12,
+   "end": 57.34
+  },
+  {
+   "word": "or",
+   "start": 57.34,
+   "end": 57.46
+  },
+  {
+   "word": "less",
+   "start": 57.46,
+   "end": 57.66
+  },
+  {
+   "word": "at",
+   "start": 57.66,
+   "end": 57.84
+  },
+  {
+   "word": "random.",
+   "start": 57.84,
+   "end": 58.22
+  },
+  {
+   "word": "Nobody",
+   "start": 58.8,
+   "end": 59.02
+  },
+  {
+   "word": "chose",
+   "start": 59.02,
+   "end": 59.52
+  },
+  {
+   "word": "their",
+   "start": 59.52,
+   "end": 59.82
+  },
+  {
+   "word": "neighbours.",
+   "start": 59.82,
+   "end": 60.82
+  },
+  {
+   "word": "And",
+   "start": 60.82,
+   "end": 60.92
+  },
+  {
+   "word": "that",
+   "start": 60.92,
+   "end": 61.18
+  },
+  {
+   "word": "made",
+   "start": 61.18,
+   "end": 61.44
+  },
+  {
+   "word": "it",
+   "start": 61.44,
+   "end": 61.56
+  },
+  {
+   "word": "a",
+   "start": 61.56,
+   "end": 61.72
+  },
+  {
+   "word": "perfect",
+   "start": 61.72,
+   "end": 62.12
+  },
+  {
+   "word": "natural",
+   "start": 62.12,
+   "end": 62.7
+  },
+  {
+   "word": "experiment.",
+   "start": 62.7,
+   "end": 63.36
+  },
+  {
+   "word": "Psychologists",
+   "start": 64.48,
+   "end": 64.98
+  },
+  {
+   "word": "Leon",
+   "start": 64.98,
+   "end": 65.54
+  },
+  {
+   "word": "Festinger,",
+   "start": 65.54,
+   "end": 66.12
+  },
+  {
+   "word": "Stanley",
+   "start": 66.56,
+   "end": 66.82
+  },
+  {
+   "word": "Schachter",
+   "start": 66.82,
+   "end": 67.34
+  },
+  {
+   "word": "and",
+   "start": 67.56,
+   "end": 67.7
+  },
+  {
+   "word": "Kurt",
+   "start": 67.7,
+   "end": 67.94
+  },
+  {
+   "word": "Back",
+   "start": 67.94,
+   "end": 68.28
+  },
+  {
+   "word": "asked",
+   "start": 68.28,
+   "end": 68.78
+  },
+  {
+   "word": "the",
+   "start": 68.78,
+   "end": 68.96
+  },
+  {
+   "word": "residents",
+   "start": 68.96,
+   "end": 69.32
+  },
+  {
+   "word": "a",
+   "start": 69.32,
+   "end": 69.64
+  },
+  {
+   "word": "simple",
+   "start": 69.64,
+   "end": 69.92
+  },
+  {
+   "word": "question.",
+   "start": 69.92,
+   "end": 70.38
+  },
+  {
+   "word": "Who",
+   "start": 71.08,
+   "end": 71.2
+  },
+  {
+   "word": "are",
+   "start": 71.2,
+   "end": 71.36
+  },
+  {
+   "word": "your",
+   "start": 71.36,
+   "end": 71.52
+  },
+  {
+   "word": "closest",
+   "start": 71.52,
+   "end": 71.94
+  },
+  {
+   "word": "friends",
+   "start": 71.94,
+   "end": 72.3
+  },
+  {
+   "word": "here?",
+   "start": 72.3,
+   "end": 72.66
+  },
+  {
+   "word": "The",
+   "start": 73.52,
+   "end": 73.72
+  },
+  {
+   "word": "answers",
+   "start": 73.72,
+   "end": 74.12
+  },
+  {
+   "word": "were",
+   "start": 74.12,
+   "end": 74.42
+  },
+  {
+   "word": "startling.",
+   "start": 74.42,
+   "end": 75.0
+  },
+  {
+   "word": "People",
+   "start": 75.64,
+   "end": 75.92
+  },
+  {
+   "word": "were",
+   "start": 75.92,
+   "end": 76.16
+  },
+  {
+   "word": "far",
+   "start": 76.16,
+   "end": 76.54
+  },
+  {
+   "word": "more",
+   "start": 76.54,
+   "end": 76.76
+  },
+  {
+   "word": "likely",
+   "start": 76.76,
+   "end": 77.02
+  },
+  {
+   "word": "to",
+   "start": 77.02,
+   "end": 77.26
+  },
+  {
+   "word": "be",
+   "start": 77.26,
+   "end": 77.42
+  },
+  {
+   "word": "friends",
+   "start": 77.42,
+   "end": 77.66
+  },
+  {
+   "word": "with",
+   "start": 77.66,
+   "end": 77.86
+  },
+  {
+   "word": "the",
+   "start": 77.86,
+   "end": 78.02
+  },
+  {
+   "word": "person",
+   "start": 78.02,
+   "end": 78.3
+  },
+  {
+   "word": "living",
+   "start": 78.3,
+   "end": 78.56
+  },
+  {
+   "word": "right",
+   "start": 78.56,
+   "end": 78.9
+  },
+  {
+   "word": "next",
+   "start": 78.9,
+   "end": 79.16
+  },
+  {
+   "word": "door",
+   "start": 79.16,
+   "end": 79.54
+  },
+  {
+   "word": "than",
+   "start": 79.54,
+   "end": 79.88
+  },
+  {
+   "word": "with",
+   "start": 79.88,
+   "end": 80.04
+  },
+  {
+   "word": "someone",
+   "start": 80.04,
+   "end": 80.36
+  },
+  {
+   "word": "just",
+   "start": 80.36,
+   "end": 80.64
+  },
+  {
+   "word": "two",
+   "start": 80.64,
+   "end": 80.96
+  },
+  {
+   "word": "doors",
+   "start": 80.96,
+   "end": 81.2
+  },
+  {
+   "word": "away.",
+   "start": 81.2,
+   "end": 81.6
+  },
+  {
+   "word": "And",
+   "start": 82.18,
+   "end": 82.38
+  },
+  {
+   "word": "friendships",
+   "start": 82.38,
+   "end": 82.8
+  },
+  {
+   "word": "dropped",
+   "start": 82.8,
+   "end": 83.2
+  },
+  {
+   "word": "off",
+   "start": 83.2,
+   "end": 83.46
+  },
+  {
+   "word": "sharply",
+   "start": 83.46,
+   "end": 83.98
+  },
+  {
+   "word": "as",
+   "start": 83.98,
+   "end": 84.16
+  },
+  {
+   "word": "the",
+   "start": 84.16,
+   "end": 84.34
+  },
+  {
+   "word": "distance",
+   "start": 84.34,
+   "end": 84.68
+  },
+  {
+   "word": "grew,",
+   "start": 84.68,
+   "end": 85.02
+  },
+  {
+   "word": "even",
+   "start": 85.4,
+   "end": 85.62
+  },
+  {
+   "word": "across",
+   "start": 85.62,
+   "end": 85.96
+  },
+  {
+   "word": "a",
+   "start": 85.96,
+   "end": 86.18
+  },
+  {
+   "word": "few",
+   "start": 86.18,
+   "end": 86.46
+  },
+  {
+   "word": "metres",
+   "start": 86.46,
+   "end": 86.76
+  },
+  {
+   "word": "of",
+   "start": 86.76,
+   "end": 87.04
+  },
+  {
+   "word": "hallway.",
+   "start": 87.04,
+   "end": 87.4
+  },
+  {
+   "word": "But",
+   "start": 88.46,
+   "end": 88.58
+  },
+  {
+   "word": "here's",
+   "start": 88.58,
+   "end": 88.88
+  },
+  {
+   "word": "the",
+   "start": 88.88,
+   "end": 89.04
+  },
+  {
+   "word": "part",
+   "start": 89.04,
+   "end": 89.24
+  },
+  {
+   "word": "that",
+   "start": 89.24,
+   "end": 89.42
+  },
+  {
+   "word": "surprised",
+   "start": 89.42,
+   "end": 89.8
+  },
+  {
+   "word": "the",
+   "start": 89.8,
+   "end": 90.04
+  },
+  {
+   "word": "researchers",
+   "start": 90.04,
+   "end": 90.42
+  },
+  {
+   "word": "most.",
+   "start": 90.42,
+   "end": 90.96
+  },
+  {
+   "word": "It",
+   "start": 91.48,
+   "end": 91.7
+  },
+  {
+   "word": "wasn't",
+   "start": 91.7,
+   "end": 92.02
+  },
+  {
+   "word": "just",
+   "start": 92.02,
+   "end": 92.32
+  },
+  {
+   "word": "physical",
+   "start": 92.32,
+   "end": 92.84
+  },
+  {
+   "word": "distance",
+   "start": 92.84,
+   "end": 93.26
+  },
+  {
+   "word": "that",
+   "start": 93.26,
+   "end": 93.52
+  },
+  {
+   "word": "mattered.",
+   "start": 93.52,
+   "end": 93.86
+  },
+  {
+   "word": "It",
+   "start": 94.36,
+   "end": 94.5
+  },
+  {
+   "word": "was",
+   "start": 94.5,
+   "end": 94.66
+  },
+  {
+   "word": "how",
+   "start": 94.66,
+   "end": 94.92
+  },
+  {
+   "word": "often",
+   "start": 94.92,
+   "end": 95.42
+  },
+  {
+   "word": "people's",
+   "start": 95.42,
+   "end": 95.94
+  },
+  {
+   "word": "paths",
+   "start": 95.94,
+   "end": 96.24
+  },
+  {
+   "word": "crossed.",
+   "start": 96.24,
+   "end": 96.82
+  },
+  {
+   "word": "Residents",
+   "start": 97.58,
+   "end": 97.76
+  },
+  {
+   "word": "who",
+   "start": 97.76,
+   "end": 98.12
+  },
+  {
+   "word": "lived",
+   "start": 98.12,
+   "end": 98.3
+  },
+  {
+   "word": "near",
+   "start": 98.3,
+   "end": 98.52
+  },
+  {
+   "word": "the",
+   "start": 98.52,
+   "end": 98.72
+  },
+  {
+   "word": "stairs,",
+   "start": 98.72,
+   "end": 99.14
+  },
+  {
+   "word": "or",
+   "start": 99.14,
+   "end": 99.62
+  },
+  {
+   "word": "next",
+   "start": 99.62,
+   "end": 99.84
+  },
+  {
+   "word": "to",
+   "start": 99.84,
+   "end": 100.04
+  },
+  {
+   "word": "the",
+   "start": 100.04,
+   "end": 100.14
+  },
+  {
+   "word": "mailboxes,",
+   "start": 100.14,
+   "end": 100.7
+  },
+  {
+   "word": "made",
+   "start": 100.7,
+   "end": 101.22
+  },
+  {
+   "word": "more",
+   "start": 101.22,
+   "end": 101.54
+  },
+  {
+   "word": "friends",
+   "start": 101.54,
+   "end": 101.92
+  },
+  {
+   "word": "than",
+   "start": 101.92,
+   "end": 102.16
+  },
+  {
+   "word": "anyone",
+   "start": 102.16,
+   "end": 102.62
+  },
+  {
+   "word": "else",
+   "start": 102.62,
+   "end": 102.92
+  },
+  {
+   "word": "in",
+   "start": 102.92,
+   "end": 103.1
+  },
+  {
+   "word": "the",
+   "start": 103.1,
+   "end": 103.2
+  },
+  {
+   "word": "building.",
+   "start": 103.2,
+   "end": 103.5
+  },
+  {
+   "word": "Not",
+   "start": 103.98,
+   "end": 104.24
+  },
+  {
+   "word": "because",
+   "start": 104.24,
+   "end": 104.5
+  },
+  {
+   "word": "they",
+   "start": 104.5,
+   "end": 104.7
+  },
+  {
+   "word": "were",
+   "start": 104.7,
+   "end": 104.86
+  },
+  {
+   "word": "nicer.",
+   "start": 104.86,
+   "end": 105.18
+  },
+  {
+   "word": "Not",
+   "start": 105.64,
+   "end": 105.82
+  },
+  {
+   "word": "because",
+   "start": 105.82,
+   "end": 106.12
+  },
+  {
+   "word": "they",
+   "start": 106.12,
+   "end": 106.3
+  },
+  {
+   "word": "were",
+   "start": 106.3,
+   "end": 106.44
+  },
+  {
+   "word": "more",
+   "start": 106.44,
+   "end": 106.62
+  },
+  {
+   "word": "interesting.",
+   "start": 106.62,
+   "end": 107.14
+  },
+  {
+   "word": "Simply",
+   "start": 107.7,
+   "end": 107.94
+  },
+  {
+   "word": "because",
+   "start": 107.94,
+   "end": 108.44
+  },
+  {
+   "word": "everyone",
+   "start": 108.44,
+   "end": 108.94
+  },
+  {
+   "word": "walked",
+   "start": 108.94,
+   "end": 109.5
+  },
+  {
+   "word": "past",
+   "start": 109.5,
+   "end": 109.8
+  },
+  {
+   "word": "their",
+   "start": 109.8,
+   "end": 110.1
+  },
+  {
+   "word": "door.",
+   "start": 110.1,
+   "end": 110.44
+  },
+  {
+   "word": "The",
+   "start": 111.22,
+   "end": 111.48
+  },
+  {
+   "word": "researchers",
+   "start": 111.48,
+   "end": 111.84
+  },
+  {
+   "word": "called",
+   "start": 111.84,
+   "end": 112.28
+  },
+  {
+   "word": "this",
+   "start": 112.28,
+   "end": 112.82
+  },
+  {
+   "word": "functional",
+   "start": 112.82,
+   "end": 113.32
+  },
+  {
+   "word": "distance.",
+   "start": 113.32,
+   "end": 113.8
+  },
+  {
+   "word": "And",
+   "start": 114.36,
+   "end": 114.48
+  },
+  {
+   "word": "it",
+   "start": 114.48,
+   "end": 114.6
+  },
+  {
+   "word": "suggests",
+   "start": 114.6,
+   "end": 115.0
+  },
+  {
+   "word": "something",
+   "start": 115.0,
+   "end": 115.52
+  },
+  {
+   "word": "unsettling.",
+   "start": 115.52,
+   "end": 116.2
+  },
+  {
+   "word": "Your",
+   "start": 116.92,
+   "end": 117.02
+  },
+  {
+   "word": "social",
+   "start": 117.02,
+   "end": 117.48
+  },
+  {
+   "word": "life",
+   "start": 117.48,
+   "end": 117.82
+  },
+  {
+   "word": "may",
+   "start": 117.82,
+   "end": 118.14
+  },
+  {
+   "word": "have",
+   "start": 118.14,
+   "end": 118.32
+  },
+  {
+   "word": "been",
+   "start": 118.32,
+   "end": 118.54
+  },
+  {
+   "word": "shaped",
+   "start": 118.54,
+   "end": 118.88
+  },
+  {
+   "word": "by",
+   "start": 118.88,
+   "end": 119.18
+  },
+  {
+   "word": "where",
+   "start": 119.18,
+   "end": 119.42
+  },
+  {
+   "word": "the",
+   "start": 119.42,
+   "end": 119.6
+  },
+  {
+   "word": "staircase",
+   "start": 119.6,
+   "end": 120.1
+  },
+  {
+   "word": "was.",
+   "start": 120.1,
+   "end": 120.64
+  },
+  {
+   "word": "Have",
+   "start": 121.64,
+   "end": 121.86
+  },
+  {
+   "word": "you",
+   "start": 121.86,
+   "end": 122.0
+  },
+  {
+   "word": "ever",
+   "start": 122.0,
+   "end": 122.18
+  },
+  {
+   "word": "noticed",
+   "start": 122.18,
+   "end": 122.42
+  },
+  {
+   "word": "this",
+   "start": 122.42,
+   "end": 122.7
+  },
+  {
+   "word": "in",
+   "start": 122.7,
+   "end": 122.88
+  },
+  {
+   "word": "your",
+   "start": 122.88,
+   "end": 123.0
+  },
+  {
+   "word": "own",
+   "start": 123.0,
+   "end": 123.18
+  },
+  {
+   "word": "life?",
+   "start": 123.18,
+   "end": 123.46
+  },
+  {
+   "word": "The",
+   "start": 124.0,
+   "end": 124.18
+  },
+  {
+   "word": "friends",
+   "start": 124.18,
+   "end": 124.42
+  },
+  {
+   "word": "you",
+   "start": 124.42,
+   "end": 124.58
+  },
+  {
+   "word": "made",
+   "start": 124.58,
+   "end": 124.72
+  },
+  {
+   "word": "at",
+   "start": 124.72,
+   "end": 124.88
+  },
+  {
+   "word": "school",
+   "start": 124.88,
+   "end": 125.2
+  },
+  {
+   "word": "were",
+   "start": 125.2,
+   "end": 125.52
+  },
+  {
+   "word": "often",
+   "start": 125.52,
+   "end": 125.82
+  },
+  {
+   "word": "the",
+   "start": 125.82,
+   "end": 126.0
+  },
+  {
+   "word": "ones",
+   "start": 126.0,
+   "end": 126.24
+  },
+  {
+   "word": "who",
+   "start": 126.24,
+   "end": 126.42
+  },
+  {
+   "word": "sat",
+   "start": 126.42,
+   "end": 126.66
+  },
+  {
+   "word": "closest",
+   "start": 126.66,
+   "end": 127.06
+  },
+  {
+   "word": "to",
+   "start": 127.06,
+   "end": 127.4
+  },
+  {
+   "word": "you.",
+   "start": 127.4,
+   "end": 127.66
+  },
+  {
+   "word": "The",
+   "start": 128.02,
+   "end": 128.2
+  },
+  {
+   "word": "coworker",
+   "start": 128.2,
+   "end": 128.62
+  },
+  {
+   "word": "you",
+   "start": 128.62,
+   "end": 128.9
+  },
+  {
+   "word": "trust",
+   "start": 128.9,
+   "end": 129.18
+  },
+  {
+   "word": "most",
+   "start": 129.18,
+   "end": 129.66
+  },
+  {
+   "word": "probably",
+   "start": 129.66,
+   "end": 130.1
+  },
+  {
+   "word": "sits",
+   "start": 130.1,
+   "end": 130.46
+  },
+  {
+   "word": "a",
+   "start": 130.46,
+   "end": 130.68
+  },
+  {
+   "word": "few",
+   "start": 130.68,
+   "end": 130.86
+  },
+  {
+   "word": "desks",
+   "start": 130.86,
+   "end": 131.14
+  },
+  {
+   "word": "away.",
+   "start": 131.14,
+   "end": 131.58
+  },
+  {
+   "word": "The",
+   "start": 132.06,
+   "end": 132.3
+  },
+  {
+   "word": "neighbour",
+   "start": 132.3,
+   "end": 132.48
+  },
+  {
+   "word": "you",
+   "start": 132.48,
+   "end": 132.78
+  },
+  {
+   "word": "wave",
+   "start": 132.78,
+   "end": 133.0
+  },
+  {
+   "word": "to",
+   "start": 133.0,
+   "end": 133.26
+  },
+  {
+   "word": "every",
+   "start": 133.26,
+   "end": 133.46
+  },
+  {
+   "word": "morning",
+   "start": 133.46,
+   "end": 133.8
+  },
+  {
+   "word": "is",
+   "start": 133.8,
+   "end": 134.08
+  },
+  {
+   "word": "the",
+   "start": 134.08,
+   "end": 134.22
+  },
+  {
+   "word": "one",
+   "start": 134.22,
+   "end": 134.4
+  },
+  {
+   "word": "whose",
+   "start": 134.4,
+   "end": 134.64
+  },
+  {
+   "word": "door",
+   "start": 134.64,
+   "end": 134.96
+  },
+  {
+   "word": "faces",
+   "start": 134.96,
+   "end": 135.4
+  },
+  {
+   "word": "yours.",
+   "start": 135.4,
+   "end": 135.72
+  },
+  {
+   "word": "We",
+   "start": 136.4,
+   "end": 136.64
+  },
+  {
+   "word": "like",
+   "start": 136.64,
+   "end": 136.82
+  },
+  {
+   "word": "to",
+   "start": 136.82,
+   "end": 137.0
+  },
+  {
+   "word": "believe",
+   "start": 137.0,
+   "end": 137.28
+  },
+  {
+   "word": "we",
+   "start": 137.28,
+   "end": 137.54
+  },
+  {
+   "word": "choose",
+   "start": 137.54,
+   "end": 137.88
+  },
+  {
+   "word": "our",
+   "start": 137.88,
+   "end": 138.12
+  },
+  {
+   "word": "people",
+   "start": 138.12,
+   "end": 138.42
+  },
+  {
+   "word": "carefully,",
+   "start": 138.42,
+   "end": 139.06
+  },
+  {
+   "word": "based",
+   "start": 139.26,
+   "end": 139.5
+  },
+  {
+   "word": "on",
+   "start": 139.5,
+   "end": 139.72
+  },
+  {
+   "word": "who",
+   "start": 139.72,
+   "end": 139.96
+  },
+  {
+   "word": "they",
+   "start": 139.96,
+   "end": 140.1
+  },
+  {
+   "word": "are.",
+   "start": 140.1,
+   "end": 140.7
+  },
+  {
+   "word": "But",
+   "start": 140.7,
+   "end": 141.06
+  },
+  {
+   "word": "very",
+   "start": 141.06,
+   "end": 141.34
+  },
+  {
+   "word": "often,",
+   "start": 141.34,
+   "end": 141.72
+  },
+  {
+   "word": "we",
+   "start": 141.98,
+   "end": 142.22
+  },
+  {
+   "word": "choose",
+   "start": 142.22,
+   "end": 142.56
+  },
+  {
+   "word": "from",
+   "start": 142.56,
+   "end": 142.88
+  },
+  {
+   "word": "whoever",
+   "start": 142.88,
+   "end": 143.2
+  },
+  {
+   "word": "happens",
+   "start": 143.2,
+   "end": 143.76
+  },
+  {
+   "word": "to",
+   "start": 143.76,
+   "end": 144.0
+  },
+  {
+   "word": "be",
+   "start": 144.0,
+   "end": 144.18
+  },
+  {
+   "word": "nearby.",
+   "start": 144.18,
+   "end": 144.6
+  },
+  {
+   "word": "So",
+   "start": 145.84,
+   "end": 145.94
+  },
+  {
+   "word": "friendship",
+   "start": 145.94,
+   "end": 146.46
+  },
+  {
+   "word": "follows",
+   "start": 146.46,
+   "end": 147.06
+  },
+  {
+   "word": "proximity.",
+   "start": 147.06,
+   "end": 147.6
+  },
+  {
+   "word": "But",
+   "start": 148.36,
+   "end": 148.5
+  },
+  {
+   "word": "what",
+   "start": 148.5,
+   "end": 148.64
+  },
+  {
+   "word": "about",
+   "start": 148.64,
+   "end": 148.88
+  },
+  {
+   "word": "love?",
+   "start": 148.88,
+   "end": 149.22
+  },
+  {
+   "word": "Back",
+   "start": 150.36,
+   "end": 150.52
+  },
+  {
+   "word": "in",
+   "start": 150.52,
+   "end": 150.7
+  },
+  {
+   "word": "1932,",
+   "start": 150.7,
+   "end": 151.52
+  },
+  {
+   "word": "a",
+   "start": 152.18,
+   "end": 152.24
+  },
+  {
+   "word": "sociologist",
+   "start": 152.24,
+   "end": 152.9
+  },
+  {
+   "word": "named",
+   "start": 152.9,
+   "end": 153.3
+  },
+  {
+   "word": "James",
+   "start": 153.3,
+   "end": 153.72
+  },
+  {
+   "word": "Bossard",
+   "start": 153.72,
+   "end": 154.24
+  },
+  {
+   "word": "looked",
+   "start": 154.24,
+   "end": 154.48
+  },
+  {
+   "word": "through",
+   "start": 154.48,
+   "end": 154.78
+  },
+  {
+   "word": "five",
+   "start": 154.78,
+   "end": 155.28
+  },
+  {
+   "word": "thousand",
+   "start": 155.28,
+   "end": 155.78
+  },
+  {
+   "word": "marriage",
+   "start": 155.78,
+   "end": 156.14
+  },
+  {
+   "word": "licences",
+   "start": 156.14,
+   "end": 156.54
+  },
+  {
+   "word": "in",
+   "start": 156.54,
+   "end": 156.9
+  },
+  {
+   "word": "the",
+   "start": 156.9,
+   "end": 157.02
+  },
+  {
+   "word": "city",
+   "start": 157.02,
+   "end": 157.22
+  },
+  {
+   "word": "of",
+   "start": 157.22,
+   "end": 157.4
+  },
+  {
+   "word": "Philadelphia.",
+   "start": 157.4,
+   "end": 157.84
+  },
+  {
+   "word": "He",
+   "start": 158.38,
+   "end": 158.5
+  },
+  {
+   "word": "found",
+   "start": 158.5,
+   "end": 158.76
+  },
+  {
+   "word": "that",
+   "start": 158.76,
+   "end": 158.92
+  },
+  {
+   "word": "about",
+   "start": 158.92,
+   "end": 159.16
+  },
+  {
+   "word": "one",
+   "start": 159.16,
+   "end": 159.58
+  },
+  {
+   "word": "third",
+   "start": 159.58,
+   "end": 159.9
+  },
+  {
+   "word": "of",
+   "start": 159.9,
+   "end": 160.1
+  },
+  {
+   "word": "the",
+   "start": 160.1,
+   "end": 160.2
+  },
+  {
+   "word": "couples",
+   "start": 160.2,
+   "end": 160.5
+  },
+  {
+   "word": "had",
+   "start": 160.5,
+   "end": 160.78
+  },
+  {
+   "word": "lived",
+   "start": 160.78,
+   "end": 161.0
+  },
+  {
+   "word": "within",
+   "start": 161.0,
+   "end": 161.38
+  },
+  {
+   "word": "five",
+   "start": 161.38,
+   "end": 161.82
+  },
+  {
+   "word": "blocks",
+   "start": 161.82,
+   "end": 162.22
+  },
+  {
+   "word": "of",
+   "start": 162.22,
+   "end": 162.44
+  },
+  {
+   "word": "each",
+   "start": 162.44,
+   "end": 162.6
+  },
+  {
+   "word": "other",
+   "start": 162.6,
+   "end": 162.82
+  },
+  {
+   "word": "before",
+   "start": 162.82,
+   "end": 163.14
+  },
+  {
+   "word": "they",
+   "start": 163.14,
+   "end": 163.32
+  },
+  {
+   "word": "married.",
+   "start": 163.32,
+   "end": 163.66
+  },
+  {
+   "word": "Five",
+   "start": 164.26,
+   "end": 164.74
+  },
+  {
+   "word": "blocks.",
+   "start": 164.74,
+   "end": 165.24
+  },
+  {
+   "word": "In",
+   "start": 165.94,
+   "end": 166.06
+  },
+  {
+   "word": "a",
+   "start": 166.06,
+   "end": 166.18
+  },
+  {
+   "word": "city",
+   "start": 166.18,
+   "end": 166.38
+  },
+  {
+   "word": "of",
+   "start": 166.38,
+   "end": 166.62
+  },
+  {
+   "word": "almost",
+   "start": 166.62,
+   "end": 166.86
+  },
+  {
+   "word": "two",
+   "start": 166.86,
+   "end": 167.24
+  },
+  {
+   "word": "million",
+   "start": 167.24,
+   "end": 167.62
+  },
+  {
+   "word": "people.",
+   "start": 167.62,
+   "end": 168.14
+  },
+  {
+   "word": "Of",
+   "start": 168.78,
+   "end": 168.9
+  },
+  {
+   "word": "course,",
+   "start": 168.9,
+   "end": 169.14
+  },
+  {
+   "word": "cities",
+   "start": 169.56,
+   "end": 169.76
+  },
+  {
+   "word": "have",
+   "start": 169.76,
+   "end": 170.0
+  },
+  {
+   "word": "changed",
+   "start": 170.0,
+   "end": 170.34
+  },
+  {
+   "word": "since",
+   "start": 170.34,
+   "end": 170.66
+  },
+  {
+   "word": "then.",
+   "start": 170.66,
+   "end": 171.04
+  },
+  {
+   "word": "But",
+   "start": 171.44,
+   "end": 171.64
+  },
+  {
+   "word": "the",
+   "start": 171.64,
+   "end": 171.76
+  },
+  {
+   "word": "pattern",
+   "start": 171.76,
+   "end": 172.14
+  },
+  {
+   "word": "kept",
+   "start": 172.14,
+   "end": 172.42
+  },
+  {
+   "word": "showing",
+   "start": 172.42,
+   "end": 172.76
+  },
+  {
+   "word": "up",
+   "start": 172.76,
+   "end": 172.98
+  },
+  {
+   "word": "in",
+   "start": 172.98,
+   "end": 173.14
+  },
+  {
+   "word": "new",
+   "start": 173.14,
+   "end": 173.3
+  },
+  {
+   "word": "forms.",
+   "start": 173.3,
+   "end": 173.74
+  },
+  {
+   "word": "In",
+   "start": 174.48,
+   "end": 174.6
+  },
+  {
+   "word": "1974,",
+   "start": 174.6,
+   "end": 175.6
+  },
+  {
+   "word": "psychologist",
+   "start": 176.14,
+   "end": 176.62
+  },
+  {
+   "word": "Mady",
+   "start": 176.62,
+   "end": 177.09
+  },
+  {
+   "word": "Segal",
+   "start": 177.09,
+   "end": 177.56
+  },
+  {
+   "word": "studied",
+   "start": 177.56,
+   "end": 178.04
+  },
+  {
+   "word": "trainees",
+   "start": 178.04,
+   "end": 178.64
+  },
+  {
+   "word": "at",
+   "start": 178.64,
+   "end": 178.82
+  },
+  {
+   "word": "a",
+   "start": 178.82,
+   "end": 178.96
+  },
+  {
+   "word": "police",
+   "start": 178.96,
+   "end": 179.22
+  },
+  {
+   "word": "academy",
+   "start": 179.22,
+   "end": 179.56
+  },
+  {
+   "word": "in",
+   "start": 179.56,
+   "end": 179.9
+  },
+  {
+   "word": "Maryland.",
+   "start": 179.9,
+   "end": 180.2
+  },
+  {
+   "word": "The",
+   "start": 180.88,
+   "end": 180.98
+  },
+  {
+   "word": "trainees",
+   "start": 180.98,
+   "end": 181.44
+  },
+  {
+   "word": "were",
+   "start": 181.44,
+   "end": 181.62
+  },
+  {
+   "word": "given",
+   "start": 181.62,
+   "end": 181.86
+  },
+  {
+   "word": "seats",
+   "start": 181.86,
+   "end": 182.2
+  },
+  {
+   "word": "and",
+   "start": 182.2,
+   "end": 182.5
+  },
+  {
+   "word": "rooms",
+   "start": 182.5,
+   "end": 182.76
+  },
+  {
+   "word": "in",
+   "start": 182.76,
+   "end": 183.06
+  },
+  {
+   "word": "alphabetical",
+   "start": 183.06,
+   "end": 183.78
+  },
+  {
+   "word": "order",
+   "start": 183.78,
+   "end": 184.08
+  },
+  {
+   "word": "by",
+   "start": 184.08,
+   "end": 184.38
+  },
+  {
+   "word": "last",
+   "start": 184.38,
+   "end": 184.68
+  },
+  {
+   "word": "name.",
+   "start": 184.68,
+   "end": 185.02
+  },
+  {
+   "word": "Months",
+   "start": 185.7,
+   "end": 185.86
+  },
+  {
+   "word": "later,",
+   "start": 185.86,
+   "end": 186.28
+  },
+  {
+   "word": "when",
+   "start": 186.4,
+   "end": 186.64
+  },
+  {
+   "word": "they",
+   "start": 186.64,
+   "end": 186.76
+  },
+  {
+   "word": "were",
+   "start": 186.76,
+   "end": 186.88
+  },
+  {
+   "word": "asked",
+   "start": 186.88,
+   "end": 187.1
+  },
+  {
+   "word": "to",
+   "start": 187.1,
+   "end": 187.32
+  },
+  {
+   "word": "name",
+   "start": 187.32,
+   "end": 187.46
+  },
+  {
+   "word": "their",
+   "start": 187.46,
+   "end": 187.66
+  },
+  {
+   "word": "closest",
+   "start": 187.66,
+   "end": 188.06
+  },
+  {
+   "word": "friend",
+   "start": 188.06,
+   "end": 188.44
+  },
+  {
+   "word": "in",
+   "start": 188.44,
+   "end": 188.64
+  },
+  {
+   "word": "the",
+   "start": 188.64,
+   "end": 188.74
+  },
+  {
+   "word": "class,",
+   "start": 188.74,
+   "end": 189.1
+  },
+  {
+   "word": "a",
+   "start": 189.1,
+   "end": 189.56
+  },
+  {
+   "word": "striking",
+   "start": 189.56,
+   "end": 190.02
+  },
+  {
+   "word": "number",
+   "start": 190.02,
+   "end": 190.5
+  },
+  {
+   "word": "named",
+   "start": 190.5,
+   "end": 190.78
+  },
+  {
+   "word": "someone",
+   "start": 190.78,
+   "end": 191.24
+  },
+  {
+   "word": "whose",
+   "start": 191.24,
+   "end": 191.48
+  },
+  {
+   "word": "last",
+   "start": 191.48,
+   "end": 191.82
+  },
+  {
+   "word": "name",
+   "start": 191.82,
+   "end": 192.18
+  },
+  {
+   "word": "started",
+   "start": 192.18,
+   "end": 192.58
+  },
+  {
+   "word": "with",
+   "start": 192.58,
+   "end": 192.86
+  },
+  {
+   "word": "a",
+   "start": 192.86,
+   "end": 193.0
+  },
+  {
+   "word": "nearby",
+   "start": 193.0,
+   "end": 193.32
+  },
+  {
+   "word": "letter.",
+   "start": 193.32,
+   "end": 193.72
+  },
+  {
+   "word": "Think",
+   "start": 194.36,
+   "end": 194.44
+  },
+  {
+   "word": "about",
+   "start": 194.44,
+   "end": 194.68
+  },
+  {
+   "word": "that.",
+   "start": 194.68,
+   "end": 195.0
+  },
+  {
+   "word": "The",
+   "start": 195.48,
+   "end": 195.58
+  },
+  {
+   "word": "alphabet",
+   "start": 195.58,
+   "end": 196.18
+  },
+  {
+   "word": "was",
+   "start": 196.18,
+   "end": 196.46
+  },
+  {
+   "word": "deciding",
+   "start": 196.46,
+   "end": 196.96
+  },
+  {
+   "word": "who",
+   "start": 196.96,
+   "end": 197.32
+  },
+  {
+   "word": "became",
+   "start": 197.32,
+   "end": 197.66
+  },
+  {
+   "word": "friends.",
+   "start": 197.66,
+   "end": 198.12
+  },
+  {
+   "word": "So",
+   "start": 199.0,
+   "end": 199.28
+  },
+  {
+   "word": "why",
+   "start": 199.28,
+   "end": 199.72
+  },
+  {
+   "word": "does",
+   "start": 199.72,
+   "end": 199.9
+  },
+  {
+   "word": "this",
+   "start": 199.9,
+   "end": 200.06
+  },
+  {
+   "word": "happen?",
+   "start": 200.06,
+   "end": 200.42
+  },
+  {
+   "word": "Why",
+   "start": 200.98,
+   "end": 201.14
+  },
+  {
+   "word": "should",
+   "start": 201.14,
+   "end": 201.32
+  },
+  {
+   "word": "a",
+   "start": 201.32,
+   "end": 201.44
+  },
+  {
+   "word": "few",
+   "start": 201.44,
+   "end": 201.7
+  },
+  {
+   "word": "metres,",
+   "start": 201.7,
+   "end": 202.6
+  },
+  {
+   "word": "or",
+   "start": 202.6,
+   "end": 202.68
+  },
+  {
+   "word": "a",
+   "start": 202.68,
+   "end": 202.8
+  },
+  {
+   "word": "few",
+   "start": 202.8,
+   "end": 203.0
+  },
+  {
+   "word": "letters,",
+   "start": 203.0,
+   "end": 203.46
+  },
+  {
+   "word": "matter",
+   "start": 203.68,
+   "end": 203.94
+  },
+  {
+   "word": "so",
+   "start": 203.94,
+   "end": 204.24
+  },
+  {
+   "word": "much?",
+   "start": 204.24,
+   "end": 204.56
+  },
+  {
+   "word": "Psychologists",
+   "start": 205.22,
+   "end": 205.72
+  },
+  {
+   "word": "point",
+   "start": 205.72,
+   "end": 206.06
+  },
+  {
+   "word": "to",
+   "start": 206.06,
+   "end": 206.26
+  },
+  {
+   "word": "three",
+   "start": 206.26,
+   "end": 206.6
+  },
+  {
+   "word": "forces",
+   "start": 206.6,
+   "end": 207.08
+  },
+  {
+   "word": "working",
+   "start": 207.08,
+   "end": 207.5
+  },
+  {
+   "word": "together.",
+   "start": 207.5,
+   "end": 207.96
+  },
+  {
+   "word": "The",
+   "start": 208.58,
+   "end": 208.68
+  },
+  {
+   "word": "first",
+   "start": 208.68,
+   "end": 209.0
+  },
+  {
+   "word": "is",
+   "start": 209.0,
+   "end": 209.46
+  },
+  {
+   "word": "simple",
+   "start": 209.46,
+   "end": 209.88
+  },
+  {
+   "word": "availability.",
+   "start": 209.88,
+   "end": 210.62
+  },
+  {
+   "word": "You",
+   "start": 211.24,
+   "end": 211.4
+  },
+  {
+   "word": "can't",
+   "start": 211.4,
+   "end": 211.72
+  },
+  {
+   "word": "fall",
+   "start": 211.72,
+   "end": 211.88
+  },
+  {
+   "word": "for",
+   "start": 211.88,
+   "end": 212.06
+  },
+  {
+   "word": "someone",
+   "start": 212.06,
+   "end": 212.36
+  },
+  {
+   "word": "you",
+   "start": 212.36,
+   "end": 212.5
+  },
+  {
+   "word": "never",
+   "start": 212.5,
+   "end": 212.7
+  },
+  {
+   "word": "meet.",
+   "start": 212.7,
+   "end": 213.02
+  },
+  {
+   "word": "The",
+   "start": 213.5,
+   "end": 213.7
+  },
+  {
+   "word": "people",
+   "start": 213.7,
+   "end": 213.98
+  },
+  {
+   "word": "around",
+   "start": 213.98,
+   "end": 214.32
+  },
+  {
+   "word": "us",
+   "start": 214.32,
+   "end": 214.58
+  },
+  {
+   "word": "are",
+   "start": 214.58,
+   "end": 214.72
+  },
+  {
+   "word": "the",
+   "start": 214.72,
+   "end": 214.84
+  },
+  {
+   "word": "ones",
+   "start": 214.84,
+   "end": 215.04
+  },
+  {
+   "word": "we",
+   "start": 215.04,
+   "end": 215.24
+  },
+  {
+   "word": "actually",
+   "start": 215.24,
+   "end": 215.68
+  },
+  {
+   "word": "get",
+   "start": 215.68,
+   "end": 215.92
+  },
+  {
+   "word": "to",
+   "start": 215.92,
+   "end": 216.1
+  },
+  {
+   "word": "know.",
+   "start": 216.1,
+   "end": 216.38
+  },
+  {
+   "word": "And",
+   "start": 216.8,
+   "end": 216.98
+  },
+  {
+   "word": "every",
+   "start": 216.98,
+   "end": 217.36
+  },
+  {
+   "word": "conversation,",
+   "start": 217.36,
+   "end": 217.96
+  },
+  {
+   "word": "every",
+   "start": 218.48,
+   "end": 218.74
+  },
+  {
+   "word": "small",
+   "start": 218.74,
+   "end": 219.22
+  },
+  {
+   "word": "moment,",
+   "start": 219.22,
+   "end": 219.64
+  },
+  {
+   "word": "is",
+   "start": 219.72,
+   "end": 220.02
+  },
+  {
+   "word": "a",
+   "start": 220.02,
+   "end": 220.28
+  },
+  {
+   "word": "chance",
+   "start": 220.28,
+   "end": 220.46
+  },
+  {
+   "word": "for",
+   "start": 220.46,
+   "end": 220.74
+  },
+  {
+   "word": "a",
+   "start": 220.74,
+   "end": 220.88
+  },
+  {
+   "word": "connection",
+   "start": 220.88,
+   "end": 221.18
+  },
+  {
+   "word": "to",
+   "start": 221.18,
+   "end": 221.5
+  },
+  {
+   "word": "begin.",
+   "start": 221.5,
+   "end": 221.82
+  },
+  {
+   "word": "The",
+   "start": 222.42,
+   "end": 222.64
+  },
+  {
+   "word": "second",
+   "start": 222.64,
+   "end": 222.92
+  },
+  {
+   "word": "force",
+   "start": 222.92,
+   "end": 223.3
+  },
+  {
+   "word": "is",
+   "start": 223.3,
+   "end": 223.52
+  },
+  {
+   "word": "even",
+   "start": 223.52,
+   "end": 223.74
+  },
+  {
+   "word": "more",
+   "start": 223.74,
+   "end": 224.0
+  },
+  {
+   "word": "surprising.",
+   "start": 224.0,
+   "end": 224.46
+  },
+  {
+   "word": "It's",
+   "start": 225.02,
+   "end": 225.24
+  },
+  {
+   "word": "called",
+   "start": 225.24,
+   "end": 225.52
+  },
+  {
+   "word": "the",
+   "start": 225.52,
+   "end": 225.84
+  },
+  {
+   "word": "mere",
+   "start": 225.84,
+   "end": 226.14
+  },
+  {
+   "word": "exposure",
+   "start": 226.14,
+   "end": 226.78
+  },
+  {
+   "word": "effect.",
+   "start": 226.78,
+   "end": 227.24
+  },
+  {
+   "word": "In",
+   "start": 227.84,
+   "end": 228.0
+  },
+  {
+   "word": "the",
+   "start": 228.0,
+   "end": 228.1
+  },
+  {
+   "word": "1960s,",
+   "start": 228.1,
+   "end": 229.1
+  },
+  {
+   "word": "psychologist",
+   "start": 229.38,
+   "end": 229.84
+  },
+  {
+   "word": "Robert",
+   "start": 229.84,
+   "end": 230.34
+  },
+  {
+   "word": "Zajonc",
+   "start": 230.34,
+   "end": 230.96
+  },
+  {
+   "word": "showed",
+   "start": 230.96,
+   "end": 231.16
+  },
+  {
+   "word": "that",
+   "start": 231.16,
+   "end": 231.4
+  },
+  {
+   "word": "people",
+   "start": 231.4,
+   "end": 231.72
+  },
+  {
+   "word": "tend",
+   "start": 231.72,
+   "end": 231.96
+  },
+  {
+   "word": "to",
+   "start": 231.96,
+   "end": 232.16
+  },
+  {
+   "word": "like",
+   "start": 232.16,
+   "end": 232.4
+  },
+  {
+   "word": "things",
+   "start": 232.4,
+   "end": 232.74
+  },
+  {
+   "word": "more,",
+   "start": 232.74,
+   "end": 233.06
+  },
+  {
+   "word": "the",
+   "start": 233.06,
+   "end": 233.32
+  },
+  {
+   "word": "more",
+   "start": 233.32,
+   "end": 233.54
+  },
+  {
+   "word": "often",
+   "start": 233.54,
+   "end": 233.8
+  },
+  {
+   "word": "they",
+   "start": 233.8,
+   "end": 234.0
+  },
+  {
+   "word": "see",
+   "start": 234.0,
+   "end": 234.22
+  },
+  {
+   "word": "them.",
+   "start": 234.22,
+   "end": 234.48
+  },
+  {
+   "word": "Shapes.",
+   "start": 235.06,
+   "end": 235.32
+  },
+  {
+   "word": "Words.",
+   "start": 235.76,
+   "end": 236.06
+  },
+  {
+   "word": "Faces.",
+   "start": 236.48,
+   "end": 236.82
+  },
+  {
+   "word": "Even",
+   "start": 237.42,
+   "end": 237.62
+  },
+  {
+   "word": "when",
+   "start": 237.62,
+   "end": 237.8
+  },
+  {
+   "word": "they",
+   "start": 237.8,
+   "end": 237.98
+  },
+  {
+   "word": "don't",
+   "start": 237.98,
+   "end": 238.22
+  },
+  {
+   "word": "remember",
+   "start": 238.22,
+   "end": 238.66
+  },
+  {
+   "word": "seeing",
+   "start": 238.66,
+   "end": 239.0
+  },
+  {
+   "word": "them",
+   "start": 239.0,
+   "end": 239.2
+  },
+  {
+   "word": "before.",
+   "start": 239.2,
+   "end": 239.62
+  },
+  {
+   "word": "In",
+   "start": 240.1,
+   "end": 240.42
+  },
+  {
+   "word": "1992,",
+   "start": 240.42,
+   "end": 241.28
+  },
+  {
+   "word": "researchers",
+   "start": 241.78,
+   "end": 242.18
+  },
+  {
+   "word": "Richard",
+   "start": 242.18,
+   "end": 242.68
+  },
+  {
+   "word": "Moreland",
+   "start": 242.68,
+   "end": 243.12
+  },
+  {
+   "word": "and",
+   "start": 243.12,
+   "end": 243.36
+  },
+  {
+   "word": "Scott",
+   "start": 243.36,
+   "end": 243.7
+  },
+  {
+   "word": "Beach",
+   "start": 243.7,
+   "end": 244.04
+  },
+  {
+   "word": "tested",
+   "start": 244.04,
+   "end": 244.52
+  },
+  {
+   "word": "this",
+   "start": 244.52,
+   "end": 244.88
+  },
+  {
+   "word": "in",
+   "start": 244.88,
+   "end": 245.0
+  },
+  {
+   "word": "a",
+   "start": 245.0,
+   "end": 245.12
+  },
+  {
+   "word": "real",
+   "start": 245.12,
+   "end": 245.36
+  },
+  {
+   "word": "classroom.",
+   "start": 245.36,
+   "end": 245.94
+  },
+  {
+   "word": "They",
+   "start": 246.62,
+   "end": 246.64
+  },
+  {
+   "word": "had",
+   "start": 246.64,
+   "end": 246.8
+  },
+  {
+   "word": "four",
+   "start": 246.8,
+   "end": 247.16
+  },
+  {
+   "word": "women",
+   "start": 247.16,
+   "end": 247.5
+  },
+  {
+   "word": "attend",
+   "start": 247.5,
+   "end": 247.82
+  },
+  {
+   "word": "a",
+   "start": 247.82,
+   "end": 248.04
+  },
+  {
+   "word": "large",
+   "start": 248.04,
+   "end": 248.32
+  },
+  {
+   "word": "university",
+   "start": 248.32,
+   "end": 248.92
+  },
+  {
+   "word": "lecture.",
+   "start": 248.92,
+   "end": 249.38
+  },
+  {
+   "word": "One",
+   "start": 249.86,
+   "end": 250.14
+  },
+  {
+   "word": "never",
+   "start": 250.14,
+   "end": 250.48
+  },
+  {
+   "word": "came.",
+   "start": 250.48,
+   "end": 250.88
+  },
+  {
+   "word": "The",
+   "start": 251.36,
+   "end": 251.48
+  },
+  {
+   "word": "others",
+   "start": 251.48,
+   "end": 251.74
+  },
+  {
+   "word": "came",
+   "start": 251.74,
+   "end": 252.06
+  },
+  {
+   "word": "five,",
+   "start": 252.06,
+   "end": 252.52
+  },
+  {
+   "word": "ten,",
+   "start": 252.86,
+   "end": 253.12
+  },
+  {
+   "word": "or",
+   "start": 253.42,
+   "end": 253.52
+  },
+  {
+   "word": "fifteen",
+   "start": 253.52,
+   "end": 254.06
+  },
+  {
+   "word": "times.",
+   "start": 254.06,
+   "end": 254.56
+  },
+  {
+   "word": "They",
+   "start": 255.08,
+   "end": 255.28
+  },
+  {
+   "word": "sat",
+   "start": 255.28,
+   "end": 255.54
+  },
+  {
+   "word": "quietly.",
+   "start": 255.54,
+   "end": 256.06
+  },
+  {
+   "word": "They",
+   "start": 256.42,
+   "end": 256.6
+  },
+  {
+   "word": "didn't",
+   "start": 256.6,
+   "end": 256.84
+  },
+  {
+   "word": "talk",
+   "start": 256.84,
+   "end": 257.04
+  },
+  {
+   "word": "to",
+   "start": 257.04,
+   "end": 257.22
+  },
+  {
+   "word": "anyone.",
+   "start": 257.22,
+   "end": 257.56
+  },
+  {
+   "word": "At",
+   "start": 258.24,
+   "end": 258.34
+  },
+  {
+   "word": "the",
+   "start": 258.34,
+   "end": 258.48
+  },
+  {
+   "word": "end",
+   "start": 258.48,
+   "end": 258.6
+  },
+  {
+   "word": "of",
+   "start": 258.6,
+   "end": 258.7
+  },
+  {
+   "word": "the",
+   "start": 258.7,
+   "end": 258.84
+  },
+  {
+   "word": "term,",
+   "start": 258.84,
+   "end": 259.18
+  },
+  {
+   "word": "students",
+   "start": 259.6,
+   "end": 259.76
+  },
+  {
+   "word": "were",
+   "start": 259.76,
+   "end": 260.02
+  },
+  {
+   "word": "shown",
+   "start": 260.02,
+   "end": 260.26
+  },
+  {
+   "word": "photos",
+   "start": 260.26,
+   "end": 260.64
+  },
+  {
+   "word": "of",
+   "start": 260.64,
+   "end": 260.92
+  },
+  {
+   "word": "the",
+   "start": 260.92,
+   "end": 261.04
+  },
+  {
+   "word": "four",
+   "start": 261.04,
+   "end": 261.28
+  },
+  {
+   "word": "women.",
+   "start": 261.28,
+   "end": 261.56
+  },
+  {
+   "word": "The",
+   "start": 262.06,
+   "end": 262.26
+  },
+  {
+   "word": "more",
+   "start": 262.26,
+   "end": 262.52
+  },
+  {
+   "word": "often",
+   "start": 262.52,
+   "end": 262.92
+  },
+  {
+   "word": "a",
+   "start": 262.92,
+   "end": 263.08
+  },
+  {
+   "word": "woman",
+   "start": 263.08,
+   "end": 263.22
+  },
+  {
+   "word": "had",
+   "start": 263.22,
+   "end": 263.46
+  },
+  {
+   "word": "attended,",
+   "start": 263.46,
+   "end": 263.9
+  },
+  {
+   "word": "the",
+   "start": 264.16,
+   "end": 264.34
+  },
+  {
+   "word": "more",
+   "start": 264.34,
+   "end": 264.52
+  },
+  {
+   "word": "attractive",
+   "start": 264.52,
+   "end": 265.02
+  },
+  {
+   "word": "and",
+   "start": 265.02,
+   "end": 265.46
+  },
+  {
+   "word": "likable",
+   "start": 265.46,
+   "end": 265.92
+  },
+  {
+   "word": "the",
+   "start": 265.92,
+   "end": 266.12
+  },
+  {
+   "word": "students",
+   "start": 266.12,
+   "end": 266.44
+  },
+  {
+   "word": "rated",
+   "start": 266.44,
+   "end": 266.76
+  },
+  {
+   "word": "her.",
+   "start": 266.76,
+   "end": 267.02
+  },
+  {
+   "word": "Even",
+   "start": 267.02,
+   "end": 267.68
+  },
+  {
+   "word": "though",
+   "start": 267.68,
+   "end": 267.84
+  },
+  {
+   "word": "most",
+   "start": 267.84,
+   "end": 268.14
+  },
+  {
+   "word": "students",
+   "start": 268.14,
+   "end": 268.5
+  },
+  {
+   "word": "said",
+   "start": 268.5,
+   "end": 268.76
+  },
+  {
+   "word": "they",
+   "start": 268.76,
+   "end": 268.96
+  },
+  {
+   "word": "didn't",
+   "start": 268.96,
+   "end": 269.26
+  },
+  {
+   "word": "remember",
+   "start": 269.26,
+   "end": 269.58
+  },
+  {
+   "word": "seeing",
+   "start": 269.58,
+   "end": 269.88
+  },
+  {
+   "word": "her",
+   "start": 269.88,
+   "end": 270.12
+  },
+  {
+   "word": "at",
+   "start": 270.12,
+   "end": 270.26
+  },
+  {
+   "word": "all.",
+   "start": 270.26,
+   "end": 270.56
+  },
+  {
+   "word": "Your",
+   "start": 271.16,
+   "end": 271.2
+  },
+  {
+   "word": "brain",
+   "start": 271.2,
+   "end": 271.58
+  },
+  {
+   "word": "was",
+   "start": 271.58,
+   "end": 271.84
+  },
+  {
+   "word": "quietly",
+   "start": 271.84,
+   "end": 272.32
+  },
+  {
+   "word": "falling",
+   "start": 272.32,
+   "end": 272.86
+  },
+  {
+   "word": "for",
+   "start": 272.86,
+   "end": 273.2
+  },
+  {
+   "word": "familiarity,",
+   "start": 273.2,
+   "end": 273.72
+  },
+  {
+   "word": "without",
+   "start": 273.72,
+   "end": 274.54
+  },
+  {
+   "word": "telling",
+   "start": 274.54,
+   "end": 274.88
+  },
+  {
+   "word": "you.",
+   "start": 274.88,
+   "end": 275.34
+  },
+  {
+   "word": "Why",
+   "start": 275.66,
+   "end": 275.94
+  },
+  {
+   "word": "would",
+   "start": 275.94,
+   "end": 276.08
+  },
+  {
+   "word": "it",
+   "start": 276.08,
+   "end": 276.22
+  },
+  {
+   "word": "do",
+   "start": 276.22,
+   "end": 276.42
+  },
+  {
+   "word": "that?",
+   "start": 276.42,
+   "end": 276.72
+  },
+  {
+   "word": "One",
+   "start": 277.32,
+   "end": 277.52
+  },
+  {
+   "word": "idea",
+   "start": 277.52,
+   "end": 277.86
+  },
+  {
+   "word": "is",
+   "start": 277.86,
+   "end": 278.24
+  },
+  {
+   "word": "that,",
+   "start": 278.24,
+   "end": 278.46
+  },
+  {
+   "word": "for",
+   "start": 278.46,
+   "end": 278.72
+  },
+  {
+   "word": "most",
+   "start": 278.72,
+   "end": 278.9
+  },
+  {
+   "word": "of",
+   "start": 278.9,
+   "end": 279.1
+  },
+  {
+   "word": "our",
+   "start": 279.1,
+   "end": 279.24
+  },
+  {
+   "word": "history,",
+   "start": 279.24,
+   "end": 279.66
+  },
+  {
+   "word": "the",
+   "start": 279.92,
+   "end": 280.06
+  },
+  {
+   "word": "familiar",
+   "start": 280.06,
+   "end": 280.46
+  },
+  {
+   "word": "was",
+   "start": 280.46,
+   "end": 280.88
+  },
+  {
+   "word": "usually",
+   "start": 280.88,
+   "end": 281.32
+  },
+  {
+   "word": "the",
+   "start": 281.32,
+   "end": 281.54
+  },
+  {
+   "word": "safe.",
+   "start": 281.54,
+   "end": 281.86
+  },
+  {
+   "word": "If",
+   "start": 282.42,
+   "end": 282.58
+  },
+  {
+   "word": "you'd",
+   "start": 282.58,
+   "end": 282.8
+  },
+  {
+   "word": "seen",
+   "start": 282.8,
+   "end": 282.96
+  },
+  {
+   "word": "someone",
+   "start": 282.96,
+   "end": 283.34
+  },
+  {
+   "word": "many",
+   "start": 283.34,
+   "end": 283.6
+  },
+  {
+   "word": "times",
+   "start": 283.6,
+   "end": 284.12
+  },
+  {
+   "word": "and",
+   "start": 284.12,
+   "end": 284.4
+  },
+  {
+   "word": "nothing",
+   "start": 284.4,
+   "end": 284.72
+  },
+  {
+   "word": "bad",
+   "start": 284.72,
+   "end": 285.02
+  },
+  {
+   "word": "happened,",
+   "start": 285.02,
+   "end": 285.44
+  },
+  {
+   "word": "your",
+   "start": 285.7,
+   "end": 285.86
+  },
+  {
+   "word": "brain",
+   "start": 285.86,
+   "end": 286.14
+  },
+  {
+   "word": "started",
+   "start": 286.14,
+   "end": 286.48
+  },
+  {
+   "word": "to",
+   "start": 286.48,
+   "end": 286.74
+  },
+  {
+   "word": "relax",
+   "start": 286.74,
+   "end": 287.04
+  },
+  {
+   "word": "around",
+   "start": 287.04,
+   "end": 287.36
+  },
+  {
+   "word": "them.",
+   "start": 287.36,
+   "end": 287.74
+  },
+  {
+   "word": "That",
+   "start": 287.96,
+   "end": 288.28
+  },
+  {
+   "word": "comfort",
+   "start": 288.28,
+   "end": 288.72
+  },
+  {
+   "word": "can",
+   "start": 288.72,
+   "end": 289.06
+  },
+  {
+   "word": "slowly",
+   "start": 289.06,
+   "end": 289.46
+  },
+  {
+   "word": "turn",
+   "start": 289.46,
+   "end": 289.86
+  },
+  {
+   "word": "into",
+   "start": 289.86,
+   "end": 290.14
+  },
+  {
+   "word": "liking.",
+   "start": 290.14,
+   "end": 290.42
+  },
+  {
+   "word": "And",
+   "start": 291.28,
+   "end": 291.28
+  },
+  {
+   "word": "the",
+   "start": 291.28,
+   "end": 291.42
+  },
+  {
+   "word": "third",
+   "start": 291.42,
+   "end": 291.62
+  },
+  {
+   "word": "force?",
+   "start": 291.62,
+   "end": 292.08
+  },
+  {
+   "word": "Expectation.",
+   "start": 292.92,
+   "end": 293.52
+  },
+  {
+   "word": "In",
+   "start": 293.52,
+   "end": 294.14
+  },
+  {
+   "word": "1967,",
+   "start": 294.14,
+   "end": 295.04
+  },
+  {
+   "word": "psychologists",
+   "start": 295.62,
+   "end": 296.14
+  },
+  {
+   "word": "John",
+   "start": 296.14,
+   "end": 296.58
+  },
+  {
+   "word": "Darley",
+   "start": 296.58,
+   "end": 297.02
+  },
+  {
+   "word": "and",
+   "start": 297.02,
+   "end": 297.26
+  },
+  {
+   "word": "Ellen",
+   "start": 297.26,
+   "end": 297.58
+  },
+  {
+   "word": "Berscheid",
+   "start": 297.58,
+   "end": 298.12
+  },
+  {
+   "word": "gave",
+   "start": 298.12,
+   "end": 298.44
+  },
+  {
+   "word": "women",
+   "start": 298.44,
+   "end": 298.74
+  },
+  {
+   "word": "information",
+   "start": 298.74,
+   "end": 299.26
+  },
+  {
+   "word": "about",
+   "start": 299.26,
+   "end": 299.68
+  },
+  {
+   "word": "two",
+   "start": 299.68,
+   "end": 300.02
+  },
+  {
+   "word": "other",
+   "start": 300.02,
+   "end": 300.32
+  },
+  {
+   "word": "women,",
+   "start": 300.32,
+   "end": 300.6
+  },
+  {
+   "word": "and",
+   "start": 300.6,
+   "end": 301.02
+  },
+  {
+   "word": "told",
+   "start": 301.02,
+   "end": 301.24
+  },
+  {
+   "word": "them",
+   "start": 301.24,
+   "end": 301.48
+  },
+  {
+   "word": "they",
+   "start": 301.48,
+   "end": 301.6
+  },
+  {
+   "word": "would",
+   "start": 301.6,
+   "end": 301.72
+  },
+  {
+   "word": "soon",
+   "start": 301.72,
+   "end": 301.98
+  },
+  {
+   "word": "be",
+   "start": 301.98,
+   "end": 302.16
+  },
+  {
+   "word": "getting",
+   "start": 302.16,
+   "end": 302.32
+  },
+  {
+   "word": "to",
+   "start": 302.32,
+   "end": 302.56
+  },
+  {
+   "word": "know",
+   "start": 302.56,
+   "end": 302.76
+  },
+  {
+   "word": "one",
+   "start": 302.76,
+   "end": 303.0
+  },
+  {
+   "word": "of",
+   "start": 303.0,
+   "end": 303.16
+  },
+  {
+   "word": "them.",
+   "start": 303.16,
+   "end": 303.36
+  },
+  {
+   "word": "The",
+   "start": 303.92,
+   "end": 303.94
+  },
+  {
+   "word": "participants",
+   "start": 303.94,
+   "end": 304.4
+  },
+  {
+   "word": "rated",
+   "start": 304.4,
+   "end": 304.86
+  },
+  {
+   "word": "the",
+   "start": 304.86,
+   "end": 305.08
+  },
+  {
+   "word": "person",
+   "start": 305.08,
+   "end": 305.34
+  },
+  {
+   "word": "they",
+   "start": 305.34,
+   "end": 305.56
+  },
+  {
+   "word": "expected",
+   "start": 305.56,
+   "end": 306.0
+  },
+  {
+   "word": "to",
+   "start": 306.0,
+   "end": 306.28
+  },
+  {
+   "word": "meet",
+   "start": 306.28,
+   "end": 306.48
+  },
+  {
+   "word": "as",
+   "start": 306.48,
+   "end": 306.72
+  },
+  {
+   "word": "more",
+   "start": 306.72,
+   "end": 306.98
+  },
+  {
+   "word": "likable,",
+   "start": 306.98,
+   "end": 307.5
+  },
+  {
+   "word": "before",
+   "start": 307.5,
+   "end": 308.04
+  },
+  {
+   "word": "they",
+   "start": 308.04,
+   "end": 308.26
+  },
+  {
+   "word": "had",
+   "start": 308.26,
+   "end": 308.38
+  },
+  {
+   "word": "met",
+   "start": 308.38,
+   "end": 308.58
+  },
+  {
+   "word": "either",
+   "start": 308.58,
+   "end": 308.88
+  },
+  {
+   "word": "one.",
+   "start": 308.88,
+   "end": 309.3
+  },
+  {
+   "word": "When",
+   "start": 309.82,
+   "end": 309.9
+  },
+  {
+   "word": "we",
+   "start": 309.9,
+   "end": 310.08
+  },
+  {
+   "word": "know",
+   "start": 310.08,
+   "end": 310.36
+  },
+  {
+   "word": "we'll",
+   "start": 310.36,
+   "end": 310.64
+  },
+  {
+   "word": "keep",
+   "start": 310.64,
+   "end": 310.82
+  },
+  {
+   "word": "seeing",
+   "start": 310.82,
+   "end": 311.16
+  },
+  {
+   "word": "someone,",
+   "start": 311.16,
+   "end": 311.6
+  },
+  {
+   "word": "our",
+   "start": 311.88,
+   "end": 312.06
+  },
+  {
+   "word": "minds",
+   "start": 312.06,
+   "end": 312.38
+  },
+  {
+   "word": "start",
+   "start": 312.38,
+   "end": 312.7
+  },
+  {
+   "word": "looking",
+   "start": 312.7,
+   "end": 313.02
+  },
+  {
+   "word": "for",
+   "start": 313.02,
+   "end": 313.34
+  },
+  {
+   "word": "reasons",
+   "start": 313.34,
+   "end": 313.62
+  },
+  {
+   "word": "to",
+   "start": 313.62,
+   "end": 313.94
+  },
+  {
+   "word": "like",
+   "start": 313.94,
+   "end": 314.12
+  },
+  {
+   "word": "them.",
+   "start": 314.12,
+   "end": 314.38
+  },
+  {
+   "word": "It's",
+   "start": 314.66,
+   "end": 314.84
+  },
+  {
+   "word": "easier",
+   "start": 314.84,
+   "end": 315.2
+  },
+  {
+   "word": "to",
+   "start": 315.2,
+   "end": 315.48
+  },
+  {
+   "word": "live",
+   "start": 315.48,
+   "end": 315.68
+  },
+  {
+   "word": "alongside",
+   "start": 315.68,
+   "end": 315.96
+  },
+  {
+   "word": "someone",
+   "start": 315.96,
+   "end": 316.72
+  },
+  {
+   "word": "you",
+   "start": 316.72,
+   "end": 316.92
+  },
+  {
+   "word": "like.",
+   "start": 316.92,
+   "end": 317.22
+  },
+  {
+   "word": "But",
+   "start": 317.9,
+   "end": 317.98
+  },
+  {
+   "word": "here's",
+   "start": 317.98,
+   "end": 318.28
+  },
+  {
+   "word": "the",
+   "start": 318.28,
+   "end": 318.42
+  },
+  {
+   "word": "twist.",
+   "start": 318.42,
+   "end": 318.78
+  },
+  {
+   "word": "Proximity",
+   "start": 319.56,
+   "end": 319.92
+  },
+  {
+   "word": "doesn't",
+   "start": 319.92,
+   "end": 320.48
+  },
+  {
+   "word": "only",
+   "start": 320.48,
+   "end": 320.84
+  },
+  {
+   "word": "create",
+   "start": 320.84,
+   "end": 321.26
+  },
+  {
+   "word": "love.",
+   "start": 321.26,
+   "end": 321.62
+  },
+  {
+   "word": "It",
+   "start": 322.12,
+   "end": 322.32
+  },
+  {
+   "word": "turns",
+   "start": 322.32,
+   "end": 322.6
+  },
+  {
+   "word": "up",
+   "start": 322.6,
+   "end": 322.82
+  },
+  {
+   "word": "the",
+   "start": 322.82,
+   "end": 322.96
+  },
+  {
+   "word": "volume",
+   "start": 322.96,
+   "end": 323.46
+  },
+  {
+   "word": "on",
+   "start": 323.46,
+   "end": 323.8
+  },
+  {
+   "word": "everything.",
+   "start": 323.8,
+   "end": 324.44
+  },
+  {
+   "word": "In",
+   "start": 325.2,
+   "end": 325.34
+  },
+  {
+   "word": "1976,",
+   "start": 325.34,
+   "end": 326.3
+  },
+  {
+   "word": "researchers",
+   "start": 326.88,
+   "end": 327.3
+  },
+  {
+   "word": "Ebbe",
+   "start": 327.3,
+   "end": 327.98
+  },
+  {
+   "word": "Ebbesen,",
+   "start": 327.98,
+   "end": 328.66
+  },
+  {
+   "word": "Glenn",
+   "start": 328.66,
+   "end": 328.78
+  },
+  {
+   "word": "Kjos",
+   "start": 328.78,
+   "end": 329.5
+  },
+  {
+   "word": "and",
+   "start": 329.5,
+   "end": 329.62
+  },
+  {
+   "word": "Vladimir",
+   "start": 329.62,
+   "end": 330.04
+  },
+  {
+   "word": "Konečni",
+   "start": 330.04,
+   "end": 330.72
+  },
+  {
+   "word": "studied",
+   "start": 330.72,
+   "end": 331.32
+  },
+  {
+   "word": "residents",
+   "start": 331.32,
+   "end": 331.74
+  },
+  {
+   "word": "of",
+   "start": 331.74,
+   "end": 331.98
+  },
+  {
+   "word": "a",
+   "start": 331.98,
+   "end": 332.18
+  },
+  {
+   "word": "condominium",
+   "start": 332.18,
+   "end": 332.62
+  },
+  {
+   "word": "complex",
+   "start": 332.62,
+   "end": 333.22
+  },
+  {
+   "word": "in",
+   "start": 333.22,
+   "end": 333.48
+  },
+  {
+   "word": "California.",
+   "start": 333.48,
+   "end": 333.98
+  },
+  {
+   "word": "Yes,",
+   "start": 334.84,
+   "end": 335.0
+  },
+  {
+   "word": "most",
+   "start": 335.4,
+   "end": 335.64
+  },
+  {
+   "word": "of",
+   "start": 335.64,
+   "end": 335.82
+  },
+  {
+   "word": "the",
+   "start": 335.82,
+   "end": 335.94
+  },
+  {
+   "word": "people's",
+   "start": 335.94,
+   "end": 336.34
+  },
+  {
+   "word": "friends",
+   "start": 336.34,
+   "end": 336.6
+  },
+  {
+   "word": "lived",
+   "start": 336.6,
+   "end": 337.0
+  },
+  {
+   "word": "close",
+   "start": 337.0,
+   "end": 337.34
+  },
+  {
+   "word": "by.",
+   "start": 337.34,
+   "end": 337.68
+  },
+  {
+   "word": "But",
+   "start": 338.2,
+   "end": 338.42
+  },
+  {
+   "word": "so",
+   "start": 338.42,
+   "end": 338.64
+  },
+  {
+   "word": "did",
+   "start": 338.64,
+   "end": 338.8
+  },
+  {
+   "word": "most",
+   "start": 338.8,
+   "end": 339.08
+  },
+  {
+   "word": "of",
+   "start": 339.08,
+   "end": 339.3
+  },
+  {
+   "word": "the",
+   "start": 339.3,
+   "end": 339.42
+  },
+  {
+   "word": "people",
+   "start": 339.42,
+   "end": 339.68
+  },
+  {
+   "word": "they",
+   "start": 339.68,
+   "end": 339.9
+  },
+  {
+   "word": "disliked.",
+   "start": 339.9,
+   "end": 340.4
+  },
+  {
+   "word": "The",
+   "start": 341.02,
+   "end": 341.24
+  },
+  {
+   "word": "neighbour",
+   "start": 341.24,
+   "end": 341.42
+  },
+  {
+   "word": "who",
+   "start": 341.42,
+   "end": 341.72
+  },
+  {
+   "word": "becomes",
+   "start": 341.72,
+   "end": 342.02
+  },
+  {
+   "word": "your",
+   "start": 342.02,
+   "end": 342.24
+  },
+  {
+   "word": "best",
+   "start": 342.24,
+   "end": 342.56
+  },
+  {
+   "word": "friend,",
+   "start": 342.56,
+   "end": 342.96
+  },
+  {
+   "word": "and",
+   "start": 343.24,
+   "end": 343.5
+  },
+  {
+   "word": "the",
+   "start": 343.5,
+   "end": 343.64
+  },
+  {
+   "word": "neighbour",
+   "start": 343.64,
+   "end": 343.8
+  },
+  {
+   "word": "you",
+   "start": 343.8,
+   "end": 344.06
+  },
+  {
+   "word": "can't",
+   "start": 344.06,
+   "end": 344.4
+  },
+  {
+   "word": "stand,",
+   "start": 344.4,
+   "end": 344.92
+  },
+  {
+   "word": "often",
+   "start": 345.22,
+   "end": 345.5
+  },
+  {
+   "word": "live",
+   "start": 345.5,
+   "end": 345.76
+  },
+  {
+   "word": "on",
+   "start": 345.76,
+   "end": 345.94
+  },
+  {
+   "word": "the",
+   "start": 345.94,
+   "end": 346.1
+  },
+  {
+   "word": "same",
+   "start": 346.1,
+   "end": 346.34
+  },
+  {
+   "word": "floor.",
+   "start": 346.34,
+   "end": 346.78
+  },
+  {
+   "word": "Closeness",
+   "start": 347.58,
+   "end": 347.92
+  },
+  {
+   "word": "gives",
+   "start": 347.92,
+   "end": 348.16
+  },
+  {
+   "word": "people",
+   "start": 348.16,
+   "end": 348.54
+  },
+  {
+   "word": "more",
+   "start": 348.54,
+   "end": 348.86
+  },
+  {
+   "word": "chances",
+   "start": 348.86,
+   "end": 349.22
+  },
+  {
+   "word": "to",
+   "start": 349.22,
+   "end": 349.54
+  },
+  {
+   "word": "connect.",
+   "start": 349.54,
+   "end": 349.88
+  },
+  {
+   "word": "It",
+   "start": 350.48,
+   "end": 350.58
+  },
+  {
+   "word": "also",
+   "start": 350.58,
+   "end": 350.82
+  },
+  {
+   "word": "gives",
+   "start": 350.82,
+   "end": 351.1
+  },
+  {
+   "word": "them",
+   "start": 351.1,
+   "end": 351.32
+  },
+  {
+   "word": "more",
+   "start": 351.32,
+   "end": 351.52
+  },
+  {
+   "word": "chances",
+   "start": 351.52,
+   "end": 351.84
+  },
+  {
+   "word": "to",
+   "start": 351.84,
+   "end": 352.16
+  },
+  {
+   "word": "annoy",
+   "start": 352.16,
+   "end": 352.5
+  },
+  {
+   "word": "each",
+   "start": 352.5,
+   "end": 352.78
+  },
+  {
+   "word": "other.",
+   "start": 352.78,
+   "end": 353.08
+  },
+  {
+   "word": "Loud",
+   "start": 353.82,
+   "end": 353.82
+  },
+  {
+   "word": "music.",
+   "start": 353.82,
+   "end": 354.34
+  },
+  {
+   "word": "Blocked",
+   "start": 354.84,
+   "end": 354.96
+  },
+  {
+   "word": "parking",
+   "start": 354.96,
+   "end": 355.38
+  },
+  {
+   "word": "spaces.",
+   "start": 355.38,
+   "end": 355.88
+  },
+  {
+   "word": "That",
+   "start": 356.42,
+   "end": 356.54
+  },
+  {
+   "word": "one",
+   "start": 356.54,
+   "end": 356.9
+  },
+  {
+   "word": "dog",
+   "start": 356.9,
+   "end": 357.3
+  },
+  {
+   "word": "that",
+   "start": 357.3,
+   "end": 357.56
+  },
+  {
+   "word": "never",
+   "start": 357.56,
+   "end": 357.94
+  },
+  {
+   "word": "stops",
+   "start": 357.94,
+   "end": 358.32
+  },
+  {
+   "word": "barking.",
+   "start": 358.32,
+   "end": 358.86
+  },
+  {
+   "word": "Proximity",
+   "start": 359.56,
+   "end": 359.96
+  },
+  {
+   "word": "isn't",
+   "start": 359.96,
+   "end": 360.46
+  },
+  {
+   "word": "a",
+   "start": 360.46,
+   "end": 360.64
+  },
+  {
+   "word": "love",
+   "start": 360.64,
+   "end": 360.84
+  },
+  {
+   "word": "potion.",
+   "start": 360.84,
+   "end": 361.28
+  },
+  {
+   "word": "It's",
+   "start": 361.78,
+   "end": 361.96
+  },
+  {
+   "word": "an",
+   "start": 361.96,
+   "end": 362.1
+  },
+  {
+   "word": "amplifier.",
+   "start": 362.1,
+   "end": 362.68
+  },
+  {
+   "word": "So",
+   "start": 363.54,
+   "end": 363.76
+  },
+  {
+   "word": "what",
+   "start": 363.76,
+   "end": 364.1
+  },
+  {
+   "word": "about",
+   "start": 364.1,
+   "end": 364.32
+  },
+  {
+   "word": "today?",
+   "start": 364.32,
+   "end": 364.64
+  },
+  {
+   "word": "We",
+   "start": 365.18,
+   "end": 365.4
+  },
+  {
+   "word": "don't",
+   "start": 365.4,
+   "end": 365.6
+  },
+  {
+   "word": "need",
+   "start": 365.6,
+   "end": 365.76
+  },
+  {
+   "word": "to",
+   "start": 365.76,
+   "end": 365.96
+  },
+  {
+   "word": "live",
+   "start": 365.96,
+   "end": 366.1
+  },
+  {
+   "word": "next",
+   "start": 366.1,
+   "end": 366.36
+  },
+  {
+   "word": "door",
+   "start": 366.36,
+   "end": 366.62
+  },
+  {
+   "word": "anymore.",
+   "start": 366.62,
+   "end": 367.0
+  },
+  {
+   "word": "We",
+   "start": 367.42,
+   "end": 367.62
+  },
+  {
+   "word": "have",
+   "start": 367.62,
+   "end": 367.78
+  },
+  {
+   "word": "phones.",
+   "start": 367.78,
+   "end": 368.12
+  },
+  {
+   "word": "Sociologist",
+   "start": 369.02,
+   "end": 369.56
+  },
+  {
+   "word": "Michael",
+   "start": 369.56,
+   "end": 369.98
+  },
+  {
+   "word": "Rosenfeld",
+   "start": 369.98,
+   "end": 370.62
+  },
+  {
+   "word": "and",
+   "start": 370.62,
+   "end": 370.86
+  },
+  {
+   "word": "his",
+   "start": 370.86,
+   "end": 371.06
+  },
+  {
+   "word": "colleagues",
+   "start": 371.06,
+   "end": 371.44
+  },
+  {
+   "word": "have",
+   "start": 371.44,
+   "end": 371.76
+  },
+  {
+   "word": "tracked",
+   "start": 371.76,
+   "end": 372.14
+  },
+  {
+   "word": "how",
+   "start": 372.14,
+   "end": 372.4
+  },
+  {
+   "word": "American",
+   "start": 372.4,
+   "end": 372.86
+  },
+  {
+   "word": "couples",
+   "start": 372.86,
+   "end": 373.18
+  },
+  {
+   "word": "meet.",
+   "start": 373.18,
+   "end": 373.6
+  },
+  {
+   "word": "By",
+   "start": 374.18,
+   "end": 374.28
+  },
+  {
+   "word": "2017,",
+   "start": 374.28,
+   "end": 375.1
+  },
+  {
+   "word": "meeting",
+   "start": 375.66,
+   "end": 375.84
+  },
+  {
+   "word": "online",
+   "start": 375.84,
+   "end": 376.36
+  },
+  {
+   "word": "had",
+   "start": 376.36,
+   "end": 376.66
+  },
+  {
+   "word": "become",
+   "start": 376.66,
+   "end": 376.94
+  },
+  {
+   "word": "the",
+   "start": 376.94,
+   "end": 377.14
+  },
+  {
+   "word": "most",
+   "start": 377.14,
+   "end": 377.38
+  },
+  {
+   "word": "common",
+   "start": 377.38,
+   "end": 377.8
+  },
+  {
+   "word": "way",
+   "start": 377.8,
+   "end": 378.12
+  },
+  {
+   "word": "for",
+   "start": 378.12,
+   "end": 378.4
+  },
+  {
+   "word": "heterosexual",
+   "start": 378.4,
+   "end": 378.92
+  },
+  {
+   "word": "couples",
+   "start": 378.92,
+   "end": 379.5
+  },
+  {
+   "word": "in",
+   "start": 379.5,
+   "end": 379.74
+  },
+  {
+   "word": "the",
+   "start": 379.74,
+   "end": 379.86
+  },
+  {
+   "word": "United",
+   "start": 379.86,
+   "end": 380.1
+  },
+  {
+   "word": "States",
+   "start": 380.1,
+   "end": 380.48
+  },
+  {
+   "word": "to",
+   "start": 380.48,
+   "end": 380.8
+  },
+  {
+   "word": "meet,",
+   "start": 380.8,
+   "end": 381.04
+  },
+  {
+   "word": "overtaking",
+   "start": 381.46,
+   "end": 382.04
+  },
+  {
+   "word": "meeting",
+   "start": 382.04,
+   "end": 382.28
+  },
+  {
+   "word": "through",
+   "start": 382.28,
+   "end": 382.66
+  },
+  {
+   "word": "friends.",
+   "start": 382.66,
+   "end": 383.04
+  },
+  {
+   "word": "But",
+   "start": 383.72,
+   "end": 383.8
+  },
+  {
+   "word": "even",
+   "start": 383.8,
+   "end": 384.08
+  },
+  {
+   "word": "online,",
+   "start": 384.08,
+   "end": 384.64
+  },
+  {
+   "word": "proximity",
+   "start": 385.12,
+   "end": 385.48
+  },
+  {
+   "word": "hasn't",
+   "start": 385.48,
+   "end": 386.04
+  },
+  {
+   "word": "disappeared.",
+   "start": 386.04,
+   "end": 386.54
+  },
+  {
+   "word": "It's",
+   "start": 387.14,
+   "end": 387.4
+  },
+  {
+   "word": "changed",
+   "start": 387.4,
+   "end": 387.74
+  },
+  {
+   "word": "shape.",
+   "start": 387.74,
+   "end": 388.22
+  },
+  {
+   "word": "Dating",
+   "start": 389.14,
+   "end": 389.14
+  },
+  {
+   "word": "apps",
+   "start": 389.14,
+   "end": 389.44
+  },
+  {
+   "word": "sort",
+   "start": 389.44,
+   "end": 389.76
+  },
+  {
+   "word": "people",
+   "start": 389.76,
+   "end": 390.06
+  },
+  {
+   "word": "by",
+   "start": 390.06,
+   "end": 390.38
+  },
+  {
+   "word": "distance.",
+   "start": 390.38,
+   "end": 390.78
+  },
+  {
+   "word": "Group",
+   "start": 391.54,
+   "end": 391.62
+  },
+  {
+   "word": "chats",
+   "start": 391.62,
+   "end": 391.92
+  },
+  {
+   "word": "put",
+   "start": 391.92,
+   "end": 392.24
+  },
+  {
+   "word": "the",
+   "start": 392.24,
+   "end": 392.42
+  },
+  {
+   "word": "same",
+   "start": 392.42,
+   "end": 392.7
+  },
+  {
+   "word": "faces",
+   "start": 392.7,
+   "end": 393.08
+  },
+  {
+   "word": "in",
+   "start": 393.08,
+   "end": 393.38
+  },
+  {
+   "word": "front",
+   "start": 393.38,
+   "end": 393.54
+  },
+  {
+   "word": "of",
+   "start": 393.54,
+   "end": 393.68
+  },
+  {
+   "word": "you",
+   "start": 393.68,
+   "end": 393.88
+  },
+  {
+   "word": "every",
+   "start": 393.88,
+   "end": 394.24
+  },
+  {
+   "word": "day.",
+   "start": 394.24,
+   "end": 394.54
+  },
+  {
+   "word": "The",
+   "start": 395.08,
+   "end": 395.24
+  },
+  {
+   "word": "person",
+   "start": 395.24,
+   "end": 395.5
+  },
+  {
+   "word": "who",
+   "start": 395.5,
+   "end": 395.76
+  },
+  {
+   "word": "keeps",
+   "start": 395.76,
+   "end": 396.02
+  },
+  {
+   "word": "replying",
+   "start": 396.02,
+   "end": 396.58
+  },
+  {
+   "word": "to",
+   "start": 396.58,
+   "end": 396.78
+  },
+  {
+   "word": "your",
+   "start": 396.78,
+   "end": 396.96
+  },
+  {
+   "word": "stories,",
+   "start": 396.96,
+   "end": 397.42
+  },
+  {
+   "word": "whose",
+   "start": 397.78,
+   "end": 397.94
+  },
+  {
+   "word": "name",
+   "start": 397.94,
+   "end": 398.18
+  },
+  {
+   "word": "you",
+   "start": 398.18,
+   "end": 398.42
+  },
+  {
+   "word": "see",
+   "start": 398.42,
+   "end": 398.66
+  },
+  {
+   "word": "again",
+   "start": 398.66,
+   "end": 399.12
+  },
+  {
+   "word": "and",
+   "start": 399.12,
+   "end": 399.4
+  },
+  {
+   "word": "again,",
+   "start": 399.4,
+   "end": 399.84
+  },
+  {
+   "word": "is",
+   "start": 400.04,
+   "end": 400.32
+  },
+  {
+   "word": "becoming",
+   "start": 400.32,
+   "end": 400.72
+  },
+  {
+   "word": "familiar.",
+   "start": 400.72,
+   "end": 401.2
+  },
+  {
+   "word": "And",
+   "start": 401.84,
+   "end": 402.06
+  },
+  {
+   "word": "familiar,",
+   "start": 402.06,
+   "end": 402.42
+  },
+  {
+   "word": "as",
+   "start": 402.78,
+   "end": 402.96
+  },
+  {
+   "word": "we've",
+   "start": 402.96,
+   "end": 403.24
+  },
+  {
+   "word": "seen,",
+   "start": 403.24,
+   "end": 403.52
+  },
+  {
+   "word": "tends",
+   "start": 403.92,
+   "end": 404.08
+  },
+  {
+   "word": "to",
+   "start": 404.08,
+   "end": 404.36
+  },
+  {
+   "word": "feel",
+   "start": 404.36,
+   "end": 404.56
+  },
+  {
+   "word": "good.",
+   "start": 404.56,
+   "end": 404.88
+  },
+  {
+   "word": "Proximity",
+   "start": 404.88,
+   "end": 405.94
+  },
+  {
+   "word": "used",
+   "start": 405.94,
+   "end": 406.28
+  },
+  {
+   "word": "to",
+   "start": 406.28,
+   "end": 406.48
+  },
+  {
+   "word": "mean",
+   "start": 406.48,
+   "end": 406.64
+  },
+  {
+   "word": "the",
+   "start": 406.64,
+   "end": 406.88
+  },
+  {
+   "word": "same",
+   "start": 406.88,
+   "end": 407.14
+  },
+  {
+   "word": "hallway.",
+   "start": 407.14,
+   "end": 407.64
+  },
+  {
+   "word": "Now",
+   "start": 408.32,
+   "end": 408.54
+  },
+  {
+   "word": "it",
+   "start": 408.54,
+   "end": 408.88
+  },
+  {
+   "word": "can",
+   "start": 408.88,
+   "end": 409.04
+  },
+  {
+   "word": "mean",
+   "start": 409.04,
+   "end": 409.22
+  },
+  {
+   "word": "the",
+   "start": 409.22,
+   "end": 409.4
+  },
+  {
+   "word": "same",
+   "start": 409.4,
+   "end": 409.66
+  },
+  {
+   "word": "feed.",
+   "start": 409.66,
+   "end": 410.08
+  },
+  {
+   "word": "So",
+   "start": 410.98,
+   "end": 411.02
+  },
+  {
+   "word": "what",
+   "start": 411.02,
+   "end": 411.4
+  },
+  {
+   "word": "does",
+   "start": 411.4,
+   "end": 411.58
+  },
+  {
+   "word": "all",
+   "start": 411.58,
+   "end": 411.74
+  },
+  {
+   "word": "of",
+   "start": 411.74,
+   "end": 411.88
+  },
+  {
+   "word": "this",
+   "start": 411.88,
+   "end": 412.0
+  },
+  {
+   "word": "mean",
+   "start": 412.0,
+   "end": 412.22
+  },
+  {
+   "word": "for",
+   "start": 412.22,
+   "end": 412.46
+  },
+  {
+   "word": "you?",
+   "start": 412.46,
+   "end": 412.76
+  },
+  {
+   "word": "First,",
+   "start": 413.4,
+   "end": 413.66
+  },
+  {
+   "word": "if",
+   "start": 414.06,
+   "end": 414.16
+  },
+  {
+   "word": "you",
+   "start": 414.16,
+   "end": 414.3
+  },
+  {
+   "word": "want",
+   "start": 414.3,
+   "end": 414.52
+  },
+  {
+   "word": "new",
+   "start": 414.52,
+   "end": 414.74
+  },
+  {
+   "word": "friends,",
+   "start": 414.74,
+   "end": 415.14
+  },
+  {
+   "word": "or",
+   "start": 415.14,
+   "end": 415.72
+  },
+  {
+   "word": "new",
+   "start": 415.72,
+   "end": 415.94
+  },
+  {
+   "word": "love,",
+   "start": 415.94,
+   "end": 416.3
+  },
+  {
+   "word": "distance",
+   "start": 416.88,
+   "end": 417.2
+  },
+  {
+   "word": "matters",
+   "start": 417.2,
+   "end": 417.6
+  },
+  {
+   "word": "more",
+   "start": 417.6,
+   "end": 418.0
+  },
+  {
+   "word": "than",
+   "start": 418.0,
+   "end": 418.18
+  },
+  {
+   "word": "you",
+   "start": 418.18,
+   "end": 418.36
+  },
+  {
+   "word": "think.",
+   "start": 418.36,
+   "end": 418.66
+  },
+  {
+   "word": "Show",
+   "start": 419.36,
+   "end": 419.44
+  },
+  {
+   "word": "up",
+   "start": 419.44,
+   "end": 419.6
+  },
+  {
+   "word": "to",
+   "start": 419.6,
+   "end": 419.76
+  },
+  {
+   "word": "the",
+   "start": 419.76,
+   "end": 419.9
+  },
+  {
+   "word": "same",
+   "start": 419.9,
+   "end": 420.2
+  },
+  {
+   "word": "places,",
+   "start": 420.2,
+   "end": 420.72
+  },
+  {
+   "word": "again",
+   "start": 420.96,
+   "end": 421.42
+  },
+  {
+   "word": "and",
+   "start": 421.42,
+   "end": 421.74
+  },
+  {
+   "word": "again.",
+   "start": 421.74,
+   "end": 422.14
+  },
+  {
+   "word": "The",
+   "start": 422.62,
+   "end": 422.8
+  },
+  {
+   "word": "same",
+   "start": 422.8,
+   "end": 423.04
+  },
+  {
+   "word": "class,",
+   "start": 423.04,
+   "end": 423.46
+  },
+  {
+   "word": "the",
+   "start": 423.86,
+   "end": 423.96
+  },
+  {
+   "word": "same",
+   "start": 423.96,
+   "end": 424.22
+  },
+  {
+   "word": "gym",
+   "start": 424.22,
+   "end": 424.48
+  },
+  {
+   "word": "time,",
+   "start": 424.48,
+   "end": 424.8
+  },
+  {
+   "word": "the",
+   "start": 425.18,
+   "end": 425.24
+  },
+  {
+   "word": "same",
+   "start": 425.24,
+   "end": 425.56
+  },
+  {
+   "word": "café.",
+   "start": 425.56,
+   "end": 425.88
+  },
+  {
+   "word": "Let",
+   "start": 426.66,
+   "end": 426.84
+  },
+  {
+   "word": "familiarity",
+   "start": 426.84,
+   "end": 427.34
+  },
+  {
+   "word": "do",
+   "start": 427.34,
+   "end": 427.98
+  },
+  {
+   "word": "its",
+   "start": 427.98,
+   "end": 428.22
+  },
+  {
+   "word": "quiet",
+   "start": 428.22,
+   "end": 428.58
+  },
+  {
+   "word": "work.",
+   "start": 428.58,
+   "end": 428.98
+  },
+  {
+   "word": "Say",
+   "start": 428.98,
+   "end": 429.76
+  },
+  {
+   "word": "hello.",
+   "start": 429.76,
+   "end": 430.1
+  },
+  {
+   "word": "Ask",
+   "start": 430.64,
+   "end": 430.8
+  },
+  {
+   "word": "a",
+   "start": 430.8,
+   "end": 430.98
+  },
+  {
+   "word": "small",
+   "start": 430.98,
+   "end": 431.24
+  },
+  {
+   "word": "question.",
+   "start": 431.24,
+   "end": 431.74
+  },
+  {
+   "word": "Proximity",
+   "start": 432.42,
+   "end": 432.8
+  },
+  {
+   "word": "creates",
+   "start": 432.8,
+   "end": 433.32
+  },
+  {
+   "word": "the",
+   "start": 433.32,
+   "end": 433.58
+  },
+  {
+   "word": "chance,",
+   "start": 433.58,
+   "end": 433.98
+  },
+  {
+   "word": "but",
+   "start": 434.4,
+   "end": 434.52
+  },
+  {
+   "word": "someone",
+   "start": 434.52,
+   "end": 434.94
+  },
+  {
+   "word": "still",
+   "start": 434.94,
+   "end": 435.32
+  },
+  {
+   "word": "has",
+   "start": 435.32,
+   "end": 435.58
+  },
+  {
+   "word": "to",
+   "start": 435.58,
+   "end": 435.78
+  },
+  {
+   "word": "take",
+   "start": 435.78,
+   "end": 436.0
+  },
+  {
+   "word": "it.",
+   "start": 436.0,
+   "end": 436.5
+  },
+  {
+   "word": "Second,",
+   "start": 436.9,
+   "end": 437.0
+  },
+  {
+   "word": "when",
+   "start": 437.54,
+   "end": 437.6
+  },
+  {
+   "word": "you",
+   "start": 437.6,
+   "end": 437.76
+  },
+  {
+   "word": "feel",
+   "start": 437.76,
+   "end": 438.02
+  },
+  {
+   "word": "drawn",
+   "start": 438.02,
+   "end": 438.4
+  },
+  {
+   "word": "to",
+   "start": 438.4,
+   "end": 438.64
+  },
+  {
+   "word": "someone,",
+   "start": 438.64,
+   "end": 439.04
+  },
+  {
+   "word": "it's",
+   "start": 439.36,
+   "end": 439.54
+  },
+  {
+   "word": "worth",
+   "start": 439.54,
+   "end": 439.7
+  },
+  {
+   "word": "asking",
+   "start": 439.7,
+   "end": 440.12
+  },
+  {
+   "word": "one",
+   "start": 440.12,
+   "end": 440.54
+  },
+  {
+   "word": "honest",
+   "start": 440.54,
+   "end": 440.98
+  },
+  {
+   "word": "question.",
+   "start": 440.98,
+   "end": 441.48
+  },
+  {
+   "word": "Do",
+   "start": 442.18,
+   "end": 442.26
+  },
+  {
+   "word": "I",
+   "start": 442.26,
+   "end": 442.44
+  },
+  {
+   "word": "like",
+   "start": 442.44,
+   "end": 442.7
+  },
+  {
+   "word": "this",
+   "start": 442.7,
+   "end": 442.94
+  },
+  {
+   "word": "person?",
+   "start": 442.94,
+   "end": 443.3
+  },
+  {
+   "word": "Or",
+   "start": 443.76,
+   "end": 443.94
+  },
+  {
+   "word": "do",
+   "start": 443.94,
+   "end": 444.12
+  },
+  {
+   "word": "I",
+   "start": 444.12,
+   "end": 444.26
+  },
+  {
+   "word": "just",
+   "start": 444.26,
+   "end": 444.42
+  },
+  {
+   "word": "see",
+   "start": 444.42,
+   "end": 444.7
+  },
+  {
+   "word": "them",
+   "start": 444.7,
+   "end": 444.84
+  },
+  {
+   "word": "a",
+   "start": 444.84,
+   "end": 444.98
+  },
+  {
+   "word": "lot?",
+   "start": 444.98,
+   "end": 445.16
+  },
+  {
+   "word": "Because",
+   "start": 445.64,
+   "end": 445.96
+  },
+  {
+   "word": "proximity",
+   "start": 445.96,
+   "end": 446.58
+  },
+  {
+   "word": "can",
+   "start": 446.58,
+   "end": 447.02
+  },
+  {
+   "word": "open",
+   "start": 447.02,
+   "end": 447.34
+  },
+  {
+   "word": "the",
+   "start": 447.34,
+   "end": 447.52
+  },
+  {
+   "word": "door.",
+   "start": 447.52,
+   "end": 447.78
+  },
+  {
+   "word": "But",
+   "start": 448.04,
+   "end": 448.34
+  },
+  {
+   "word": "it",
+   "start": 448.34,
+   "end": 448.46
+  },
+  {
+   "word": "can't",
+   "start": 448.46,
+   "end": 448.88
+  },
+  {
+   "word": "tell",
+   "start": 448.88,
+   "end": 449.04
+  },
+  {
+   "word": "you",
+   "start": 449.04,
+   "end": 449.24
+  },
+  {
+   "word": "whether",
+   "start": 449.24,
+   "end": 449.4
+  },
+  {
+   "word": "someone",
+   "start": 449.4,
+   "end": 449.78
+  },
+  {
+   "word": "is",
+   "start": 449.78,
+   "end": 449.96
+  },
+  {
+   "word": "right",
+   "start": 449.96,
+   "end": 450.22
+  },
+  {
+   "word": "for",
+   "start": 450.22,
+   "end": 450.44
+  },
+  {
+   "word": "you.",
+   "start": 450.44,
+   "end": 450.8
+  },
+  {
+   "word": "Shared",
+   "start": 451.48,
+   "end": 451.48
+  },
+  {
+   "word": "values,",
+   "start": 451.48,
+   "end": 451.94
+  },
+  {
+   "word": "kindness",
+   "start": 452.46,
+   "end": 452.64
+  },
+  {
+   "word": "and",
+   "start": 453.06,
+   "end": 453.12
+  },
+  {
+   "word": "respect",
+   "start": 453.12,
+   "end": 453.6
+  },
+  {
+   "word": "still",
+   "start": 453.6,
+   "end": 454.14
+  },
+  {
+   "word": "matter",
+   "start": 454.14,
+   "end": 454.48
+  },
+  {
+   "word": "far",
+   "start": 454.48,
+   "end": 454.92
+  },
+  {
+   "word": "more",
+   "start": 454.92,
+   "end": 455.24
+  },
+  {
+   "word": "over",
+   "start": 455.24,
+   "end": 455.56
+  },
+  {
+   "word": "time.",
+   "start": 455.56,
+   "end": 455.94
+  },
+  {
+   "word": "And",
+   "start": 455.94,
+   "end": 456.68
+  },
+  {
+   "word": "third,",
+   "start": 456.68,
+   "end": 457.0
+  },
+  {
+   "word": "be",
+   "start": 457.46,
+   "end": 457.6
+  },
+  {
+   "word": "a",
+   "start": 457.6,
+   "end": 457.74
+  },
+  {
+   "word": "little",
+   "start": 457.74,
+   "end": 457.96
+  },
+  {
+   "word": "kinder",
+   "start": 457.96,
+   "end": 458.58
+  },
+  {
+   "word": "to",
+   "start": 458.58,
+   "end": 458.74
+  },
+  {
+   "word": "the",
+   "start": 458.74,
+   "end": 458.86
+  },
+  {
+   "word": "people",
+   "start": 458.86,
+   "end": 459.1
+  },
+  {
+   "word": "around",
+   "start": 459.1,
+   "end": 459.44
+  },
+  {
+   "word": "you.",
+   "start": 459.44,
+   "end": 459.9
+  },
+  {
+   "word": "Your",
+   "start": 460.14,
+   "end": 460.38
+  },
+  {
+   "word": "neighbours,",
+   "start": 460.38,
+   "end": 461.22
+  },
+  {
+   "word": "your",
+   "start": 461.22,
+   "end": 461.3
+  },
+  {
+   "word": "coworkers,",
+   "start": 461.3,
+   "end": 461.74
+  },
+  {
+   "word": "the",
+   "start": 462.24,
+   "end": 462.4
+  },
+  {
+   "word": "person",
+   "start": 462.4,
+   "end": 462.66
+  },
+  {
+   "word": "you",
+   "start": 462.66,
+   "end": 462.86
+  },
+  {
+   "word": "see",
+   "start": 462.86,
+   "end": 463.16
+  },
+  {
+   "word": "every",
+   "start": 463.16,
+   "end": 463.56
+  },
+  {
+   "word": "morning",
+   "start": 463.56,
+   "end": 463.82
+  },
+  {
+   "word": "on",
+   "start": 463.82,
+   "end": 464.04
+  },
+  {
+   "word": "the",
+   "start": 464.04,
+   "end": 464.2
+  },
+  {
+   "word": "train.",
+   "start": 464.2,
+   "end": 464.54
+  },
+  {
+   "word": "Studies",
+   "start": 465.44,
+   "end": 465.44
+  },
+  {
+   "word": "like",
+   "start": 465.44,
+   "end": 465.72
+  },
+  {
+   "word": "these",
+   "start": 465.72,
+   "end": 466.08
+  },
+  {
+   "word": "suggest",
+   "start": 466.08,
+   "end": 466.5
+  },
+  {
+   "word": "that",
+   "start": 466.5,
+   "end": 466.8
+  },
+  {
+   "word": "many",
+   "start": 466.8,
+   "end": 467.1
+  },
+  {
+   "word": "of",
+   "start": 467.1,
+   "end": 467.28
+  },
+  {
+   "word": "the",
+   "start": 467.28,
+   "end": 467.42
+  },
+  {
+   "word": "important",
+   "start": 467.42,
+   "end": 467.88
+  },
+  {
+   "word": "relationships",
+   "start": 467.88,
+   "end": 468.44
+  },
+  {
+   "word": "in",
+   "start": 468.44,
+   "end": 468.8
+  },
+  {
+   "word": "your",
+   "start": 468.8,
+   "end": 468.96
+  },
+  {
+   "word": "life",
+   "start": 468.96,
+   "end": 469.28
+  },
+  {
+   "word": "could",
+   "start": 469.28,
+   "end": 469.66
+  },
+  {
+   "word": "come",
+   "start": 469.66,
+   "end": 469.96
+  },
+  {
+   "word": "from",
+   "start": 469.96,
+   "end": 470.18
+  },
+  {
+   "word": "people",
+   "start": 470.18,
+   "end": 470.5
+  },
+  {
+   "word": "already",
+   "start": 470.5,
+   "end": 470.98
+  },
+  {
+   "word": "within",
+   "start": 470.98,
+   "end": 471.34
+  },
+  {
+   "word": "a",
+   "start": 471.34,
+   "end": 471.52
+  },
+  {
+   "word": "few",
+   "start": 471.52,
+   "end": 471.72
+  },
+  {
+   "word": "steps",
+   "start": 471.72,
+   "end": 472.1
+  },
+  {
+   "word": "of",
+   "start": 472.1,
+   "end": 472.36
+  },
+  {
+   "word": "where",
+   "start": 472.36,
+   "end": 472.52
+  },
+  {
+   "word": "you",
+   "start": 472.52,
+   "end": 472.7
+  },
+  {
+   "word": "are",
+   "start": 472.7,
+   "end": 472.98
+  },
+  {
+   "word": "right",
+   "start": 472.98,
+   "end": 473.24
+  },
+  {
+   "word": "now.",
+   "start": 473.24,
+   "end": 473.64
+  },
+  {
+   "word": "So",
+   "start": 474.1,
+   "end": 474.42
+  },
+  {
+   "word": "maybe",
+   "start": 474.42,
+   "end": 474.82
+  },
+  {
+   "word": "the",
+   "start": 474.82,
+   "end": 475.06
+  },
+  {
+   "word": "one",
+   "start": 475.06,
+   "end": 475.28
+  },
+  {
+   "word": "isn't",
+   "start": 475.28,
+   "end": 475.78
+  },
+  {
+   "word": "out",
+   "start": 475.78,
+   "end": 476.02
+  },
+  {
+   "word": "there",
+   "start": 476.02,
+   "end": 476.3
+  },
+  {
+   "word": "somewhere,",
+   "start": 476.3,
+   "end": 476.8
+  },
+  {
+   "word": "waiting",
+   "start": 477.04,
+   "end": 477.3
+  },
+  {
+   "word": "across",
+   "start": 477.3,
+   "end": 477.74
+  },
+  {
+   "word": "the",
+   "start": 477.74,
+   "end": 477.96
+  },
+  {
+   "word": "world.",
+   "start": 477.96,
+   "end": 478.24
+  },
+  {
+   "word": "Maybe",
+   "start": 478.88,
+   "end": 479.16
+  },
+  {
+   "word": "they're",
+   "start": 479.16,
+   "end": 479.66
+  },
+  {
+   "word": "just",
+   "start": 479.66,
+   "end": 479.9
+  },
+  {
+   "word": "down",
+   "start": 479.9,
+   "end": 480.14
+  },
+  {
+   "word": "the",
+   "start": 480.14,
+   "end": 480.3
+  },
+  {
+   "word": "hall.",
+   "start": 480.3,
+   "end": 480.56
+  },
+  {
+   "word": "So,",
+   "start": 480.98,
+   "end": 481.16
+  },
+  {
+   "word": "who",
+   "start": 481.16,
+   "end": 481.66
+  },
+  {
+   "word": "in",
+   "start": 481.66,
+   "end": 481.82
+  },
+  {
+   "word": "your",
+   "start": 481.82,
+   "end": 482.02
+  },
+  {
+   "word": "life",
+   "start": 482.02,
+   "end": 482.26
+  },
+  {
+   "word": "did",
+   "start": 482.26,
+   "end": 482.48
+  },
+  {
+   "word": "you",
+   "start": 482.48,
+   "end": 482.6
+  },
+  {
+   "word": "meet",
+   "start": 482.6,
+   "end": 482.78
+  },
+  {
+   "word": "simply",
+   "start": 482.78,
+   "end": 483.24
+  },
+  {
+   "word": "because",
+   "start": 483.24,
+   "end": 483.6
+  },
+  {
+   "word": "they",
+   "start": 483.6,
+   "end": 483.8
+  },
+  {
+   "word": "were",
+   "start": 483.8,
+   "end": 483.92
+  },
+  {
+   "word": "close",
+   "start": 483.92,
+   "end": 484.14
+  },
+  {
+   "word": "by?",
+   "start": 484.14,
+   "end": 484.52
+  },
+  {
+   "word": "Tell",
+   "start": 485.08,
+   "end": 485.18
+  },
+  {
+   "word": "me",
+   "start": 485.18,
+   "end": 485.32
+  },
+  {
+   "word": "in",
+   "start": 485.32,
+   "end": 485.42
+  },
+  {
+   "word": "the",
+   "start": 485.42,
+   "end": 485.54
+  },
+  {
+   "word": "comments.",
+   "start": 485.54,
+   "end": 485.82
+  },
+  {
+   "word": "And",
+   "start": 486.46,
+   "end": 486.48
+  },
+  {
+   "word": "subscribe,",
+   "start": 486.48,
+   "end": 486.96
+  },
+  {
+   "word": "because",
+   "start": 487.48,
+   "end": 487.68
+  },
+  {
+   "word": "the",
+   "start": 487.68,
+   "end": 487.88
+  },
+  {
+   "word": "science",
+   "start": 487.88,
+   "end": 488.18
+  },
+  {
+   "word": "of",
+   "start": 488.18,
+   "end": 488.44
+  },
+  {
+   "word": "love",
+   "start": 488.44,
+   "end": 488.7
+  },
+  {
+   "word": "is",
+   "start": 488.7,
+   "end": 489.18
+  },
+  {
+   "word": "stranger",
+   "start": 489.18,
+   "end": 489.6
+  },
+  {
+   "word": "than",
+   "start": 489.6,
+   "end": 489.92
+  },
+  {
+   "word": "you",
+   "start": 489.92,
+   "end": 490.06
+  },
+  {
+   "word": "think.",
+   "start": 490.06,
+   "end": 490.36
+  }
+ ]
+}
