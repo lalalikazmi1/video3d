@@ -1,0 +1,512 @@
+[
+ {
+  "i": 0,
+  "start": 0.0,
+  "end": 1.68,
+  "text": "Imagine I offer you a bet."
+ },
+ {
+  "i": 1,
+  "start": 2.28,
+  "end": 3.02,
+  "text": "We flip a coin."
+ },
+ {
+  "i": 2,
+  "start": 3.68,
+  "end": 6.4,
+  "text": "Heads, you win one hundred and fifty dollars."
+ },
+ {
+  "i": 3,
+  "start": 6.4,
+  "end": 8.9,
+  "text": "Tails, you lose one hundred."
+ },
+ {
+  "i": 4,
+  "start": 8.9,
+  "end": 9.76,
+  "text": "The odds are fair."
+ },
+ {
+  "i": 5,
+  "start": 10.2,
+  "end": 12.0,
+  "text": "The prize is bigger than the risk."
+ },
+ {
+  "i": 6,
+  "start": 12.5,
+  "end": 14.1,
+  "text": "On average, you come out ahead."
+ },
+ {
+  "i": 7,
+  "start": 14.9,
+  "end": 16.66,
+  "text": "Most people still say no."
+ },
+ {
+  "i": 8,
+  "start": 17.26,
+  "end": 17.52,
+  "text": "Why?"
+ },
+ {
+  "i": 9,
+  "start": 18.16,
+  "end": 25.1,
+  "text": "Because somewhere deep in your brain, losing one hundred dollars feels worse than winning one hundred and fifty feels good."
+ },
+ {
+  "i": 10,
+  "start": 25.5,
+  "end": 31.18,
+  "text": "And that strange imbalance quietly shapes your money, your choices, and even your relationships."
+ },
+ {
+  "i": 11,
+  "start": 31.9,
+  "end": 32.64,
+  "text": "It has a name."
+ },
+ {
+  "i": 12,
+  "start": 33.18,
+  "end": 34.0,
+  "text": "Loss aversion."
+ },
+ {
+  "i": 13,
+  "start": 34.82,
+  "end": 41.32,
+  "text": "Have you ever noticed how finding ten dollars on the street feels nice, but losing ten dollars can ruin your whole afternoon?"
+ },
+ {
+  "i": 14,
+  "start": 42.02,
+  "end": 42.52,
+  "text": "Same amount."
+ },
+ {
+  "i": 15,
+  "start": 42.94,
+  "end": 44.36,
+  "text": "Completely different feeling."
+ },
+ {
+  "i": 16,
+  "start": 45.16,
+  "end": 53.78,
+  "text": "In 1979, two psychologists, Daniel Kahneman and Amos Tversky, published a paper that challenged a basic idea in economics."
+ },
+ {
+  "i": 17,
+  "start": 53.78,
+  "end": 58.16,
+  "text": "Economists had assumed that people weigh gains and losses evenly."
+ },
+ {
+  "i": 18,
+  "start": 58.66,
+  "end": 59.8,
+  "text": "A dollar is a dollar."
+ },
+ {
+  "i": 19,
+  "start": 60.54,
+  "end": 62.68,
+  "text": "Kahneman and Tversky showed that we don't."
+ },
+ {
+  "i": 20,
+  "start": 63.16,
+  "end": 65.26,
+  "text": "They called their idea Prospect Theory."
+ },
+ {
+  "i": 21,
+  "start": 65.64,
+  "end": 71.58,
+  "text": "And at its heart was a simple, uncomfortable finding: losses loom larger than gains."
+ },
+ {
+  "i": 22,
+  "start": 72.32,
+  "end": 73.04,
+  "text": "How much larger?"
+ },
+ {
+  "i": 23,
+  "start": 73.48,
+  "end": 78.04,
+  "text": "In their later research, losses carried roughly twice the weight of equal gains."
+ },
+ {
+  "i": 24,
+  "start": 78.62,
+  "end": 87.52,
+  "text": "That's why, in coin-flip bets like the one you just turned down, many people want to win around two hundred dollars before they'll risk losing one hundred."
+ },
+ {
+  "i": 25,
+  "start": 87.52,
+  "end": 89.48,
+  "text": "Now, the exact number is still debated."
+ },
+ {
+  "i": 26,
+  "start": 90.0,
+  "end": 93.36,
+  "text": "Some researchers argue the effect is smaller in certain situations."
+ },
+ {
+  "i": 27,
+  "start": 93.78,
+  "end": 96.9,
+  "text": "But the basic pattern has shown up again and again."
+ },
+ {
+  "i": 28,
+  "start": 97.42,
+  "end": 99.92,
+  "text": "And once you know it, you start seeing it everywhere."
+ },
+ {
+  "i": 29,
+  "start": 100.8,
+  "end": 102.02,
+  "text": "Take a simple coffee mug."
+ },
+ {
+  "i": 30,
+  "start": 102.56,
+  "end": 109.2,
+  "text": "In a famous experiment, researchers Kahneman, Jack Knetsch and Richard Thaler gave mugs to half the people in a room."
+ },
+ {
+  "i": 31,
+  "start": 109.64,
+  "end": 110.92,
+  "text": "Then they let them trade."
+ },
+ {
+  "i": 32,
+  "start": 111.4,
+  "end": 117.88,
+  "text": "The people who owned a mug asked for more than twice as much money to sell it as the others were willing to pay to buy it."
+ },
+ {
+  "i": 33,
+  "start": 118.22,
+  "end": 118.98,
+  "text": "Same mug."
+ },
+ {
+  "i": 34,
+  "start": 119.3,
+  "end": 120.5,
+  "text": "Owned for a few minutes."
+ },
+ {
+  "i": 35,
+  "start": 121.18,
+  "end": 123.4,
+  "text": "Suddenly, giving it up felt like a loss."
+ },
+ {
+  "i": 36,
+  "start": 123.94,
+  "end": 125.92,
+  "text": "This is called the endowment effect."
+ },
+ {
+  "i": 37,
+  "start": 126.4,
+  "end": 128.26,
+  "text": "It's why free trials work so well."
+ },
+ {
+  "i": 38,
+  "start": 128.78,
+  "end": 131.92,
+  "text": "Once something feels like yours, letting it go hurts."
+ },
+ {
+  "i": 39,
+  "start": 132.74,
+  "end": 135.38,
+  "text": "But loss aversion doesn't just change what we keep."
+ },
+ {
+  "i": 40,
+  "start": 135.82,
+  "end": 137.24,
+  "text": "It changes what we choose."
+ },
+ {
+  "i": 41,
+  "start": 137.88,
+  "end": 146.08,
+  "text": "In another classic study, Tversky and Kahneman described a deadly disease expected to kill six hundred people, and two plans to fight it."
+ },
+ {
+  "i": 42,
+  "start": 146.32,
+  "end": 151.84,
+  "text": "When the plans were described in terms of lives saved, most people chose the safe, certain option."
+ },
+ {
+  "i": 43,
+  "start": 152.3,
+  "end": 158.4,
+  "text": "When the exact same plans were described in terms of lives lost, most people switched to the risky gamble."
+ },
+ {
+  "i": 44,
+  "start": 159.42,
+  "end": 160.84,
+  "text": "Nothing changed but the words."
+ },
+ {
+  "i": 45,
+  "start": 161.44,
+  "end": 162.74,
+  "text": "Saved, or lost."
+ },
+ {
+  "i": 46,
+  "start": 163.34,
+  "end": 164.44,
+  "text": "And the choice flipped."
+ },
+ {
+  "i": 47,
+  "start": 165.08,
+  "end": 166.6,
+  "text": "That's the power of framing."
+ },
+ {
+  "i": 48,
+  "start": 167.28,
+  "end": 172.28,
+  "text": "Say \"you'll lose\" instead of \"you'll miss out on gaining,\" and people move."
+ },
+ {
+  "i": 49,
+  "start": 173.1,
+  "end": 173.94,
+  "text": "Marketers know this."
+ },
+ {
+  "i": 50,
+  "start": 174.42,
+  "end": 175.12,
+  "text": "\"Don't miss out.\""
+ },
+ {
+  "i": 51,
+  "start": 175.54,
+  "end": 176.58,
+  "text": "\"Only three left.\""
+ },
+ {
+  "i": 52,
+  "start": 177.04,
+  "end": 178.66,
+  "text": "\"Your discount expires tonight.\""
+ },
+ {
+  "i": 53,
+  "start": 179.32,
+  "end": 182.84,
+  "text": "Each one turns a possible gain into a possible loss."
+ },
+ {
+  "i": 54,
+  "start": 183.42,
+  "end": 185.38,
+  "text": "It even shows up in professional sports."
+ },
+ {
+  "i": 55,
+  "start": 186.08,
+  "end": 191.56,
+  "text": "Economists Devin Pope and Maurice Schweitzer studied millions of putts on the professional golf tour."
+ },
+ {
+  "i": 56,
+  "start": 192.16,
+  "end": 200.18,
+  "text": "Golfers were more accurate when putting to avoid a bogey, a loss, than when putting for a birdie, a gain, even from the same distance."
+ },
+ {
+  "i": 57,
+  "start": 200.74,
+  "end": 205.28,
+  "text": "The best players in the world, fighting harder not to lose than to win."
+ },
+ {
+  "i": 58,
+  "start": 205.94,
+  "end": 207.96,
+  "text": "So is loss aversion a flaw?"
+ },
+ {
+  "i": 59,
+  "start": 208.68,
+  "end": 209.48,
+  "text": "Here's the twist."
+ },
+ {
+  "i": 60,
+  "start": 210.12,
+  "end": 214.54,
+  "text": "Many researchers think that, for most of human history, it helped keep us alive."
+ },
+ {
+  "i": 61,
+  "start": 215.26,
+  "end": 217.88,
+  "text": "If you found extra food, life got a little better."
+ },
+ {
+  "i": 62,
+  "start": 218.36,
+  "end": 221.3,
+  "text": "If you lost your food, you might not survive the winter."
+ },
+ {
+  "i": 63,
+  "start": 221.86,
+  "end": 226.74,
+  "text": "A brain that took losses more seriously than gains had a better chance of making it."
+ },
+ {
+  "i": 64,
+  "start": 227.02,
+  "end": 232.48,
+  "text": "The problem is, your brain still treats losing ten dollars like losing your winter food supply."
+ },
+ {
+  "i": 65,
+  "start": 232.94,
+  "end": 234.98,
+  "text": "And that leads to real mistakes."
+ },
+ {
+  "i": 66,
+  "start": 234.98,
+  "end": 238.84,
+  "text": "Holding on to a losing investment, hoping to break even."
+ },
+ {
+  "i": 67,
+  "start": 239.44,
+  "end": 244.32,
+  "text": "Staying in a job, or a relationship, because walking away feels like admitting a loss."
+ },
+ {
+  "i": 68,
+  "start": 244.92,
+  "end": 250.52,
+  "text": "Saying no to a good opportunity, because the fear of losing is louder than the chance of winning."
+ },
+ {
+  "i": 69,
+  "start": 251.36,
+  "end": 252.44,
+  "text": "So what can you do?"
+ },
+ {
+  "i": 70,
+  "start": 253.04,
+  "end": 254.8,
+  "text": "First, notice the frame."
+ },
+ {
+  "i": 71,
+  "start": 255.44,
+  "end": 259.98,
+  "text": "When a choice feels urgent, ask: am I being shown a loss, or a gain?"
+ },
+ {
+  "i": 72,
+  "start": 260.58,
+  "end": 263.14,
+  "text": "Then flip it, and see if your answer changes."
+ },
+ {
+  "i": 73,
+  "start": 263.92,
+  "end": 265.26,
+  "text": "Second, zoom out."
+ },
+ {
+  "i": 74,
+  "start": 265.78,
+  "end": 267.46,
+  "text": "One coin flip feels scary."
+ },
+ {
+  "i": 75,
+  "start": 268.02,
+  "end": 272.66,
+  "text": "A hundred of those same fair bets, taken together, almost always come out ahead."
+ },
+ {
+  "i": 76,
+  "start": 273.3,
+  "end": 276.42,
+  "text": "Judge your choices as a series, not one at a time."
+ },
+ {
+  "i": 77,
+  "start": 276.98,
+  "end": 279.48,
+  "text": "And third, ask yourself a simple question."
+ },
+ {
+  "i": 78,
+  "start": 280.04,
+  "end": 283.14,
+  "text": "If I didn't already have this, would I choose it today?"
+ },
+ {
+  "i": 79,
+  "start": 283.98,
+  "end": 285.66,
+  "text": "Loss aversion isn't going away."
+ },
+ {
+  "i": 80,
+  "start": 286.04,
+  "end": 287.96,
+  "text": "It's wired deep in how you think."
+ },
+ {
+  "i": 81,
+  "start": 287.96,
+  "end": 292.24,
+  "text": "But once you can see it, it stops making every decision for you."
+ },
+ {
+  "i": 82,
+  "start": 292.74,
+  "end": 296.92,
+  "text": "So, what's a loss you've been holding on to, just because letting go hurts?"
+ },
+ {
+  "i": 83,
+  "start": 297.46,
+  "end": 298.32,
+  "text": "Tell me in the comments."
+ },
+ {
+  "i": 84,
+  "start": 298.88,
+  "end": 302.78,
+  "text": "And subscribe, because there are many more hidden rules running your mind."
+ }
+]
