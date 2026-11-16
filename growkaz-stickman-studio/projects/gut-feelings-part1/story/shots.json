@@ -1,0 +1,440 @@
+{
+ "title": "The Truth About Gut Feelings - Part 1",
+ "duration": 42.5,
+ "shots": [
+  {
+   "id": "s01",
+   "start": 0.0,
+   "end": 3.45,
+   "line": "A fire lieutenant leads his crew into a burning house.",
+   "scene": "Wide night street: lieutenant (yellow helmet) walks crew toward the burning house, slow push",
+   "set": "houseExt",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "footstep",
+     "gain": -14
+    }
+   ],
+   "amb": {
+    "name": "wind",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s02",
+   "start": 3.45,
+   "end": 5.35,
+   "line": "They spray water on the kitchen.",
+   "scene": "Kitchen medium: crew sprays a hose arc onto the stove fire, drift right",
+   "set": "kitchen",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "whoosh",
+     "gain": -10
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s03",
+   "start": 5.35,
+   "end": 7.35,
+   "line": "But the fire won't die.",
+   "scene": "Insert: stove flames shrink under water then flare back up, push-in",
+   "set": "kitchen",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.2,
+     "name": "hit",
+     "gain": -10
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s04",
+   "start": 7.35,
+   "end": 9.05,
+   "line": "Something feels wrong.",
+   "scene": "Giant face: lieutenant worried, eyes darting, blurred fire behind",
+   "set": "kitchen",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "heartbeat",
+     "gain": -8
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s05",
+   "start": 9.05,
+   "end": 10.8,
+   "line": "The room is too hot.",
+   "scene": "Lieutenant medium wiping brow, heat shimmer, thermometer gauge rises to red",
+   "set": "kitchen",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.6,
+     "name": "riser",
+     "gain": -14,
+     "dur": 1.2
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s06",
+   "start": 10.8,
+   "end": 12.13,
+   "line": "Too quiet.",
+   "scene": "Wide still kitchen, flames low, a flat-line sound graph, near silence",
+   "set": "kitchen",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "amb": {
+    "name": "hum",
+    "gain": -30
+   }
+  },
+  {
+   "id": "s07",
+   "start": 12.13,
+   "end": 14.38,
+   "line": "He can't explain why, but he yells,",
+   "scene": "Giant face: lieutenant confused, a gold glow pulses in his gut",
+   "set": "kitchen",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.8,
+     "name": "shimmer",
+     "gain": -12
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s08",
+   "start": 14.38,
+   "end": 16.13,
+   "line": "\"Everybody out!\"",
+   "scene": "Lieutenant shouts and points to the door, crew turn and run, rings around head, shake",
+   "set": "kitchen",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.1,
+     "name": "impact",
+     "gain": -8
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s09",
+   "start": 16.13,
+   "end": 19.5,
+   "line": "Seconds later, the floor they were standing on collapses.",
+   "scene": "Wide: crew run out the left door; floor caves into a burst of fire behind them, camera shake",
+   "set": "kitchen",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 2.2,
+     "name": "impact",
+     "gain": -4
+    },
+    {
+     "at": 2.3,
+     "name": "thunder",
+     "gain": -10
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s10",
+   "start": 19.5,
+   "end": 21.6,
+   "line": "The fire was never in the kitchen.",
+   "scene": "Camera pulls down through the floor into a cross-section: kitchen above, glow below",
+   "set": "section",
+   "bars": "none",
+   "in": {
+    "type": "zoom",
+    "dur": 0.4
+   },
+   "sfx": [
+    {
+     "at": 0.0,
+     "name": "whoosh",
+     "gain": -8
+    },
+    {
+     "at": 1.0,
+     "name": "riser",
+     "gain": -12,
+     "dur": 1.0
+    }
+   ],
+   "amb": {
+    "name": "hum",
+    "gain": -26
+   }
+  },
+  {
+   "id": "s11",
+   "start": 21.6,
+   "end": 24.83,
+   "line": "It was burning in the basement, right under their feet.",
+   "scene": "Cross-section: basement fire revealed, ghost crew footprints above, callouts BASEMENT FIRE and arrow to feet",
+   "set": "section",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.5,
+     "name": "stinger",
+     "gain": -6
+    },
+    {
+     "at": 2.1,
+     "name": "pop",
+     "gain": -14
+    }
+   ],
+   "amb": {
+    "name": "hum",
+    "gain": -26
+   }
+  },
+  {
+   "id": "s12",
+   "start": 24.83,
+   "end": 27.97,
+   "line": "His gut saved every life in that room.",
+   "scene": "Exterior: crew safe by the truck, house burning behind, lieutenant's gut glows gold, push-in",
+   "set": "houseExt",
+   "bars": "wide",
+   "in": {
+    "type": "dip",
+    "dur": 0.4
+   },
+   "sfx": [
+    {
+     "at": 0.5,
+     "name": "ding",
+     "gain": -10
+    }
+   ],
+   "amb": {
+    "name": "wind",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s13",
+   "start": 27.97,
+   "end": 30.81,
+   "line": "So should you always trust your gut?",
+   "scene": "Void stage: YOU (red hoodie) under a spotlight, gut glow, words TRUST YOUR GUT?",
+   "set": "void",
+   "bars": "scope",
+   "in": {
+    "type": "flash",
+    "dur": 0.3
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "flash",
+     "gain": -12
+    }
+   ],
+   "amb": {
+    "name": "hum",
+    "gain": -28
+   }
+  },
+  {
+   "id": "s14",
+   "start": 30.81,
+   "end": 32.89,
+   "line": "Here's the uncomfortable truth.",
+   "scene": "Giant face: YOU worried, darker, slow push",
+   "set": "void",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "amb": {
+    "name": "hum",
+    "gain": -28
+   }
+  },
+  {
+   "id": "s15",
+   "start": 32.89,
+   "end": 35.73,
+   "line": "Sometimes your gut is a genius.",
+   "scene": "Genius in lab coat under a warm spotlight, glowing lightbulb pops on at 'genius'",
+   "set": "void",
+   "bars": "wide",
+   "in": {
+    "type": "whip",
+    "dur": 0.3,
+    "dir": 1
+   },
+   "sfx": [
+    {
+     "at": 0.0,
+     "name": "swish",
+     "gain": -10
+    },
+    {
+     "at": 1.8,
+     "name": "ding",
+     "gain": -8
+    }
+   ],
+   "amb": {
+    "name": "hum",
+    "gain": -28
+   }
+  },
+  {
+   "id": "s16",
+   "start": 35.73,
+   "end": 38.23,
+   "line": "And sometimes, it's a con artist.",
+   "scene": "Con artist in trench and fedora, half in shadow, smirks, card flicks at 'con'",
+   "set": "void",
+   "bars": "wide",
+   "in": {
+    "type": "whip",
+    "dur": 0.3,
+    "dir": -1
+   },
+   "sfx": [
+    {
+     "at": 0.0,
+     "name": "swish",
+     "gain": -10
+    },
+    {
+     "at": 1.5,
+     "name": "stinger",
+     "gain": -10
+    }
+   ],
+   "amb": {
+    "name": "hum",
+    "gain": -28
+   }
+  },
+  {
+   "id": "s17",
+   "start": 38.23,
+   "end": 42.5,
+   "line": "The trick is knowing which one is talking.",
+   "scene": "YOU in the middle between genius (left) and con artist (right), both whisper, YOU looks back and forth; question mark",
+   "set": "void",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.2,
+     "name": "tick",
+     "gain": -14
+    }
+   ],
+   "amb": {
+    "name": "hum",
+    "gain": -28
+   }
+  }
+ ],
+ "music": [
+  {
+   "start": 0,
+   "end": 19.5,
+   "mood": "tension",
+   "intensity": 0.55
+  },
+  {
+   "start": 19.5,
+   "end": 28,
+   "mood": "mystery",
+   "intensity": 0.45
+  },
+  {
+   "start": 28,
+   "end": 42.5,
+   "mood": "dark",
+   "intensity": 0.35
+  }
+ ],
+ "sfx": []
+}

@@ -1,0 +1,114 @@
+[
+ {
+  "i": 0,
+  "start": 0.0,
+  "speechStart": 0.0,
+  "speechEnd": 3.06,
+  "text": "A fire lieutenant leads his crew into a burning house.",
+  "end": 3.47
+ },
+ {
+  "i": 1,
+  "start": 3.47,
+  "speechStart": 3.62,
+  "speechEnd": 5.04,
+  "text": "They spray water on the kitchen.",
+  "end": 5.35
+ },
+ {
+  "i": 2,
+  "start": 5.35,
+  "speechStart": 5.5,
+  "speechEnd": 8.62,
+  "text": "But the fire won't die. Something feels wrong.",
+  "end": 9.05
+ },
+ {
+  "i": 3,
+  "start": 9.05,
+  "speechStart": 9.2,
+  "speechEnd": 11.66,
+  "text": "The room is too hot. Too quiet.",
+  "end": 12.13
+ },
+ {
+  "i": 4,
+  "start": 12.13,
+  "speechStart": 12.28,
+  "speechEnd": 15.24,
+  "text": "He can't explain why, but he yells, \"Everybody out!\"",
+  "end": 16.13
+ },
+ {
+  "i": 5,
+  "start": 16.13,
+  "speechStart": 16.28,
+  "speechEnd": 18.9,
+  "text": "Seconds later, the floor they were standing on collapses.",
+  "end": 19.51
+ },
+ {
+  "i": 6,
+  "start": 19.51,
+  "speechStart": 19.66,
+  "speechEnd": 21.36,
+  "text": "The fire was never in the kitchen.",
+  "end": 21.61
+ },
+ {
+  "i": 7,
+  "start": 21.61,
+  "speechStart": 21.76,
+  "speechEnd": 24.3,
+  "text": "It was burning in the basement, right under their feet.",
+  "end": 24.83
+ },
+ {
+  "i": 8,
+  "start": 24.83,
+  "speechStart": 24.98,
+  "speechEnd": 27.32,
+  "text": "His gut saved every life in that room.",
+  "end": 27.97
+ },
+ {
+  "i": 9,
+  "start": 27.97,
+  "speechStart": 28.12,
+  "speechEnd": 30.3,
+  "text": "So should you always trust your gut?",
+  "end": 30.81
+ },
+ {
+  "i": 10,
+  "start": 30.81,
+  "speechStart": 30.96,
+  "speechEnd": 32.34,
+  "text": "Here's the uncomfortable truth.",
+  "end": 32.89
+ },
+ {
+  "i": 11,
+  "start": 32.89,
+  "speechStart": 33.04,
+  "speechEnd": 35.12,
+  "text": "Sometimes your gut is a genius.",
+  "end": 35.73
+ },
+ {
+  "i": 12,
+  "start": 35.73,
+  "speechStart": 35.88,
+  "speechEnd": 37.72,
+  "text": "And sometimes, it's a con artist.",
+  "end": 38.23
+ },
+ {
+  "i": 13,
+  "start": 38.23,
+  "speechStart": 38.38,
+  "speechEnd": 40.6,
+  "text": "The trick is knowing which one is talking.",
+  "end": 42.1
+ }
+]
