@@ -1,0 +1,1859 @@
+{
+ "title": "The Truth About Gut Feelings",
+ "duration": 214.2,
+ "shots": [
+  {
+   "id": "s01",
+   "start": 0.0,
+   "end": 3.45,
+   "line": "A fire lieutenant leads his crew into a burning house.",
+   "scene": "Wide night street: lieutenant (yellow helmet) walks crew toward the burning house, slow push",
+   "set": "houseExt",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "footstep",
+     "gain": -14
+    }
+   ],
+   "amb": {
+    "name": "wind",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s02",
+   "start": 3.45,
+   "end": 5.35,
+   "line": "They spray water on the kitchen.",
+   "scene": "Kitchen medium: crew sprays a hose arc onto the stove fire, drift right",
+   "set": "kitchen",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "whoosh",
+     "gain": -10
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s03",
+   "start": 5.35,
+   "end": 7.35,
+   "line": "But the fire won't die.",
+   "scene": "Insert: stove flames shrink under water then flare back up, push-in",
+   "set": "kitchen",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.2,
+     "name": "hit",
+     "gain": -10
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s04",
+   "start": 7.35,
+   "end": 9.05,
+   "line": "Something feels wrong.",
+   "scene": "Giant face: lieutenant worried, eyes darting, blurred fire behind",
+   "set": "kitchen",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "heartbeat",
+     "gain": -8
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s05",
+   "start": 9.05,
+   "end": 10.8,
+   "line": "The room is too hot.",
+   "scene": "Lieutenant medium wiping brow, heat shimmer, thermometer gauge rises to red",
+   "set": "kitchen",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.6,
+     "name": "riser",
+     "gain": -14,
+     "dur": 1.2
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s06",
+   "start": 10.8,
+   "end": 12.13,
+   "line": "Too quiet.",
+   "scene": "Wide still kitchen, flames low, a flat-line sound graph, near silence",
+   "set": "kitchen",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "amb": {
+    "name": "hum",
+    "gain": -30
+   }
+  },
+  {
+   "id": "s07",
+   "start": 12.13,
+   "end": 14.38,
+   "line": "He can't explain why, but he yells,",
+   "scene": "Giant face: lieutenant confused, a gold glow pulses in his gut",
+   "set": "kitchen",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.8,
+     "name": "shimmer",
+     "gain": -12
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s08",
+   "start": 14.38,
+   "end": 16.13,
+   "line": "\"Everybody out!\"",
+   "scene": "Lieutenant shouts and points to the door, crew turn and run, rings around head, shake",
+   "set": "kitchen",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.1,
+     "name": "impact",
+     "gain": -8
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s09",
+   "start": 16.13,
+   "end": 19.5,
+   "line": "Seconds later, the floor they were standing on collapses.",
+   "scene": "Wide: crew run out the left door; floor caves into a burst of fire behind them, camera shake",
+   "set": "kitchen",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 2.2,
+     "name": "impact",
+     "gain": -4
+    },
+    {
+     "at": 2.3,
+     "name": "thunder",
+     "gain": -10
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s10",
+   "start": 19.5,
+   "end": 21.6,
+   "line": "The fire was never in the kitchen.",
+   "scene": "Camera pulls down through the floor into a cross-section: kitchen above, glow below",
+   "set": "section",
+   "bars": "none",
+   "in": {
+    "type": "zoom",
+    "dur": 0.4
+   },
+   "sfx": [
+    {
+     "at": 0.0,
+     "name": "whoosh",
+     "gain": -8
+    },
+    {
+     "at": 1.0,
+     "name": "riser",
+     "gain": -12,
+     "dur": 1.0
+    }
+   ],
+   "amb": {
+    "name": "hum",
+    "gain": -26
+   }
+  },
+  {
+   "id": "s11",
+   "start": 21.6,
+   "end": 24.83,
+   "line": "It was burning in the basement, right under their feet.",
+   "scene": "Cross-section: basement fire revealed, ghost crew footprints above, callouts BASEMENT FIRE and arrow to feet",
+   "set": "section",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.5,
+     "name": "stinger",
+     "gain": -6
+    },
+    {
+     "at": 2.1,
+     "name": "pop",
+     "gain": -14
+    }
+   ],
+   "amb": {
+    "name": "hum",
+    "gain": -26
+   }
+  },
+  {
+   "id": "s12",
+   "start": 24.83,
+   "end": 27.97,
+   "line": "His gut saved every life in that room.",
+   "scene": "Exterior: crew safe by the truck, house burning behind, lieutenant's gut glows gold, push-in",
+   "set": "houseExt",
+   "bars": "wide",
+   "in": {
+    "type": "dip",
+    "dur": 0.4
+   },
+   "sfx": [
+    {
+     "at": 0.5,
+     "name": "ding",
+     "gain": -10
+    }
+   ],
+   "amb": {
+    "name": "wind",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s13",
+   "start": 27.97,
+   "end": 30.81,
+   "line": "So should you always trust your gut?",
+   "scene": "Void stage: YOU (red hoodie) under a spotlight, gut glow, words TRUST YOUR GUT?",
+   "set": "void",
+   "bars": "scope",
+   "in": {
+    "type": "flash",
+    "dur": 0.3
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "flash",
+     "gain": -12
+    }
+   ],
+   "amb": {
+    "name": "hum",
+    "gain": -28
+   }
+  },
+  {
+   "id": "s14",
+   "start": 30.81,
+   "end": 32.89,
+   "line": "Here's the uncomfortable truth.",
+   "scene": "Giant face: YOU worried, darker, slow push",
+   "set": "void",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "amb": {
+    "name": "hum",
+    "gain": -28
+   }
+  },
+  {
+   "id": "s15",
+   "start": 32.89,
+   "end": 35.73,
+   "line": "Sometimes your gut is a genius.",
+   "scene": "Genius in lab coat under a warm spotlight, glowing lightbulb pops on at 'genius'",
+   "set": "void",
+   "bars": "wide",
+   "in": {
+    "type": "whip",
+    "dur": 0.3,
+    "dir": 1
+   },
+   "sfx": [
+    {
+     "at": 0.0,
+     "name": "swish",
+     "gain": -10
+    },
+    {
+     "at": 1.8,
+     "name": "ding",
+     "gain": -8
+    }
+   ],
+   "amb": {
+    "name": "hum",
+    "gain": -28
+   }
+  },
+  {
+   "id": "s16",
+   "start": 35.73,
+   "end": 38.23,
+   "line": "And sometimes, it's a con artist.",
+   "scene": "Con artist in trench and fedora, half in shadow, smirks, card flicks at 'con'",
+   "set": "void",
+   "bars": "wide",
+   "in": {
+    "type": "whip",
+    "dur": 0.3,
+    "dir": -1
+   },
+   "sfx": [
+    {
+     "at": 0.0,
+     "name": "swish",
+     "gain": -10
+    },
+    {
+     "at": 1.5,
+     "name": "stinger",
+     "gain": -10
+    }
+   ],
+   "amb": {
+    "name": "hum",
+    "gain": -28
+   }
+  },
+  {
+   "id": "s17",
+   "start": 38.23,
+   "end": 41.05,
+   "line": "The trick is knowing which one is talking.",
+   "scene": "YOU in the middle between genius (left) and con artist (right), both whisper, YOU looks back and forth; question mark",
+   "set": "void",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.2,
+     "name": "tick",
+     "gain": -14
+    }
+   ],
+   "amb": {
+    "name": "hum",
+    "gain": -28
+   }
+  },
+  {
+   "id": "p01",
+   "start": 41.05,
+   "end": 45.55,
+   "line": "Psychologist Daniel Kahneman described two ways your mind works.",
+   "scene": "Study: Kahneman at a chalkboard drawing 1 and 2; name lower third",
+   "set": "study",
+   "bars": "wide",
+   "in": {
+    "type": "dip",
+    "dur": 0.5
+   },
+   "sfx": [
+    {
+     "at": 0.4,
+     "name": "whoosh",
+     "gain": -12
+    }
+   ],
+   "amb": {
+    "name": "hum",
+    "gain": -30
+   }
+  },
+  {
+   "id": "p02",
+   "start": 45.55,
+   "end": 49.05,
+   "line": "System One is fast, automatic, effortless.",
+   "scene": "Blueprint left: sprinting line figure SYSTEM 1, words pop FAST AUTOMATIC EFFORTLESS",
+   "set": "bp",
+   "bars": "none",
+   "in": {
+    "type": "zoom",
+    "dur": 0.4
+   },
+   "sfx": [
+    {
+     "at": 0.6,
+     "name": "whoosh",
+     "gain": -10
+    }
+   ],
+   "amb": {
+    "name": "hum",
+    "gain": -30
+   }
+  },
+  {
+   "id": "p03",
+   "start": 49.05,
+   "end": 51.45,
+   "line": "It's the voice that just knows.",
+   "scene": "YOU: gut glow sends instant check mark",
+   "set": "void",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.6,
+     "name": "ding",
+     "gain": -12
+    }
+   ],
+   "amb": {
+    "name": "hum",
+    "gain": -30
+   }
+  },
+  {
+   "id": "p04",
+   "start": 51.45,
+   "end": 54.25,
+   "line": "System Two is slow and deliberate.",
+   "scene": "Blueprint right: slow walking figure with calculator SYSTEM 2, SLOW DELIBERATE",
+   "set": "bp",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.5,
+     "name": "tick",
+     "gain": -14
+    }
+   ],
+   "amb": {
+    "name": "hum",
+    "gain": -30
+   }
+  },
+  {
+   "id": "p05",
+   "start": 54.25,
+   "end": 56.35,
+   "line": "It's the voice that does the math.",
+   "scene": "YOU giant face thinking, numbers orbit",
+   "set": "void",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "amb": {
+    "name": "hum",
+    "gain": -30
+   }
+  },
+  {
+   "id": "p06",
+   "start": 56.35,
+   "end": 57.65,
+   "line": "Try this.",
+   "scene": "Big line TRY THIS",
+   "set": "void",
+   "bars": "scope",
+   "in": {
+    "type": "flash",
+    "dur": 0.25
+   },
+   "sfx": [
+    {
+     "at": 0.1,
+     "name": "pop",
+     "gain": -10
+    }
+   ],
+   "amb": {
+    "name": "hum",
+    "gain": -30
+   }
+  },
+  {
+   "id": "p07",
+   "start": 57.65,
+   "end": 61.5,
+   "line": "A bat and a ball cost one dollar and ten cents in total.",
+   "scene": "Insert: bat and ball, tag $1.10 TOTAL",
+   "set": "table",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 2.0,
+     "name": "pop",
+     "gain": -12
+    }
+   ],
+   "amb": {
+    "name": "hum",
+    "gain": -30
+   }
+  },
+  {
+   "id": "p08",
+   "start": 61.5,
+   "end": 64.6,
+   "line": "The bat costs one dollar more than the ball.",
+   "scene": "Bat tag +$1.00 MORE",
+   "set": "table",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.0,
+     "name": "blip",
+     "gain": -12
+    }
+   ],
+   "amb": {
+    "name": "hum",
+    "gain": -30
+   }
+  },
+  {
+   "id": "p09",
+   "start": 64.6,
+   "end": 65.5,
+   "line": "How much is the ball?",
+   "scene": "Push in on ball, ? tag",
+   "set": "table",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "tick",
+     "gain": -12
+    }
+   ],
+   "amb": {
+    "name": "hum",
+    "gain": -30
+   }
+  },
+  {
+   "id": "p10",
+   "start": 65.5,
+   "end": 67.45,
+   "line": "Ten cents, right?",
+   "scene": "$0.10 stamps onto ball, gut glow",
+   "set": "table",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "hit",
+     "gain": -10
+    }
+   ],
+   "amb": {
+    "name": "hum",
+    "gain": -30
+   }
+  },
+  {
+   "id": "p11",
+   "start": 67.45,
+   "end": 68.95,
+   "line": "It feels obvious.",
+   "scene": "YOU giant face smug",
+   "set": "void",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "amb": {
+    "name": "hum",
+    "gain": -30
+   }
+  },
+  {
+   "id": "p12",
+   "start": 68.95,
+   "end": 70.25,
+   "line": "It's wrong.",
+   "scene": "$0.10 cracks, red X, shake",
+   "set": "table",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "glitch",
+     "gain": -8
+    }
+   ],
+   "amb": {
+    "name": "hum",
+    "gain": -30
+   }
+  },
+  {
+   "id": "p13",
+   "start": 70.25,
+   "end": 72.5,
+   "line": "The ball costs five cents.",
+   "scene": "$0.05 gold, sum 0.05 + 1.05 = 1.10",
+   "set": "table",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.8,
+     "name": "ding",
+     "gain": -10
+    }
+   ],
+   "amb": {
+    "name": "hum",
+    "gain": -30
+   }
+  },
+  {
+   "id": "p14",
+   "start": 72.5,
+   "end": 75.15,
+   "line": "That instant answer was your gut.",
+   "scene": "YOU with gut glow, arrow to $0.10",
+   "set": "void",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "amb": {
+    "name": "hum",
+    "gain": -30
+   }
+  },
+  {
+   "id": "p15",
+   "start": 75.15,
+   "end": 76.1,
+   "line": "Confident.",
+   "scene": "Con artist word CONFIDENT",
+   "set": "void",
+   "bars": "scope",
+   "in": {
+    "type": "whip",
+    "dur": 0.25,
+    "dir": 1
+   },
+   "sfx": [
+    {
+     "at": 0.0,
+     "name": "swish",
+     "gain": -12
+    }
+   ],
+   "amb": {
+    "name": "hum",
+    "gain": -30
+   }
+  },
+  {
+   "id": "p16",
+   "start": 76.1,
+   "end": 76.95,
+   "line": "Fast.",
+   "scene": "Con artist word FAST + speed lines",
+   "set": "void",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.0,
+     "name": "whoosh",
+     "gain": -12
+    }
+   ],
+   "amb": {
+    "name": "hum",
+    "gain": -30
+   }
+  },
+  {
+   "id": "p17",
+   "start": 76.95,
+   "end": 78.6,
+   "line": "And mistaken.",
+   "scene": "MISTAKEN red stamp",
+   "set": "void",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.4,
+     "name": "impact",
+     "gain": -8
+    }
+   ],
+   "amb": {
+    "name": "hum",
+    "gain": -30
+   }
+  },
+  {
+   "id": "p18",
+   "start": 78.6,
+   "end": 81.35,
+   "line": "So why was the firefighter's gut right?",
+   "scene": "Burning house reprise, lieutenant gut glow, ?",
+   "set": "houseExt",
+   "bars": "wide",
+   "in": {
+    "type": "dip",
+    "dur": 0.4
+   },
+   "sfx": [],
+   "amb": {
+    "name": "hum",
+    "gain": -30
+   }
+  },
+  {
+   "id": "p19",
+   "start": 81.35,
+   "end": 85.15,
+   "line": "Researcher Gary Klein spent years studying firefighters like him.",
+   "scene": "Firehouse: Klein with notepad interviews lieutenant; lower third",
+   "set": "firehouse",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "amb": {
+    "name": "hum",
+    "gain": -30
+   }
+  },
+  {
+   "id": "p20",
+   "start": 85.15,
+   "end": 87.6,
+   "line": "What he found was surprising.",
+   "scene": "Klein giant face surprised",
+   "set": "firehouse",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.6,
+     "name": "shimmer",
+     "gain": -12
+    }
+   ],
+   "amb": {
+    "name": "hum",
+    "gain": -30
+   }
+  },
+  {
+   "id": "p21",
+   "start": 87.6,
+   "end": 89.15,
+   "line": "They weren't guessing.",
+   "scene": "Dice with red X",
+   "set": "bp",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.4,
+     "name": "hit",
+     "gain": -12
+    }
+   ],
+   "amb": {
+    "name": "hum",
+    "gain": -30
+   }
+  },
+  {
+   "id": "p22",
+   "start": 89.15,
+   "end": 95.4,
+   "line": "Over years on the job, they had seen hundreds of fires, and their brains had quietly stored the patterns.",
+   "scene": "Blueprint brain fills with fire icons, counter HUNDREDS",
+   "set": "bp",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.5,
+     "name": "counter",
+     "gain": -16,
+     "dur": 3.0
+    }
+   ],
+   "amb": {
+    "name": "hum",
+    "gain": -30
+   }
+  },
+  {
+   "id": "p23",
+   "start": 95.4,
+   "end": 99.0,
+   "line": "When something didn't fit, too much heat, too little noise,",
+   "scene": "Pattern grid, one icon blinks red, HEAT up NOISE down",
+   "set": "bp",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.2,
+     "name": "blip",
+     "gain": -12
+    },
+    {
+     "at": 2.4,
+     "name": "blip",
+     "gain": -12
+    }
+   ],
+   "amb": {
+    "name": "hum",
+    "gain": -30
+   }
+  },
+  {
+   "id": "p24",
+   "start": 99.0,
+   "end": 102.1,
+   "line": "an alarm went off before they could put it into words.",
+   "scene": "Lieutenant giant face, red alarm rings",
+   "set": "kitchen",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "buzz",
+     "gain": -10
+    }
+   ],
+   "amb": {
+    "name": "hum",
+    "gain": -30
+   }
+  },
+  {
+   "id": "p25",
+   "start": 102.1,
+   "end": 103.45,
+   "line": "That's not magic.",
+   "scene": "MAGIC sparkles fizzle, crossed",
+   "set": "void",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "amb": {
+    "name": "hum",
+    "gain": -30
+   }
+  },
+  {
+   "id": "p26",
+   "start": 103.45,
+   "end": 106.8,
+   "line": "It's experience, compressed into a feeling.",
+   "scene": "Fire icons compress into a gold gut orb",
+   "set": "bp",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.4,
+     "name": "powerup",
+     "gain": -10
+    }
+   ],
+   "amb": {
+    "name": "hum",
+    "gain": -30
+   }
+  },
+  {
+   "id": "p27",
+   "start": 106.8,
+   "end": 109.2,
+   "line": "But here's where it gets strange.",
+   "scene": "Big line, dark",
+   "set": "void",
+   "bars": "scope",
+   "in": {
+    "type": "dip",
+    "dur": 0.4
+   },
+   "sfx": [
+    {
+     "at": 0.6,
+     "name": "riser",
+     "gain": -14,
+     "dur": 1.6
+    }
+   ],
+   "amb": {
+    "name": "hum",
+    "gain": -30
+   }
+  },
+  {
+   "id": "p28",
+   "start": 109.2,
+   "end": 111.7,
+   "line": "Kahneman was a skeptic of intuition.",
+   "scene": "Kahneman arms crossed, SKEPTIC",
+   "set": "void",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.8,
+     "name": "pop",
+     "gain": -12
+    }
+   ],
+   "amb": {
+    "name": "hum",
+    "gain": -30
+   }
+  },
+  {
+   "id": "p29",
+   "start": 111.7,
+   "end": 113.05,
+   "line": "Klein was a believer.",
+   "scene": "Klein smiling, BELIEVER",
+   "set": "void",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.5,
+     "name": "pop",
+     "gain": -12
+    }
+   ],
+   "amb": {
+    "name": "hum",
+    "gain": -30
+   }
+  },
+  {
+   "id": "p30",
+   "start": 113.05,
+   "end": 118.6,
+   "line": "So in 2009, the two of them wrote a paper together, trying to settle the argument.",
+   "scene": "Two at a table, paper slides together, 2009 badge",
+   "set": "study",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.6,
+     "name": "pop",
+     "gain": -12
+    },
+    {
+     "at": 2.6,
+     "name": "swish",
+     "gain": -14
+    }
+   ],
+   "amb": {
+    "name": "hum",
+    "gain": -30
+   }
+  },
+  {
+   "id": "p31",
+   "start": 118.6,
+   "end": 119.8,
+   "line": "Their conclusion?",
+   "scene": "Paper glows",
+   "set": "study",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "shimmer",
+     "gain": -12
+    }
+   ],
+   "amb": {
+    "name": "hum",
+    "gain": -30
+   }
+  },
+  {
+   "id": "p32",
+   "start": 119.8,
+   "end": 122.7,
+   "line": "A gut feeling deserves trust under two conditions.",
+   "scene": "Checklist TRUST YOUR GUT IF with 2 boxes",
+   "set": "bp",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "amb": {
+    "name": "hum",
+    "gain": -30
+   }
+  },
+  {
+   "id": "p33",
+   "start": 122.7,
+   "end": 126.75,
+   "line": "One: the world you're in has real, repeating patterns.",
+   "scene": "Item 1, repeating pattern icons",
+   "set": "bp",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "pop",
+     "gain": -12
+    }
+   ],
+   "amb": {
+    "name": "hum",
+    "gain": -30
+   }
+  },
+  {
+   "id": "p34",
+   "start": 126.75,
+   "end": 133.1,
+   "line": "Two: you've had lots of practice, with quick and clear feedback on whether you were right.",
+   "scene": "Item 2, practice reps + feedback loop",
+   "set": "bp",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "pop",
+     "gain": -12
+    }
+   ],
+   "amb": {
+    "name": "hum",
+    "gain": -30
+   }
+  },
+  {
+   "id": "p35",
+   "start": 133.1,
+   "end": 134.95,
+   "line": "Firefighters get both.",
+   "scene": "Lieutenant + two checks",
+   "set": "void",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.6,
+     "name": "ding",
+     "gain": -12
+    }
+   ],
+   "amb": {
+    "name": "hum",
+    "gain": -30
+   }
+  },
+  {
+   "id": "p36",
+   "start": 134.95,
+   "end": 136.4,
+   "line": "So do chess players.",
+   "scene": "Chess player at board + checks",
+   "set": "void",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.5,
+     "name": "ding",
+     "gain": -12
+    }
+   ],
+   "amb": {
+    "name": "hum",
+    "gain": -30
+   }
+  },
+  {
+   "id": "p37",
+   "start": 136.4,
+   "end": 138.45,
+   "line": "So do experienced nurses.",
+   "scene": "Nurse with clipboard + checks",
+   "set": "void",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.5,
+     "name": "ding",
+     "gain": -12
+    }
+   ],
+   "amb": {
+    "name": "hum",
+    "gain": -30
+   }
+  },
+  {
+   "id": "p38",
+   "start": 138.45,
+   "end": 140.25,
+   "line": "But what about the rest of us?",
+   "scene": "YOU alone, ?",
+   "set": "void",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "amb": {
+    "name": "hum",
+    "gain": -30
+   }
+  },
+  {
+   "id": "p39",
+   "start": 140.25,
+   "end": 143.95,
+   "line": "Think about predicting the stock market, or world politics.",
+   "scene": "Jittery stock chart + spinning globe",
+   "set": "bp",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.5,
+     "name": "glitch",
+     "gain": -16
+    }
+   ],
+   "amb": {
+    "name": "hum",
+    "gain": -30
+   }
+  },
+  {
+   "id": "p40",
+   "start": 143.95,
+   "end": 145.65,
+   "line": "The patterns are weak.",
+   "scene": "Checklist item 1 X",
+   "set": "bp",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.5,
+     "name": "hit",
+     "gain": -10
+    }
+   ],
+   "amb": {
+    "name": "hum",
+    "gain": -30
+   }
+  },
+  {
+   "id": "p41",
+   "start": 145.65,
+   "end": 149.45,
+   "line": "The feedback is slow, or it never comes at all.",
+   "scene": "Item 2 X, clock spinning",
+   "set": "bp",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "clock",
+     "gain": -14,
+     "dur": 3
+    }
+   ],
+   "amb": {
+    "name": "hum",
+    "gain": -30
+   }
+  },
+  {
+   "id": "p42",
+   "start": 149.45,
+   "end": 155.85,
+   "line": "Psychologist Philip Tetlock collected thousands of predictions from political experts over nearly two decades.",
+   "scene": "Experts at podiums, prediction cards pile up, lower third",
+   "set": "stage",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 2.0,
+     "name": "counter",
+     "gain": -16,
+     "dur": 3
+    }
+   ],
+   "amb": {
+    "name": "hum",
+    "gain": -30
+   }
+  },
+  {
+   "id": "p43",
+   "start": 155.85,
+   "end": 158.35,
+   "line": "Many of them did little better than chance.",
+   "scene": "Scoreboard bars near CHANCE line",
+   "set": "bp",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "amb": {
+    "name": "hum",
+    "gain": -30
+   }
+  },
+  {
+   "id": "p44",
+   "start": 158.35,
+   "end": 162.6,
+   "line": "And the experts most sure of their big ideas often did worse.",
+   "scene": "Confident expert's bar drops below chance",
+   "set": "bp",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 2.6,
+     "name": "impact",
+     "gain": -8
+    }
+   ],
+   "amb": {
+    "name": "hum",
+    "gain": -30
+   }
+  },
+  {
+   "id": "p45",
+   "start": 162.6,
+   "end": 165.75,
+   "line": "Their gut felt just as certain as the firefighter's.",
+   "scene": "Expert and lieutenant side by side, equal gut glows",
+   "set": "void",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "amb": {
+    "name": "hum",
+    "gain": -30
+   }
+  },
+  {
+   "id": "p46",
+   "start": 165.75,
+   "end": 168.05,
+   "line": "It just hadn't learned anything real.",
+   "scene": "Expert gut orb hollow, flickers out",
+   "set": "void",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "amb": {
+    "name": "hum",
+    "gain": -30
+   }
+  },
+  {
+   "id": "p47",
+   "start": 168.05,
+   "end": 169.25,
+   "line": "And that's the twist.",
+   "scene": "Flash, THE TWIST",
+   "set": "void",
+   "bars": "scope",
+   "in": {
+    "type": "flash",
+    "dur": 0.3
+   },
+   "sfx": [
+    {
+     "at": 0.1,
+     "name": "stinger",
+     "gain": -6
+    }
+   ],
+   "amb": {
+    "name": "hum",
+    "gain": -30
+   }
+  },
+  {
+   "id": "p48",
+   "start": 169.25,
+   "end": 174.35,
+   "line": "A gut feeling feels exactly the same whether it's right or wrong.",
+   "scene": "Freeze: two identical orbs RIGHT / WRONG",
+   "set": "void",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "freeze",
+     "gain": -10
+    }
+   ],
+   "amb": {
+    "name": "hum",
+    "gain": -30
+   }
+  },
+  {
+   "id": "p49",
+   "start": 174.35,
+   "end": 176.45,
+   "line": "Confidence is not evidence.",
+   "scene": "CONFIDENCE \u2260 EVIDENCE",
+   "set": "void",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.9,
+     "name": "hit",
+     "gain": -10
+    }
+   ],
+   "amb": {
+    "name": "hum",
+    "gain": -30
+   }
+  },
+  {
+   "id": "p50",
+   "start": 176.45,
+   "end": 179.15,
+   "line": "Your gut doesn't come with a warning label.",
+   "scene": "Orb with blank warning tag",
+   "set": "void",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "amb": {
+    "name": "hum",
+    "gain": -30
+   }
+  },
+  {
+   "id": "p51",
+   "start": 179.15,
+   "end": 182.85,
+   "line": "So before you trust it, ask yourself two questions.",
+   "scene": "YOU with two question cards",
+   "set": "void",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 2.6,
+     "name": "pop",
+     "gain": -12
+    }
+   ],
+   "amb": {
+    "name": "hum",
+    "gain": -30
+   }
+  },
+  {
+   "id": "p52",
+   "start": 182.85,
+   "end": 185.1,
+   "line": "Have I done this many times before?",
+   "scene": "Card 1 flips, many reps",
+   "set": "void",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "swish",
+     "gain": -12
+    }
+   ],
+   "amb": {
+    "name": "hum",
+    "gain": -30
+   }
+  },
+  {
+   "id": "p53",
+   "start": 185.1,
+   "end": 188.15,
+   "line": "And did I quickly find out whether I was right?",
+   "scene": "Card 2 flips, fast feedback",
+   "set": "void",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "swish",
+     "gain": -12
+    }
+   ],
+   "amb": {
+    "name": "hum",
+    "gain": -30
+   }
+  },
+  {
+   "id": "p54",
+   "start": 188.15,
+   "end": 191.05,
+   "line": "If the answer is yes, listen closely.",
+   "scene": "YOU listens to gut, green check",
+   "set": "void",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.3,
+     "name": "ding",
+     "gain": -12
+    }
+   ],
+   "amb": {
+    "name": "hum",
+    "gain": -30
+   }
+  },
+  {
+   "id": "p55",
+   "start": 191.05,
+   "end": 193.4,
+   "line": "If it's no, slow down.",
+   "scene": "YOU slows, stop hand",
+   "set": "void",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.8,
+     "name": "slowmo",
+     "gain": -10
+    }
+   ],
+   "amb": {
+    "name": "hum",
+    "gain": -30
+   }
+  },
+  {
+   "id": "p56",
+   "start": 193.4,
+   "end": 195.8,
+   "line": "Let System Two check the math.",
+   "scene": "System 2 figure checks $0.05",
+   "set": "bp",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.2,
+     "name": "ding",
+     "gain": -10
+    }
+   ],
+   "amb": {
+    "name": "hum",
+    "gain": -30
+   }
+  },
+  {
+   "id": "p57",
+   "start": 195.8,
+   "end": 197.4,
+   "line": "Your gut isn't a liar.",
+   "scene": "Con artist crossed out",
+   "set": "void",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.6,
+     "name": "hit",
+     "gain": -10
+    }
+   ],
+   "amb": {
+    "name": "hum",
+    "gain": -30
+   }
+  },
+  {
+   "id": "p58",
+   "start": 197.4,
+   "end": 198.6,
+   "line": "And it isn't a prophet.",
+   "scene": "Robed prophet with crystal ball crossed out",
+   "set": "void",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.6,
+     "name": "hit",
+     "gain": -10
+    }
+   ],
+   "amb": {
+    "name": "hum",
+    "gain": -30
+   }
+  },
+  {
+   "id": "p59",
+   "start": 198.6,
+   "end": 200.25,
+   "line": "It's a student.",
+   "scene": "Gut orb becomes a kid at a school desk",
+   "set": "school",
+   "bars": "wide",
+   "in": {
+    "type": "fade",
+    "dur": 0.4
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "shimmer",
+     "gain": -12
+    }
+   ],
+   "amb": {
+    "name": "hum",
+    "gain": -30
+   }
+  },
+  {
+   "id": "p60",
+   "start": 200.25,
+   "end": 203.15,
+   "line": "It only knows what you've actually taught it.",
+   "scene": "Kid writing, books stack up",
+   "set": "school",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "amb": {
+    "name": "hum",
+    "gain": -30
+   }
+  },
+  {
+   "id": "p61",
+   "start": 203.15,
+   "end": 207.05,
+   "line": "So, when has your gut been right, and when has it fooled you?",
+   "scene": "End question, serif",
+   "set": "end",
+   "bars": "none",
+   "in": {
+    "type": "dip",
+    "dur": 0.5
+   },
+   "sfx": [],
+   "amb": {
+    "name": "hum",
+    "gain": -30
+   }
+  },
+  {
+   "id": "p62",
+   "start": 207.05,
+   "end": 208.5,
+   "line": "Tell me in the comments.",
+   "scene": "Comment bubble",
+   "set": "end",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "pop",
+     "gain": -12
+    }
+   ],
+   "amb": {
+    "name": "hum",
+    "gain": -30
+   }
+  },
+  {
+   "id": "p63",
+   "start": 208.5,
+   "end": 214.2,
+   "line": "And subscribe, because your mind has a lot more tricks to show you.",
+   "scene": "End screen with cast + subscribe",
+   "set": "end",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.6,
+     "name": "pop",
+     "gain": -12
+    }
+   ],
+   "amb": {
+    "name": "hum",
+    "gain": -30
+   }
+  }
+ ],
+ "music": [
+  {
+   "start": 0,
+   "end": 19.5,
+   "mood": "tension",
+   "intensity": 0.55
+  },
+  {
+   "start": 19.5,
+   "end": 41.05,
+   "mood": "mystery",
+   "intensity": 0.45
+  },
+  {
+   "start": 41.05,
+   "end": 78.6,
+   "mood": "playful",
+   "intensity": 0.35
+  },
+  {
+   "start": 78.6,
+   "end": 109.2,
+   "mood": "wonder",
+   "intensity": 0.4
+  },
+  {
+   "start": 109.2,
+   "end": 140.25,
+   "mood": "mystery",
+   "intensity": 0.4
+  },
+  {
+   "start": 140.25,
+   "end": 168.05,
+   "mood": "tension",
+   "intensity": 0.45
+  },
+  {
+   "start": 168.05,
+   "end": 198.6,
+   "mood": "dark",
+   "intensity": 0.4
+  },
+  {
+   "start": 198.6,
+   "end": 214.2,
+   "mood": "hopeful",
+   "intensity": 0.45
+  }
+ ],
+ "sfx": []
+}
