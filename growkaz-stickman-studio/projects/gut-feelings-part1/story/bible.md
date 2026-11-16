@@ -6,8 +6,8 @@
 ## Cast
 | id | role | outfit | signature | expressions |
 |---|---|---|---|---|
-| LT | fire lieutenant | ink body, cap as helmet | yellow helmet #f2c21a | determined, worried, confused, shocked |
-| CREW | 2 firefighters | ink body, dark helmet | none (background) | neutral, scared |
+| LT | fire lieutenant | firefighter helmet + fire coat | yellow helmet #f2c21a | determined, worried, confused, shocked |
+| CREW | 2 firefighters | firefighter helmet + fire coat | red helmets #c8322a | neutral, scared |
 | YOU | the viewer | red hoodie | #d64a33 | thinking, worried |
 | GENIUS | the gut as a genius | lab coat + glasses | white coat | happy, smile |
 | CON | the gut as a con artist | trench + fedora + sunglasses | black trench | smirk |
