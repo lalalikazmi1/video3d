@@ -1,0 +1,871 @@
+{
+ "title": "Proximity Effect Test",
+ "duration": 145.5,
+ "shots": [
+  {
+   "id": "P01",
+   "start": 0.0,
+   "end": 2.95,
+   "line": "",
+   "scene": "",
+   "set": "",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "whoosh",
+     "gain": -12
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -28
+   }
+  },
+  {
+   "id": "P02",
+   "start": 2.95,
+   "end": 4.2,
+   "line": "",
+   "scene": "",
+   "set": "",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "pop",
+     "gain": -14
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -28
+   }
+  },
+  {
+   "id": "P03",
+   "start": 4.2,
+   "end": 5.6,
+   "line": "",
+   "scene": "",
+   "set": "",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "shimmer",
+     "gain": -14
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -28
+   }
+  },
+  {
+   "id": "P04",
+   "start": 5.6,
+   "end": 7.9,
+   "line": "",
+   "scene": "",
+   "set": "",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "amb": {
+    "name": "roomtone",
+    "gain": -28
+   }
+  },
+  {
+   "id": "P05",
+   "start": 7.9,
+   "end": 10.7,
+   "line": "",
+   "scene": "",
+   "set": "",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "amb": {
+    "name": "roomtone",
+    "gain": -28
+   }
+  },
+  {
+   "id": "P06",
+   "start": 10.7,
+   "end": 12.5,
+   "line": "",
+   "scene": "",
+   "set": "",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "tick",
+     "gain": -14
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -28
+   }
+  },
+  {
+   "id": "P07",
+   "start": 12.5,
+   "end": 15.1,
+   "line": "",
+   "scene": "",
+   "set": "",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.6,
+     "name": "hit",
+     "gain": -12
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -28
+   }
+  },
+  {
+   "id": "P08",
+   "start": 15.1,
+   "end": 16.4,
+   "line": "",
+   "scene": "",
+   "set": "",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.5,
+     "name": "hit",
+     "gain": -12
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -28
+   }
+  },
+  {
+   "id": "P09",
+   "start": 16.4,
+   "end": 17.9,
+   "line": "",
+   "scene": "",
+   "set": "",
+   "bars": "none",
+   "in": {
+    "type": "flash",
+    "dur": 0.35
+   },
+   "sfx": [
+    {
+     "at": 0.1,
+     "name": "impact",
+     "gain": -8
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -28
+   }
+  },
+  {
+   "id": "P10",
+   "start": 17.9,
+   "end": 19.2,
+   "line": "",
+   "scene": "",
+   "set": "",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "amb": {
+    "name": "roomtone",
+    "gain": -28
+   }
+  },
+  {
+   "id": "P11",
+   "start": 19.2,
+   "end": 20.5,
+   "line": "",
+   "scene": "",
+   "set": "",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "amb": {
+    "name": "roomtone",
+    "gain": -28
+   }
+  },
+  {
+   "id": "P12",
+   "start": 20.5,
+   "end": 22.4,
+   "line": "",
+   "scene": "",
+   "set": "",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "carpass",
+     "gain": -16
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -28
+   }
+  },
+  {
+   "id": "P13",
+   "start": 22.4,
+   "end": 23.6,
+   "line": "",
+   "scene": "",
+   "set": "",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "amb": {
+    "name": "roomtone",
+    "gain": -28
+   }
+  },
+  {
+   "id": "P14",
+   "start": 23.6,
+   "end": 26.1,
+   "line": "",
+   "scene": "",
+   "set": "",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "amb": {
+    "name": "roomtone",
+    "gain": -28
+   }
+  },
+  {
+   "id": "P15",
+   "start": 26.1,
+   "end": 29.5,
+   "line": "",
+   "scene": "",
+   "set": "",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "amb": {
+    "name": "roomtone",
+    "gain": -28
+   }
+  },
+  {
+   "id": "P16",
+   "start": 29.5,
+   "end": 33.5,
+   "line": "",
+   "scene": "",
+   "set": "",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.8,
+     "name": "counter",
+     "gain": -16
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -28
+   }
+  },
+  {
+   "id": "P17",
+   "start": 33.5,
+   "end": 37.0,
+   "line": "",
+   "scene": "",
+   "set": "",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.5,
+     "name": "pop",
+     "gain": -14
+    },
+    {
+     "at": 1.5,
+     "name": "pop",
+     "gain": -14
+    },
+    {
+     "at": 2.6,
+     "name": "pop",
+     "gain": -14
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -28
+   }
+  },
+  {
+   "id": "P18",
+   "start": 37.0,
+   "end": 40.0,
+   "line": "",
+   "scene": "",
+   "set": "",
+   "bars": "none",
+   "in": {
+    "type": "flash",
+    "dur": 0.35
+   },
+   "sfx": [
+    {
+     "at": 0.1,
+     "name": "stinger",
+     "gain": -8
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -28
+   }
+  },
+  {
+   "id": "P19",
+   "start": 40.0,
+   "end": 44.9,
+   "line": "",
+   "scene": "",
+   "set": "",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.5,
+     "name": "shimmer",
+     "gain": -12
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -28
+   }
+  },
+  {
+   "id": "P20",
+   "start": 44.9,
+   "end": 52.1,
+   "line": "",
+   "scene": "",
+   "set": "",
+   "bars": "none",
+   "in": {
+    "type": "dip",
+    "dur": 0.35
+   },
+   "sfx": [
+    {
+     "at": 0.6,
+     "name": "pop",
+     "gain": -14
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -28
+   }
+  },
+  {
+   "id": "P21",
+   "start": 52.1,
+   "end": 55.4,
+   "line": "",
+   "scene": "",
+   "set": "",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "amb": {
+    "name": "roomtone",
+    "gain": -28
+   }
+  },
+  {
+   "id": "P22",
+   "start": 55.4,
+   "end": 59.8,
+   "line": "",
+   "scene": "",
+   "set": "",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.0,
+     "name": "blip",
+     "gain": -14
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -28
+   }
+  },
+  {
+   "id": "P23",
+   "start": 59.8,
+   "end": 63.5,
+   "line": "",
+   "scene": "",
+   "set": "",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.6,
+     "name": "ding",
+     "gain": -12
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -28
+   }
+  },
+  {
+   "id": "P24",
+   "start": 63.5,
+   "end": 70.2,
+   "line": "",
+   "scene": "",
+   "set": "",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "amb": {
+    "name": "roomtone",
+    "gain": -28
+   }
+  },
+  {
+   "id": "P25",
+   "start": 70.2,
+   "end": 72.5,
+   "line": "",
+   "scene": "",
+   "set": "",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "pop",
+     "gain": -12
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -28
+   }
+  },
+  {
+   "id": "P26",
+   "start": 72.5,
+   "end": 74.7,
+   "line": "",
+   "scene": "",
+   "set": "",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.4,
+     "name": "shimmer",
+     "gain": -12
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -28
+   }
+  },
+  {
+   "id": "P27",
+   "start": 74.7,
+   "end": 81.3,
+   "line": "",
+   "scene": "",
+   "set": "",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.0,
+     "name": "blip",
+     "gain": -14
+    },
+    {
+     "at": 3.5,
+     "name": "blip",
+     "gain": -14
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -28
+   }
+  },
+  {
+   "id": "P28",
+   "start": 81.3,
+   "end": 87.4,
+   "line": "",
+   "scene": "",
+   "set": "",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "amb": {
+    "name": "roomtone",
+    "gain": -28
+   }
+  },
+  {
+   "id": "P29",
+   "start": 87.4,
+   "end": 90.6,
+   "line": "",
+   "scene": "",
+   "set": "",
+   "bars": "none",
+   "in": {
+    "type": "dip",
+    "dur": 0.35
+   },
+   "sfx": [
+    {
+     "at": 0.4,
+     "name": "riser",
+     "gain": -14
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -28
+   }
+  },
+  {
+   "id": "P30",
+   "start": 90.6,
+   "end": 93.3,
+   "line": "",
+   "scene": "",
+   "set": "",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "amb": {
+    "name": "roomtone",
+    "gain": -28
+   }
+  },
+  {
+   "id": "P31",
+   "start": 93.3,
+   "end": 96.4,
+   "line": "",
+   "scene": "",
+   "set": "",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "footstep",
+     "gain": -14
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -28
+   }
+  },
+  {
+   "id": "P32",
+   "start": 96.4,
+   "end": 103.0,
+   "line": "",
+   "scene": "",
+   "set": "",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 2.0,
+     "name": "ding",
+     "gain": -12
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -28
+   }
+  },
+  {
+   "id": "P33",
+   "start": 103.0,
+   "end": 109.9,
+   "line": "",
+   "scene": "",
+   "set": "",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.5,
+     "name": "footstep",
+     "gain": -14
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -28
+   }
+  },
+  {
+   "id": "P34",
+   "start": 109.9,
+   "end": 115.9,
+   "line": "",
+   "scene": "",
+   "set": "",
+   "bars": "none",
+   "in": {
+    "type": "flash",
+    "dur": 0.35
+   },
+   "sfx": [
+    {
+     "at": 0.1,
+     "name": "stinger",
+     "gain": -8
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -28
+   }
+  },
+  {
+   "id": "P35",
+   "start": 115.9,
+   "end": 120.6,
+   "line": "",
+   "scene": "",
+   "set": "",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "amb": {
+    "name": "roomtone",
+    "gain": -28
+   }
+  },
+  {
+   "id": "P36",
+   "start": 120.6,
+   "end": 122.9,
+   "line": "",
+   "scene": "",
+   "set": "",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "amb": {
+    "name": "roomtone",
+    "gain": -28
+   }
+  },
+  {
+   "id": "P37",
+   "start": 122.9,
+   "end": 126.9,
+   "line": "",
+   "scene": "",
+   "set": "",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "amb": {
+    "name": "roomtone",
+    "gain": -28
+   }
+  },
+  {
+   "id": "P38",
+   "start": 126.9,
+   "end": 130.9,
+   "line": "",
+   "scene": "",
+   "set": "",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "amb": {
+    "name": "roomtone",
+    "gain": -28
+   }
+  },
+  {
+   "id": "P39",
+   "start": 130.9,
+   "end": 135.4,
+   "line": "",
+   "scene": "",
+   "set": "",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.0,
+     "name": "pop",
+     "gain": -14
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -28
+   }
+  },
+  {
+   "id": "P40",
+   "start": 135.4,
+   "end": 145.5,
+   "line": "",
+   "scene": "",
+   "set": "",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 4.0,
+     "name": "shimmer",
+     "gain": -12
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -28
+   }
+  }
+ ],
+ "music": [
+  {
+   "start": 0,
+   "end": 44.9,
+   "mood": "wonder",
+   "intensity": 0.35
+  },
+  {
+   "start": 44.9,
+   "end": 145.5,
+   "mood": "mystery",
+   "intensity": 0.4
+  }
+ ],
+ "sfx": []
+}
