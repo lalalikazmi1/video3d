@@ -287,6 +287,24 @@ def buzz(dur=1.5, seed=35, **_):
     return normalize(np.stack([x * l, x * r], 1).astype(np.float32), -6)
 
 
+@sfx("meme 'vine boom': huge sub bass thud with a ringing tail", 1.6)
+def vineboom(dur=1.6, seed=36, pitch=1.0, **_):
+    n = secs(dur); t = t_axis(n); f = 52 * pitch + 90 * pitch * np.exp(-t / 0.03)
+    x = np.tanh(sine(f, n) * expdec(n, 0.55) * 3.5) + sine(2 * f, n) * expdec(n, 0.25) * 0.35
+    x[: secs(0.006)] += noise(secs(0.006), seed) * 0.6
+    return normalize(reverb(fade(x, 0.001, 0.2), 1.4, 0.2, seed), -1)
+
+
+@sfx("meme record scratch: vinyl stopped and dragged back", 0.6)
+def scratch(dur=0.6, seed=37, **_):
+    n = secs(dur); u = np.linspace(0, 1, n)
+    f = np.where(u < 0.45, 2600 - 2200 * (u / 0.45), 400 + 3000 * ((u - 0.45) / 0.55) ** 0.7)
+    x = sweep_filter(noise(n, seed), 400, 3000, q=3.0) * 0.4
+    ph = 2 * np.pi * np.cumsum(f) / SR; x += np.sign(np.sin(ph)) * 0.35 * bp(noise(n, seed + 1), 300, 5000) + np.sin(ph) * 0.5
+    x *= np.sin(np.pi * u) ** 0.5
+    return normalize(fade(stereo(x, 0, 0.2)), -2)
+
+
 def make(name, **kw):
     if name not in LIB: raise KeyError(f"unknown sfx '{name}'. Available: {', '.join(LIB)}")
     k = {"dur": LIB[name]["dur"], **{a: b for a, b in kw.items() if b is not None}}

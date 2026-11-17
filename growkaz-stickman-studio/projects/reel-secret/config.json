@@ -1,0 +1,23 @@
+{
+ "title": "What If MrBeast Gave You a Million",
+ "aspect": "9:16",
+ "resolution": "1080p",
+ "fps": 24,
+ "style": "ember",
+ "voiceover": "input/voiceover.mp3",
+ "script": "input/script.txt",
+ "duration": 49.241,
+ "captions": false,
+ "bars": "none",
+ "fadeIn": 0,
+ "fadeOut": 0,
+ "music": {
+  "enabled": true,
+  "gainDb": -15
+ },
+ "sfx": {
+  "enabled": true,
+  "gainDb": -4
+ },
+ "loudness": -14
+}

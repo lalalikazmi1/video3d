@@ -1,0 +1,620 @@
+{
+ "source": "whisper:small+script",
+ "words": [
+  {
+   "word": "What",
+   "start": 0.0,
+   "end": 0.24
+  },
+  {
+   "word": "if",
+   "start": 0.24,
+   "end": 0.44
+  },
+  {
+   "word": "MrBeast",
+   "start": 0.44,
+   "end": 1.06
+  },
+  {
+   "word": "gave",
+   "start": 1.06,
+   "end": 1.44
+  },
+  {
+   "word": "you",
+   "start": 1.44,
+   "end": 1.66
+  },
+  {
+   "word": "one",
+   "start": 1.66,
+   "end": 1.98
+  },
+  {
+   "word": "million",
+   "start": 1.98,
+   "end": 2.46
+  },
+  {
+   "word": "dollars…",
+   "start": 2.46,
+   "end": 3.02
+  },
+  {
+   "word": "but",
+   "start": 3.44,
+   "end": 3.7
+  },
+  {
+   "word": "you",
+   "start": 3.7,
+   "end": 3.84
+  },
+  {
+   "word": "could",
+   "start": 3.84,
+   "end": 3.98
+  },
+  {
+   "word": "never",
+   "start": 3.98,
+   "end": 4.38
+  },
+  {
+   "word": "tell",
+   "start": 4.38,
+   "end": 4.72
+  },
+  {
+   "word": "anyone?",
+   "start": 4.72,
+   "end": 5.1
+  },
+  {
+   "word": "Hour",
+   "start": 5.94,
+   "end": 6.0
+  },
+  {
+   "word": "one.",
+   "start": 6.0,
+   "end": 6.36
+  },
+  {
+   "word": "You're",
+   "start": 6.82,
+   "end": 7.06
+  },
+  {
+   "word": "fine.",
+   "start": 7.06,
+   "end": 7.26
+  },
+  {
+   "word": "Totally",
+   "start": 7.66,
+   "end": 7.96
+  },
+  {
+   "word": "normal.",
+   "start": 7.96,
+   "end": 8.3
+  },
+  {
+   "word": "You",
+   "start": 8.84,
+   "end": 8.92
+  },
+  {
+   "word": "buy",
+   "start": 8.92,
+   "end": 9.06
+  },
+  {
+   "word": "a",
+   "start": 9.06,
+   "end": 9.22
+  },
+  {
+   "word": "sandwich.",
+   "start": 9.22,
+   "end": 9.5
+  },
+  {
+   "word": "With",
+   "start": 9.5,
+   "end": 10.16
+  },
+  {
+   "word": "guac.",
+   "start": 10.16,
+   "end": 10.62
+  },
+  {
+   "word": "Hour",
+   "start": 11.4,
+   "end": 11.42
+  },
+  {
+   "word": "three.",
+   "start": 11.42,
+   "end": 11.86
+  },
+  {
+   "word": "Your",
+   "start": 12.42,
+   "end": 12.5
+  },
+  {
+   "word": "best",
+   "start": 12.5,
+   "end": 12.72
+  },
+  {
+   "word": "friend",
+   "start": 12.72,
+   "end": 12.98
+  },
+  {
+   "word": "says,",
+   "start": 12.98,
+   "end": 13.32
+  },
+  {
+   "word": "\"Bro,",
+   "start": 13.78,
+   "end": 13.96
+  },
+  {
+   "word": "why",
+   "start": 14.32,
+   "end": 14.52
+  },
+  {
+   "word": "are",
+   "start": 14.52,
+   "end": 14.68
+  },
+  {
+   "word": "you",
+   "start": 14.68,
+   "end": 14.7
+  },
+  {
+   "word": "smiling",
+   "start": 14.7,
+   "end": 15.08
+  },
+  {
+   "word": "like",
+   "start": 15.08,
+   "end": 15.36
+  },
+  {
+   "word": "that?\"",
+   "start": 15.36,
+   "end": 15.6
+  },
+  {
+   "word": "Day",
+   "start": 16.2,
+   "end": 16.36
+  },
+  {
+   "word": "two.",
+   "start": 16.36,
+   "end": 16.72
+  },
+  {
+   "word": "There's",
+   "start": 17.18,
+   "end": 17.38
+  },
+  {
+   "word": "a",
+   "start": 17.38,
+   "end": 17.5
+  },
+  {
+   "word": "brand",
+   "start": 17.5,
+   "end": 17.72
+  },
+  {
+   "word": "new",
+   "start": 17.72,
+   "end": 18.0
+  },
+  {
+   "word": "car",
+   "start": 18.0,
+   "end": 18.36
+  },
+  {
+   "word": "in",
+   "start": 18.36,
+   "end": 18.52
+  },
+  {
+   "word": "your",
+   "start": 18.52,
+   "end": 18.64
+  },
+  {
+   "word": "driveway.",
+   "start": 18.64,
+   "end": 19.06
+  },
+  {
+   "word": "Under",
+   "start": 19.52,
+   "end": 19.8
+  },
+  {
+   "word": "a",
+   "start": 19.8,
+   "end": 19.98
+  },
+  {
+   "word": "blanket.",
+   "start": 19.98,
+   "end": 20.22
+  },
+  {
+   "word": "Your",
+   "start": 20.86,
+   "end": 20.98
+  },
+  {
+   "word": "mum",
+   "start": 20.98,
+   "end": 21.16
+  },
+  {
+   "word": "asks.",
+   "start": 21.16,
+   "end": 21.52
+  },
+  {
+   "word": "You",
+   "start": 22.0,
+   "end": 22.16
+  },
+  {
+   "word": "say",
+   "start": 22.16,
+   "end": 22.46
+  },
+  {
+   "word": "it's",
+   "start": 22.46,
+   "end": 22.96
+  },
+  {
+   "word": "a",
+   "start": 22.96,
+   "end": 23.1
+  },
+  {
+   "word": "very",
+   "start": 23.1,
+   "end": 23.48
+  },
+  {
+   "word": "big",
+   "start": 23.48,
+   "end": 23.8
+  },
+  {
+   "word": "cat.",
+   "start": 23.8,
+   "end": 24.24
+  },
+  {
+   "word": "Day",
+   "start": 24.84,
+   "end": 25.0
+  },
+  {
+   "word": "four.",
+   "start": 25.0,
+   "end": 25.44
+  },
+  {
+   "word": "You",
+   "start": 25.98,
+   "end": 26.04
+  },
+  {
+   "word": "can't",
+   "start": 26.04,
+   "end": 26.36
+  },
+  {
+   "word": "sleep.",
+   "start": 26.36,
+   "end": 26.64
+  },
+  {
+   "word": "Scientists",
+   "start": 27.18,
+   "end": 27.52
+  },
+  {
+   "word": "say",
+   "start": 27.52,
+   "end": 27.9
+  },
+  {
+   "word": "people",
+   "start": 27.9,
+   "end": 28.26
+  },
+  {
+   "word": "keeping",
+   "start": 28.26,
+   "end": 28.54
+  },
+  {
+   "word": "a",
+   "start": 28.54,
+   "end": 28.74
+  },
+  {
+   "word": "big",
+   "start": 28.74,
+   "end": 28.94
+  },
+  {
+   "word": "secret",
+   "start": 28.94,
+   "end": 29.4
+  },
+  {
+   "word": "think",
+   "start": 29.4,
+   "end": 29.66
+  },
+  {
+   "word": "about",
+   "start": 29.66,
+   "end": 29.9
+  },
+  {
+   "word": "it",
+   "start": 29.9,
+   "end": 30.1
+  },
+  {
+   "word": "all",
+   "start": 30.1,
+   "end": 30.4
+  },
+  {
+   "word": "the",
+   "start": 30.4,
+   "end": 30.58
+  },
+  {
+   "word": "time,",
+   "start": 30.58,
+   "end": 30.94
+  },
+  {
+   "word": "even",
+   "start": 31.18,
+   "end": 31.42
+  },
+  {
+   "word": "when",
+   "start": 31.42,
+   "end": 31.6
+  },
+  {
+   "word": "nobody's",
+   "start": 31.6,
+   "end": 32.06
+  },
+  {
+   "word": "asking.",
+   "start": 32.06,
+   "end": 32.34
+  },
+  {
+   "word": "So,",
+   "start": 32.86,
+   "end": 33.08
+  },
+  {
+   "word": "yeah.",
+   "start": 33.4,
+   "end": 33.6
+  },
+  {
+   "word": "You're",
+   "start": 34.1,
+   "end": 34.24
+  },
+  {
+   "word": "cooked.",
+   "start": 34.24,
+   "end": 34.54
+  },
+  {
+   "word": "Day",
+   "start": 35.1,
+   "end": 35.22
+  },
+  {
+   "word": "five.",
+   "start": 35.22,
+   "end": 35.6
+  },
+  {
+   "word": "You",
+   "start": 36.22,
+   "end": 36.28
+  },
+  {
+   "word": "crack.",
+   "start": 36.28,
+   "end": 36.64
+  },
+  {
+   "word": "You",
+   "start": 37.24,
+   "end": 37.3
+  },
+  {
+   "word": "whisper",
+   "start": 37.3,
+   "end": 37.62
+  },
+  {
+   "word": "it",
+   "start": 37.62,
+   "end": 37.82
+  },
+  {
+   "word": "to",
+   "start": 37.82,
+   "end": 37.96
+  },
+  {
+   "word": "the",
+   "start": 37.96,
+   "end": 38.08
+  },
+  {
+   "word": "only",
+   "start": 38.08,
+   "end": 38.46
+  },
+  {
+   "word": "one",
+   "start": 38.46,
+   "end": 38.7
+  },
+  {
+   "word": "you",
+   "start": 38.7,
+   "end": 38.88
+  },
+  {
+   "word": "trust.",
+   "start": 38.88,
+   "end": 39.26
+  },
+  {
+   "word": "Your",
+   "start": 39.8,
+   "end": 39.88
+  },
+  {
+   "word": "dog.",
+   "start": 39.88,
+   "end": 40.18
+  },
+  {
+   "word": "Day",
+   "start": 40.72,
+   "end": 40.88
+  },
+  {
+   "word": "six.",
+   "start": 40.88,
+   "end": 41.3
+  },
+  {
+   "word": "Somehow…",
+   "start": 41.76,
+   "end": 42.24
+  },
+  {
+   "word": "the",
+   "start": 42.8,
+   "end": 42.92
+  },
+  {
+   "word": "whole",
+   "start": 42.92,
+   "end": 43.24
+  },
+  {
+   "word": "school",
+   "start": 43.24,
+   "end": 43.66
+  },
+  {
+   "word": "knows.",
+   "start": 43.66,
+   "end": 44.04
+  },
+  {
+   "word": "And",
+   "start": 44.56,
+   "end": 44.68
+  },
+  {
+   "word": "then",
+   "start": 44.68,
+   "end": 44.98
+  },
+  {
+   "word": "MrBeast",
+   "start": 44.98,
+   "end": 45.7
+  },
+  {
+   "word": "steps",
+   "start": 45.7,
+   "end": 46.16
+  },
+  {
+   "word": "out",
+   "start": 46.16,
+   "end": 46.44
+  },
+  {
+   "word": "from",
+   "start": 46.44,
+   "end": 46.62
+  },
+  {
+   "word": "behind",
+   "start": 46.62,
+   "end": 46.9
+  },
+  {
+   "word": "a",
+   "start": 46.9,
+   "end": 47.08
+  },
+  {
+   "word": "bush.",
+   "start": 47.08,
+   "end": 47.34
+  },
+  {
+   "word": "\"You",
+   "start": 47.86,
+   "end": 47.96
+  },
+  {
+   "word": "told",
+   "start": 47.96,
+   "end": 48.26
+  },
+  {
+   "word": "the",
+   "start": 48.26,
+   "end": 48.48
+  },
+  {
+   "word": "dog.\"",
+   "start": 48.48,
+   "end": 48.8
+  }
+ ]
+}
