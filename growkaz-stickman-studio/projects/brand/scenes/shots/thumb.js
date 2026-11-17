@@ -88,3 +88,32 @@ registerShot('I', { draw(g) {
   bigFace(g, E.W * 0.32, E.H * 0.9, 220, { outfit: YOU, expr: 'surprised', look: [1, -0.3], rimColor: ui.gold, rimSide: 1 });
   bigFace(g, E.W * 0.68, E.H * 0.9, 220, { outfit: HER, expr: 'happy', look: [-1, -0.3], rimColor: ui.gold, rimSide: -1 });
 } });
+
+// ---- Memory video ----
+const JEN = { top: 'tshirt', color: '#3f9e9a', head: 'ponytail', headColor: '#c99a5a' };
+const RON = { top: 'jersey', color: '#d6a03a', head: 'cap', headColor: '#2a2a30' };
+function brainT(g, x, y, r, col) { glow(g, x, y, r * 2.2, col, 0.5); g.strokeStyle = col; g.lineWidth = r * 0.09; g.lineCap = 'round'; g.beginPath();
+  for (let i = 0; i <= 160; i++) { const th = i / 160 * Math.PI * 2, k = 1 + 0.07 * Math.sin(th * 9), px = x + Math.cos(th) * r * 1.15 * k, py = y + Math.sin(th) * r * 0.82 * k; i ? g.lineTo(px, py) : g.moveTo(px, py); } g.closePath(); g.stroke();
+  g.beginPath(); g.moveTo(x, y - r * 0.75); g.bezierCurveTo(x + r * 0.15, y - r * 0.3, x - r * 0.2, y, x, y + r * 0.35); g.stroke(); }
+// J — shocked YOU, brain with a crack, YOUR MEMORY IS LYING
+registerShot('J', { draw(g) {
+  const ui = S().ui; g.fillStyle = radGrad(g, E.W * 0.7, E.H * 0.45, 0, 1100, ['#3a1418', '#140a0e', '#050305']); g.fillRect(0, 0, E.W, E.H);
+  FX.stars(g, 0, { count: 60, area: [0, 0, E.W, E.H] });
+  brainT(g, E.W * 0.74, E.H * 0.56, 230, ui.gold);
+  seg(g, [[E.W * 0.70, E.H * 0.3], [E.W * 0.76, E.H * 0.45], [E.W * 0.71, E.H * 0.55], [E.W * 0.78, E.H * 0.68], [E.W * 0.74, E.H * 0.8]], 18, ui.accent); glow(g, E.W * 0.74, E.H * 0.55, 300, ui.accent, 0.35);
+  bigFace(g, E.W * 0.24, E.H * 0.8, 330, { outfit: YOU, expr: 'shocked', look: [0.8, -0.3], rimColor: ui.gold, rimSide: 1 });
+  bigText(g, 'YOUR MEMORY', E.W / 2, E.H * 0.13, 150, '#fff4d6', { align: 'center' });
+  bigText(g, 'IS LYING', E.W * 0.74, E.H * 0.92, 140, ui.accent, { align: 'center' });
+} });
+// K — lineup: the wrong man circled, 100% SURE / WRONG
+function mugT(g, x, y, s, o, expr) { g.save(); g.translate(x, y); g.scale(s, s); rr(g, -110, -140, 220, 280, 10); g.fillStyle = '#d8d0c0'; g.fill(); rr(g, -96, -126, 192, 220, 6); g.fillStyle = '#3a3238'; g.fill();
+  g.save(); g.beginPath(); g.rect(-96, -126, 192, 220); g.clip(); bigFace(g, 0, 40, 80, { outfit: o, expr, rimColor: S().ui.gold }); g.restore(); g.restore(); }
+registerShot('K', { draw(g) {
+  const ui = S().ui; g.fillStyle = linGrad(g, 0, 0, 0, E.H, ['#1a0c10', '#0a0508']); g.fillRect(0, 0, E.W, E.H);
+  for (let i = 0; i < 6; i++) seg(g, [[0, E.H * (0.25 + i * 0.1)], [E.W, E.H * (0.25 + i * 0.1)]], 3, alpha(ui.cream, 0.15));
+  const os = [{ top: 'tshirt', color: '#3a6ea5', head: 'spiky' }, RON, { top: 'suit', color: '#2e3a4a', color2: '#c99a5a', head: 'curly' }];
+  os.forEach((o, i) => mugT(g, E.W * (0.2 + i * 0.3), E.H * 0.58, 1.5, o, o === RON ? 'scared' : 'neutral'));
+  ring(g, E.W * 0.5, E.H * 0.56, 290, 16, ui.accent); glow(g, E.W * 0.5, E.H * 0.56, 400, ui.accent, 0.3);
+  bigText(g, '100% SURE', E.W / 2, E.H * 0.13, 170, '#fff4d6', { align: 'center' });
+  bigText(g, '...AND WRONG', E.W / 2, E.H * 0.92, 130, ui.accent, { align: 'center' });
+} });
