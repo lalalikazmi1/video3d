@@ -147,3 +147,34 @@ registerShot('M', { draw(g) {
   bigText(g, 'YOUR PHONE IS A', E.W / 2, E.H * 0.11, 120, '#fff4d6', { align: 'center' });
   bigText(g, 'SLOT MACHINE', E.W * 0.45, E.H * 0.95, 140, ui.accent, { align: 'center' });
 } });
+
+// ---- Embarrassing-moments video ----
+function shirtT(g, x, y, s) { g.save(); g.translate(x, y); g.scale(s, s);
+  poly(g, [[-150, -200], [-60, -230], [-30, -205], [30, -205], [60, -230], [150, -200], [230, -110], [170, -60], [140, -100], [140, 210], [-140, 210], [-140, -100], [-170, -60], [-230, -110]], '#f2c21a');
+  g.lineWidth = 8; g.strokeStyle = '#0a0508'; g.stroke();
+  circle(g, 0, -10, 95, '#f0c8a0'); g.beginPath(); g.ellipse(0, -80, 120, 70, 0, Math.PI, 0); g.fillStyle = '#c98a3a'; g.fill(); for (const sx of [-1, 1]) { g.beginPath(); g.ellipse(sx * 95, -20, 35, 80, 0, 0, Math.PI * 2); g.fill(); }
+  for (const sx of [-1, 1]) { circle(g, sx * 32, -20, 10, '#2a1e18'); seg(g, [[sx * 50, -48], [sx * 16, -42]], 6, '#6a4a2a'); }
+  g.beginPath(); g.arc(0, 15, 40, 0.15 * Math.PI, 0.85 * Math.PI); g.lineWidth = 9; g.strokeStyle = '#2a1e18'; g.stroke();
+  text(g, 'MANILOW', 0, 150, { size: 52, color: '#d64a33', font: FONTS.title, weight: 700 }); g.restore(); }
+function spotT(g, x, y, w) { g.save(); const gr = g.createLinearGradient(x, 0, x, y); gr.addColorStop(0, alpha('#fff3d6', 0.05)); gr.addColorStop(1, alpha('#fff3d6', 0.35));
+  g.fillStyle = gr; g.beginPath(); g.moveTo(x - w * 0.15, 0); g.lineTo(x + w * 0.15, 0); g.lineTo(x + w / 2, y); g.lineTo(x - w / 2, y); g.closePath(); g.fill();
+  g.beginPath(); g.ellipse(x, y, w / 2, w * 0.1, 0, 0, Math.PI * 2); g.fillStyle = alpha('#fff3d6', 0.35); g.fill(); g.restore(); }
+// N — cringing YOU in bed at 2 AM, giant "2014" memory, WHY YOU STILL CRINGE
+registerShot('N', { draw(g) {
+  const ui = S().ui; g.fillStyle = radGrad(g, E.W * 0.7, E.H * 0.45, 0, 1100, ['#2a1420', '#100810', '#040305']); g.fillRect(0, 0, E.W, E.H);
+  FX.stars(g, 0, { count: 60, area: [0, 0, E.W, E.H] });
+  glow(g, E.W * 0.72, E.H * 0.52, 420, ui.accent, 0.45);
+  text(g, '2014', E.W * 0.72, E.H * 0.66, { size: 380, color: ui.accent, font: FONTS.ui, weight: 900, stroke: 16, strokeColor: '#0a0508' });
+  text(g, '"YOU TOO!"', E.W * 0.72, E.H * 0.82, { size: 90, color: '#fff4d6', font: FONTS.ui, weight: 900, stroke: 12, strokeColor: '#0a0508' });
+  bigFace(g, E.W * 0.24, E.H * 0.84, 330, { outfit: YOU, expr: 'shocked', look: [1, -0.4], rimColor: ui.gold, rimSide: 1 });
+  bigText(g, 'WHY YOU STILL CRINGE', E.W / 2, E.H * 0.13, 130, '#fff4d6', { align: 'center' });
+} });
+// O — Manilow shirt in a spotlight, tiny bored audience, NOBODY NOTICED
+registerShot('O', { draw(g) {
+  const ui = S().ui; g.fillStyle = linGrad(g, 0, 0, 0, E.H, ['#1a0c10', '#060406']); g.fillRect(0, 0, E.W, E.H);
+  spotT(g, E.W * 0.36, E.H * 0.86, 820);
+  shirtT(g, E.W * 0.36, E.H * 0.56, 1.45);
+  for (let i = 0; i < 3; i++) bigFace(g, E.W * (0.69 + i * 0.12), E.H * 0.93, 150, { outfit: [JEN, RON, HER][i], expr: 'neutral', look: [1, 0], rimColor: ui.gold, rimSide: 1 });
+  bigText(g, 'NOBODY', E.W * 0.81, E.H * 0.42, 150, '#fff4d6', { align: 'center' });
+  bigText(g, 'NOTICED', E.W * 0.81, E.H * 0.62, 150, ui.accent, { align: 'center' });
+} });
