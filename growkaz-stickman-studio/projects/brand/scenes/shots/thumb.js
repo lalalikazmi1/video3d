@@ -178,3 +178,16 @@ registerShot('O', { draw(g) {
   bigText(g, 'NOBODY', E.W * 0.81, E.H * 0.42, 150, '#fff4d6', { align: 'center' });
   bigText(g, 'NOTICED', E.W * 0.81, E.H * 0.62, 150, ui.accent, { align: 'center' });
 } });
+// P — huge cringing YOU in a spotlight, "EVERYONE SAW" crossed out, crowd looking away
+registerShot('P', { draw(g) {
+  const ui = S().ui; g.fillStyle = radGrad(g, E.W * 0.3, E.H * 0.6, 0, 1200, ['#3a1418', '#120609', '#030203']); g.fillRect(0, 0, E.W, E.H);
+  spotT(g, E.W * 0.3, E.H * 0.98, 1000);
+  bigFace(g, E.W * 0.28, E.H * 0.86, 400, { outfit: YOU, expr: 'shocked', look: [0.3, -0.2], rimColor: ui.gold, rimSide: 1 });
+  glow(g, E.W * 0.28, E.H * 0.7, 380, '#ff3a2a', 0.35);
+  for (let i = 0; i < 4; i++) bigFace(g, E.W * (0.63 + i * 0.105), E.H * 0.93, 115, { outfit: [JEN, RON, HER, YOU][i], expr: 'neutral', look: [1, 0.3], rimColor: ui.gold, rimSide: 1 });
+  bigText(g, 'EVERYONE', E.W * 0.77, E.H * 0.2, 150, '#fff4d6', { align: 'center' });
+  bigText(g, 'SAW IT', E.W * 0.77, E.H * 0.4, 150, '#fff4d6', { align: 'center' });
+  seg(g, [[E.W * 0.56, E.H * 0.18], [E.W * 0.98, E.H * 0.18]], 22, ui.accent); seg(g, [[E.W * 0.63, E.H * 0.38], [E.W * 0.91, E.H * 0.38]], 22, ui.accent);
+  g.save(); g.translate(E.W * 0.77, E.H * 0.6); g.rotate(-0.08); bigText(g, 'NOBODY DID', 0, 0, 120, ui.accent, { align: 'center' }); g.restore();
+} });
+const SHIRTY = { top: 'tshirt', color: '#f2c21a', head: 'spiky' };
