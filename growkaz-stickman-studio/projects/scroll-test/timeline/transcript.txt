@@ -1,0 +1,228 @@
+[00:00.00 -> 00:01.02] It's one in the morning.
+[00:01.70 -> 00:03.50] You told yourself five more minutes.
+[00:04.18 -> 00:05.26] That was an hour ago.
+[00:05.96 -> 00:07.42] Your thumb moves on its own.
+[00:08.10 -> 00:08.46] Swipe.
+[00:08.88 -> 00:09.20] Swipe.
+[00:09.78 -> 00:10.20] Swipe.
+[00:10.90 -> 00:13.46] Most of what you see, you won't remember tomorrow.
+[00:14.10 -> 00:15.88] Some of it, you didn't even enjoy.
+[00:16.38 -> 00:17.66] But you can't stop.
+[00:18.34 -> 00:19.60] And here's the strange part.
+[00:20.14 -> 00:20.86] You're not weak.
+[00:21.40 -> 00:22.02] You're not lazy.
+[00:22.64 -> 00:30.16] You are doing exactly what your brain was built to do, inside a machine that was designed, very carefully, to keep you there.
+[00:30.68 -> 00:38.88] To understand how, we need to go back almost a hundred years, to a small box, a hungry pigeon, and a psychologist named B.
+[00:38.88 -> 00:39.12] F.
+[00:39.32 -> 00:39.60] Skinner.
+[00:40.10 -> 00:44.20] In the 1930s, Skinner built what became known as the Skinner box.
+[00:44.86 -> 00:50.22] Inside, an animal, usually a rat or a pigeon, could press a lever or peck a button.
+[00:50.58 -> 00:52.90] And sometimes, a little food would drop out.
+[00:53.46 -> 00:55.32] Skinner wanted to know something simple.
+[00:55.90 -> 00:58.26] What kind of reward makes behaviour stick?
+[00:58.96 -> 01:00.14] He tried different patterns.
+[01:00.80 -> 01:04.52] In one version, the pigeon got food every single time it pecked.
+[01:04.52 -> 01:04.52] In another, it got food after a fixed number of pecks.
+[01:04.52 -> 01:04.52] Every tenth peck, for example.
+[01:04.52 -> 01:04.52] But then he tried something different.
+[01:04.52 -> 01:04.52] The food came at random.
+[01:04.52 -> 01:04.52] Sometimes after two pecks.
+[01:04.52 -> 01:04.52] Sometimes after fifty.
+[01:04.52 -> 01:04.52] The pigeon never knew when the next reward was coming.
+[01:04.52 -> 01:04.52] And that changed everything.
+[01:04.52 -> 01:04.52] The pigeons on the random schedule pecked the most, and the fastest.
+[01:04.52 -> 01:04.52] And when Skinner stopped the rewards completely, they kept going far longer than the others.
+[01:04.52 -> 01:04.52] Some pecked thousands of times, chasing a reward that wasn't there anymore.
+[01:04.52 -> 01:04.52] Psychologists call this a variable reward schedule.
+[01:04.52 -> 01:04.52] And it is one of the most powerful ways to shape behaviour ever discovered.
+[01:04.52 -> 01:04.52] Now look at your phone.
+[01:04.52 -> 01:04.52] Every time you pull down to refresh, you don't know what you'll get.
+[01:04.52 -> 01:04.52] Maybe nothing.
+[01:04.52 -> 01:04.52] Maybe a funny video.
+[01:04.52 -> 01:04.52] Maybe a message from someone you like.
+[01:04.52 -> 01:04.52] Maybe a notification that ten people liked your post.
+[01:04.52 -> 01:04.52] You are the pigeon.
+[01:04.52 -> 01:04.53] And your thumb is the peck.
+[01:04.53 -> 01:04.53] The person who designed the pull-to-refresh gesture, Loren Brichter, has said himself that it works a lot like a slot machine.
+[01:04.53 -> 01:04.53] And that's not an accident of language.
+[01:04.53 -> 01:04.53] Slot machines run on exactly the same principle Skinner found.
+[01:04.53 -> 01:04.53] You pull the lever, you don't know what you'll get, and the uncertainty is what keeps you pulling.
+[01:04.53 -> 01:04.53] In fact, casinos learned long ago that the most addictive part of gambling isn't winning.
+[01:04.53 -> 01:04.53] It's almost winning.
+[01:04.53 -> 01:04.53] Two cherries and a lemon.
+[01:04.53 -> 01:04.53] So close.
+[01:04.53 -> 01:04.53] One more try.
+[01:04.53 -> 01:04.53] And your feed has its own version of the near miss.
+[01:04.53 -> 01:04.53] The video that was almost great.
+[01:04.53 -> 01:04.53] The post that almost made you laugh.
+[01:04.53 -> 01:04.53] The next one might be the one.
+[01:04.53 -> 01:04.53] So why does randomness have such a grip on us?
+[01:04.53 -> 01:04.53] The answer lies in a chemical called dopamine.
+[01:04.53 -> 01:04.53] Dopamine is often called the pleasure chemical.
+[01:04.53 -> 01:04.53] But that's not quite right.
+[01:04.53 -> 01:04.53] In the 1990s, neuroscientist Wolfram Schultz recorded the activity of dopamine neurons in monkeys.
+[01:04.53 -> 01:04.53] He found that these cells didn't simply fire when the monkey got a reward.
+[01:04.53 -> 01:04.53] They fired most strongly when the reward was unexpected.
+[01:04.53 -> 01:04.53] And once the monkey learned that a signal, like a light, meant juice was coming, the dopamine shifted.
+[01:04.53 -> 01:04.53] It started firing at the signal, not the juice.
+[01:04.53 -> 01:04.53] In other words, dopamine isn't really about getting the reward.
+[01:04.53 -> 01:04.53] It's about anticipating it.
+[01:04.53 -> 01:04.53] It's the chemical of "what if".
+[01:04.53 -> 01:04.53] Researchers like Kent Berridge have described this as the difference between wanting and liking.
+[01:04.53 -> 01:04.53] Dopamine drives the wanting.
+[01:04.53 -> 01:04.53] The craving.
+[01:04.53 -> 01:04.53] The pull.
+[01:04.53 -> 01:04.53] But it doesn't guarantee that you'll actually enjoy what you get.
+[01:04.53 -> 01:04.53] And that explains one of the strangest feelings of modern life.
+[01:04.53 -> 01:04.53] Scrolling for an hour, and feeling worse at the end of it.
+[01:04.53 -> 01:04.53] You wanted it.
+[01:04.53 -> 01:04.53] You just didn't like it.
+[01:04.53 -> 01:04.53] Your phone is a machine of endless "what if".
+[01:04.53 -> 01:04.53] What if the next video is hilarious?
+[01:04.53 -> 01:04.53] What if someone texted me?
+[01:04.53 -> 01:04.53] What if I'm missing something?
+[01:04.53 -> 01:04.53] That little buzz in your pocket?
+[01:04.53 -> 01:04.53] It's the light before the juice.
+[01:04.53 -> 01:04.53] And some rewards are more powerful than juice.
+[01:04.53 -> 01:04.53] Like approval.
+[01:04.53 -> 01:04.53] In 2016, researchers at UCLA, led by Lauren Sherman, put teenagers in a brain scanner and showed them a feed of photos, a bit like Instagram.
+[01:04.53 -> 01:04.54] Some photos seemed to have lots of likes.
+[01:04.54 -> 01:04.54] Others had only a few.
+[01:04.54 -> 01:04.54] When teens saw their own photos with lots of likes, a key part of the brain's reward circuit lit up more strongly.
+[01:04.54 -> 01:04.54] And something else happened.
+[01:04.54 -> 01:04.54] The teens were more likely to like a photo themselves if it already had lots of likes.
+[01:04.54 -> 01:04.54] Even when it showed something risky.
+[01:04.54 -> 01:04.54] Every like is a tiny signal from the group.
+[01:04.54 -> 01:04.54] You belong.
+[01:04.54 -> 01:04.54] You matter.
+[01:04.54 -> 01:04.54] For our ancestors, being accepted by the group could be the difference between life and death.
+[01:04.54 -> 01:04.54] So it makes sense that our brains care so much.
+[01:04.54 -> 01:04.54] But now, that ancient need for acceptance comes in numbers.
+[01:04.54 -> 01:04.54] And you can refresh it whenever you want.
+[01:04.54 -> 01:04.54] But variable rewards are only part of the story.
+[01:04.54 -> 01:04.54] Because the apps you use have something Skinner's box never had.
+[01:04.54 -> 01:04.54] They have no bottom.
+[01:04.54 -> 01:04.54] In 2006, a designer named Aza Raskin invented infinite scroll.
+[01:04.54 -> 01:04.54] Before that, web pages ended.
+[01:04.54 -> 01:04.54] You reached the bottom, and you had to click to see more.
+[01:04.54 -> 01:04.54] That small moment gave your brain a chance to ask a simple question.
+[01:04.54 -> 01:04.54] Do I actually want to keep going?
+[01:04.54 -> 01:04.54] Infinite scroll removed that question.
+[01:04.54 -> 01:04.54] Raskin has since spoken publicly about his regret.
+[01:04.54 -> 01:04.54] He's estimated that infinite scroll wastes an enormous amount of human time every single day.
+[01:04.54 -> 01:04.54] Psychologists call these missing moments stopping cues.
+[01:04.54 -> 01:04.54] Think about a book.
+[01:04.54 -> 01:04.54] Every chapter ends.
+[01:04.54 -> 01:04.54] A TV episode ends.
+[01:04.54 -> 01:04.54] A meal ends when the plate is empty.
+[01:04.54 -> 01:04.54] These natural pauses help us decide whether to continue.
+[01:04.54 -> 01:04.54] But your feed never ends.
+[01:04.54 -> 01:04.54] And autoplay makes sure the next video has already started before you've even decided you want it.
+[01:04.54 -> 01:04.54] Without stopping cues, the decision to stop has to come from you.
+[01:04.54 -> 01:04.54] Every single time.
+[01:04.54 -> 01:04.54] And that's exhausting.
+[01:04.54 -> 01:04.54] So most of the time, you don't decide at all.
+[01:04.54 -> 01:04.54] You just keep going.
+[01:04.54 -> 01:04.55] Now you might be thinking, fine, but I could put my phone down if I really wanted to.
+[01:04.55 -> 01:04.55] Let's test that.
+[01:04.55 -> 01:04.55] In 2014, psychologist Timothy Wilson and his colleagues ran a series of studies.
+[01:04.55 -> 01:04.55] They asked people to sit alone in a plain room for between six and fifteen minutes, with nothing to do.
+[01:04.55 -> 01:04.55] No phone.
+[01:04.55 -> 01:04.55] No book.
+[01:04.55 -> 01:04.55] Just their own thoughts.
+[01:04.55 -> 01:04.55] Most people said they didn't enjoy it.
+[01:04.55 -> 01:04.55] Many found it difficult to concentrate.
+[01:04.55 -> 01:04.55] So the researchers tried something more extreme.
+[01:04.55 -> 01:04.55] In one study, they gave people a button.
+[01:04.55 -> 01:04.55] If they pressed it, they would get a mild electric shock.
+[01:04.55 -> 01:04.55] Earlier, these same people had felt the shock and said they would pay money to avoid it.
+[01:04.55 -> 01:04.55] And yet, alone in the room, about two thirds of the men, and about a quarter of the women, chose to shock themselves rather than just sit with their thoughts.
+[01:04.55 -> 01:04.55] One man pressed the button one hundred and ninety times.
+[01:04.55 -> 01:04.55] Think about that.
+[01:04.55 -> 01:04.55] Many people would rather feel pain than feel nothing.
+[01:04.55 -> 01:04.55] And this is the deeper reason we scroll.
+[01:04.55 -> 01:04.55] It isn't just that the phone is exciting.
+[01:04.55 -> 01:04.55] It's that being alone with our minds can feel uncomfortable.
+[01:04.55 -> 01:04.55] Boredom, worry, loneliness, the to-do list you're avoiding.
+[01:04.55 -> 01:04.55] Your phone is the fastest escape ever invented.
+[01:04.55 -> 01:04.55] And every time you escape, you make the next escape a little more automatic.
+[01:04.55 -> 01:04.55] So what does all of this actually do to us?
+[01:04.55 -> 01:04.55] The research here is still developing, and scientists don't all agree.
+[01:04.55 -> 01:04.55] But some findings are worth knowing.
+[01:04.55 -> 01:04.55] In 2017, researchers led by Adrian Ward asked people to complete tests of memory and attention.
+[01:04.55 -> 01:04.55] Some left their phones in another room.
+[01:04.55 -> 01:04.55] Others kept them on the desk, face down and silent.
+[01:04.55 -> 01:04.55] In that study, the people with their phone in another room performed better.
+[01:04.55 -> 01:04.55] Even though the phones on the desk never buzzed.
+[01:04.55 -> 01:04.55] Never lit up.
+[01:04.55 -> 01:04.55] The researchers suggested that part of your mind is busy simply resisting the urge to check.
+[01:04.55 -> 01:04.55] A kind of brain drain.
+[01:04.55 -> 01:04.55] Later studies haven't always found the same effect.
+[01:04.55 -> 01:04.55] But many people recognise the feeling.
+[01:04.55 -> 01:04.56] Your phone doesn't need to ring to pull at your attention.
+[01:04.56 -> 01:04.56] And then there's how we feel.
+[01:04.56 -> 01:04.56] In 2018, psychologist Melissa Hunt and her team at the University of Pennsylvania ran an experiment with students.
+[01:04.56 -> 01:04.56] One group used social media as normal.
+[01:04.56 -> 01:04.56] The other limited themselves to about thirty minutes a day, across a few apps, for three weeks.
+[01:04.56 -> 01:04.56] The students who cut back reported feeling less lonely and less depressed than the group who didn't, especially those who had been struggling the most at the start.
+[01:04.56 -> 01:04.56] Thirty minutes a day.
+[01:04.56 -> 01:04.56] Not quitting.
+[01:04.56 -> 01:04.56] Just less.
+[01:04.56 -> 01:04.56] So here's the twist.
+[01:04.56 -> 01:04.56] The problem isn't really your phone.
+[01:04.56 -> 01:04.56] And it isn't really you.
+[01:04.56 -> 01:04.56] It's the match between them.
+[01:04.56 -> 01:04.56] A brain that evolved to chase uncertain rewards, to escape discomfort, and to keep going until something tells it to stop.
+[01:04.56 -> 01:04.56] And a machine that offers endless uncertain rewards, instant escape, and nothing that ever tells you to stop.
+[01:04.56 -> 01:04.56] You were never meant to win that fight with willpower alone.
+[01:04.56 -> 01:04.56] But that doesn't mean you're powerless.
+[01:04.56 -> 01:04.56] Because if behaviour can be designed, it can be redesigned.
+[01:04.56 -> 01:04.56] By you.
+[01:04.56 -> 01:04.56] So what can you actually do?
+[01:04.56 -> 01:04.56] First, put the stopping cues back.
+[01:04.56 -> 01:04.56] Your feed won't give you an ending, so make your own.
+[01:04.56 -> 01:04.56] Set a timer before you open an app.
+[01:04.56 -> 01:04.56] Decide in advance.
+[01:04.56 -> 01:04.56] Two videos.
+[01:04.56 -> 01:04.56] Ten minutes.
+[01:04.56 -> 01:04.56] When the timer goes off, that's the end of the chapter.
+[01:04.56 -> 01:04.56] Second, add friction.
+[01:04.56 -> 01:04.56] The easier something is, the more you'll do it without thinking.
+[01:04.56 -> 01:04.56] So make scrolling slightly harder.
+[01:04.56 -> 01:04.56] Log out of apps after you use them.
+[01:04.56 -> 01:04.56] Move them off your home screen, into a folder.
+[01:04.56 -> 01:04.56] Some people even switch their screen to black and white, which makes the bright, colourful rewards a lot less tempting.
+[01:04.56 -> 01:04.56] Third, turn off most notifications.
+[01:04.56 -> 01:04.56] Every buzz is a little light that says juice might be coming.
+[01:04.56 -> 01:04.56] Keep the ones from real people.
+[01:04.56 -> 01:04.56] Turn off the rest.
+[01:04.56 -> 01:04.56] You'll check when you choose to, not when your phone tells you to.
+[01:04.56 -> 01:04.56] Fourth, give your phone a home.
+[01:04.56 -> 01:04.56] At night, charge it outside your bedroom.
+[01:04.56 -> 01:04.56] During work or study, put it in another room.
+[01:04.56 -> 01:04.56] Out of sight really can mean out of mind.
+[01:04.56 -> 01:04.56] And fifth, practise being bored.
+[01:04.56 -> 01:04.56] It sounds strange, but it works.
+[01:04.56 -> 01:04.56] Wait in a queue without your phone.
+[01:04.56 -> 01:04.56] Walk without headphones.
+[01:04.56 -> 01:04.57] Sit for two minutes with your thoughts.
+[01:04.57 -> 01:04.57] At first it feels uncomfortable.
+[01:04.57 -> 01:04.57] But boredom is often where your best ideas come from.
+[01:04.57 -> 01:04.57] It's your mind finally getting a moment to wander.
+[01:04.57 -> 01:04.57] You don't have to throw your phone in the ocean.
+[01:04.57 -> 01:04.57] Your phone can connect you to people you love, teach you new things, and make you laugh.
+[01:04.57 -> 01:04.57] The goal isn't to quit.
+[01:04.57 -> 01:04.57] The goal is to choose.
+[01:04.57 -> 01:04.57] Skinner's pigeons never knew they were in a box.
+[01:04.57 -> 01:04.57] They just kept pecking.
+[01:04.57 -> 01:04.57] But you do know.
+[01:04.57 -> 01:04.57] And that changes everything.
+[01:04.57 -> 01:04.57] So the next time it's one in the morning, and your thumb starts moving on its own, try something.
+[01:04.57 -> 01:04.57] Stop for a second.
+[01:04.57 -> 01:04.57] Ask yourself one question.
+[01:04.57 -> 01:04.57] Am I choosing this?
+[01:04.57 -> 01:04.57] Or is this choosing me?
+[01:04.57 -> 01:04.57] So, how much time did your phone say you spent on it yesterday?
+[01:04.57 -> 01:04.57] Be honest.
+[01:04.57 -> 01:04.57] Tell me in the comments.
+[01:04.57 -> 01:04.57] And subscribe, because your mind is stranger than you think.
