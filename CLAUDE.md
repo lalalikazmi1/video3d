@@ -20,3 +20,6 @@ pip install numpy scipy faster-whisper "av<16"
   `mkdir -p .remotion-browser && curl -sSL -o /tmp/s.zip "https://remotion.media/chromium-headless-shell-linux-x64-158.0.8127.2.zip?clear" && unzip -qo /tmp/s.zip -d .remotion-browser`
 - whisper.cpp (Remotion captions only): `@remotion/install-whisper-cpp` into `whisper.cpp/`, model via curl from huggingface.co.
 - No GPU: rendering is CPU/software and slow. Preview at `--scale 0.5` before final renders.
+
+## Video preferences
+- Make videos fast-paced so viewers keep paying attention: quicker cuts (aim for a new shot every 2-4 s), more motion and pops. Apply this at the animation stage, without changing the art style or the animation quality.
