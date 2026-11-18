@@ -117,3 +117,33 @@ registerShot('K', { draw(g) {
   bigText(g, '100% SURE', E.W / 2, E.H * 0.13, 170, '#fff4d6', { align: 'center' });
   bigText(g, '...AND WRONG', E.W / 2, E.H * 0.92, 130, ui.accent, { align: 'center' });
 } });
+
+// ---- Scrolling video ----
+function phoneT(g, x, y, w, h, ang) { const ui = S().ui; g.save(); g.translate(x, y); g.rotate(ang || 0);
+  glow(g, 0, 0, w * 1.6, '#9fd8ff', 0.45); rr(g, -w / 2, -h / 2, w, h, w * 0.14); g.fillStyle = '#0c0a10'; g.fill(); g.lineWidth = 10; g.strokeStyle = '#2a2630'; g.stroke();
+  rr(g, -w / 2 + 16, -h / 2 + 30, w - 32, h - 60, w * 0.08); g.fillStyle = '#1b2433'; g.fill(); g.restore(); }
+function feedT(g, x, y, w, h, ang) { const ui = S().ui; g.save(); g.translate(x, y); g.rotate(ang || 0);
+  const cw = w - 60; for (let i = 0; i < 3; i++) { const cy = -h / 2 + 60 + i * (h - 100) / 3; rr(g, -cw / 2, cy, cw, (h - 140) / 3, 14); g.fillStyle = ['#c84a3a', '#d6a03a', '#3a8fd6'][i]; g.fill();
+    heart(g, cw / 2 - 40, cy + (h - 140) / 3 - 34, 26, '#fff4d6'); }
+  g.restore(); }
+// L — exhausted YOU lit by a giant phone, 1:00 AM
+registerShot('L', { draw(g) {
+  const ui = S().ui; g.fillStyle = radGrad(g, E.W * 0.68, E.H * 0.5, 0, 1100, ['#1a2433', '#0a0c14', '#030305']); g.fillRect(0, 0, E.W, E.H);
+  phoneT(g, E.W * 0.72, E.H * 0.56, 420, 760, 0.12); feedT(g, E.W * 0.72, E.H * 0.56, 388, 700, 0.12);
+  seg(g, [[E.W * 0.9, E.H * 0.42], [E.W * 0.9, E.H * 0.72]], 12, ui.gold); seg(g, [[E.W * 0.88, E.H * 0.46], [E.W * 0.9, E.H * 0.42], [E.W * 0.92, E.H * 0.46]], 12, ui.gold);
+  bigFace(g, E.W * 0.25, E.H * 0.82, 330, { outfit: YOU, expr: 'shocked', look: [1, 0.1], rimColor: '#9fd8ff', rimSide: 1 });
+  text(g, '1:00 AM', E.W * 0.25, E.H * 0.33, { size: 96, color: ui.accent, font: FONTS.ui, weight: 900, stroke: 12, strokeColor: '#0a0508' });
+  bigText(g, "YOU CAN'T STOP", E.W / 2, E.H * 0.13, 150, '#fff4d6', { align: 'center' });
+} });
+// M — phone as slot machine: three hearts, lever, IT'S A SLOT MACHINE
+registerShot('M', { draw(g) {
+  const ui = S().ui; g.fillStyle = radGrad(g, E.W / 2, E.H * 0.55, 0, 1100, ['#3a1418', '#140a0e', '#050305']); g.fillRect(0, 0, E.W, E.H);
+  FX.stars(g, 0, { count: 60, area: [0, 0, E.W, E.H] });
+  phoneT(g, E.W * 0.45, E.H * 0.6, 900, 470, 0);
+  for (let i = 0; i < 3; i++) { const cx = E.W * 0.45 + (i - 1) * 270; rr(g, cx - 115, E.H * 0.6 - 160, 230, 320, 16); g.fillStyle = '#fff4d6'; g.fill();
+    if (i < 2) heart(g, cx, E.H * 0.6 + 20, 110, ui.accent); else { text(g, '?', cx, E.H * 0.6 + 70, { size: 230, color: '#2a1a14', font: FONTS.ui, weight: 900 }); } }
+  seg(g, [[E.W * 0.45 + 470, E.H * 0.62], [E.W * 0.45 + 560, E.H * 0.62], [E.W * 0.45 + 560, E.H * 0.34]], 22, '#8a8a92'); circle(g, E.W * 0.45 + 560, E.H * 0.32, 44, ui.accent);
+  bigFace(g, E.W * 0.89, E.H * 0.93, 240, { outfit: YOU, expr: 'surprised', look: [-1, -0.3], rimColor: ui.gold, rimSide: -1 });
+  bigText(g, 'YOUR PHONE IS A', E.W / 2, E.H * 0.11, 120, '#fff4d6', { align: 'center' });
+  bigText(g, 'SLOT MACHINE', E.W * 0.45, E.H * 0.95, 140, ui.accent, { align: 'center' });
+} });
