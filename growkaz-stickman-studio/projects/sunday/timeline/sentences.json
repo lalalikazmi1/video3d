@@ -1,0 +1,890 @@
+[
+ {
+  "i": 0,
+  "start": 0.0,
+  "end": 0.66,
+  "text": "It's Sunday."
+ },
+ {
+  "i": 1,
+  "start": 0.66,
+  "end": 2.6,
+  "text": "Six p.m."
+ },
+ {
+  "i": 2,
+  "start": 2.6,
+  "end": 3.94,
+  "text": "The weekend isn't over."
+ },
+ {
+  "i": 3,
+  "start": 4.44,
+  "end": 5.1,
+  "text": "You're still free."
+ },
+ {
+  "i": 4,
+  "start": 5.68,
+  "end": 6.84,
+  "text": "Nothing bad has happened."
+ },
+ {
+  "i": 5,
+  "start": 7.6,
+  "end": 10.52,
+  "text": "And yet, something in your chest starts to tighten."
+ },
+ {
+  "i": 6,
+  "start": 11.28,
+  "end": 12.44,
+  "text": "Tomorrow is Monday."
+ },
+ {
+  "i": 7,
+  "start": 13.22,
+  "end": 13.72,
+  "text": "The emails."
+ },
+ {
+  "i": 8,
+  "start": 14.26,
+  "end": 14.72,
+  "text": "The alarm."
+ },
+ {
+  "i": 9,
+  "start": 15.28,
+  "end": 16.44,
+  "text": "The meeting you've been avoiding."
+ },
+ {
+  "i": 10,
+  "start": 17.14,
+  "end": 20.7,
+  "text": "You're not even there yet, but your brain has already clocked in."
+ },
+ {
+  "i": 11,
+  "start": 21.48,
+  "end": 23.46,
+  "text": "People call it the Sunday scaries."
+ },
+ {
+  "i": 12,
+  "start": 24.02,
+  "end": 25.14,
+  "text": "And it's not just you."
+ },
+ {
+  "i": 13,
+  "start": 25.7,
+  "end": 30.04,
+  "text": "In one LinkedIn survey, around eight in ten professionals said they get it."
+ },
+ {
+  "i": 14,
+  "start": 30.72,
+  "end": 35.08,
+  "text": "So why does a day that hasn't happened yet ruin the one you're actually living?"
+ },
+ {
+  "i": 15,
+  "start": 35.72,
+  "end": 38.96,
+  "text": "And why does it always seem to hit at the exact same time?"
+ },
+ {
+  "i": 16,
+  "start": 39.52,
+  "end": 40.42,
+  "text": "Not Saturday morning."
+ },
+ {
+  "i": 17,
+  "start": 40.92,
+  "end": 41.62,
+  "text": "Not Friday night."
+ },
+ {
+  "i": 18,
+  "start": 42.14,
+  "end": 42.58,
+  "text": "Sunday."
+ },
+ {
+  "i": 19,
+  "start": 43.16,
+  "end": 43.74,
+  "text": "Around dinner."
+ },
+ {
+  "i": 20,
+  "start": 44.24,
+  "end": 45.96,
+  "text": "Like your brain has an alarm set."
+ },
+ {
+  "i": 21,
+  "start": 46.68,
+  "end": 50.16,
+  "text": "The answer says a lot about how your mind deals with the future."
+ },
+ {
+  "i": 22,
+  "start": 50.58,
+  "end": 53.04,
+  "text": "Because your brain doesn't just live in the present."
+ },
+ {
+  "i": 23,
+  "start": 53.48,
+  "end": 56.2,
+  "text": "It spends a huge amount of its time somewhere else."
+ },
+ {
+  "i": 24,
+  "start": 56.42,
+  "end": 57.04,
+  "text": "Tomorrow."
+ },
+ {
+  "i": 25,
+  "start": 57.5,
+  "end": 58.04,
+  "text": "Next week."
+ },
+ {
+  "i": 26,
+  "start": 58.48,
+  "end": 59.56,
+  "text": "The meeting on Thursday."
+ },
+ {
+  "i": 27,
+  "start": 60.36,
+  "end": 64.32,
+  "text": "And when it doesn't like what it sees there, it brings the feeling back to now."
+ },
+ {
+  "i": 28,
+  "start": 65.14,
+  "end": 66.98,
+  "text": "Let's start with a strange experiment."
+ },
+ {
+  "i": 29,
+  "start": 67.72,
+  "end": 75.82,
+  "text": "In 2006, neuroscientist Gregory Berns put people in a brain scanner and told them they were going to get a series of electric shocks."
+ },
+ {
+  "i": 30,
+  "start": 76.34,
+  "end": 77.32,
+  "text": "They could choose when."
+ },
+ {
+  "i": 31,
+  "start": 77.96,
+  "end": 82.26,
+  "text": "Some chose to take a stronger shock right away, rather than wait for a weaker one."
+ },
+ {
+  "i": 32,
+  "start": 82.84,
+  "end": 83.58,
+  "text": "Think about that."
+ },
+ {
+  "i": 33,
+  "start": 84.06,
+  "end": 87.04,
+  "text": "They chose more pain, just to stop waiting."
+ },
+ {
+  "i": 34,
+  "start": 87.76,
+  "end": 92.0,
+  "text": "Because for the brain, waiting for something bad can be its own kind of pain."
+ },
+ {
+  "i": 35,
+  "start": 92.0,
+  "end": 97.76,
+  "text": "Berns found that the parts of the brain that respond to pain were already active during the wait."
+ },
+ {
+  "i": 36,
+  "start": 98.4,
+  "end": 99.94,
+  "text": "The dread wasn't just a thought."
+ },
+ {
+  "i": 37,
+  "start": 100.36,
+  "end": 101.3,
+  "text": "It was a cost."
+ },
+ {
+  "i": 38,
+  "start": 101.92,
+  "end": 103.62,
+  "text": "And that's what Sunday night is."
+ },
+ {
+  "i": 39,
+  "start": 104.06,
+  "end": 107.32,
+  "text": "A long, slow wait for a shock called Monday."
+ },
+ {
+  "i": 40,
+  "start": 108.18,
+  "end": 110.08,
+  "text": "Your brain is built to look ahead."
+ },
+ {
+  "i": 41,
+  "start": 110.08,
+  "end": 116.58,
+  "text": "Thinking about the future helped our ancestors prepare for danger: the winter, the predator, the rival."
+ },
+ {
+  "i": 42,
+  "start": 117.26,
+  "end": 122.32,
+  "text": "But that same system can't always tell the difference between a lion and a Monday morning inbox."
+ },
+ {
+  "i": 43,
+  "start": 123.18,
+  "end": 125.64,
+  "text": "It sees a threat coming, and it starts preparing."
+ },
+ {
+  "i": 44,
+  "start": 126.34,
+  "end": 127.3,
+  "text": "Your heart rate rises."
+ },
+ {
+  "i": 45,
+  "start": 127.62,
+  "end": 128.7,
+  "text": "Your thoughts speed up."
+ },
+ {
+  "i": 46,
+  "start": 129.12,
+  "end": 132.94,
+  "text": "Your body gets ready for a fight that is still fifteen hours away."
+ },
+ {
+  "i": 47,
+  "start": 133.66,
+  "end": 136.46,
+  "text": "Psychologists call this anticipatory anxiety."
+ },
+ {
+  "i": 48,
+  "start": 137.16,
+  "end": 139.4,
+  "text": "It's the fear of something before it happens."
+ },
+ {
+  "i": 49,
+  "start": 140.08,
+  "end": 141.08,
+  "text": "And here's the problem."
+ },
+ {
+  "i": 50,
+  "start": 141.6,
+  "end": 145.32,
+  "text": "Your body can't run that alarm all night and still let you rest."
+ },
+ {
+  "i": 51,
+  "start": 145.9,
+  "end": 148.82,
+  "text": "So you lie in bed, tired but wired."
+ },
+ {
+  "i": 52,
+  "start": 149.36,
+  "end": 150.5,
+  "text": "You fall asleep late."
+ },
+ {
+  "i": 53,
+  "start": 150.94,
+  "end": 152.54,
+  "text": "You wake up already drained."
+ },
+ {
+  "i": 54,
+  "start": 153.26,
+  "end": 156.22,
+  "text": "And then Monday really does feel awful."
+ },
+ {
+  "i": 55,
+  "start": 156.76,
+  "end": 157.78,
+  "text": "Not because of Monday."
+ },
+ {
+  "i": 56,
+  "start": 158.32,
+  "end": 159.24,
+  "text": "Because of Sunday."
+ },
+ {
+  "i": 57,
+  "start": 159.98,
+  "end": 162.92,
+  "text": "The dread creates the very day it was afraid of."
+ },
+ {
+  "i": 58,
+  "start": 163.46,
+  "end": 167.52,
+  "text": "And it gets worse, because Sunday has the perfect conditions for dread."
+ },
+ {
+  "i": 59,
+  "start": 168.12,
+  "end": 169.34,
+  "text": "First, the switch."
+ },
+ {
+  "i": 60,
+  "start": 169.76,
+  "end": 171.7,
+  "text": "On the weekend, you get to be yourself."
+ },
+ {
+  "i": 61,
+  "start": 172.38,
+  "end": 174.92,
+  "text": "On Monday, you have to become your work self again."
+ },
+ {
+  "i": 62,
+  "start": 175.82,
+  "end": 181.46,
+  "text": "Psychologists call the moment between those roles a transition, and transitions are hard."
+ },
+ {
+  "i": 63,
+  "start": 182.22,
+  "end": 185.68,
+  "text": "Your brain is packing up one version of you, and unpacking another."
+ },
+ {
+  "i": 64,
+  "start": 186.74,
+  "end": 188.92,
+  "text": "Second, the unfinished business."
+ },
+ {
+  "i": 65,
+  "start": 189.98,
+  "end": 199.1,
+  "text": "In the 1920s, psychologist Bluma Zeigarnik noticed that waiters remembered unpaid orders perfectly, but forgot them the moment the bill was paid."
+ },
+ {
+  "i": 66,
+  "start": 200.02,
+  "end": 202.38,
+  "text": "Unfinished tasks stick in the mind."
+ },
+ {
+  "i": 67,
+  "start": 202.86,
+  "end": 203.4,
+  "text": "They nag."
+ },
+ {
+  "i": 68,
+  "start": 204.14,
+  "end": 209.38,
+  "text": "That's why, on Sunday night, every email you didn't reply to suddenly comes back."
+ },
+ {
+  "i": 69,
+  "start": 210.14,
+  "end": 213.2,
+  "text": "Your brain is holding a to-do list it can't put down."
+ },
+ {
+  "i": 70,
+  "start": 214.06,
+  "end": 215.78,
+  "text": "Third, the uncertainty."
+ },
+ {
+  "i": 71,
+  "start": 216.82,
+  "end": 222.88,
+  "text": "Studies on anxiety have found that not knowing what's coming can feel worse than knowing something bad is coming."
+ },
+ {
+  "i": 72,
+  "start": 223.64,
+  "end": 224.88,
+  "text": "Will the boss be in a mood?"
+ },
+ {
+  "i": 73,
+  "start": 225.28,
+  "end": 226.54,
+  "text": "Will the meeting go wrong?"
+ },
+ {
+  "i": 74,
+  "start": 227.26,
+  "end": 230.58,
+  "text": "Your brain hates a blank, so it fills it in."
+ },
+ {
+  "i": 75,
+  "start": 231.0,
+  "end": 232.98,
+  "text": "Usually with the worst version."
+ },
+ {
+  "i": 76,
+  "start": 233.88,
+  "end": 235.32,
+  "text": "And fourth, the clock."
+ },
+ {
+  "i": 77,
+  "start": 236.26,
+  "end": 239.3,
+  "text": "The weekend is ending, and you can see it ending."
+ },
+ {
+  "i": 78,
+  "start": 239.96,
+  "end": 243.56,
+  "text": "So instead of enjoying Sunday, you spend it mourning it."
+ },
+ {
+  "i": 79,
+  "start": 244.24,
+  "end": 248.82,
+  "text": "You lose the last hours of your weekend, worrying about losing your weekend."
+ },
+ {
+  "i": 80,
+  "start": 249.84,
+  "end": 250.8,
+  "text": "But here's the twist."
+ },
+ {
+  "i": 81,
+  "start": 251.56,
+  "end": 253.66,
+  "text": "Monday is usually not that bad."
+ },
+ {
+  "i": 82,
+  "start": 254.54,
+  "end": 260.6,
+  "text": "In 2012, researchers Arthur Stone and colleagues looked at the moods of hundreds of thousands of Americans."
+ },
+ {
+  "i": 83,
+  "start": 261.56,
+  "end": 263.8,
+  "text": "Yes, people were happier on the weekend."
+ },
+ {
+  "i": 84,
+  "start": 264.22,
+  "end": 266.52,
+  "text": "But Monday wasn't the worst day at all."
+ },
+ {
+  "i": 85,
+  "start": 267.04,
+  "end": 270.08,
+  "text": "It was roughly the same as Tuesday, Wednesday and Thursday."
+ },
+ {
+  "i": 86,
+  "start": 270.94,
+  "end": 274.0,
+  "text": "The famous Monday blues were mostly a myth."
+ },
+ {
+  "i": 87,
+  "start": 274.86,
+  "end": 280.28,
+  "text": "This fits something psychologists Daniel Gilbert and Timothy Wilson call the impact bias."
+ },
+ {
+  "i": 88,
+  "start": 281.14,
+  "end": 284.5,
+  "text": "We are terrible at predicting how bad things will feel."
+ },
+ {
+  "i": 89,
+  "start": 285.2,
+  "end": 288.96,
+  "text": "We imagine the future as worse, and longer, than it really is."
+ },
+ {
+  "i": 90,
+  "start": 289.62,
+  "end": 297.3,
+  "text": "In their studies, people predicted how upset they would feel after a breakup, or after their team lost, or after a bad result."
+ },
+ {
+  "i": 91,
+  "start": 298.08,
+  "end": 303.86,
+  "text": "Again and again, they overestimated how bad it would feel, and how long the feeling would last."
+ },
+ {
+  "i": 92,
+  "start": 304.7,
+  "end": 307.92,
+  "text": "When the moment came, they coped far better than they expected."
+ },
+ {
+  "i": 93,
+  "start": 308.92,
+  "end": 311.94,
+  "text": "Gilbert calls this our psychological immune system."
+ },
+ {
+  "i": 94,
+  "start": 312.76,
+  "end": 315.86,
+  "text": "Once something actually happens, the mind gets to work."
+ },
+ {
+  "i": 95,
+  "start": 316.34,
+  "end": 317.04,
+  "text": "It adapts."
+ },
+ {
+  "i": 96,
+  "start": 317.34,
+  "end": 318.34,
+  "text": "It makes sense of it."
+ },
+ {
+  "i": 97,
+  "start": 318.76,
+  "end": 319.5,
+  "text": "It moves on."
+ },
+ {
+  "i": 98,
+  "start": 320.32,
+  "end": 321.22,
+  "text": "But here's the catch."
+ },
+ {
+  "i": 99,
+  "start": 321.96,
+  "end": 325.38,
+  "text": "That immune system only switches on when the event is real."
+ },
+ {
+  "i": 100,
+  "start": 326.1,
+  "end": 329.7,
+  "text": "Before that, while you're just imagining it, there's nothing to fight."
+ },
+ {
+  "i": 101,
+  "start": 330.34,
+  "end": 334.22,
+  "text": "So the dread can grow and grow, with nothing to stop it."
+ },
+ {
+  "i": 102,
+  "start": 335.1,
+  "end": 337.88,
+  "text": "Think about the last time you dreaded something for days."
+ },
+ {
+  "i": 103,
+  "start": 338.62,
+  "end": 339.16,
+  "text": "The exam."
+ },
+ {
+  "i": 104,
+  "start": 339.64,
+  "end": 340.28,
+  "text": "The phone call."
+ },
+ {
+  "i": 105,
+  "start": 340.78,
+  "end": 341.98,
+  "text": "The difficult conversation."
+ },
+ {
+  "i": 106,
+  "start": 342.94,
+  "end": 345.82,
+  "text": "How often was the real thing as bad as the waiting?"
+ },
+ {
+  "i": 107,
+  "start": 346.2,
+  "end": 348.18,
+  "text": "Usually, the waiting was worse."
+ },
+ {
+  "i": 108,
+  "start": 348.82,
+  "end": 351.86,
+  "text": "Which means Sunday night isn't really about Monday."
+ },
+ {
+  "i": 109,
+  "start": 352.42,
+  "end": 354.62,
+  "text": "It's about the Monday your brain made up."
+ },
+ {
+  "i": 110,
+  "start": 355.36,
+  "end": 357.42,
+  "text": "So how do you get your Sunday back?"
+ },
+ {
+  "i": 111,
+  "start": 358.14,
+  "end": 359.88,
+  "text": "First, close the loops."
+ },
+ {
+  "i": 112,
+  "start": 360.74,
+  "end": 362.78,
+  "text": "In 2011, researchers E."
+ },
+ {
+  "i": 113,
+  "start": 362.78,
+  "end": 362.98,
+  "text": "J."
+ },
+ {
+  "i": 114,
+  "start": 362.98,
+  "end": 370.42,
+  "text": "Masicampo and Roy Baumeister found that unfinished goals stopped nagging people once they made a specific plan for them."
+ },
+ {
+  "i": 115,
+  "start": 371.06,
+  "end": 372.58,
+  "text": "You don't have to do the task."
+ },
+ {
+  "i": 116,
+  "start": 372.84,
+  "end": 375.0,
+  "text": "You just have to write down when you will."
+ },
+ {
+  "i": 117,
+  "start": 375.68,
+  "end": 380.44,
+  "text": "So on Friday, before you leave, write down Monday's first three jobs."
+ },
+ {
+  "i": 118,
+  "start": 381.02,
+  "end": 384.54,
+  "text": "Your brain can let go, because it knows the list is safe."
+ },
+ {
+  "i": 119,
+  "start": 385.4,
+  "end": 388.0,
+  "text": "Second, give the worry a time slot."
+ },
+ {
+  "i": 120,
+  "start": 388.78,
+  "end": 396.46,
+  "text": "Psychologist Thomas Borkovec found that setting aside a short, fixed worry time each day helped people worry less overall."
+ },
+ {
+  "i": 121,
+  "start": 397.18,
+  "end": 400.08,
+  "text": "So give yourself ten minutes on Sunday afternoon."
+ },
+ {
+  "i": 122,
+  "start": 400.62,
+  "end": 401.78,
+  "text": "Worry on purpose."
+ },
+ {
+  "i": 123,
+  "start": 402.54,
+  "end": 407.14,
+  "text": "Then, when the dread comes back at nine p.m., tell it: \"We already did this.\""
+ },
+ {
+  "i": 124,
+  "start": 408.12,
+  "end": 410.48,
+  "text": "Third, put something good on Monday."
+ },
+ {
+  "i": 125,
+  "start": 411.14,
+  "end": 412.02,
+  "text": "A coffee you love."
+ },
+ {
+  "i": 126,
+  "start": 412.44,
+  "end": 413.3,
+  "text": "Lunch with a friend."
+ },
+ {
+  "i": 127,
+  "start": 413.84,
+  "end": 415.64,
+  "text": "A small thing to look forward to."
+ },
+ {
+  "i": 128,
+  "start": 416.34,
+  "end": 420.84,
+  "text": "Dread is about the future, so give your future something worth waiting for."
+ },
+ {
+  "i": 129,
+  "start": 421.72,
+  "end": 424.1,
+  "text": "Fourth, protect Sunday evening."
+ },
+ {
+  "i": 130,
+  "start": 424.82,
+  "end": 426.06,
+  "text": "Don't check work email."
+ },
+ {
+  "i": 131,
+  "start": 426.56,
+  "end": 427.68,
+  "text": "Not even a quick look."
+ },
+ {
+  "i": 132,
+  "start": 428.28,
+  "end": 431.7,
+  "text": "One message can pull your whole brain back into work mode."
+ },
+ {
+  "i": 133,
+  "start": 432.42,
+  "end": 437.38,
+  "text": "And fifth, if the dread is huge every single week, listen to it."
+ },
+ {
+  "i": 134,
+  "start": 438.0,
+  "end": 441.74,
+  "text": "Sometimes the Sunday scaries are just a brain doing its job."
+ },
+ {
+  "i": 135,
+  "start": 442.22,
+  "end": 444.14,
+  "text": "But sometimes, they're a message."
+ },
+ {
+  "i": 136,
+  "start": 444.14,
+  "end": 448.6,
+  "text": "That something about your work, or your life, needs to change."
+ },
+ {
+  "i": 137,
+  "start": 449.18,
+  "end": 450.44,
+  "text": "Because here's the truth."
+ },
+ {
+  "i": 138,
+  "start": 451.12,
+  "end": 453.66,
+  "text": "Your brain isn't trying to ruin your weekend."
+ },
+ {
+  "i": 139,
+  "start": 454.2,
+  "end": 458.9,
+  "text": "It's trying to protect you from a Monday that, most of the time, never arrives."
+ },
+ {
+  "i": 140,
+  "start": 459.68,
+  "end": 462.82,
+  "text": "The monster under the bed is mostly made of shadows."
+ },
+ {
+  "i": 141,
+  "start": 463.8,
+  "end": 467.32,
+  "text": "So this Sunday, when the dread starts, remember."
+ },
+ {
+  "i": 142,
+  "start": 468.04,
+  "end": 469.5,
+  "text": "You're not in Monday yet."
+ },
+ {
+  "i": 143,
+  "start": 470.06,
+  "end": 470.9,
+  "text": "You're still here."
+ },
+ {
+  "i": 144,
+  "start": 471.2,
+  "end": 473.4,
+  "text": "And the weekend is still yours."
+ },
+ {
+  "i": 145,
+  "start": 474.32,
+  "end": 477.56,
+  "text": "So, what time does your Sunday dread usually start?"
+ },
+ {
+  "i": 146,
+  "start": 478.04,
+  "end": 478.96,
+  "text": "Tell me in the comments."
+ },
+ {
+  "i": 147,
+  "start": 479.5,
+  "end": 483.12,
+  "text": "And subscribe, because your mind is stranger than you think."
+ }
+]
