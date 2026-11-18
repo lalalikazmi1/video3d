@@ -1,0 +1,1736 @@
+{
+ "title": "Why You Remember Embarrassing Moments Forever",
+ "duration": 642.299,
+ "shots": [
+  {
+   "id": "E01",
+   "start": 0,
+   "end": 8.05,
+   "line": "",
+   "scene": "",
+   "set": "",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "clock",
+     "gain": -16
+    }
+   ]
+  },
+  {
+   "id": "E02",
+   "start": 8.05,
+   "end": 12.23,
+   "line": "",
+   "scene": "",
+   "set": "",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 3.55,
+     "name": "vineboom",
+     "gain": -8
+    }
+   ]
+  },
+  {
+   "id": "E03",
+   "start": 12.23,
+   "end": 14.89,
+   "line": "",
+   "scene": "",
+   "set": "",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.41,
+     "name": "stinger",
+     "gain": -10
+    }
+   ]
+  },
+  {
+   "id": "E04",
+   "start": 14.89,
+   "end": 19.23,
+   "line": "",
+   "scene": "",
+   "set": "",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 3.65,
+     "name": "scratch",
+     "gain": -10
+    }
+   ]
+  },
+  {
+   "id": "E05",
+   "start": 19.23,
+   "end": 22.83,
+   "line": "",
+   "scene": "",
+   "set": "",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 2.65,
+     "name": "scratch",
+     "gain": -12
+    }
+   ]
+  },
+  {
+   "id": "E06",
+   "start": 22.83,
+   "end": 24.87,
+   "line": "",
+   "scene": "",
+   "set": "",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": []
+  },
+  {
+   "id": "E07",
+   "start": 24.87,
+   "end": 26.65,
+   "line": "",
+   "scene": "",
+   "set": "",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "murmur",
+     "gain": -14
+    }
+   ]
+  },
+  {
+   "id": "E08",
+   "start": 26.65,
+   "end": 29.15,
+   "line": "",
+   "scene": "",
+   "set": "",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": []
+  },
+  {
+   "id": "E09",
+   "start": 29.15,
+   "end": 32.41,
+   "line": "",
+   "scene": "",
+   "set": "",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": []
+  },
+  {
+   "id": "E10",
+   "start": 32.41,
+   "end": 36.03,
+   "line": "",
+   "scene": "",
+   "set": "",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": []
+  },
+  {
+   "id": "E11",
+   "start": 36.03,
+   "end": 43.67,
+   "line": "",
+   "scene": "",
+   "set": "",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": []
+  },
+  {
+   "id": "E12",
+   "start": 43.67,
+   "end": 48.09,
+   "line": "",
+   "scene": "",
+   "set": "",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": []
+  },
+  {
+   "id": "E13",
+   "start": 48.09,
+   "end": 52.93,
+   "line": "",
+   "scene": "",
+   "set": "",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.1,
+     "name": "riser",
+     "gain": -14
+    }
+   ]
+  },
+  {
+   "id": "E14",
+   "start": 52.93,
+   "end": 54.37,
+   "line": "",
+   "scene": "",
+   "set": "",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.1,
+     "name": "pop",
+     "gain": -10
+    }
+   ]
+  },
+  {
+   "id": "E15",
+   "start": 54.37,
+   "end": 63.31,
+   "line": "",
+   "scene": "",
+   "set": "",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": []
+  },
+  {
+   "id": "E16",
+   "start": 63.31,
+   "end": 68.91,
+   "line": "",
+   "scene": "",
+   "set": "",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": []
+  },
+  {
+   "id": "E17",
+   "start": 68.91,
+   "end": 73.79,
+   "line": "",
+   "scene": "",
+   "set": "",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": []
+  },
+  {
+   "id": "E18",
+   "start": 73.79,
+   "end": 79.17,
+   "line": "",
+   "scene": "",
+   "set": "",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "footstep",
+     "gain": -14
+    }
+   ]
+  },
+  {
+   "id": "E19",
+   "start": 79.17,
+   "end": 86.27,
+   "line": "",
+   "scene": "",
+   "set": "",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": []
+  },
+  {
+   "id": "E20",
+   "start": 86.27,
+   "end": 89.39,
+   "line": "",
+   "scene": "",
+   "set": "",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": []
+  },
+  {
+   "id": "E21",
+   "start": 89.39,
+   "end": 92.33,
+   "line": "",
+   "scene": "",
+   "set": "",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": []
+  },
+  {
+   "id": "E22",
+   "start": 92.33,
+   "end": 95.71,
+   "line": "",
+   "scene": "",
+   "set": "",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.81,
+     "name": "ding",
+     "gain": -10
+    }
+   ]
+  },
+  {
+   "id": "E23",
+   "start": 95.71,
+   "end": 100.41,
+   "line": "",
+   "scene": "",
+   "set": "",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": []
+  },
+  {
+   "id": "E24",
+   "start": 100.41,
+   "end": 105.11,
+   "line": "",
+   "scene": "",
+   "set": "",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": []
+  },
+  {
+   "id": "E25",
+   "start": 105.11,
+   "end": 107.87,
+   "line": "",
+   "scene": "",
+   "set": "",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.1,
+     "name": "impact",
+     "gain": -12
+    }
+   ]
+  },
+  {
+   "id": "E26",
+   "start": 107.87,
+   "end": 113.01,
+   "line": "",
+   "scene": "",
+   "set": "",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": []
+  },
+  {
+   "id": "E27",
+   "start": 113.01,
+   "end": 117.45,
+   "line": "",
+   "scene": "",
+   "set": "",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": []
+  },
+  {
+   "id": "E28",
+   "start": 117.45,
+   "end": 125.61,
+   "line": "",
+   "scene": "",
+   "set": "",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": []
+  },
+  {
+   "id": "E29",
+   "start": 125.61,
+   "end": 130.59,
+   "line": "",
+   "scene": "",
+   "set": "",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": []
+  },
+  {
+   "id": "E30",
+   "start": 130.59,
+   "end": 141.85,
+   "line": "",
+   "scene": "",
+   "set": "",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 8.75,
+     "name": "buzz",
+     "gain": -14
+    }
+   ]
+  },
+  {
+   "id": "E31",
+   "start": 141.85,
+   "end": 147.69,
+   "line": "",
+   "scene": "",
+   "set": "",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": []
+  },
+  {
+   "id": "E32",
+   "start": 147.69,
+   "end": 154.63,
+   "line": "",
+   "scene": "",
+   "set": "",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": []
+  },
+  {
+   "id": "E33",
+   "start": 154.63,
+   "end": 156.43,
+   "line": "",
+   "scene": "",
+   "set": "",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.1,
+     "name": "whoosh",
+     "gain": -12
+    }
+   ]
+  },
+  {
+   "id": "E34",
+   "start": 156.43,
+   "end": 161.05,
+   "line": "",
+   "scene": "",
+   "set": "",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": []
+  },
+  {
+   "id": "E35",
+   "start": 161.05,
+   "end": 165.65,
+   "line": "",
+   "scene": "",
+   "set": "",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": []
+  },
+  {
+   "id": "E36",
+   "start": 165.65,
+   "end": 169.89,
+   "line": "",
+   "scene": "",
+   "set": "",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": []
+  },
+  {
+   "id": "E37",
+   "start": 169.89,
+   "end": 173.71,
+   "line": "",
+   "scene": "",
+   "set": "",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 2.73,
+     "name": "ding",
+     "gain": -10
+    }
+   ]
+  },
+  {
+   "id": "E38",
+   "start": 173.71,
+   "end": 180.71,
+   "line": "",
+   "scene": "",
+   "set": "",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 4.13,
+     "name": "pop",
+     "gain": -14
+    },
+    {
+     "at": 5.13,
+     "name": "pop",
+     "gain": -14
+    },
+    {
+     "at": 6.03,
+     "name": "pop",
+     "gain": -12
+    }
+   ]
+  },
+  {
+   "id": "E39",
+   "start": 180.71,
+   "end": 190.81,
+   "line": "",
+   "scene": "",
+   "set": "",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": []
+  },
+  {
+   "id": "E40",
+   "start": 190.81,
+   "end": 195.65,
+   "line": "",
+   "scene": "",
+   "set": "",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": []
+  },
+  {
+   "id": "E41",
+   "start": 195.65,
+   "end": 199.91,
+   "line": "",
+   "scene": "",
+   "set": "",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.1,
+     "name": "stinger",
+     "gain": -12
+    }
+   ]
+  },
+  {
+   "id": "E42",
+   "start": 199.91,
+   "end": 208.83,
+   "line": "",
+   "scene": "",
+   "set": "",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": []
+  },
+  {
+   "id": "E43",
+   "start": 208.83,
+   "end": 211.35,
+   "line": "",
+   "scene": "",
+   "set": "",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": []
+  },
+  {
+   "id": "E44",
+   "start": 211.35,
+   "end": 218.19,
+   "line": "",
+   "scene": "",
+   "set": "",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": []
+  },
+  {
+   "id": "E45",
+   "start": 218.19,
+   "end": 222.63,
+   "line": "",
+   "scene": "",
+   "set": "",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": []
+  },
+  {
+   "id": "E46",
+   "start": 222.63,
+   "end": 229.45,
+   "line": "",
+   "scene": "",
+   "set": "",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": []
+  },
+  {
+   "id": "E47",
+   "start": 229.45,
+   "end": 238.01,
+   "line": "",
+   "scene": "",
+   "set": "",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": []
+  },
+  {
+   "id": "E48",
+   "start": 238.01,
+   "end": 242.43,
+   "line": "",
+   "scene": "",
+   "set": "",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.93,
+     "name": "heartbeat",
+     "gain": -10
+    },
+    {
+     "at": 3.71,
+     "name": "impact",
+     "gain": -10
+    }
+   ]
+  },
+  {
+   "id": "E49",
+   "start": 242.43,
+   "end": 248.79,
+   "line": "",
+   "scene": "",
+   "set": "",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": []
+  },
+  {
+   "id": "E50",
+   "start": 248.79,
+   "end": 254.43,
+   "line": "",
+   "scene": "",
+   "set": "",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": []
+  },
+  {
+   "id": "E51",
+   "start": 254.43,
+   "end": 260.63,
+   "line": "",
+   "scene": "",
+   "set": "",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "wind",
+     "gain": -16
+    }
+   ]
+  },
+  {
+   "id": "E52",
+   "start": 260.63,
+   "end": 265.01,
+   "line": "",
+   "scene": "",
+   "set": "",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": []
+  },
+  {
+   "id": "E53",
+   "start": 265.01,
+   "end": 275.11,
+   "line": "",
+   "scene": "",
+   "set": "",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": []
+  },
+  {
+   "id": "E54",
+   "start": 275.11,
+   "end": 281.35,
+   "line": "",
+   "scene": "",
+   "set": "",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": []
+  },
+  {
+   "id": "E55",
+   "start": 281.35,
+   "end": 284.51,
+   "line": "",
+   "scene": "",
+   "set": "",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": []
+  },
+  {
+   "id": "E56",
+   "start": 284.51,
+   "end": 291.15,
+   "line": "",
+   "scene": "",
+   "set": "",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 5.77,
+     "name": "impact",
+     "gain": -10
+    }
+   ]
+  },
+  {
+   "id": "E57",
+   "start": 291.15,
+   "end": 299.11,
+   "line": "",
+   "scene": "",
+   "set": "",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": []
+  },
+  {
+   "id": "E58",
+   "start": 299.11,
+   "end": 303.39,
+   "line": "",
+   "scene": "",
+   "set": "",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": []
+  },
+  {
+   "id": "E59",
+   "start": 303.39,
+   "end": 307.19,
+   "line": "",
+   "scene": "",
+   "set": "",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.1,
+     "name": "whoosh",
+     "gain": -12
+    }
+   ]
+  },
+  {
+   "id": "E60",
+   "start": 307.19,
+   "end": 309.73,
+   "line": "",
+   "scene": "",
+   "set": "",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": []
+  },
+  {
+   "id": "E61",
+   "start": 309.73,
+   "end": 318.39,
+   "line": "",
+   "scene": "",
+   "set": "",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": []
+  },
+  {
+   "id": "E62",
+   "start": 318.39,
+   "end": 325.87,
+   "line": "",
+   "scene": "",
+   "set": "",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": []
+  },
+  {
+   "id": "E63",
+   "start": 325.87,
+   "end": 328.85,
+   "line": "",
+   "scene": "",
+   "set": "",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": []
+  },
+  {
+   "id": "E64",
+   "start": 328.85,
+   "end": 334.97,
+   "line": "",
+   "scene": "",
+   "set": "",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 3.13,
+     "name": "impact",
+     "gain": -10
+    }
+   ]
+  },
+  {
+   "id": "E65",
+   "start": 334.97,
+   "end": 345.81,
+   "line": "",
+   "scene": "",
+   "set": "",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": []
+  },
+  {
+   "id": "E66",
+   "start": 345.81,
+   "end": 352.35,
+   "line": "",
+   "scene": "",
+   "set": "",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": []
+  },
+  {
+   "id": "E67",
+   "start": 352.35,
+   "end": 366.37,
+   "line": "",
+   "scene": "",
+   "set": "",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": []
+  },
+  {
+   "id": "E68",
+   "start": 366.37,
+   "end": 379.91,
+   "line": "",
+   "scene": "",
+   "set": "",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.01,
+     "name": "scratch",
+     "gain": -14
+    }
+   ]
+  },
+  {
+   "id": "E69",
+   "start": 379.91,
+   "end": 388.37,
+   "line": "",
+   "scene": "",
+   "set": "",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": []
+  },
+  {
+   "id": "E70",
+   "start": 388.37,
+   "end": 402.87,
+   "line": "",
+   "scene": "",
+   "set": "",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": []
+  },
+  {
+   "id": "E71",
+   "start": 402.87,
+   "end": 406.91,
+   "line": "",
+   "scene": "",
+   "set": "",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": []
+  },
+  {
+   "id": "E72",
+   "start": 406.91,
+   "end": 408.77,
+   "line": "",
+   "scene": "",
+   "set": "",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.1,
+     "name": "stinger",
+     "gain": -10
+    }
+   ]
+  },
+  {
+   "id": "E73",
+   "start": 408.77,
+   "end": 412.43,
+   "line": "",
+   "scene": "",
+   "set": "",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": []
+  },
+  {
+   "id": "E74",
+   "start": 412.43,
+   "end": 420.09,
+   "line": "",
+   "scene": "",
+   "set": "",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": []
+  },
+  {
+   "id": "E75",
+   "start": 420.09,
+   "end": 428.63,
+   "line": "",
+   "scene": "",
+   "set": "",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 4.25,
+     "name": "ding",
+     "gain": -14
+    },
+    {
+     "at": 5.41,
+     "name": "ding",
+     "gain": -14
+    },
+    {
+     "at": 6.57,
+     "name": "ding",
+     "gain": -14
+    }
+   ]
+  },
+  {
+   "id": "E76",
+   "start": 428.63,
+   "end": 431.97,
+   "line": "",
+   "scene": "",
+   "set": "",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": []
+  },
+  {
+   "id": "E77",
+   "start": 431.97,
+   "end": 440.19,
+   "line": "",
+   "scene": "",
+   "set": "",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": []
+  },
+  {
+   "id": "E78",
+   "start": 440.19,
+   "end": 446.51,
+   "line": "",
+   "scene": "",
+   "set": "",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": []
+  },
+  {
+   "id": "E79",
+   "start": 446.51,
+   "end": 447.93,
+   "line": "",
+   "scene": "",
+   "set": "",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": []
+  },
+  {
+   "id": "E80",
+   "start": 447.93,
+   "end": 454.81,
+   "line": "",
+   "scene": "",
+   "set": "",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": []
+  },
+  {
+   "id": "E81",
+   "start": 454.81,
+   "end": 459.85,
+   "line": "",
+   "scene": "",
+   "set": "",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": []
+  },
+  {
+   "id": "E82",
+   "start": 459.85,
+   "end": 465.43,
+   "line": "",
+   "scene": "",
+   "set": "",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 3.11,
+     "name": "scratch",
+     "gain": -10
+    }
+   ]
+  },
+  {
+   "id": "E83",
+   "start": 465.43,
+   "end": 474.1,
+   "line": "",
+   "scene": "",
+   "set": "",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 2.01,
+     "name": "shimmer",
+     "gain": -12
+    }
+   ]
+  },
+  {
+   "id": "E84",
+   "start": 474.1,
+   "end": 480.43,
+   "line": "",
+   "scene": "",
+   "set": "",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": []
+  },
+  {
+   "id": "E85",
+   "start": 480.43,
+   "end": 487.27,
+   "line": "",
+   "scene": "",
+   "set": "",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": []
+  },
+  {
+   "id": "E86",
+   "start": 487.27,
+   "end": 493.51,
+   "line": "",
+   "scene": "",
+   "set": "",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": []
+  },
+  {
+   "id": "E87",
+   "start": 493.51,
+   "end": 498.79,
+   "line": "",
+   "scene": "",
+   "set": "",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": []
+  },
+  {
+   "id": "E88",
+   "start": 498.79,
+   "end": 505.19,
+   "line": "",
+   "scene": "",
+   "set": "",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.1,
+     "name": "swish",
+     "gain": -12
+    }
+   ]
+  },
+  {
+   "id": "E89",
+   "start": 505.19,
+   "end": 515.55,
+   "line": "",
+   "scene": "",
+   "set": "",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": []
+  },
+  {
+   "id": "E90",
+   "start": 515.55,
+   "end": 518.35,
+   "line": "",
+   "scene": "",
+   "set": "",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.1,
+     "name": "swish",
+     "gain": -12
+    }
+   ]
+  },
+  {
+   "id": "E91",
+   "start": 518.35,
+   "end": 522.83,
+   "line": "",
+   "scene": "",
+   "set": "",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": []
+  },
+  {
+   "id": "E92",
+   "start": 522.83,
+   "end": 528.25,
+   "line": "",
+   "scene": "",
+   "set": "",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": []
+  },
+  {
+   "id": "E93",
+   "start": 528.25,
+   "end": 533.59,
+   "line": "",
+   "scene": "",
+   "set": "",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": []
+  },
+  {
+   "id": "E94",
+   "start": 533.59,
+   "end": 540.75,
+   "line": "",
+   "scene": "",
+   "set": "",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": []
+  },
+  {
+   "id": "E95",
+   "start": 540.75,
+   "end": 543.93,
+   "line": "",
+   "scene": "",
+   "set": "",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.1,
+     "name": "swish",
+     "gain": -12
+    }
+   ]
+  },
+  {
+   "id": "E96",
+   "start": 543.93,
+   "end": 552.23,
+   "line": "",
+   "scene": "",
+   "set": "",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": []
+  },
+  {
+   "id": "E97",
+   "start": 552.23,
+   "end": 559.53,
+   "line": "",
+   "scene": "",
+   "set": "",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": []
+  },
+  {
+   "id": "E98",
+   "start": 559.53,
+   "end": 564.37,
+   "line": "",
+   "scene": "",
+   "set": "",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": []
+  },
+  {
+   "id": "E99",
+   "start": 564.37,
+   "end": 566.79,
+   "line": "",
+   "scene": "",
+   "set": "",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.1,
+     "name": "swish",
+     "gain": -12
+    }
+   ]
+  },
+  {
+   "id": "E100",
+   "start": 566.79,
+   "end": 575.43,
+   "line": "",
+   "scene": "",
+   "set": "",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 5.39,
+     "name": "cheer",
+     "gain": -18
+    }
+   ]
+  },
+  {
+   "id": "E101",
+   "start": 575.43,
+   "end": 580.33,
+   "line": "",
+   "scene": "",
+   "set": "",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": []
+  },
+  {
+   "id": "E102",
+   "start": 580.33,
+   "end": 584.59,
+   "line": "",
+   "scene": "",
+   "set": "",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.1,
+     "name": "swish",
+     "gain": -12
+    }
+   ]
+  },
+  {
+   "id": "E103",
+   "start": 584.59,
+   "end": 591.43,
+   "line": "",
+   "scene": "",
+   "set": "",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": []
+  },
+  {
+   "id": "E104",
+   "start": 591.43,
+   "end": 596.85,
+   "line": "",
+   "scene": "",
+   "set": "",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 4.63,
+     "name": "ding",
+     "gain": -10
+    }
+   ]
+  },
+  {
+   "id": "E105",
+   "start": 596.85,
+   "end": 600.85,
+   "line": "",
+   "scene": "",
+   "set": "",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": []
+  },
+  {
+   "id": "E106",
+   "start": 600.85,
+   "end": 602.63,
+   "line": "",
+   "scene": "",
+   "set": "",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.1,
+     "name": "riser",
+     "gain": -14
+    }
+   ]
+  },
+  {
+   "id": "E107",
+   "start": 602.63,
+   "end": 608.71,
+   "line": "",
+   "scene": "",
+   "set": "",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": []
+  },
+  {
+   "id": "E108",
+   "start": 608.71,
+   "end": 616.93,
+   "line": "",
+   "scene": "",
+   "set": "",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": []
+  },
+  {
+   "id": "E109",
+   "start": 616.93,
+   "end": 621.83,
+   "line": "",
+   "scene": "",
+   "set": "",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": []
+  },
+  {
+   "id": "E110",
+   "start": 621.83,
+   "end": 629.73,
+   "line": "",
+   "scene": "",
+   "set": "",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 6.43,
+     "name": "shimmer",
+     "gain": -12
+    }
+   ]
+  },
+  {
+   "id": "E111",
+   "start": 629.73,
+   "end": 638.33,
+   "line": "",
+   "scene": "",
+   "set": "",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": []
+  },
+  {
+   "id": "E112",
+   "start": 638.33,
+   "end": 642.299,
+   "line": "",
+   "scene": "",
+   "set": "",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": []
+  }
+ ],
+ "music": [
+  {
+   "start": 0,
+   "end": 53,
+   "mood": "mystery",
+   "intensity": 0.4
+  },
+  {
+   "start": 53,
+   "end": 191,
+   "mood": "playful",
+   "intensity": 0.45
+  },
+  {
+   "start": 191,
+   "end": 303,
+   "mood": "tension",
+   "intensity": 0.45
+  },
+  {
+   "start": 303,
+   "end": 407,
+   "mood": "dark",
+   "intensity": 0.4
+  },
+  {
+   "start": 407,
+   "end": 493,
+   "mood": "wonder",
+   "intensity": 0.5
+  },
+  {
+   "start": 493,
+   "end": 642.299,
+   "mood": "hopeful",
+   "intensity": 0.55
+  }
+ ],
+ "sfx": []
+}
