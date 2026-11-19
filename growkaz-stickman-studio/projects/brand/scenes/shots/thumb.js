@@ -252,3 +252,17 @@ registerShot('U', { draw(g) {
   bigText(g, 'SATURDAY', E.W * 0.25, E.H * 0.14, 120, '#fff4d6', { align: 'center' });
   bigText(g, 'SUNDAY 6PM', E.W * 0.75, E.H * 0.14, 120, ui.accent, { align: 'center' });
 } });
+// V — like U, but Sunday 6PM face is tired and dreading
+['sad', 'sleepy', 'nervous'].forEach((ex, n) => registerShot('V' + n, { draw(g) {
+  const ui = S().ui; g.fillStyle = linGrad(g, 0, 0, 0, E.H, ['#e8a03a', '#d6602a']); g.fillRect(0, 0, E.W / 2, E.H);
+  g.fillStyle = linGrad(g, 0, 0, 0, E.H, ['#0a0a1a', '#1a0a14']); g.fillRect(E.W / 2, 0, E.W / 2, E.H);
+  seg(g, [[E.W / 2, 0], [E.W / 2, E.H]], 10, '#fff4d6');
+  bigFace(g, E.W * 0.25, E.H * 0.8, 300, { outfit: YOU, expr: 'joy', look: [0, -0.2], rimColor: '#fff4d6', rimSide: -1 });
+  const FY = E.H * 0.8; bigFace(g, E.W * 0.75, FY, 300, { outfit: YOU, expr: ex, look: [0, 0.5], rimColor: '#7ab8ff', rimSide: 1 });
+  for (const [cx, cy, r] of [[-70, -400, 60], [0, -430, 80], [80, -400, 60], [0, -380, 70]]) circle(g, E.W * 0.75 + cx, FY + cy, r, '#3a3a4a');
+  for (let i = 0; i < 5; i++) seg(g, [[E.W * 0.75 - 80 + i * 40, FY - 330], [E.W * 0.75 - 90 + i * 40, FY - 290]], 6, '#7ab8ff');
+  for (const sx of [-1, 1]) { g.beginPath(); g.arc(E.W * 0.75 + sx * 85, FY - 40, 46, 0.15 * Math.PI, 0.85 * Math.PI); g.lineWidth = 9; g.strokeStyle = alpha('#8a6ad6', 0.75); g.stroke(); }
+  g.beginPath(); g.moveTo(E.W * 0.75 + 190, FY - 190); g.quadraticCurveTo(E.W * 0.75 + 215, FY - 140, E.W * 0.75 + 190, FY - 120); g.quadraticCurveTo(E.W * 0.75 + 165, FY - 140, E.W * 0.75 + 190, FY - 190); g.fillStyle = '#9fd8ff'; g.fill();
+  bigText(g, 'SATURDAY', E.W * 0.25, E.H * 0.14, 120, '#fff4d6', { align: 'center' });
+  bigText(g, 'SUNDAY 6PM', E.W * 0.75, E.H * 0.14, 120, ui.accent, { align: 'center' });
+} }));
