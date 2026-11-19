@@ -191,3 +191,34 @@ registerShot('P', { draw(g) {
   g.save(); g.translate(E.W * 0.77, E.H * 0.6); g.rotate(-0.08); bigText(g, 'NOBODY DID', 0, 0, 120, ui.accent, { align: 'center' }); g.restore();
 } });
 const SHIRTY = { top: 'tshirt', color: '#f2c21a', head: 'spiky' };
+
+// ---- Sunday dread video ----
+function calT(g, x, y, s, day, col, sub) { g.save(); g.translate(x, y); g.scale(s, s);
+  rr(g, -170, -190, 340, 380, 18); g.fillStyle = '#f4efe6'; g.fill(); rr(g, -170, -190, 340, 110, 18); g.fillStyle = col; g.fill(); g.fillRect(-170, -110, 340, 30);
+  for (const sx of [-1, 1]) { rr(g, sx * 90 - 12, -215, 24, 60, 10); g.fillStyle = '#2a1e18'; g.fill(); }
+  text(g, day, 0, -118, { size: Math.min(64, 400 / day.length), color: '#fff4d6', font: FONTS.title, weight: 700 });
+  if (sub) text(g, sub, 0, 80, { size: 150, color: '#2a1e18', font: FONTS.title, weight: 700 }); g.restore(); }
+function skyT(g) { const gr = g.createLinearGradient(0, 0, 0, E.H); gr.addColorStop(0, '#2a0e2a'); gr.addColorStop(0.6, '#a8341e'); gr.addColorStop(1, '#e8743a'); g.fillStyle = gr; g.fillRect(0, 0, E.W, E.H);
+  glow(g, E.W * 0.25, E.H * 0.82, 400, '#ffb04a', 0.6); circle(g, E.W * 0.25, E.H * 0.82, 120, '#ffc45a');
+  g.fillStyle = '#12060c'; g.beginPath(); g.moveTo(0, E.H * 0.86); g.quadraticCurveTo(E.W * 0.5, E.H * 0.8, E.W, E.H * 0.87); g.lineTo(E.W, E.H); g.lineTo(0, E.H); g.fill(); }
+// Q — scared face, looming MONDAY calendar with glowing eyes, SUNDAY SCARIES
+registerShot('Q', { draw(g) {
+  const ui = S().ui; skyT(g);
+  glow(g, E.W * 0.72, E.H * 0.55, 520, '#ff2a1a', 0.45);
+  calT(g, E.W * 0.72, E.H * 0.58, 1.75, 'MONDAY', '#c8241a', '');
+  for (const sx of [-1, 1]) { glow(g, E.W * 0.72 + sx * 90, E.H * 0.6, 70, '#ff3a2a', 0.8); circle(g, E.W * 0.72 + sx * 90, E.H * 0.6, 32, '#d01a10'); }
+  for (let i = 0; i < 7; i++) poly(g, [[E.W * 0.72 - 150 + i * 43, E.H * 0.73], [E.W * 0.72 - 120 + i * 43, E.H * 0.73], [E.W * 0.72 - 135 + i * 43, E.H * 0.8]], '#2a1e18');
+  bigFace(g, E.W * 0.22, E.H * 0.9, 330, { outfit: YOU, expr: 'shocked', look: [1, -0.3], rimColor: ui.gold, rimSide: 1 });
+  bigText(g, 'THE SUNDAY SCARIES', E.W / 2, E.H * 0.12, 140, '#fff4d6', { align: 'center' });
+} });
+// R — tiny YOU on a sunset hill, giant shadow monster, IT'S NOT MONDAY
+registerShot('R', { draw(g) {
+  const ui = S().ui; skyT(g);
+  g.save(); g.translate(E.W * 0.66, E.H * 0.86); g.scale(2.1, 2.1); g.beginPath(); g.moveTo(-220, 0);
+  for (let i = 0; i <= 10; i++) g.lineTo(-220 + i * 44, -260 - 70 * Math.sin(i / 10 * Math.PI) + (i % 2) * 24); g.lineTo(220, 0); g.closePath(); g.fillStyle = '#1a0610'; g.fill();
+  for (const sx of [-1, 1]) { glow(g, sx * 60, -180, 60, '#ff3a2a', 0.8); circle(g, sx * 60, -180, 18, '#ff4a2a'); }
+  for (let i = 0; i < 6; i++) poly(g, [[-100 + i * 40, -120], [-80 + i * 40, -120], [-90 + i * 40, -90]], '#f4efe6'); g.restore();
+  drawFigure(g, { x: E.W * 0.3, y: E.H * 0.86, s: 1.3, facing: 1, outfit: YOU, pose: POSES.handsOnHead, expr: 'scared', rim: { color: ui.gold, dir: [0, -1], w: 6 } });
+  bigText(g, 'SUNDAY, 6 PM', E.W * 0.3, E.H * 0.14, 120, '#fff4d6', { align: 'center' });
+  bigText(g, 'THE DREAD', E.W * 0.3, E.H * 0.3, 120, ui.accent, { align: 'center' });
+} });
