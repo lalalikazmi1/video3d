@@ -222,3 +222,33 @@ registerShot('R', { draw(g) {
   bigText(g, 'SUNDAY, 6 PM', E.W * 0.3, E.H * 0.14, 120, '#fff4d6', { align: 'center' });
   bigText(g, 'THE DREAD', E.W * 0.3, E.H * 0.3, 120, ui.accent, { align: 'center' });
 } });
+// S — "MONDAY WILL BE AWFUL" crossed out, "IT WON'T", calendar with a smile
+registerShot('S', { draw(g) {
+  const ui = S().ui; skyT(g); veil(g, '#0a0408', 0.35);
+  calT(g, E.W * 0.24, E.H * 0.58, 1.55, 'MONDAY', '#3a9e5a', ':)');
+  bigText(g, 'MONDAY WILL', E.W * 0.68, E.H * 0.2, 120, '#fff4d6', { align: 'center' });
+  bigText(g, 'BE AWFUL', E.W * 0.68, E.H * 0.38, 120, '#fff4d6', { align: 'center' });
+  seg(g, [[E.W * 0.45, E.H * 0.2], [E.W * 0.91, E.H * 0.2]], 12, ui.accent); seg(g, [[E.W * 0.52, E.H * 0.37], [E.W * 0.84, E.H * 0.37]], 12, ui.accent);
+  g.save(); g.translate(E.W * 0.68, E.H * 0.62); g.rotate(-0.08); bigText(g, 'IT WON’T', 0, 0, 170, '#5fd17a', { align: 'center' }); g.restore();
+} });
+// T — scared face lit by a phone: "MONDAY 9:00 AM MEETING"
+registerShot('T', { draw(g) {
+  const ui = S().ui; g.fillStyle = radGrad(g, E.W * 0.68, E.H * 0.5, 0, 1100, ['#1a2433', '#0a0c14', '#030305']); g.fillRect(0, 0, E.W, E.H);
+  phoneT(g, E.W * 0.72, E.H * 0.56, 420, 760, 0.1);
+  g.save(); g.translate(E.W * 0.72, E.H * 0.56); g.rotate(0.1);
+  text(g, '6:00', 0, -200, { size: 130, color: '#fff4d6', font: FONTS.ui, weight: 900 }); text(g, 'SUNDAY', 0, -120, { size: 44, color: '#9fd8ff', font: FONTS.ui, weight: 800 });
+  rr(g, -170, -40, 340, 150, 22); g.fillStyle = '#f4efe6'; g.fill(); circle(g, -120, 35, 30, ui.accent);
+  text(g, 'MONDAY 9:00', 40, 15, { size: 34, color: '#c8241a', font: FONTS.ui, weight: 900 }); text(g, 'MEETING', 40, 70, { size: 36, color: '#2a1e18', font: FONTS.ui, weight: 900 }); g.restore();
+  bigFace(g, E.W * 0.25, E.H * 0.85, 330, { outfit: YOU, expr: 'shocked', look: [1, -0.1], rimColor: '#9fd8ff', rimSide: 1 });
+  bigText(g, 'WHY SUNDAY NIGHT HURTS', E.W / 2, E.H * 0.12, 120, '#fff4d6', { align: 'center' });
+} });
+// U — split: bright SATURDAY YOU vs dark SUNDAY NIGHT YOU
+registerShot('U', { draw(g) {
+  const ui = S().ui; g.fillStyle = linGrad(g, 0, 0, 0, E.H, ['#e8a03a', '#d6602a']); g.fillRect(0, 0, E.W / 2, E.H);
+  g.fillStyle = linGrad(g, 0, 0, 0, E.H, ['#0a0a1a', '#1a0a14']); g.fillRect(E.W / 2, 0, E.W / 2, E.H);
+  seg(g, [[E.W / 2, 0], [E.W / 2, E.H]], 10, '#fff4d6');
+  bigFace(g, E.W * 0.25, E.H * 0.86, 300, { outfit: YOU, expr: 'joy', look: [0, -0.2], rimColor: '#fff4d6', rimSide: -1 });
+  bigFace(g, E.W * 0.75, E.H * 0.86, 300, { outfit: YOU, expr: 'shocked', look: [0, -0.2], rimColor: '#7ab8ff', rimSide: 1 });
+  bigText(g, 'SATURDAY', E.W * 0.25, E.H * 0.14, 120, '#fff4d6', { align: 'center' });
+  bigText(g, 'SUNDAY 6PM', E.W * 0.75, E.H * 0.14, 120, ui.accent, { align: 'center' });
+} });
