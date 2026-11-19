@@ -1,0 +1,1052 @@
+[
+ {
+  "i": 0,
+  "start": 0.0,
+  "end": 0.74,
+  "text": "You sit down."
+ },
+ {
+  "i": 1,
+  "start": 1.18,
+  "end": 2.02,
+  "text": "Laptop open."
+ },
+ {
+  "i": 2,
+  "start": 2.42,
+  "end": 3.08,
+  "text": "Coffee ready."
+ },
+ {
+  "i": 3,
+  "start": 3.66,
+  "end": 4.6,
+  "text": "Today's the day."
+ },
+ {
+  "i": 4,
+  "start": 4.98,
+  "end": 6.36,
+  "text": "You're going to lock in."
+ },
+ {
+  "i": 5,
+  "start": 7.16,
+  "end": 8.96,
+  "text": "You read the first line of the task."
+ },
+ {
+  "i": 6,
+  "start": 9.48,
+  "end": 10.72,
+  "text": "Then you check your phone."
+ },
+ {
+  "i": 7,
+  "start": 10.72,
+  "end": 11.5,
+  "text": "Just quickly."
+ },
+ {
+  "i": 8,
+  "start": 12.06,
+  "end": 13.74,
+  "text": "Then you reply to one message."
+ },
+ {
+  "i": 9,
+  "start": 14.26,
+  "end": 16.44,
+  "text": "Then you open a new tab, for some reason."
+ },
+ {
+  "i": 10,
+  "start": 16.44,
+  "end": 23.34,
+  "text": "Twenty minutes later, you're watching a video about how pyramids were built, and the task is still on line one."
+ },
+ {
+  "i": 11,
+  "start": 24.04,
+  "end": 24.98,
+  "text": "You're not lazy."
+ },
+ {
+  "i": 12,
+  "start": 25.38,
+  "end": 26.92,
+  "text": "You actually want to do it."
+ },
+ {
+  "i": 13,
+  "start": 26.92,
+  "end": 31.22,
+  "text": "So why does your brain fight you every single time you try to focus?"
+ },
+ {
+  "i": 14,
+  "start": 32.04,
+  "end": 35.26,
+  "text": "And why does it feel like everyone else can lock in, except you?"
+ },
+ {
+  "i": 15,
+  "start": 36.14,
+  "end": 38.12,
+  "text": "The answer isn't about willpower."
+ },
+ {
+  "i": 16,
+  "start": 38.56,
+  "end": 44.1,
+  "text": "It's about how your attention works, and how almost everything around you is built to break it."
+ },
+ {
+  "i": 17,
+  "start": 44.86,
+  "end": 45.9,
+  "text": "Let's start with a number."
+ },
+ {
+  "i": 18,
+  "start": 45.9,
+  "end": 47.54,
+  "text": "Forty-seven seconds."
+ },
+ {
+  "i": 19,
+  "start": 48.56,
+  "end": 56.1,
+  "text": "Psychologist Gloria Mark at the University of California, Irvine has spent around twenty years watching how people actually work."
+ },
+ {
+  "i": 20,
+  "start": 56.57,
+  "end": 62.5,
+  "text": "She sits behind them, with a stopwatch, and later, with software that logs every switch between screens."
+ },
+ {
+  "i": 21,
+  "start": 63.26,
+  "end": 69.22,
+  "text": "Back in 2004, people stayed on one screen for about two and a half minutes on average before switching."
+ },
+ {
+  "i": 22,
+  "start": 69.9,
+  "end": 72.68,
+  "text": "By 2012, it was about seventy-five seconds."
+ },
+ {
+  "i": 23,
+  "start": 73.34,
+  "end": 76.74,
+  "text": "In her more recent studies, it's about forty-seven seconds."
+ },
+ {
+  "i": 24,
+  "start": 76.74,
+  "end": 79.1,
+  "text": "Forty-seven seconds."
+ },
+ {
+  "i": 25,
+  "start": 79.66,
+  "end": 84.72,
+  "text": "That's how long the average person focuses on one screen before jumping to something else."
+ },
+ {
+  "i": 26,
+  "start": 85.24,
+  "end": 86.64,
+  "text": "And here's the strange part."
+ },
+ {
+  "i": 27,
+  "start": 87.1,
+  "end": 88.36,
+  "text": "Nobody was forcing them."
+ },
+ {
+  "i": 28,
+  "start": 89.04,
+  "end": 93.8,
+  "text": "Mark found that people interrupt themselves almost as often as they're interrupted by others."
+ },
+ {
+  "i": 29,
+  "start": 94.46,
+  "end": 94.94,
+  "text": "No ping."
+ },
+ {
+  "i": 30,
+  "start": 95.32,
+  "end": 95.94,
+  "text": "No message."
+ },
+ {
+  "i": 31,
+  "start": 96.3,
+  "end": 98.3,
+  "text": "Just a sudden urge to check something."
+ },
+ {
+  "i": 32,
+  "start": 98.94,
+  "end": 100.88,
+  "text": "Your brain has learned to switch."
+ },
+ {
+  "i": 33,
+  "start": 101.28,
+  "end": 103.12,
+  "text": "And now it does it on its own."
+ },
+ {
+  "i": 34,
+  "start": 103.84,
+  "end": 105.86,
+  "text": "So why is switching such a big deal?"
+ },
+ {
+  "i": 35,
+  "start": 106.34,
+  "end": 108.98,
+  "text": "Because every switch has a hidden cost."
+ },
+ {
+  "i": 36,
+  "start": 109.62,
+  "end": 115.06,
+  "text": "In 2009, researcher Sophie Leroy discovered something she called attention residue."
+ },
+ {
+  "i": 37,
+  "start": 115.72,
+  "end": 120.98,
+  "text": "When you move from Task A to Task B, part of your mind stays stuck on Task A."
+ },
+ {
+  "i": 38,
+  "start": 121.54,
+  "end": 126.5,
+  "text": "You're looking at the essay, but a piece of your brain is still thinking about that message you just read."
+ },
+ {
+  "i": 39,
+  "start": 127.06,
+  "end": 131.06,
+  "text": "And the less finished Task A was, the more residue it leaves behind."
+ },
+ {
+  "i": 40,
+  "start": 131.94,
+  "end": 134.88,
+  "text": "Now imagine checking your phone thirty times an hour."
+ },
+ {
+  "i": 41,
+  "start": 135.42,
+  "end": 137.38,
+  "text": "Every check leaves a little residue."
+ },
+ {
+  "i": 42,
+  "start": 137.94,
+  "end": 140.62,
+  "text": "By lunchtime, your attention isn't in one place."
+ },
+ {
+  "i": 43,
+  "start": 140.62,
+  "end": 144.2,
+  "text": "It's spread across fifty tiny unfinished things."
+ },
+ {
+  "i": 44,
+  "start": 144.64,
+  "end": 148.96,
+  "text": "That's why you can sit at your desk for three hours and feel like you did nothing."
+ },
+ {
+  "i": 45,
+  "start": 149.54,
+  "end": 150.7,
+  "text": "You didn't do nothing."
+ },
+ {
+  "i": 46,
+  "start": 151.06,
+  "end": 153.04,
+  "text": "You did fifty small switches."
+ },
+ {
+  "i": 47,
+  "start": 153.58,
+  "end": 156.46,
+  "text": "And the cost of getting back is bigger than you'd think."
+ },
+ {
+  "i": 48,
+  "start": 156.76,
+  "end": 166.44,
+  "text": "In one study, Gloria Mark and her colleagues found that after an interruption, it took people an average of around twenty-three minutes to return to their original task."
+ },
+ {
+  "i": 49,
+  "start": 166.78,
+  "end": 168.9,
+  "text": "Not because the interruption was long."
+ },
+ {
+  "i": 50,
+  "start": 169.24,
+  "end": 174.34,
+  "text": "Because one interruption led to another, and another, before they found their way back."
+ },
+ {
+  "i": 51,
+  "start": 175.1,
+  "end": 177.76,
+  "text": "So one quick check isn't quick."
+ },
+ {
+  "i": 52,
+  "start": 178.26,
+  "end": 179.64,
+  "text": "It's the first domino."
+ },
+ {
+  "i": 53,
+  "start": 180.42,
+  "end": 180.98,
+  "text": "But wait."
+ },
+ {
+  "i": 54,
+  "start": 181.58,
+  "end": 185.28,
+  "text": "If switching is so bad, why does your brain want to do it so much?"
+ },
+ {
+  "i": 55,
+  "start": 186.08,
+  "end": 189.2,
+  "text": "First, because your brain loves new things."
+ },
+ {
+  "i": 56,
+  "start": 189.72,
+  "end": 191.3,
+  "text": "Novelty grabs attention."
+ },
+ {
+  "i": 57,
+  "start": 192.08,
+  "end": 199.26,
+  "text": "For our ancestors, something new in the environment could be food or danger, so the brain learned to notice it immediately."
+ },
+ {
+  "i": 58,
+  "start": 200.24,
+  "end": 206.86,
+  "text": "Today, every notification, every new post, every unread message is a tiny piece of novelty."
+ },
+ {
+  "i": 59,
+  "start": 207.4,
+  "end": 209.76,
+  "text": "And your phone has an endless supply."
+ },
+ {
+  "i": 60,
+  "start": 210.76,
+  "end": 213.7,
+  "text": "Second, because your mind is built to wander."
+ },
+ {
+  "i": 61,
+  "start": 214.54,
+  "end": 225.22,
+  "text": "In 2010, Harvard researchers Matthew Killingsworth and Daniel Gilbert used a phone app to ask thousands of people, at random moments, what they were doing and what they were thinking about."
+ },
+ {
+  "i": 62,
+  "start": 226.0,
+  "end": 232.32,
+  "text": "Nearly half the time, around forty-seven percent, people's minds were somewhere other than what they were doing."
+ },
+ {
+  "i": 63,
+  "start": 233.04,
+  "end": 236.1,
+  "text": "So wandering isn't a sign that something's wrong with you."
+ },
+ {
+  "i": 64,
+  "start": 236.46,
+  "end": 237.22,
+  "text": "It's the default."
+ },
+ {
+  "i": 65,
+  "start": 237.86,
+  "end": 239.84,
+  "text": "Focus is the thing that takes effort."
+ },
+ {
+  "i": 66,
+  "start": 240.72,
+  "end": 245.5,
+  "text": "And third, and this is the big one, because the task feels uncomfortable."
+ },
+ {
+  "i": 67,
+  "start": 246.68,
+  "end": 253.3,
+  "text": "Psychologists Fuschia Sirois and Timothy Pychyl argue that procrastination isn't really a time-management problem."
+ },
+ {
+  "i": 68,
+  "start": 253.72,
+  "end": 255.48,
+  "text": "It's a mood-management problem."
+ },
+ {
+  "i": 69,
+  "start": 256.22,
+  "end": 262.14,
+  "text": "When a task feels boring, hard, or uncertain, it creates a small, unpleasant feeling."
+ },
+ {
+  "i": 70,
+  "start": 262.66,
+  "end": 264.94,
+  "text": "And your brain wants that feeling gone."
+ },
+ {
+  "i": 71,
+  "start": 265.38,
+  "end": 266.12,
+  "text": "Right now."
+ },
+ {
+  "i": 72,
+  "start": 266.78,
+  "end": 268.98,
+  "text": "So it reaches for the fastest fix."
+ },
+ {
+  "i": 73,
+  "start": 269.56,
+  "end": 270.02,
+  "text": "Your phone."
+ },
+ {
+  "i": 74,
+  "start": 270.5,
+  "end": 270.8,
+  "text": "A snack."
+ },
+ {
+  "i": 75,
+  "start": 271.38,
+  "end": 271.94,
+  "text": "A new tab."
+ },
+ {
+  "i": 76,
+  "start": 272.58,
+  "end": 274.7,
+  "text": "Anything that feels better than the discomfort."
+ },
+ {
+  "i": 77,
+  "start": 275.58,
+  "end": 280.38,
+  "text": "That's why you suddenly feel the urge to clean your room the moment you sit down to study."
+ },
+ {
+  "i": 78,
+  "start": 280.88,
+  "end": 282.84,
+  "text": "Your brain isn't choosing the room."
+ },
+ {
+  "i": 79,
+  "start": 283.18,
+  "end": 284.6,
+  "text": "It's escaping the feeling."
+ },
+ {
+  "i": 80,
+  "start": 285.34,
+  "end": 287.76,
+  "text": "And every time it escapes, it learns."
+ },
+ {
+  "i": 81,
+  "start": 288.54,
+  "end": 291.2,
+  "text": "Feel discomfort, switch, feel better."
+ },
+ {
+  "i": 82,
+  "start": 292.1,
+  "end": 299.28,
+  "text": "Over time, that loop gets faster and faster, until the urge to switch arrives before you've even noticed the discomfort."
+ },
+ {
+  "i": 83,
+  "start": 299.96,
+  "end": 301.54,
+  "text": "And there's one more problem."
+ },
+ {
+  "i": 84,
+  "start": 302.22,
+  "end": 306.04,
+  "text": "The heavier your multitasking habit, the harder focus might become."
+ },
+ {
+  "i": 85,
+  "start": 306.04,
+  "end": 317.7,
+  "text": "In 2009, Stanford researchers Eyal Ophir, Clifford Nass and Anthony Wagner compared people who often juggled lots of media at once, with people who rarely did."
+ },
+ {
+  "i": 86,
+  "start": 318.6,
+  "end": 321.56,
+  "text": "You might expect the heavy multitaskers to be better at it."
+ },
+ {
+  "i": 87,
+  "start": 322.02,
+  "end": 322.64,
+  "text": "They weren't."
+ },
+ {
+  "i": 88,
+  "start": 323.26,
+  "end": 328.64,
+  "text": "They were worse at filtering out distractions, and worse at ignoring information that didn't matter."
+ },
+ {
+  "i": 89,
+  "start": 328.92,
+  "end": 332.7,
+  "text": "Later research has been more mixed, but the pattern is worth noticing."
+ },
+ {
+  "i": 90,
+  "start": 333.3,
+  "end": 336.52,
+  "text": "Constantly splitting your attention doesn't seem to train it."
+ },
+ {
+  "i": 91,
+  "start": 336.98,
+  "end": 338.1,
+  "text": "It may wear it down."
+ },
+ {
+  "i": 92,
+  "start": 339.18,
+  "end": 340.5,
+  "text": "And then there's sleep."
+ },
+ {
+  "i": 93,
+  "start": 341.16,
+  "end": 348.22,
+  "text": "In one well-known study, researchers led by Hans Van Dongen kept people on six hours of sleep a night for two weeks."
+ },
+ {
+  "i": 94,
+  "start": 348.94,
+  "end": 353.92,
+  "text": "By the end, their attention was about as bad as people who had stayed awake for a whole night."
+ },
+ {
+  "i": 95,
+  "start": 354.64,
+  "end": 355.9,
+  "text": "And here's the scary part."
+ },
+ {
+  "i": 96,
+  "start": 356.42,
+  "end": 358.66,
+  "text": "The six-hour group didn't feel that bad."
+ },
+ {
+  "i": 97,
+  "start": 359.14,
+  "end": 360.66,
+  "text": "They thought they were mostly fine."
+ },
+ {
+  "i": 98,
+  "start": 361.14,
+  "end": 364.34,
+  "text": "Their brains were struggling, and they didn't even know it."
+ },
+ {
+  "i": 99,
+  "start": 365.14,
+  "end": 366.46,
+  "text": "So let's put it together."
+ },
+ {
+  "i": 100,
+  "start": 367.2,
+  "end": 368.84,
+  "text": "Your brain loves novelty."
+ },
+ {
+  "i": 101,
+  "start": 369.5,
+  "end": 371.04,
+  "text": "Your mind wanders by default."
+ },
+ {
+  "i": 102,
+  "start": 371.74,
+  "end": 376.02,
+  "text": "Hard tasks create discomfort, and your phone offers instant relief."
+ },
+ {
+  "i": 103,
+  "start": 376.8,
+  "end": 378.52,
+  "text": "Every switch leaves residue."
+ },
+ {
+  "i": 104,
+  "start": 379.12,
+  "end": 383.14,
+  "text": "And if you're not sleeping enough, you're starting the day with less focus to spend."
+ },
+ {
+  "i": 105,
+  "start": 383.96,
+  "end": 384.92,
+  "text": "You're not broken."
+ },
+ {
+  "i": 106,
+  "start": 385.46,
+  "end": 388.94,
+  "text": "You're a normal brain, in a world built to pull it apart."
+ },
+ {
+  "i": 107,
+  "start": 389.42,
+  "end": 390.52,
+  "text": "But here's the good news."
+ },
+ {
+  "i": 108,
+  "start": 391.14,
+  "end": 393.3,
+  "text": "Locking in isn't a personality trait."
+ },
+ {
+  "i": 109,
+  "start": 393.8,
+  "end": 394.46,
+  "text": "It's a state."
+ },
+ {
+  "i": 110,
+  "start": 394.46,
+  "end": 396.52,
+  "text": "And states can be built."
+ },
+ {
+  "i": 111,
+  "start": 397.52,
+  "end": 399.54,
+  "text": "So how do you actually lock in?"
+ },
+ {
+  "i": 112,
+  "start": 400.46,
+  "end": 402.8,
+  "text": "First, get the phone out of the room."
+ },
+ {
+  "i": 113,
+  "start": 403.28,
+  "end": 404.1,
+  "text": "Not face down."
+ },
+ {
+  "i": 114,
+  "start": 404.42,
+  "end": 405.26,
+  "text": "Not on silent."
+ },
+ {
+  "i": 115,
+  "start": 405.84,
+  "end": 406.1,
+  "text": "Out."
+ },
+ {
+  "i": 116,
+  "start": 406.88,
+  "end": 417.98,
+  "text": "In 2017, researcher Adrian Ward and his colleagues found that people performed worse on attention and memory tests when their phone was simply sitting on the desk, even when it was switched off."
+ },
+ {
+  "i": 117,
+  "start": 418.48,
+  "end": 422.06,
+  "text": "The people who did best had left their phones in another room."
+ },
+ {
+  "i": 118,
+  "start": 422.7,
+  "end": 425.66,
+  "text": "Part of your brain is always busy not checking it."
+ },
+ {
+  "i": 119,
+  "start": 425.94,
+  "end": 427.28,
+  "text": "So remove the choice."
+ },
+ {
+  "i": 120,
+  "start": 428.5,
+  "end": 431.42,
+  "text": "Second, decide exactly when and where."
+ },
+ {
+  "i": 121,
+  "start": 432.22,
+  "end": 436.48,
+  "text": "Psychologist Peter Gollwitzer studied something called implementation intentions."
+ },
+ {
+  "i": 122,
+  "start": 437.32,
+  "end": 444.88,
+  "text": "Instead of saying \"I'll study later\", you say \"At four p.m., at my desk, I'll open the essay and write the first paragraph.\""
+ },
+ {
+  "i": 123,
+  "start": 445.54,
+  "end": 452.06,
+  "text": "Across many studies, this simple if-then plan made people much more likely to actually follow through."
+ },
+ {
+  "i": 124,
+  "start": 452.84,
+  "end": 456.88,
+  "text": "You stop negotiating with yourself, because the decision is already made."
+ },
+ {
+  "i": 125,
+  "start": 457.92,
+  "end": 460.08,
+  "text": "Third, make the start tiny."
+ },
+ {
+  "i": 126,
+  "start": 460.86,
+  "end": 464.44,
+  "text": "Remember, your brain is avoiding a feeling, not the task."
+ },
+ {
+  "i": 127,
+  "start": 464.8,
+  "end": 467.42,
+  "text": "So shrink the task until the feeling disappears."
+ },
+ {
+  "i": 128,
+  "start": 468.36,
+  "end": 469.64,
+  "text": "Don't \"write the essay\"."
+ },
+ {
+  "i": 129,
+  "start": 470.14,
+  "end": 471.26,
+  "text": "Write one sentence."
+ },
+ {
+  "i": 130,
+  "start": 472.04,
+  "end": 473.64,
+  "text": "Don't \"study for the exam\"."
+ },
+ {
+  "i": 131,
+  "start": 474.12,
+  "end": 476.22,
+  "text": "Open the notes and read one page."
+ },
+ {
+  "i": 132,
+  "start": 476.98,
+  "end": 478.6,
+  "text": "Starting is the hardest part."
+ },
+ {
+  "i": 133,
+  "start": 479.14,
+  "end": 481.96,
+  "text": "Once you're moving, the discomfort usually fades."
+ },
+ {
+  "i": 134,
+  "start": 483.22,
+  "end": 485.5,
+  "text": "Fourth, give it time to warm up."
+ },
+ {
+  "i": 135,
+  "start": 486.14,
+  "end": 493.86,
+  "text": "Psychologist Mihaly Csikszentmihalyi called deep focus \"flow\", the state where you lose track of time because you're completely absorbed."
+ },
+ {
+  "i": 136,
+  "start": 494.66,
+  "end": 500.78,
+  "text": "Flow is most likely when a task is challenging, but not too challenging, and when you stay with it."
+ },
+ {
+  "i": 137,
+  "start": 500.78,
+  "end": 503.62,
+  "text": "But flow doesn't arrive in the first few seconds."
+ },
+ {
+  "i": 138,
+  "start": 504.0,
+  "end": 507.0,
+  "text": "And every time you switch, you reset the clock."
+ },
+ {
+  "i": 139,
+  "start": 507.6,
+  "end": 511.84,
+  "text": "So set a timer for twenty-five minutes, and promise yourself one thing."
+ },
+ {
+  "i": 140,
+  "start": 512.32,
+  "end": 514.02,
+  "text": "No switching until it rings."
+ },
+ {
+  "i": 141,
+  "start": 514.6,
+  "end": 520.24,
+  "text": "Not because twenty-five minutes is magic, but because you're giving your brain a real chance to settle in."
+ },
+ {
+  "i": 142,
+  "start": 521.14,
+  "end": 522.86,
+  "text": "Fifth, batch the noise."
+ },
+ {
+  "i": 143,
+  "start": 523.6,
+  "end": 531.6,
+  "text": "In 2015, researchers Kostadin Kushlev and Elizabeth Dunn asked people to check their email only three times a day for a week."
+ },
+ {
+  "i": 144,
+  "start": 532.1,
+  "end": 533.4,
+  "text": "They felt less stressed."
+ },
+ {
+  "i": 145,
+  "start": 533.98,
+  "end": 536.38,
+  "text": "Notifications don't have to rule your day."
+ },
+ {
+  "i": 146,
+  "start": 536.84,
+  "end": 540.3,
+  "text": "Turn them off, and check things on your schedule, not theirs."
+ },
+ {
+  "i": 147,
+  "start": 541.22,
+  "end": 543.3,
+  "text": "And sixth, protect your sleep."
+ },
+ {
+  "i": 148,
+  "start": 543.92,
+  "end": 545.16,
+  "text": "It's not exciting advice."
+ },
+ {
+  "i": 149,
+  "start": 545.52,
+  "end": 549.66,
+  "text": "But no focus trick in the world can beat a brain that's running on empty."
+ },
+ {
+  "i": 150,
+  "start": 550.52,
+  "end": 552.8,
+  "text": "And finally, be patient with yourself."
+ },
+ {
+  "i": 151,
+  "start": 553.44,
+  "end": 559.66,
+  "text": "If your attention has been trained to switch every forty-seven seconds, it won't hold for two hours on the first day."
+ },
+ {
+  "i": 152,
+  "start": 560.16,
+  "end": 560.68,
+  "text": "That's fine."
+ },
+ {
+  "i": 153,
+  "start": 561.28,
+  "end": 565.74,
+  "text": "Every time you notice the urge, and don't follow it, you're retraining the loop."
+ },
+ {
+  "i": 154,
+  "start": 566.3,
+  "end": 567.18,
+  "text": "Feel the discomfort."
+ },
+ {
+  "i": 155,
+  "start": 567.74,
+  "end": 568.16,
+  "text": "Stay."
+ },
+ {
+  "i": 156,
+  "start": 568.78,
+  "end": 569.66,
+  "text": "Notice it fade."
+ },
+ {
+  "i": 157,
+  "start": 570.28,
+  "end": 572.5,
+  "text": "That's what locking in really is."
+ },
+ {
+  "i": 158,
+  "start": 572.96,
+  "end": 573.84,
+  "text": "It's not a superpower."
+ },
+ {
+  "i": 159,
+  "start": 574.44,
+  "end": 575.1,
+  "text": "It's a skill."
+ },
+ {
+  "i": 160,
+  "start": 575.72,
+  "end": 576.76,
+  "text": "Because here's the truth."
+ },
+ {
+  "i": 161,
+  "start": 577.28,
+  "end": 580.68,
+  "text": "The people who seem to lock in effortlessly aren't built differently."
+ },
+ {
+  "i": 162,
+  "start": 581.22,
+  "end": 585.02,
+  "text": "Most of them just made it easier to focus, and harder to escape."
+ },
+ {
+  "i": 163,
+  "start": 585.5,
+  "end": 587.38,
+  "text": "They took the phone out of the room."
+ },
+ {
+  "i": 164,
+  "start": 587.86,
+  "end": 589.18,
+  "text": "They made the start small."
+ },
+ {
+  "i": 165,
+  "start": 589.76,
+  "end": 592.98,
+  "text": "They stayed through the discomfort, long enough for it to pass."
+ },
+ {
+  "i": 166,
+  "start": 593.6,
+  "end": 594.58,
+  "text": "And you can too."
+ },
+ {
+  "i": 167,
+  "start": 595.42,
+  "end": 600.46,
+  "text": "So the next time you sit down and feel that pull to check, just once, remember."
+ },
+ {
+  "i": 168,
+  "start": 600.46,
+  "end": 602.54,
+  "text": "That isn't you being lazy."
+ },
+ {
+  "i": 169,
+  "start": 603.0,
+  "end": 604.76,
+  "text": "It's your brain looking for an exit."
+ },
+ {
+  "i": 170,
+  "start": 605.28,
+  "end": 606.7,
+  "text": "You don't have to take it."
+ },
+ {
+  "i": 171,
+  "start": 607.4,
+  "end": 611.06,
+  "text": "So, how long can you focus before you reach for your phone?"
+ },
+ {
+  "i": 172,
+  "start": 611.58,
+  "end": 612.12,
+  "text": "Be honest."
+ },
+ {
+  "i": 173,
+  "start": 612.52,
+  "end": 613.34,
+  "text": "Tell me in the comments."
+ },
+ {
+  "i": 174,
+  "start": 613.34,
+  "end": 617.4,
+  "text": "And subscribe, because your mind is stranger than you think."
+ }
+]
