@@ -1,0 +1,381 @@
+{
+ "title": "Short - Shocks vs Boredom",
+ "duration": 46.916,
+ "shots": [
+  {
+   "id": "E01",
+   "start": 0,
+   "end": 0.77,
+   "line": "",
+   "scene": "",
+   "set": "",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.05,
+     "name": "riser",
+     "gain": -14
+    }
+   ]
+  },
+  {
+   "id": "E02",
+   "start": 0.77,
+   "end": 3.71,
+   "line": "",
+   "scene": "",
+   "set": "",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.43,
+     "name": "tick",
+     "gain": -12
+    }
+   ]
+  },
+  {
+   "id": "E03",
+   "start": 3.71,
+   "end": 6.31,
+   "line": "",
+   "scene": "",
+   "set": "",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.59,
+     "name": "glitch",
+     "gain": -8
+    }
+   ]
+  },
+  {
+   "id": "E04",
+   "start": 6.31,
+   "end": 7.67,
+   "line": "",
+   "scene": "",
+   "set": "",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.1,
+     "name": "pop",
+     "gain": -12
+    }
+   ]
+  },
+  {
+   "id": "E05",
+   "start": 7.67,
+   "end": 11.11,
+   "line": "",
+   "scene": "",
+   "set": "",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": []
+  },
+  {
+   "id": "E06",
+   "start": 11.11,
+   "end": 14.05,
+   "line": "",
+   "scene": "",
+   "set": "",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": []
+  },
+  {
+   "id": "E07",
+   "start": 14.05,
+   "end": 14.97,
+   "line": "",
+   "scene": "",
+   "set": "",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "scratch",
+     "gain": -10
+    }
+   ]
+  },
+  {
+   "id": "E08",
+   "start": 14.97,
+   "end": 15.95,
+   "line": "",
+   "scene": "",
+   "set": "",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "scratch",
+     "gain": -10
+    }
+   ]
+  },
+  {
+   "id": "E09",
+   "start": 15.95,
+   "end": 20.09,
+   "line": "",
+   "scene": "",
+   "set": "",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.69,
+     "name": "pop",
+     "gain": -10
+    }
+   ]
+  },
+  {
+   "id": "E10",
+   "start": 20.09,
+   "end": 23.03,
+   "line": "",
+   "scene": "",
+   "set": "",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "glitch",
+     "gain": -10
+    }
+   ]
+  },
+  {
+   "id": "E11",
+   "start": 23.03,
+   "end": 24.99,
+   "line": "",
+   "scene": "",
+   "set": "",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.05,
+     "name": "pop",
+     "gain": -12
+    },
+    {
+     "at": 0.3,
+     "name": "pop",
+     "gain": -12
+    },
+    {
+     "at": 0.55,
+     "name": "pop",
+     "gain": -12
+    }
+   ]
+  },
+  {
+   "id": "E12",
+   "start": 24.99,
+   "end": 27.53,
+   "line": "",
+   "scene": "",
+   "set": "",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 2.11,
+     "name": "glitch",
+     "gain": -8
+    },
+    {
+     "at": 0.91,
+     "name": "vineboom",
+     "gain": -10
+    }
+   ]
+  },
+  {
+   "id": "E13",
+   "start": 27.53,
+   "end": 30.45,
+   "line": "",
+   "scene": "",
+   "set": "",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.87,
+     "name": "glitch",
+     "gain": -10
+    }
+   ]
+  },
+  {
+   "id": "E14",
+   "start": 30.45,
+   "end": 34.27,
+   "line": "",
+   "scene": "",
+   "set": "",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.4,
+     "name": "glitch",
+     "gain": -14
+    },
+    {
+     "at": 1.2,
+     "name": "glitch",
+     "gain": -14
+    },
+    {
+     "at": 2,
+     "name": "glitch",
+     "gain": -14
+    },
+    {
+     "at": 2.8,
+     "name": "vineboom",
+     "gain": -8
+    }
+   ]
+  },
+  {
+   "id": "E15",
+   "start": 34.27,
+   "end": 38.69,
+   "line": "",
+   "scene": "",
+   "set": "",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.81,
+     "name": "impact",
+     "gain": -10
+    }
+   ]
+  },
+  {
+   "id": "E16",
+   "start": 38.69,
+   "end": 41.73,
+   "line": "",
+   "scene": "",
+   "set": "",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.05,
+     "name": "phonebuzz",
+     "gain": -12
+    }
+   ]
+  },
+  {
+   "id": "E17",
+   "start": 41.73,
+   "end": 44.89,
+   "line": "",
+   "scene": "",
+   "set": "",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.91,
+     "name": "stinger",
+     "gain": -10
+    }
+   ]
+  },
+  {
+   "id": "E18",
+   "start": 44.89,
+   "end": 46.916,
+   "line": "",
+   "scene": "",
+   "set": "",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.1,
+     "name": "pop",
+     "gain": -12
+    }
+   ]
+  }
+ ],
+ "music": [
+  {
+   "start": 0,
+   "end": 25,
+   "mood": "mystery",
+   "intensity": 0.5
+  },
+  {
+   "start": 25,
+   "end": 46.916,
+   "mood": "tension",
+   "intensity": 0.55
+  }
+ ],
+ "sfx": []
+}

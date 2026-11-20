@@ -1,0 +1,600 @@
+{
+ "source": "whisper:small+script",
+ "words": [
+  {
+   "word": "Would",
+   "start": 0.0,
+   "end": 0.22
+  },
+  {
+   "word": "you",
+   "start": 0.22,
+   "end": 0.36
+  },
+  {
+   "word": "rather",
+   "start": 0.36,
+   "end": 0.6
+  },
+  {
+   "word": "sit",
+   "start": 0.6,
+   "end": 0.92
+  },
+  {
+   "word": "alone",
+   "start": 0.92,
+   "end": 1.22
+  },
+  {
+   "word": "with",
+   "start": 1.22,
+   "end": 1.46
+  },
+  {
+   "word": "your",
+   "start": 1.46,
+   "end": 1.58
+  },
+  {
+   "word": "thoughts",
+   "start": 1.58,
+   "end": 1.94
+  },
+  {
+   "word": "for",
+   "start": 1.94,
+   "end": 2.2
+  },
+  {
+   "word": "fifteen",
+   "start": 2.2,
+   "end": 2.64
+  },
+  {
+   "word": "minutes,",
+   "start": 2.64,
+   "end": 3.04
+  },
+  {
+   "word": "or",
+   "start": 3.46,
+   "end": 3.86
+  },
+  {
+   "word": "give",
+   "start": 3.86,
+   "end": 4.28
+  },
+  {
+   "word": "yourself",
+   "start": 4.28,
+   "end": 4.68
+  },
+  {
+   "word": "an",
+   "start": 4.68,
+   "end": 4.92
+  },
+  {
+   "word": "electric",
+   "start": 4.92,
+   "end": 5.3
+  },
+  {
+   "word": "shock?",
+   "start": 5.3,
+   "end": 5.8
+  },
+  {
+   "word": "Easy,",
+   "start": 6.46,
+   "end": 6.76
+  },
+  {
+   "word": "right?",
+   "start": 6.92,
+   "end": 7.08
+  },
+  {
+   "word": "In",
+   "start": 7.82,
+   "end": 7.98
+  },
+  {
+   "word": "2014,",
+   "start": 7.98,
+   "end": 8.58
+  },
+  {
+   "word": "psychologists",
+   "start": 9.02,
+   "end": 9.62
+  },
+  {
+   "word": "at",
+   "start": 9.62,
+   "end": 9.98
+  },
+  {
+   "word": "the",
+   "start": 9.98,
+   "end": 10.1
+  },
+  {
+   "word": "University",
+   "start": 10.1,
+   "end": 10.56
+  },
+  {
+   "word": "of",
+   "start": 10.56,
+   "end": 10.82
+  },
+  {
+   "word": "Virginia",
+   "start": 10.82,
+   "end": 11.26
+  },
+  {
+   "word": "asked",
+   "start": 11.26,
+   "end": 11.78
+  },
+  {
+   "word": "people",
+   "start": 11.78,
+   "end": 12.12
+  },
+  {
+   "word": "to",
+   "start": 12.12,
+   "end": 12.34
+  },
+  {
+   "word": "do",
+   "start": 12.34,
+   "end": 12.52
+  },
+  {
+   "word": "exactly",
+   "start": 12.52,
+   "end": 13.1
+  },
+  {
+   "word": "that.",
+   "start": 13.1,
+   "end": 13.56
+  },
+  {
+   "word": "No",
+   "start": 14.2,
+   "end": 14.4
+  },
+  {
+   "word": "phone.",
+   "start": 14.4,
+   "end": 14.78
+  },
+  {
+   "word": "No",
+   "start": 15.12,
+   "end": 15.34
+  },
+  {
+   "word": "book.",
+   "start": 15.34,
+   "end": 15.68
+  },
+  {
+   "word": "Just",
+   "start": 16.1,
+   "end": 16.28
+  },
+  {
+   "word": "a",
+   "start": 16.28,
+   "end": 16.46
+  },
+  {
+   "word": "plain",
+   "start": 16.46,
+   "end": 16.7
+  },
+  {
+   "word": "room,",
+   "start": 16.7,
+   "end": 17.1
+  },
+  {
+   "word": "and",
+   "start": 17.1,
+   "end": 17.5
+  },
+  {
+   "word": "a",
+   "start": 17.5,
+   "end": 17.64
+  },
+  {
+   "word": "button",
+   "start": 17.64,
+   "end": 17.94
+  },
+  {
+   "word": "that",
+   "start": 17.94,
+   "end": 18.18
+  },
+  {
+   "word": "gave",
+   "start": 18.18,
+   "end": 18.34
+  },
+  {
+   "word": "a",
+   "start": 18.34,
+   "end": 18.48
+  },
+  {
+   "word": "painful",
+   "start": 18.48,
+   "end": 18.9
+  },
+  {
+   "word": "shock.",
+   "start": 18.9,
+   "end": 19.44
+  },
+  {
+   "word": "These",
+   "start": 20.24,
+   "end": 20.58
+  },
+  {
+   "word": "people",
+   "start": 20.58,
+   "end": 20.88
+  },
+  {
+   "word": "had",
+   "start": 20.88,
+   "end": 21.08
+  },
+  {
+   "word": "already",
+   "start": 21.08,
+   "end": 21.54
+  },
+  {
+   "word": "felt",
+   "start": 21.54,
+   "end": 21.82
+  },
+  {
+   "word": "the",
+   "start": 21.82,
+   "end": 22.04
+  },
+  {
+   "word": "shock,",
+   "start": 22.04,
+   "end": 22.36
+  },
+  {
+   "word": "and",
+   "start": 22.36,
+   "end": 22.72
+  },
+  {
+   "word": "said",
+   "start": 22.72,
+   "end": 22.94
+  },
+  {
+   "word": "they'd",
+   "start": 22.94,
+   "end": 23.18
+  },
+  {
+   "word": "pay",
+   "start": 23.18,
+   "end": 23.38
+  },
+  {
+   "word": "money",
+   "start": 23.38,
+   "end": 23.82
+  },
+  {
+   "word": "to",
+   "start": 23.82,
+   "end": 24.04
+  },
+  {
+   "word": "avoid",
+   "start": 24.04,
+   "end": 24.36
+  },
+  {
+   "word": "it.",
+   "start": 24.36,
+   "end": 24.56
+  },
+  {
+   "word": "And",
+   "start": 25.14,
+   "end": 25.28
+  },
+  {
+   "word": "yet,",
+   "start": 25.28,
+   "end": 25.5
+  },
+  {
+   "word": "two",
+   "start": 25.9,
+   "end": 26.18
+  },
+  {
+   "word": "thirds",
+   "start": 26.18,
+   "end": 26.52
+  },
+  {
+   "word": "of",
+   "start": 26.52,
+   "end": 26.78
+  },
+  {
+   "word": "the",
+   "start": 26.78,
+   "end": 26.88
+  },
+  {
+   "word": "men",
+   "start": 26.88,
+   "end": 27.1
+  },
+  {
+   "word": "pressed",
+   "start": 27.1,
+   "end": 27.5
+  },
+  {
+   "word": "it.",
+   "start": 27.5,
+   "end": 27.68
+  },
+  {
+   "word": "A",
+   "start": 27.68,
+   "end": 28.4
+  },
+  {
+   "word": "quarter",
+   "start": 28.4,
+   "end": 28.72
+  },
+  {
+   "word": "of",
+   "start": 28.72,
+   "end": 28.94
+  },
+  {
+   "word": "the",
+   "start": 28.94,
+   "end": 29.04
+  },
+  {
+   "word": "women",
+   "start": 29.04,
+   "end": 29.3
+  },
+  {
+   "word": "did",
+   "start": 29.3,
+   "end": 29.56
+  },
+  {
+   "word": "too.",
+   "start": 29.56,
+   "end": 29.86
+  },
+  {
+   "word": "One",
+   "start": 30.6,
+   "end": 30.9
+  },
+  {
+   "word": "man",
+   "start": 30.9,
+   "end": 31.14
+  },
+  {
+   "word": "pressed",
+   "start": 31.14,
+   "end": 31.5
+  },
+  {
+   "word": "it",
+   "start": 31.5,
+   "end": 31.68
+  },
+  {
+   "word": "one",
+   "start": 31.68,
+   "end": 31.875
+  },
+  {
+   "word": "hundred",
+   "start": 31.875,
+   "end": 32.07
+  },
+  {
+   "word": "and",
+   "start": 32.07,
+   "end": 32.265
+  },
+  {
+   "word": "ninety",
+   "start": 32.265,
+   "end": 32.46
+  },
+  {
+   "word": "times.",
+   "start": 32.46,
+   "end": 33.62
+  },
+  {
+   "word": "They",
+   "start": 34.42,
+   "end": 34.68
+  },
+  {
+   "word": "chose",
+   "start": 34.68,
+   "end": 35.08
+  },
+  {
+   "word": "pain,",
+   "start": 35.08,
+   "end": 35.56
+  },
+  {
+   "word": "just",
+   "start": 35.56,
+   "end": 36.22
+  },
+  {
+   "word": "to",
+   "start": 36.22,
+   "end": 36.44
+  },
+  {
+   "word": "escape",
+   "start": 36.44,
+   "end": 36.84
+  },
+  {
+   "word": "their",
+   "start": 36.84,
+   "end": 37.08
+  },
+  {
+   "word": "own",
+   "start": 37.08,
+   "end": 37.36
+  },
+  {
+   "word": "minds.",
+   "start": 37.36,
+   "end": 37.84
+  },
+  {
+   "word": "So",
+   "start": 38.84,
+   "end": 39.04
+  },
+  {
+   "word": "next",
+   "start": 39.04,
+   "end": 39.36
+  },
+  {
+   "word": "time",
+   "start": 39.36,
+   "end": 39.64
+  },
+  {
+   "word": "you",
+   "start": 39.64,
+   "end": 39.74
+  },
+  {
+   "word": "reach",
+   "start": 39.74,
+   "end": 39.98
+  },
+  {
+   "word": "for",
+   "start": 39.98,
+   "end": 40.16
+  },
+  {
+   "word": "your",
+   "start": 40.16,
+   "end": 40.28
+  },
+  {
+   "word": "phone",
+   "start": 40.28,
+   "end": 40.6
+  },
+  {
+   "word": "for",
+   "start": 40.6,
+   "end": 40.82
+  },
+  {
+   "word": "no",
+   "start": 40.82,
+   "end": 41.02
+  },
+  {
+   "word": "reason,",
+   "start": 41.02,
+   "end": 41.4
+  },
+  {
+   "word": "ask",
+   "start": 41.88,
+   "end": 42.12
+  },
+  {
+   "word": "yourself:",
+   "start": 42.12,
+   "end": 42.44
+  },
+  {
+   "word": "what",
+   "start": 43.22,
+   "end": 43.38
+  },
+  {
+   "word": "am",
+   "start": 43.38,
+   "end": 43.5
+  },
+  {
+   "word": "I",
+   "start": 43.5,
+   "end": 43.64
+  },
+  {
+   "word": "escaping?",
+   "start": 43.64,
+   "end": 44.06
+  },
+  {
+   "word": "Follow",
+   "start": 45.04,
+   "end": 45.44
+  },
+  {
+   "word": "for",
+   "start": 45.44,
+   "end": 45.76
+  },
+  {
+   "word": "more",
+   "start": 45.76,
+   "end": 45.94
+  },
+  {
+   "word": "psychology.",
+   "start": 45.94,
+   "end": 46.36
+  }
+ ]
+}
