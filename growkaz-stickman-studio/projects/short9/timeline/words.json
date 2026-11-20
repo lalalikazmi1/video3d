@@ -1,0 +1,595 @@
+{
+ "source": "whisper:small+script",
+ "words": [
+  {
+   "word": "Your",
+   "start": 0.0,
+   "end": 0.22
+  },
+  {
+   "word": "attention",
+   "start": 0.22,
+   "end": 0.56
+  },
+  {
+   "word": "span",
+   "start": 0.56,
+   "end": 0.98
+  },
+  {
+   "word": "is",
+   "start": 0.98,
+   "end": 1.38
+  },
+  {
+   "word": "forty-seven",
+   "start": 1.38,
+   "end": 2.12
+  },
+  {
+   "word": "seconds.",
+   "start": 2.12,
+   "end": 2.66
+  },
+  {
+   "word": "And",
+   "start": 3.1,
+   "end": 3.52
+  },
+  {
+   "word": "it",
+   "start": 3.52,
+   "end": 3.64
+  },
+  {
+   "word": "used",
+   "start": 3.64,
+   "end": 3.86
+  },
+  {
+   "word": "to",
+   "start": 3.86,
+   "end": 4.02
+  },
+  {
+   "word": "be",
+   "start": 4.02,
+   "end": 4.16
+  },
+  {
+   "word": "a",
+   "start": 4.16,
+   "end": 4.26
+  },
+  {
+   "word": "lot",
+   "start": 4.26,
+   "end": 4.56
+  },
+  {
+   "word": "longer.",
+   "start": 4.56,
+   "end": 4.98
+  },
+  {
+   "word": "Psychologist",
+   "start": 5.8,
+   "end": 6.46
+  },
+  {
+   "word": "Gloria",
+   "start": 6.46,
+   "end": 6.94
+  },
+  {
+   "word": "Mark",
+   "start": 6.94,
+   "end": 7.3
+  },
+  {
+   "word": "has",
+   "start": 7.3,
+   "end": 7.66
+  },
+  {
+   "word": "spent",
+   "start": 7.66,
+   "end": 7.9
+  },
+  {
+   "word": "twenty",
+   "start": 7.9,
+   "end": 8.36
+  },
+  {
+   "word": "years",
+   "start": 8.36,
+   "end": 8.86
+  },
+  {
+   "word": "tracking",
+   "start": 8.86,
+   "end": 9.26
+  },
+  {
+   "word": "how",
+   "start": 9.26,
+   "end": 9.54
+  },
+  {
+   "word": "people",
+   "start": 9.54,
+   "end": 9.82
+  },
+  {
+   "word": "focus",
+   "start": 9.82,
+   "end": 10.2
+  },
+  {
+   "word": "on",
+   "start": 10.2,
+   "end": 10.48
+  },
+  {
+   "word": "their",
+   "start": 10.48,
+   "end": 10.64
+  },
+  {
+   "word": "screens.",
+   "start": 10.64,
+   "end": 11.02
+  },
+  {
+   "word": "In",
+   "start": 11.84,
+   "end": 12.02
+  },
+  {
+   "word": "2004,",
+   "start": 12.02,
+   "end": 12.8
+  },
+  {
+   "word": "people",
+   "start": 13.2,
+   "end": 13.42
+  },
+  {
+   "word": "stayed",
+   "start": 13.42,
+   "end": 13.7
+  },
+  {
+   "word": "on",
+   "start": 13.7,
+   "end": 13.92
+  },
+  {
+   "word": "one",
+   "start": 13.92,
+   "end": 14.2
+  },
+  {
+   "word": "screen",
+   "start": 14.2,
+   "end": 14.6
+  },
+  {
+   "word": "for",
+   "start": 14.6,
+   "end": 14.84
+  },
+  {
+   "word": "about",
+   "start": 14.84,
+   "end": 15.1
+  },
+  {
+   "word": "two",
+   "start": 15.1,
+   "end": 15.4
+  },
+  {
+   "word": "and",
+   "start": 15.4,
+   "end": 15.54
+  },
+  {
+   "word": "a",
+   "start": 15.54,
+   "end": 15.62
+  },
+  {
+   "word": "half",
+   "start": 15.62,
+   "end": 15.86
+  },
+  {
+   "word": "minutes",
+   "start": 15.86,
+   "end": 16.22
+  },
+  {
+   "word": "before",
+   "start": 16.22,
+   "end": 16.56
+  },
+  {
+   "word": "switching.",
+   "start": 16.56,
+   "end": 16.98
+  },
+  {
+   "word": "By",
+   "start": 17.74,
+   "end": 17.9
+  },
+  {
+   "word": "2012,",
+   "start": 17.9,
+   "end": 18.38
+  },
+  {
+   "word": "it",
+   "start": 18.92,
+   "end": 19.08
+  },
+  {
+   "word": "was",
+   "start": 19.08,
+   "end": 19.24
+  },
+  {
+   "word": "seventy-five",
+   "start": 19.24,
+   "end": 19.84
+  },
+  {
+   "word": "seconds.",
+   "start": 19.84,
+   "end": 20.42
+  },
+  {
+   "word": "Now?",
+   "start": 21.24,
+   "end": 21.52
+  },
+  {
+   "word": "Forty-seven",
+   "start": 21.52,
+   "end": 22.76
+  },
+  {
+   "word": "seconds.",
+   "start": 22.76,
+   "end": 23.36
+  },
+  {
+   "word": "But",
+   "start": 24.04,
+   "end": 24.34
+  },
+  {
+   "word": "here's",
+   "start": 24.34,
+   "end": 24.62
+  },
+  {
+   "word": "the",
+   "start": 24.62,
+   "end": 24.74
+  },
+  {
+   "word": "strange",
+   "start": 24.74,
+   "end": 25.08
+  },
+  {
+   "word": "part.",
+   "start": 25.08,
+   "end": 25.38
+  },
+  {
+   "word": "Nobody",
+   "start": 25.9,
+   "end": 26.3
+  },
+  {
+   "word": "was",
+   "start": 26.3,
+   "end": 26.64
+  },
+  {
+   "word": "making",
+   "start": 26.64,
+   "end": 27.02
+  },
+  {
+   "word": "them",
+   "start": 27.02,
+   "end": 27.28
+  },
+  {
+   "word": "switch.",
+   "start": 27.28,
+   "end": 27.6
+  },
+  {
+   "word": "No",
+   "start": 28.08,
+   "end": 28.4
+  },
+  {
+   "word": "ping.",
+   "start": 28.4,
+   "end": 28.72
+  },
+  {
+   "word": "No",
+   "start": 29.2,
+   "end": 29.3
+  },
+  {
+   "word": "message.",
+   "start": 29.3,
+   "end": 29.7
+  },
+  {
+   "word": "People",
+   "start": 30.36,
+   "end": 30.64
+  },
+  {
+   "word": "interrupted",
+   "start": 30.64,
+   "end": 31.2
+  },
+  {
+   "word": "themselves",
+   "start": 31.2,
+   "end": 31.72
+  },
+  {
+   "word": "almost",
+   "start": 31.72,
+   "end": 32.44
+  },
+  {
+   "word": "as",
+   "start": 32.44,
+   "end": 32.72
+  },
+  {
+   "word": "often",
+   "start": 32.72,
+   "end": 33.02
+  },
+  {
+   "word": "as",
+   "start": 33.02,
+   "end": 33.18
+  },
+  {
+   "word": "they",
+   "start": 33.18,
+   "end": 33.3
+  },
+  {
+   "word": "were",
+   "start": 33.3,
+   "end": 33.44
+  },
+  {
+   "word": "interrupted",
+   "start": 33.44,
+   "end": 33.96
+  },
+  {
+   "word": "by",
+   "start": 33.96,
+   "end": 34.2
+  },
+  {
+   "word": "others.",
+   "start": 34.2,
+   "end": 34.52
+  },
+  {
+   "word": "Just",
+   "start": 35.06,
+   "end": 35.4
+  },
+  {
+   "word": "a",
+   "start": 35.4,
+   "end": 35.6
+  },
+  {
+   "word": "sudden",
+   "start": 35.6,
+   "end": 35.96
+  },
+  {
+   "word": "urge",
+   "start": 35.96,
+   "end": 36.36
+  },
+  {
+   "word": "to",
+   "start": 36.36,
+   "end": 36.62
+  },
+  {
+   "word": "check",
+   "start": 36.62,
+   "end": 36.84
+  },
+  {
+   "word": "something.",
+   "start": 36.84,
+   "end": 37.2
+  },
+  {
+   "word": "Your",
+   "start": 37.98,
+   "end": 38.12
+  },
+  {
+   "word": "brain",
+   "start": 38.12,
+   "end": 38.48
+  },
+  {
+   "word": "has",
+   "start": 38.48,
+   "end": 38.76
+  },
+  {
+   "word": "learned",
+   "start": 38.76,
+   "end": 39.12
+  },
+  {
+   "word": "to",
+   "start": 39.12,
+   "end": 39.36
+  },
+  {
+   "word": "switch,",
+   "start": 39.36,
+   "end": 39.64
+  },
+  {
+   "word": "and",
+   "start": 40.14,
+   "end": 40.26
+  },
+  {
+   "word": "now",
+   "start": 40.26,
+   "end": 40.52
+  },
+  {
+   "word": "it",
+   "start": 40.52,
+   "end": 40.88
+  },
+  {
+   "word": "does",
+   "start": 40.88,
+   "end": 41.08
+  },
+  {
+   "word": "it",
+   "start": 41.08,
+   "end": 41.24
+  },
+  {
+   "word": "on",
+   "start": 41.24,
+   "end": 41.34
+  },
+  {
+   "word": "its",
+   "start": 41.34,
+   "end": 41.48
+  },
+  {
+   "word": "own.",
+   "start": 41.48,
+   "end": 41.7
+  },
+  {
+   "word": "So",
+   "start": 42.34,
+   "end": 42.5
+  },
+  {
+   "word": "next",
+   "start": 42.5,
+   "end": 42.7
+  },
+  {
+   "word": "time",
+   "start": 42.7,
+   "end": 42.98
+  },
+  {
+   "word": "you",
+   "start": 42.98,
+   "end": 43.12
+  },
+  {
+   "word": "feel",
+   "start": 43.12,
+   "end": 43.4
+  },
+  {
+   "word": "that",
+   "start": 43.4,
+   "end": 43.6
+  },
+  {
+   "word": "itch",
+   "start": 43.6,
+   "end": 44.02
+  },
+  {
+   "word": "to",
+   "start": 44.02,
+   "end": 44.14
+  },
+  {
+   "word": "check,",
+   "start": 44.14,
+   "end": 44.44
+  },
+  {
+   "word": "wait.",
+   "start": 44.98,
+   "end": 45.34
+  },
+  {
+   "word": "Just",
+   "start": 45.86,
+   "end": 46.1
+  },
+  {
+   "word": "forty-seven",
+   "start": 46.1,
+   "end": 46.88
+  },
+  {
+   "word": "seconds",
+   "start": 46.88,
+   "end": 47.28
+  },
+  {
+   "word": "more.",
+   "start": 47.28,
+   "end": 47.72
+  },
+  {
+   "word": "Follow",
+   "start": 48.3,
+   "end": 48.7
+  },
+  {
+   "word": "for",
+   "start": 48.7,
+   "end": 49.04
+  },
+  {
+   "word": "more",
+   "start": 49.04,
+   "end": 49.22
+  },
+  {
+   "word": "psychology.",
+   "start": 49.22,
+   "end": 49.66
+  }
+ ]
+}
