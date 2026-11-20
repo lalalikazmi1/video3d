@@ -266,3 +266,28 @@ registerShot('U', { draw(g) {
   bigText(g, 'SATURDAY', E.W * 0.25, E.H * 0.14, 120, '#fff4d6', { align: 'center' });
   bigText(g, 'SUNDAY 6PM', E.W * 0.75, E.H * 0.14, 120, ui.accent, { align: 'center' });
 } }));
+
+// ---- Lock-in video ----
+// W — huge "47 SECONDS", shocked face lit by a phone
+registerShot('W', { draw(g) {
+  const ui = S().ui; g.fillStyle = radGrad(g, E.W * 0.7, E.H * 0.5, 0, 1100, ['#3a1418', '#140a0e', '#050305']); g.fillRect(0, 0, E.W, E.H);
+  glow(g, E.W * 0.68, E.H * 0.45, 520, ui.accent, 0.4);
+  text(g, '47', E.W * 0.68, E.H * 0.62, { size: 560, color: ui.accent, font: FONTS.title, weight: 700, stroke: 18, strokeColor: '#0a0508' });
+  bigText(g, 'SECONDS', E.W * 0.68, E.H * 0.86, 130, '#fff4d6', { align: 'center' });
+  phoneT(g, E.W * 0.36, E.H * 0.62, 190, 340, -0.25); feedT(g, E.W * 0.36, E.H * 0.62, 170, 300, -0.25);
+  bigFace(g, E.W * 0.17, E.H * 0.86, 290, { outfit: YOU, expr: 'shocked', look: [1, -0.2], rimColor: '#9fd8ff', rimSide: 1 });
+  bigText(g, 'YOUR ATTENTION SPAN', E.W / 2, E.H * 0.12, 120, '#fff4d6', { align: 'center' });
+} });
+// X — laptop drowning in tabs, phone buzzing, sleepy face: WHY YOU CAN'T LOCK IN
+registerShot('X', { draw(g) {
+  const ui = S().ui; g.fillStyle = radGrad(g, E.W * 0.6, E.H * 0.55, 0, 1100, ['#24141c', '#100810', '#040305']); g.fillRect(0, 0, E.W, E.H);
+  g.save(); g.translate(E.W * 0.64, E.H * 0.82); glow(g, 0, -220, 500, '#9fd8ff', 0.35);
+  rr(g, -420, -520, 840, 520, 24); g.fillStyle = '#2a2a32'; g.fill(); rr(g, -395, -495, 790, 470, 10); g.fillStyle = '#f4efe6'; g.fill();
+  for (let i = 0; i < 12; i++) { rr(g, -390 + i * 65, -490, 60, 50, 8); g.fillStyle = ['#d6a03a', '#3a8fd6', '#c84a3a', '#3a9e5a', '#8a5ad6'][i % 5]; g.fill(); }
+  text(g, 'ESSAY.docx', -150, -360, { size: 54, color: '#2a1e18', font: FONTS.ui, weight: 900 }); rr(g, -360, -320, 90, 14, 6); g.fillStyle = '#2a1e18'; g.fill();
+  poly(g, [[-470, 0], [470, 0], [510, 40], [-510, 40]], '#3a3a44'); g.restore();
+  for (const [x, y, n] of [[0.86, 0.3, 9], [0.42, 0.28, 3]]) { circle(g, E.W * x, E.H * y, 54, '#d63a2a'); text(g, String(n), E.W * x, E.H * y + 20, { size: 60, color: '#fff', font: FONTS.ui, weight: 900 }); }
+  bigFace(g, E.W * 0.17, E.H * 0.86, 300, { outfit: YOU, expr: 'sleepy', look: [1, 0], rimColor: ui.gold, rimSide: 1 });
+  bigText(g, 'WHY YOU CAN’T', E.W / 2, E.H * 0.1, 110, '#fff4d6', { align: 'center' });
+  bigText(g, 'LOCK IN', E.W * 0.19, E.H * 0.36, 175, ui.accent, { align: 'center' });
+} });
