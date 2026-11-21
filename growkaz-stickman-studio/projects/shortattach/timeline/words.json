@@ -1,0 +1,655 @@
+{
+ "source": "whisper:small+script",
+ "words": [
+  {
+   "word": "You",
+   "start": 0.0,
+   "end": 0.14
+  },
+  {
+   "word": "talked",
+   "start": 0.14,
+   "end": 0.4
+  },
+  {
+   "word": "for",
+   "start": 0.4,
+   "end": 0.64
+  },
+  {
+   "word": "three",
+   "start": 0.64,
+   "end": 1.08
+  },
+  {
+   "word": "days,",
+   "start": 1.08,
+   "end": 1.52
+  },
+  {
+   "word": "and",
+   "start": 1.52,
+   "end": 2.08
+  },
+  {
+   "word": "you're",
+   "start": 2.08,
+   "end": 2.26
+  },
+  {
+   "word": "already",
+   "start": 2.26,
+   "end": 2.76
+  },
+  {
+   "word": "imagining",
+   "start": 2.76,
+   "end": 3.26
+  },
+  {
+   "word": "a",
+   "start": 3.26,
+   "end": 3.48
+  },
+  {
+   "word": "future",
+   "start": 3.48,
+   "end": 3.74
+  },
+  {
+   "word": "together.",
+   "start": 3.74,
+   "end": 4.16
+  },
+  {
+   "word": "Why",
+   "start": 4.7,
+   "end": 5.06
+  },
+  {
+   "word": "does",
+   "start": 5.06,
+   "end": 5.24
+  },
+  {
+   "word": "your",
+   "start": 5.24,
+   "end": 5.38
+  },
+  {
+   "word": "brain",
+   "start": 5.38,
+   "end": 5.64
+  },
+  {
+   "word": "attach",
+   "start": 5.64,
+   "end": 6.02
+  },
+  {
+   "word": "so",
+   "start": 6.02,
+   "end": 6.36
+  },
+  {
+   "word": "fast?",
+   "start": 6.36,
+   "end": 6.82
+  },
+  {
+   "word": "In",
+   "start": 7.8,
+   "end": 7.98
+  },
+  {
+   "word": "1997,",
+   "start": 7.98,
+   "end": 8.78
+  },
+  {
+   "word": "psychologist",
+   "start": 9.28,
+   "end": 9.9
+  },
+  {
+   "word": "Arthur",
+   "start": 9.9,
+   "end": 10.4
+  },
+  {
+   "word": "Aron",
+   "start": 10.4,
+   "end": 10.84
+  },
+  {
+   "word": "paired",
+   "start": 10.84,
+   "end": 11.24
+  },
+  {
+   "word": "up",
+   "start": 11.24,
+   "end": 11.44
+  },
+  {
+   "word": "complete",
+   "start": 11.44,
+   "end": 11.96
+  },
+  {
+   "word": "strangers.",
+   "start": 11.96,
+   "end": 12.46
+  },
+  {
+   "word": "For",
+   "start": 13.24,
+   "end": 13.5
+  },
+  {
+   "word": "forty-five",
+   "start": 13.5,
+   "end": 13.94
+  },
+  {
+   "word": "minutes,",
+   "start": 13.94,
+   "end": 14.42
+  },
+  {
+   "word": "they",
+   "start": 14.7,
+   "end": 14.82
+  },
+  {
+   "word": "asked",
+   "start": 14.82,
+   "end": 15.16
+  },
+  {
+   "word": "each",
+   "start": 15.16,
+   "end": 15.36
+  },
+  {
+   "word": "other",
+   "start": 15.36,
+   "end": 15.58
+  },
+  {
+   "word": "a",
+   "start": 15.58,
+   "end": 15.8
+  },
+  {
+   "word": "list",
+   "start": 15.8,
+   "end": 16.0
+  },
+  {
+   "word": "of",
+   "start": 16.0,
+   "end": 16.22
+  },
+  {
+   "word": "thirty-six",
+   "start": 16.22,
+   "end": 16.7
+  },
+  {
+   "word": "questions.",
+   "start": 16.7,
+   "end": 17.3
+  },
+  {
+   "word": "They",
+   "start": 18.1,
+   "end": 18.26
+  },
+  {
+   "word": "started",
+   "start": 18.26,
+   "end": 18.52
+  },
+  {
+   "word": "small.",
+   "start": 18.52,
+   "end": 18.96
+  },
+  {
+   "word": "\"Would",
+   "start": 19.6,
+   "end": 19.72
+  },
+  {
+   "word": "you",
+   "start": 19.72,
+   "end": 19.82
+  },
+  {
+   "word": "like",
+   "start": 19.82,
+   "end": 19.98
+  },
+  {
+   "word": "to",
+   "start": 19.98,
+   "end": 20.1
+  },
+  {
+   "word": "be",
+   "start": 20.1,
+   "end": 20.22
+  },
+  {
+   "word": "famous?\"",
+   "start": 20.22,
+   "end": 20.5
+  },
+  {
+   "word": "And",
+   "start": 21.12,
+   "end": 21.38
+  },
+  {
+   "word": "got",
+   "start": 21.38,
+   "end": 21.56
+  },
+  {
+   "word": "deeper.",
+   "start": 21.56,
+   "end": 21.92
+  },
+  {
+   "word": "\"What",
+   "start": 22.7,
+   "end": 22.88
+  },
+  {
+   "word": "is",
+   "start": 22.88,
+   "end": 23.04
+  },
+  {
+   "word": "your",
+   "start": 23.04,
+   "end": 23.18
+  },
+  {
+   "word": "most",
+   "start": 23.18,
+   "end": 23.44
+  },
+  {
+   "word": "treasured",
+   "start": 23.44,
+   "end": 24.2
+  },
+  {
+   "word": "memory?\"",
+   "start": 24.2,
+   "end": 24.46
+  },
+  {
+   "word": "By",
+   "start": 25.14,
+   "end": 25.4
+  },
+  {
+   "word": "the",
+   "start": 25.4,
+   "end": 25.5
+  },
+  {
+   "word": "end,",
+   "start": 25.5,
+   "end": 25.84
+  },
+  {
+   "word": "many",
+   "start": 26.14,
+   "end": 26.36
+  },
+  {
+   "word": "pairs",
+   "start": 26.36,
+   "end": 26.68
+  },
+  {
+   "word": "felt",
+   "start": 26.68,
+   "end": 27.0
+  },
+  {
+   "word": "closer",
+   "start": 27.0,
+   "end": 27.48
+  },
+  {
+   "word": "to",
+   "start": 27.48,
+   "end": 27.66
+  },
+  {
+   "word": "each",
+   "start": 27.66,
+   "end": 27.84
+  },
+  {
+   "word": "other",
+   "start": 27.84,
+   "end": 28.1
+  },
+  {
+   "word": "than",
+   "start": 28.1,
+   "end": 28.28
+  },
+  {
+   "word": "to",
+   "start": 28.28,
+   "end": 28.42
+  },
+  {
+   "word": "some",
+   "start": 28.42,
+   "end": 28.64
+  },
+  {
+   "word": "of",
+   "start": 28.64,
+   "end": 28.74
+  },
+  {
+   "word": "the",
+   "start": 28.74,
+   "end": 28.86
+  },
+  {
+   "word": "people",
+   "start": 28.86,
+   "end": 29.14
+  },
+  {
+   "word": "in",
+   "start": 29.14,
+   "end": 29.36
+  },
+  {
+   "word": "their",
+   "start": 29.36,
+   "end": 29.5
+  },
+  {
+   "word": "own",
+   "start": 29.5,
+   "end": 29.78
+  },
+  {
+   "word": "lives.",
+   "start": 29.78,
+   "end": 30.26
+  },
+  {
+   "word": "One",
+   "start": 30.98,
+   "end": 31.18
+  },
+  {
+   "word": "pair",
+   "start": 31.18,
+   "end": 31.44
+  },
+  {
+   "word": "later",
+   "start": 31.44,
+   "end": 31.7
+  },
+  {
+   "word": "got",
+   "start": 31.7,
+   "end": 31.96
+  },
+  {
+   "word": "married.",
+   "start": 31.96,
+   "end": 32.34
+  },
+  {
+   "word": "The",
+   "start": 33.12,
+   "end": 33.26
+  },
+  {
+   "word": "secret",
+   "start": 33.26,
+   "end": 33.6
+  },
+  {
+   "word": "wasn't",
+   "start": 33.6,
+   "end": 34.14
+  },
+  {
+   "word": "time.",
+   "start": 34.14,
+   "end": 34.48
+  },
+  {
+   "word": "It",
+   "start": 35.02,
+   "end": 35.12
+  },
+  {
+   "word": "was",
+   "start": 35.12,
+   "end": 35.3
+  },
+  {
+   "word": "opening",
+   "start": 35.3,
+   "end": 35.68
+  },
+  {
+   "word": "up,",
+   "start": 35.68,
+   "end": 36.04
+  },
+  {
+   "word": "back",
+   "start": 36.44,
+   "end": 36.6
+  },
+  {
+   "word": "and",
+   "start": 36.6,
+   "end": 36.78
+  },
+  {
+   "word": "forth,",
+   "start": 36.78,
+   "end": 37.1
+  },
+  {
+   "word": "a",
+   "start": 37.48,
+   "end": 37.56
+  },
+  {
+   "word": "little",
+   "start": 37.56,
+   "end": 37.76
+  },
+  {
+   "word": "more",
+   "start": 37.76,
+   "end": 38.12
+  },
+  {
+   "word": "each",
+   "start": 38.12,
+   "end": 38.42
+  },
+  {
+   "word": "round.",
+   "start": 38.42,
+   "end": 38.74
+  },
+  {
+   "word": "That's",
+   "start": 39.54,
+   "end": 39.84
+  },
+  {
+   "word": "why",
+   "start": 39.84,
+   "end": 40.04
+  },
+  {
+   "word": "a",
+   "start": 40.04,
+   "end": 40.26
+  },
+  {
+   "word": "few",
+   "start": 40.26,
+   "end": 40.52
+  },
+  {
+   "word": "deep",
+   "start": 40.52,
+   "end": 40.84
+  },
+  {
+   "word": "conversations",
+   "start": 40.84,
+   "end": 41.52
+  },
+  {
+   "word": "can",
+   "start": 41.52,
+   "end": 41.98
+  },
+  {
+   "word": "feel",
+   "start": 41.98,
+   "end": 42.3
+  },
+  {
+   "word": "like",
+   "start": 42.3,
+   "end": 42.56
+  },
+  {
+   "word": "months.",
+   "start": 42.56,
+   "end": 43.0
+  },
+  {
+   "word": "But",
+   "start": 43.82,
+   "end": 44.0
+  },
+  {
+   "word": "feeling",
+   "start": 44.0,
+   "end": 44.28
+  },
+  {
+   "word": "close",
+   "start": 44.28,
+   "end": 44.76
+  },
+  {
+   "word": "isn't",
+   "start": 44.76,
+   "end": 45.26
+  },
+  {
+   "word": "the",
+   "start": 45.26,
+   "end": 45.38
+  },
+  {
+   "word": "same",
+   "start": 45.38,
+   "end": 45.68
+  },
+  {
+   "word": "as",
+   "start": 45.68,
+   "end": 45.88
+  },
+  {
+   "word": "knowing",
+   "start": 45.88,
+   "end": 46.22
+  },
+  {
+   "word": "someone.",
+   "start": 46.22,
+   "end": 46.7
+  },
+  {
+   "word": "So",
+   "start": 47.34,
+   "end": 47.52
+  },
+  {
+   "word": "enjoy",
+   "start": 47.52,
+   "end": 48.0
+  },
+  {
+   "word": "the",
+   "start": 48.0,
+   "end": 48.22
+  },
+  {
+   "word": "spark.",
+   "start": 48.22,
+   "end": 48.5
+  },
+  {
+   "word": "Just",
+   "start": 49.12,
+   "end": 49.3
+  },
+  {
+   "word": "give",
+   "start": 49.3,
+   "end": 49.6
+  },
+  {
+   "word": "it",
+   "start": 49.6,
+   "end": 49.68
+  },
+  {
+   "word": "time.",
+   "start": 49.68,
+   "end": 50.0
+  },
+  {
+   "word": "Follow",
+   "start": 50.68,
+   "end": 51.02
+  },
+  {
+   "word": "for",
+   "start": 51.02,
+   "end": 51.34
+  },
+  {
+   "word": "more",
+   "start": 51.34,
+   "end": 51.5
+  },
+  {
+   "word": "psychology.",
+   "start": 51.5,
+   "end": 52.0
+  }
+ ]
+}
