@@ -24,3 +24,4 @@ pip install numpy scipy faster-whisper "av<16"
 ## Video preferences
 - Make videos fast-paced so viewers keep paying attention: quicker cuts (aim for a new shot every 2-4 s), more motion and pops. Apply this at the animation stage, without changing the art style or the animation quality.
 - Shorts: standalone 9:16 1080x1920 scripts (~30-45 s), not clips cut from long videos. User's queue: 1 (shocks vs boredom), 4 (nobody noticed), 9 (47 seconds), 10 (clean your room). Finish one fully, then wait for the user to type the next number.
+- Next batch (all as Shorts, in order): 1 overthinking (done), 2 comparing yourself, 3 tired after doing nothing, 4 people pleasers, 5 attached fast, 6 angry at loved ones, 7 time flies, 8 more time (planning fallacy), 9 never admit wrong, 10 behind in life.
