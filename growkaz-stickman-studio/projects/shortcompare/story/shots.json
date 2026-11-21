@@ -1,0 +1,353 @@
+{
+ "title": "Short - Comparison",
+ "duration": 54.439,
+ "shots": [
+  {
+   "id": "E01",
+   "start": 0,
+   "end": 3.65,
+   "line": "",
+   "scene": "",
+   "set": "",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.05,
+     "name": "pop",
+     "gain": -12
+    },
+    {
+     "at": 2.48,
+     "name": "pop",
+     "gain": -12
+    }
+   ]
+  },
+  {
+   "id": "E02",
+   "start": 3.65,
+   "end": 9.39,
+   "line": "",
+   "scene": "",
+   "set": "",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 3.61,
+     "name": "cheer",
+     "gain": -20
+    }
+   ]
+  },
+  {
+   "id": "E03",
+   "start": 9.39,
+   "end": 15.33,
+   "line": "",
+   "scene": "",
+   "set": "",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 4.33,
+     "name": "scratch",
+     "gain": -12
+    }
+   ]
+  },
+  {
+   "id": "E04",
+   "start": 15.33,
+   "end": 16.45,
+   "line": "",
+   "scene": "",
+   "set": "",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.15,
+     "name": "ding",
+     "gain": -10
+    }
+   ]
+  },
+  {
+   "id": "E05",
+   "start": 16.45,
+   "end": 17.49,
+   "line": "",
+   "scene": "",
+   "set": "",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.05,
+     "name": "vineboom",
+     "gain": -8
+    }
+   ]
+  },
+  {
+   "id": "E06",
+   "start": 17.49,
+   "end": 20.47,
+   "line": "",
+   "scene": "",
+   "set": "",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": []
+  },
+  {
+   "id": "E07",
+   "start": 20.47,
+   "end": 23.91,
+   "line": "",
+   "scene": "",
+   "set": "",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 2.39,
+     "name": "scratch",
+     "gain": -12
+    }
+   ]
+  },
+  {
+   "id": "E08",
+   "start": 23.91,
+   "end": 26.85,
+   "line": "",
+   "scene": "",
+   "set": "",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.93,
+     "name": "shimmer",
+     "gain": -12
+    }
+   ]
+  },
+  {
+   "id": "E09",
+   "start": 26.85,
+   "end": 28.09,
+   "line": "",
+   "scene": "",
+   "set": "",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.05,
+     "name": "hit",
+     "gain": -12
+    }
+   ]
+  },
+  {
+   "id": "E10",
+   "start": 28.09,
+   "end": 30.17,
+   "line": "",
+   "scene": "",
+   "set": "",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": []
+  },
+  {
+   "id": "E11",
+   "start": 30.17,
+   "end": 32.83,
+   "line": "",
+   "scene": "",
+   "set": "",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": []
+  },
+  {
+   "id": "E12",
+   "start": 32.83,
+   "end": 35.13,
+   "line": "",
+   "scene": "",
+   "set": "",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": []
+  },
+  {
+   "id": "E13",
+   "start": 35.13,
+   "end": 38.57,
+   "line": "",
+   "scene": "",
+   "set": "",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": []
+  },
+  {
+   "id": "E14",
+   "start": 38.57,
+   "end": 42.07,
+   "line": "",
+   "scene": "",
+   "set": "",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.39,
+     "name": "phonebuzz",
+     "gain": -12
+    }
+   ]
+  },
+  {
+   "id": "E15",
+   "start": 42.07,
+   "end": 44.45,
+   "line": "",
+   "scene": "",
+   "set": "",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.05,
+     "name": "pop",
+     "gain": -14
+    },
+    {
+     "at": 0.3,
+     "name": "pop",
+     "gain": -14
+    },
+    {
+     "at": 0.55,
+     "name": "pop",
+     "gain": -14
+    },
+    {
+     "at": 0.8,
+     "name": "pop",
+     "gain": -14
+    }
+   ]
+  },
+  {
+   "id": "E16",
+   "start": 44.45,
+   "end": 48.91,
+   "line": "",
+   "scene": "",
+   "set": "",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 2.25,
+     "name": "ding",
+     "gain": -10
+    }
+   ]
+  },
+  {
+   "id": "E17",
+   "start": 48.91,
+   "end": 51.65,
+   "line": "",
+   "scene": "",
+   "set": "",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 2.57,
+     "name": "shimmer",
+     "gain": -12
+    }
+   ]
+  },
+  {
+   "id": "E18",
+   "start": 51.65,
+   "end": 54.439,
+   "line": "",
+   "scene": "",
+   "set": "",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.1,
+     "name": "pop",
+     "gain": -12
+    }
+   ]
+  }
+ ],
+ "music": [
+  {
+   "start": 0,
+   "end": 25,
+   "mood": "mystery",
+   "intensity": 0.5
+  },
+  {
+   "start": 25,
+   "end": 54.439,
+   "mood": "tension",
+   "intensity": 0.55
+  }
+ ],
+ "sfx": []
+}

@@ -1,0 +1,615 @@
+{
+ "source": "whisper:small+script",
+ "words": [
+  {
+   "word": "Why",
+   "start": 0.0,
+   "end": 0.24
+  },
+  {
+   "word": "do",
+   "start": 0.24,
+   "end": 0.4
+  },
+  {
+   "word": "bronze",
+   "start": 0.4,
+   "end": 0.78
+  },
+  {
+   "word": "medal",
+   "start": 0.78,
+   "end": 1.12
+  },
+  {
+   "word": "winners",
+   "start": 1.12,
+   "end": 1.56
+  },
+  {
+   "word": "look",
+   "start": 1.56,
+   "end": 1.8
+  },
+  {
+   "word": "happier",
+   "start": 1.8,
+   "end": 2.2
+  },
+  {
+   "word": "than",
+   "start": 2.2,
+   "end": 2.48
+  },
+  {
+   "word": "silver?",
+   "start": 2.48,
+   "end": 2.82
+  },
+  {
+   "word": "In",
+   "start": 3.8,
+   "end": 4.06
+  },
+  {
+   "word": "1995,",
+   "start": 4.06,
+   "end": 4.66
+  },
+  {
+   "word": "psychologists",
+   "start": 5.42,
+   "end": 6.02
+  },
+  {
+   "word": "studied",
+   "start": 6.02,
+   "end": 6.62
+  },
+  {
+   "word": "footage",
+   "start": 6.62,
+   "end": 6.98
+  },
+  {
+   "word": "of",
+   "start": 6.98,
+   "end": 7.26
+  },
+  {
+   "word": "Olympic",
+   "start": 7.26,
+   "end": 7.58
+  },
+  {
+   "word": "athletes",
+   "start": 7.58,
+   "end": 8.1
+  },
+  {
+   "word": "on",
+   "start": 8.1,
+   "end": 8.36
+  },
+  {
+   "word": "the",
+   "start": 8.36,
+   "end": 8.46
+  },
+  {
+   "word": "podium.",
+   "start": 8.46,
+   "end": 8.82
+  },
+  {
+   "word": "The",
+   "start": 9.54,
+   "end": 9.68
+  },
+  {
+   "word": "silver",
+   "start": 9.68,
+   "end": 10.0
+  },
+  {
+   "word": "medallists,",
+   "start": 10.0,
+   "end": 10.94
+  },
+  {
+   "word": "second",
+   "start": 10.94,
+   "end": 11.28
+  },
+  {
+   "word": "best",
+   "start": 11.28,
+   "end": 11.6
+  },
+  {
+   "word": "in",
+   "start": 11.6,
+   "end": 11.88
+  },
+  {
+   "word": "the",
+   "start": 11.88,
+   "end": 11.98
+  },
+  {
+   "word": "entire",
+   "start": 11.98,
+   "end": 12.52
+  },
+  {
+   "word": "world,",
+   "start": 12.52,
+   "end": 13.04
+  },
+  {
+   "word": "looked",
+   "start": 13.44,
+   "end": 13.72
+  },
+  {
+   "word": "less",
+   "start": 13.72,
+   "end": 14.1
+  },
+  {
+   "word": "happy",
+   "start": 14.1,
+   "end": 14.52
+  },
+  {
+   "word": "than",
+   "start": 14.52,
+   "end": 14.72
+  },
+  {
+   "word": "the",
+   "start": 14.72,
+   "end": 14.82
+  },
+  {
+   "word": "people",
+   "start": 14.82,
+   "end": 15.08
+  },
+  {
+   "word": "who",
+   "start": 15.08,
+   "end": 15.26
+  },
+  {
+   "word": "came",
+   "start": 15.26,
+   "end": 15.48
+  },
+  {
+   "word": "third.",
+   "start": 15.48,
+   "end": 15.82
+  },
+  {
+   "word": "Why?",
+   "start": 16.6,
+   "end": 16.9
+  },
+  {
+   "word": "Because",
+   "start": 17.64,
+   "end": 17.96
+  },
+  {
+   "word": "of",
+   "start": 17.96,
+   "end": 18.24
+  },
+  {
+   "word": "who",
+   "start": 18.24,
+   "end": 18.4
+  },
+  {
+   "word": "they",
+   "start": 18.4,
+   "end": 18.56
+  },
+  {
+   "word": "compared",
+   "start": 18.56,
+   "end": 19.04
+  },
+  {
+   "word": "themselves",
+   "start": 19.04,
+   "end": 19.48
+  },
+  {
+   "word": "to.",
+   "start": 19.48,
+   "end": 19.84
+  },
+  {
+   "word": "Silver",
+   "start": 20.62,
+   "end": 20.98
+  },
+  {
+   "word": "thinks:",
+   "start": 20.98,
+   "end": 21.3
+  },
+  {
+   "word": "I",
+   "start": 21.76,
+   "end": 22.0
+  },
+  {
+   "word": "almost",
+   "start": 22.0,
+   "end": 22.52
+  },
+  {
+   "word": "won",
+   "start": 22.52,
+   "end": 22.86
+  },
+  {
+   "word": "gold.",
+   "start": 22.86,
+   "end": 23.28
+  },
+  {
+   "word": "Bronze",
+   "start": 24.06,
+   "end": 24.32
+  },
+  {
+   "word": "thinks:",
+   "start": 24.32,
+   "end": 24.7
+  },
+  {
+   "word": "I",
+   "start": 25.26,
+   "end": 25.4
+  },
+  {
+   "word": "almost",
+   "start": 25.4,
+   "end": 25.62
+  },
+  {
+   "word": "got",
+   "start": 25.62,
+   "end": 25.84
+  },
+  {
+   "word": "nothing.",
+   "start": 25.84,
+   "end": 26.22
+  },
+  {
+   "word": "Same",
+   "start": 27.0,
+   "end": 27.34
+  },
+  {
+   "word": "podium.",
+   "start": 27.34,
+   "end": 27.78
+  },
+  {
+   "word": "Completely",
+   "start": 28.24,
+   "end": 28.78
+  },
+  {
+   "word": "different",
+   "start": 28.78,
+   "end": 29.22
+  },
+  {
+   "word": "feeling.",
+   "start": 29.22,
+   "end": 29.58
+  },
+  {
+   "word": "And",
+   "start": 30.32,
+   "end": 30.52
+  },
+  {
+   "word": "you",
+   "start": 30.52,
+   "end": 30.72
+  },
+  {
+   "word": "do",
+   "start": 30.72,
+   "end": 30.88
+  },
+  {
+   "word": "this",
+   "start": 30.88,
+   "end": 31.18
+  },
+  {
+   "word": "every",
+   "start": 31.18,
+   "end": 31.68
+  },
+  {
+   "word": "day.",
+   "start": 31.68,
+   "end": 32.04
+  },
+  {
+   "word": "Psychologist",
+   "start": 32.98,
+   "end": 33.66
+  },
+  {
+   "word": "Leon",
+   "start": 33.66,
+   "end": 34.02
+  },
+  {
+   "word": "Festinger",
+   "start": 34.02,
+   "end": 34.56
+  },
+  {
+   "word": "said",
+   "start": 34.56,
+   "end": 34.94
+  },
+  {
+   "word": "we",
+   "start": 35.28,
+   "end": 35.28
+  },
+  {
+   "word": "judge",
+   "start": 35.28,
+   "end": 35.58
+  },
+  {
+   "word": "ourselves",
+   "start": 35.58,
+   "end": 36.14
+  },
+  {
+   "word": "by",
+   "start": 36.14,
+   "end": 36.4
+  },
+  {
+   "word": "comparing",
+   "start": 36.4,
+   "end": 36.88
+  },
+  {
+   "word": "ourselves",
+   "start": 36.88,
+   "end": 37.3
+  },
+  {
+   "word": "to",
+   "start": 37.3,
+   "end": 37.68
+  },
+  {
+   "word": "others.",
+   "start": 37.68,
+   "end": 37.96
+  },
+  {
+   "word": "The",
+   "start": 38.72,
+   "end": 38.88
+  },
+  {
+   "word": "problem",
+   "start": 38.88,
+   "end": 39.2
+  },
+  {
+   "word": "is,",
+   "start": 39.2,
+   "end": 39.48
+  },
+  {
+   "word": "on",
+   "start": 39.82,
+   "end": 39.96
+  },
+  {
+   "word": "social",
+   "start": 39.96,
+   "end": 40.22
+  },
+  {
+   "word": "media",
+   "start": 40.22,
+   "end": 40.64
+  },
+  {
+   "word": "you're",
+   "start": 40.98,
+   "end": 41.12
+  },
+  {
+   "word": "comparing",
+   "start": 41.12,
+   "end": 41.5
+  },
+  {
+   "word": "yourself",
+   "start": 41.5,
+   "end": 41.98
+  },
+  {
+   "word": "to",
+   "start": 41.98,
+   "end": 42.22
+  },
+  {
+   "word": "everyone's",
+   "start": 42.22,
+   "end": 42.98
+  },
+  {
+   "word": "gold",
+   "start": 42.98,
+   "end": 43.26
+  },
+  {
+   "word": "medal",
+   "start": 43.26,
+   "end": 43.64
+  },
+  {
+   "word": "moments.",
+   "start": 43.64,
+   "end": 44.02
+  },
+  {
+   "word": "So",
+   "start": 44.6,
+   "end": 44.98
+  },
+  {
+   "word": "if",
+   "start": 45.18,
+   "end": 45.34
+  },
+  {
+   "word": "you",
+   "start": 45.34,
+   "end": 45.46
+  },
+  {
+   "word": "want",
+   "start": 45.46,
+   "end": 45.6
+  },
+  {
+   "word": "to",
+   "start": 45.6,
+   "end": 45.74
+  },
+  {
+   "word": "feel",
+   "start": 45.74,
+   "end": 45.96
+  },
+  {
+   "word": "better,",
+   "start": 45.96,
+   "end": 46.28
+  },
+  {
+   "word": "change",
+   "start": 46.7,
+   "end": 46.98
+  },
+  {
+   "word": "who",
+   "start": 46.98,
+   "end": 47.26
+  },
+  {
+   "word": "you",
+   "start": 47.26,
+   "end": 47.38
+  },
+  {
+   "word": "compare",
+   "start": 47.38,
+   "end": 47.72
+  },
+  {
+   "word": "yourself",
+   "start": 47.72,
+   "end": 48.16
+  },
+  {
+   "word": "to.",
+   "start": 48.16,
+   "end": 48.42
+  },
+  {
+   "word": "Try",
+   "start": 49.06,
+   "end": 49.28
+  },
+  {
+   "word": "comparing",
+   "start": 49.28,
+   "end": 49.68
+  },
+  {
+   "word": "yourself",
+   "start": 49.68,
+   "end": 50.12
+  },
+  {
+   "word": "to",
+   "start": 50.12,
+   "end": 50.38
+  },
+  {
+   "word": "who",
+   "start": 50.38,
+   "end": 50.6
+  },
+  {
+   "word": "you",
+   "start": 50.6,
+   "end": 50.76
+  },
+  {
+   "word": "were",
+   "start": 50.76,
+   "end": 51.04
+  },
+  {
+   "word": "a",
+   "start": 51.04,
+   "end": 51.28
+  },
+  {
+   "word": "year",
+   "start": 51.28,
+   "end": 51.48
+  },
+  {
+   "word": "ago.",
+   "start": 51.48,
+   "end": 51.8
+  },
+  {
+   "word": "Follow",
+   "start": 51.8,
+   "end": 52.94
+  },
+  {
+   "word": "for",
+   "start": 52.94,
+   "end": 53.26
+  },
+  {
+   "word": "more",
+   "start": 53.26,
+   "end": 53.46
+  },
+  {
+   "word": "psychology.",
+   "start": 53.46,
+   "end": 53.92
+  }
+ ]
+}
