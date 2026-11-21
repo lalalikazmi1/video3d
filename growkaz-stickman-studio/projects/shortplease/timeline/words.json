@@ -1,0 +1,655 @@
+{
+ "source": "whisper:small+script",
+ "words": [
+  {
+   "word": "Would",
+   "start": 0.0,
+   "end": 0.18
+  },
+  {
+   "word": "you",
+   "start": 0.18,
+   "end": 0.34
+  },
+  {
+   "word": "write",
+   "start": 0.34,
+   "end": 0.52
+  },
+  {
+   "word": "the",
+   "start": 0.52,
+   "end": 0.68
+  },
+  {
+   "word": "word",
+   "start": 0.68,
+   "end": 0.9
+  },
+  {
+   "word": "\"pickle\"",
+   "start": 0.9,
+   "end": 1.4
+  },
+  {
+   "word": "in",
+   "start": 1.4,
+   "end": 1.76
+  },
+  {
+   "word": "a",
+   "start": 1.76,
+   "end": 1.9
+  },
+  {
+   "word": "library",
+   "start": 1.9,
+   "end": 2.18
+  },
+  {
+   "word": "book,",
+   "start": 2.18,
+   "end": 2.64
+  },
+  {
+   "word": "just",
+   "start": 2.64,
+   "end": 3.08
+  },
+  {
+   "word": "because",
+   "start": 3.08,
+   "end": 3.34
+  },
+  {
+   "word": "a",
+   "start": 3.34,
+   "end": 3.54
+  },
+  {
+   "word": "stranger",
+   "start": 3.54,
+   "end": 3.88
+  },
+  {
+   "word": "asked",
+   "start": 3.88,
+   "end": 4.34
+  },
+  {
+   "word": "you",
+   "start": 4.34,
+   "end": 4.52
+  },
+  {
+   "word": "to?",
+   "start": 4.52,
+   "end": 4.66
+  },
+  {
+   "word": "In",
+   "start": 5.32,
+   "end": 5.62
+  },
+  {
+   "word": "a",
+   "start": 5.62,
+   "end": 5.74
+  },
+  {
+   "word": "study",
+   "start": 5.74,
+   "end": 5.94
+  },
+  {
+   "word": "by",
+   "start": 5.94,
+   "end": 6.16
+  },
+  {
+   "word": "psychologist",
+   "start": 6.16,
+   "end": 6.86
+  },
+  {
+   "word": "Vanessa",
+   "start": 6.86,
+   "end": 7.2
+  },
+  {
+   "word": "Bohns,",
+   "start": 7.2,
+   "end": 8.22
+  },
+  {
+   "word": "about",
+   "start": 8.22,
+   "end": 8.36
+  },
+  {
+   "word": "half",
+   "start": 8.36,
+   "end": 8.84
+  },
+  {
+   "word": "the",
+   "start": 8.84,
+   "end": 9.02
+  },
+  {
+   "word": "people",
+   "start": 9.02,
+   "end": 9.28
+  },
+  {
+   "word": "who",
+   "start": 9.28,
+   "end": 9.5
+  },
+  {
+   "word": "were",
+   "start": 9.5,
+   "end": 9.64
+  },
+  {
+   "word": "asked",
+   "start": 9.64,
+   "end": 10.04
+  },
+  {
+   "word": "actually",
+   "start": 10.04,
+   "end": 10.64
+  },
+  {
+   "word": "did",
+   "start": 10.64,
+   "end": 10.94
+  },
+  {
+   "word": "it.",
+   "start": 10.94,
+   "end": 11.16
+  },
+  {
+   "word": "Not",
+   "start": 11.6,
+   "end": 11.8
+  },
+  {
+   "word": "because",
+   "start": 11.8,
+   "end": 12.1
+  },
+  {
+   "word": "they",
+   "start": 12.1,
+   "end": 12.3
+  },
+  {
+   "word": "wanted",
+   "start": 12.3,
+   "end": 12.6
+  },
+  {
+   "word": "to.",
+   "start": 12.6,
+   "end": 12.92
+  },
+  {
+   "word": "Because",
+   "start": 13.32,
+   "end": 13.64
+  },
+  {
+   "word": "saying",
+   "start": 13.64,
+   "end": 13.96
+  },
+  {
+   "word": "no",
+   "start": 13.96,
+   "end": 14.38
+  },
+  {
+   "word": "felt",
+   "start": 14.38,
+   "end": 14.78
+  },
+  {
+   "word": "too",
+   "start": 14.78,
+   "end": 15.14
+  },
+  {
+   "word": "awkward.",
+   "start": 15.14,
+   "end": 15.6
+  },
+  {
+   "word": "That's",
+   "start": 16.36,
+   "end": 16.8
+  },
+  {
+   "word": "the",
+   "start": 16.8,
+   "end": 16.92
+  },
+  {
+   "word": "trap.",
+   "start": 16.92,
+   "end": 17.22
+  },
+  {
+   "word": "Saying",
+   "start": 17.82,
+   "end": 18.16
+  },
+  {
+   "word": "no",
+   "start": 18.16,
+   "end": 18.58
+  },
+  {
+   "word": "feels",
+   "start": 18.58,
+   "end": 19.06
+  },
+  {
+   "word": "like",
+   "start": 19.06,
+   "end": 19.36
+  },
+  {
+   "word": "it",
+   "start": 19.36,
+   "end": 19.48
+  },
+  {
+   "word": "will",
+   "start": 19.48,
+   "end": 19.58
+  },
+  {
+   "word": "damage",
+   "start": 19.58,
+   "end": 19.96
+  },
+  {
+   "word": "the",
+   "start": 19.96,
+   "end": 20.22
+  },
+  {
+   "word": "relationship.",
+   "start": 20.22,
+   "end": 20.76
+  },
+  {
+   "word": "So",
+   "start": 21.26,
+   "end": 21.64
+  },
+  {
+   "word": "you",
+   "start": 21.64,
+   "end": 21.98
+  },
+  {
+   "word": "say",
+   "start": 21.98,
+   "end": 22.18
+  },
+  {
+   "word": "yes,",
+   "start": 22.18,
+   "end": 22.58
+  },
+  {
+   "word": "again",
+   "start": 22.92,
+   "end": 23.4
+  },
+  {
+   "word": "and",
+   "start": 23.4,
+   "end": 23.8
+  },
+  {
+   "word": "again.",
+   "start": 23.8,
+   "end": 24.12
+  },
+  {
+   "word": "But",
+   "start": 24.8,
+   "end": 25.06
+  },
+  {
+   "word": "here's",
+   "start": 25.06,
+   "end": 25.32
+  },
+  {
+   "word": "the",
+   "start": 25.32,
+   "end": 25.44
+  },
+  {
+   "word": "good",
+   "start": 25.44,
+   "end": 25.56
+  },
+  {
+   "word": "news.",
+   "start": 25.56,
+   "end": 25.8
+  },
+  {
+   "word": "In",
+   "start": 26.18,
+   "end": 26.52
+  },
+  {
+   "word": "2023,",
+   "start": 26.52,
+   "end": 27.32
+  },
+  {
+   "word": "researchers",
+   "start": 27.72,
+   "end": 28.26
+  },
+  {
+   "word": "Julian",
+   "start": 28.26,
+   "end": 28.78
+  },
+  {
+   "word": "Givi",
+   "start": 28.78,
+   "end": 29.32
+  },
+  {
+   "word": "and",
+   "start": 29.32,
+   "end": 29.52
+  },
+  {
+   "word": "Colleen",
+   "start": 29.52,
+   "end": 29.94
+  },
+  {
+   "word": "Kirk",
+   "start": 29.94,
+   "end": 30.26
+  },
+  {
+   "word": "studied",
+   "start": 30.26,
+   "end": 30.82
+  },
+  {
+   "word": "what",
+   "start": 30.82,
+   "end": 31.08
+  },
+  {
+   "word": "happens",
+   "start": 31.08,
+   "end": 31.52
+  },
+  {
+   "word": "when",
+   "start": 31.52,
+   "end": 31.74
+  },
+  {
+   "word": "you",
+   "start": 31.74,
+   "end": 31.88
+  },
+  {
+   "word": "turn",
+   "start": 31.88,
+   "end": 32.16
+  },
+  {
+   "word": "down",
+   "start": 32.16,
+   "end": 32.54
+  },
+  {
+   "word": "an",
+   "start": 32.54,
+   "end": 32.72
+  },
+  {
+   "word": "invitation.",
+   "start": 32.72,
+   "end": 33.12
+  },
+  {
+   "word": "People",
+   "start": 33.94,
+   "end": 34.2
+  },
+  {
+   "word": "expected",
+   "start": 34.2,
+   "end": 34.66
+  },
+  {
+   "word": "the",
+   "start": 34.66,
+   "end": 34.9
+  },
+  {
+   "word": "other",
+   "start": 34.9,
+   "end": 35.12
+  },
+  {
+   "word": "person",
+   "start": 35.12,
+   "end": 35.52
+  },
+  {
+   "word": "to",
+   "start": 35.52,
+   "end": 35.68
+  },
+  {
+   "word": "be",
+   "start": 35.68,
+   "end": 35.8
+  },
+  {
+   "word": "hurt,",
+   "start": 35.8,
+   "end": 36.16
+  },
+  {
+   "word": "angry,",
+   "start": 36.52,
+   "end": 36.9
+  },
+  {
+   "word": "and",
+   "start": 37.32,
+   "end": 37.38
+  },
+  {
+   "word": "less",
+   "start": 37.38,
+   "end": 37.66
+  },
+  {
+   "word": "likely",
+   "start": 37.66,
+   "end": 38.04
+  },
+  {
+   "word": "to",
+   "start": 38.04,
+   "end": 38.22
+  },
+  {
+   "word": "invite",
+   "start": 38.22,
+   "end": 38.52
+  },
+  {
+   "word": "them",
+   "start": 38.52,
+   "end": 38.7
+  },
+  {
+   "word": "again.",
+   "start": 38.7,
+   "end": 38.94
+  },
+  {
+   "word": "In",
+   "start": 39.56,
+   "end": 39.68
+  },
+  {
+   "word": "reality?",
+   "start": 39.68,
+   "end": 40.04
+  },
+  {
+   "word": "The",
+   "start": 40.56,
+   "end": 40.74
+  },
+  {
+   "word": "other",
+   "start": 40.74,
+   "end": 40.9
+  },
+  {
+   "word": "person",
+   "start": 40.9,
+   "end": 41.32
+  },
+  {
+   "word": "barely",
+   "start": 41.32,
+   "end": 41.64
+  },
+  {
+   "word": "cared.",
+   "start": 41.64,
+   "end": 42.08
+  },
+  {
+   "word": "So",
+   "start": 42.82,
+   "end": 42.96
+  },
+  {
+   "word": "next",
+   "start": 42.96,
+   "end": 43.14
+  },
+  {
+   "word": "time,",
+   "start": 43.14,
+   "end": 43.5
+  },
+  {
+   "word": "try",
+   "start": 43.86,
+   "end": 44.06
+  },
+  {
+   "word": "it.",
+   "start": 44.06,
+   "end": 44.26
+  },
+  {
+   "word": "A",
+   "start": 44.76,
+   "end": 44.86
+  },
+  {
+   "word": "kind,",
+   "start": 44.86,
+   "end": 45.26
+  },
+  {
+   "word": "simple",
+   "start": 45.48,
+   "end": 45.94
+  },
+  {
+   "word": "no.",
+   "start": 45.94,
+   "end": 46.54
+  },
+  {
+   "word": "It",
+   "start": 47.14,
+   "end": 47.28
+  },
+  {
+   "word": "costs",
+   "start": 47.28,
+   "end": 47.62
+  },
+  {
+   "word": "you",
+   "start": 47.62,
+   "end": 47.82
+  },
+  {
+   "word": "far",
+   "start": 47.82,
+   "end": 48.18
+  },
+  {
+   "word": "less",
+   "start": 48.18,
+   "end": 48.5
+  },
+  {
+   "word": "than",
+   "start": 48.5,
+   "end": 48.7
+  },
+  {
+   "word": "you",
+   "start": 48.7,
+   "end": 48.84
+  },
+  {
+   "word": "think.",
+   "start": 48.84,
+   "end": 49.06
+  },
+  {
+   "word": "Follow",
+   "start": 49.8,
+   "end": 50.14
+  },
+  {
+   "word": "for",
+   "start": 50.14,
+   "end": 50.42
+  },
+  {
+   "word": "more",
+   "start": 50.42,
+   "end": 50.6
+  },
+  {
+   "word": "psychology.",
+   "start": 50.6,
+   "end": 51.06
+  }
+ ]
+}
