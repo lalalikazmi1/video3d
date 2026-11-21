@@ -1,0 +1,635 @@
+{
+ "source": "whisper:small+script",
+ "words": [
+  {
+   "word": "You'll",
+   "start": 0.0,
+   "end": 0.24
+  },
+  {
+   "word": "do",
+   "start": 0.24,
+   "end": 0.4
+  },
+  {
+   "word": "it",
+   "start": 0.4,
+   "end": 0.52
+  },
+  {
+   "word": "tomorrow.",
+   "start": 0.52,
+   "end": 0.88
+  },
+  {
+   "word": "You've",
+   "start": 1.52,
+   "end": 1.8
+  },
+  {
+   "word": "said",
+   "start": 1.8,
+   "end": 1.94
+  },
+  {
+   "word": "that",
+   "start": 1.94,
+   "end": 2.1
+  },
+  {
+   "word": "for",
+   "start": 2.1,
+   "end": 2.26
+  },
+  {
+   "word": "three",
+   "start": 2.26,
+   "end": 2.64
+  },
+  {
+   "word": "weeks.",
+   "start": 2.64,
+   "end": 3.08
+  },
+  {
+   "word": "Why",
+   "start": 3.52,
+   "end": 3.82
+  },
+  {
+   "word": "do",
+   "start": 3.82,
+   "end": 3.9
+  },
+  {
+   "word": "you",
+   "start": 3.9,
+   "end": 4.04
+  },
+  {
+   "word": "always",
+   "start": 4.04,
+   "end": 4.38
+  },
+  {
+   "word": "think",
+   "start": 4.38,
+   "end": 4.68
+  },
+  {
+   "word": "you'll",
+   "start": 4.68,
+   "end": 4.9
+  },
+  {
+   "word": "have",
+   "start": 4.9,
+   "end": 5.06
+  },
+  {
+   "word": "more",
+   "start": 5.06,
+   "end": 5.24
+  },
+  {
+   "word": "time?",
+   "start": 5.24,
+   "end": 5.62
+  },
+  {
+   "word": "In",
+   "start": 6.7,
+   "end": 6.84
+  },
+  {
+   "word": "1994,",
+   "start": 6.84,
+   "end": 7.46
+  },
+  {
+   "word": "psychologist",
+   "start": 8.1,
+   "end": 8.74
+  },
+  {
+   "word": "Roger",
+   "start": 8.74,
+   "end": 9.18
+  },
+  {
+   "word": "Buehler",
+   "start": 9.18,
+   "end": 9.64
+  },
+  {
+   "word": "asked",
+   "start": 9.64,
+   "end": 10.16
+  },
+  {
+   "word": "students",
+   "start": 10.16,
+   "end": 10.58
+  },
+  {
+   "word": "how",
+   "start": 10.58,
+   "end": 10.98
+  },
+  {
+   "word": "long",
+   "start": 10.98,
+   "end": 11.22
+  },
+  {
+   "word": "their",
+   "start": 11.22,
+   "end": 11.44
+  },
+  {
+   "word": "final",
+   "start": 11.44,
+   "end": 11.8
+  },
+  {
+   "word": "thesis",
+   "start": 11.8,
+   "end": 12.18
+  },
+  {
+   "word": "would",
+   "start": 12.18,
+   "end": 12.46
+  },
+  {
+   "word": "take.",
+   "start": 12.46,
+   "end": 12.74
+  },
+  {
+   "word": "On",
+   "start": 13.44,
+   "end": 13.6
+  },
+  {
+   "word": "average,",
+   "start": 13.6,
+   "end": 13.94
+  },
+  {
+   "word": "they",
+   "start": 14.22,
+   "end": 14.38
+  },
+  {
+   "word": "guessed",
+   "start": 14.38,
+   "end": 14.62
+  },
+  {
+   "word": "about",
+   "start": 14.62,
+   "end": 14.86
+  },
+  {
+   "word": "thirty-four",
+   "start": 14.86,
+   "end": 15.38
+  },
+  {
+   "word": "days.",
+   "start": 15.38,
+   "end": 15.78
+  },
+  {
+   "word": "It",
+   "start": 16.58,
+   "end": 16.72
+  },
+  {
+   "word": "actually",
+   "start": 16.72,
+   "end": 17.08
+  },
+  {
+   "word": "took",
+   "start": 17.08,
+   "end": 17.36
+  },
+  {
+   "word": "them",
+   "start": 17.36,
+   "end": 17.58
+  },
+  {
+   "word": "fifty-five.",
+   "start": 17.58,
+   "end": 19.16
+  },
+  {
+   "word": "Then",
+   "start": 19.16,
+   "end": 19.62
+  },
+  {
+   "word": "he",
+   "start": 19.62,
+   "end": 19.82
+  },
+  {
+   "word": "asked",
+   "start": 19.82,
+   "end": 20.12
+  },
+  {
+   "word": "for",
+   "start": 20.12,
+   "end": 20.3
+  },
+  {
+   "word": "their",
+   "start": 20.3,
+   "end": 20.44
+  },
+  {
+   "word": "worst-case",
+   "start": 20.44,
+   "end": 21.08
+  },
+  {
+   "word": "estimate.",
+   "start": 21.08,
+   "end": 21.56
+  },
+  {
+   "word": "If",
+   "start": 21.56,
+   "end": 22.14
+  },
+  {
+   "word": "everything",
+   "start": 22.14,
+   "end": 22.66
+  },
+  {
+   "word": "went",
+   "start": 22.66,
+   "end": 22.98
+  },
+  {
+   "word": "wrong.",
+   "start": 22.98,
+   "end": 23.28
+  },
+  {
+   "word": "Most",
+   "start": 24.02,
+   "end": 24.32
+  },
+  {
+   "word": "of",
+   "start": 24.32,
+   "end": 24.46
+  },
+  {
+   "word": "them",
+   "start": 24.46,
+   "end": 24.64
+  },
+  {
+   "word": "still",
+   "start": 24.64,
+   "end": 25.0
+  },
+  {
+   "word": "missed",
+   "start": 25.0,
+   "end": 25.32
+  },
+  {
+   "word": "it.",
+   "start": 25.32,
+   "end": 25.52
+  },
+  {
+   "word": "Psychologists",
+   "start": 26.48,
+   "end": 27.12
+  },
+  {
+   "word": "Daniel",
+   "start": 27.12,
+   "end": 27.58
+  },
+  {
+   "word": "Kahneman",
+   "start": 27.58,
+   "end": 28.14
+  },
+  {
+   "word": "and",
+   "start": 28.14,
+   "end": 28.44
+  },
+  {
+   "word": "Amos",
+   "start": 28.44,
+   "end": 28.76
+  },
+  {
+   "word": "Tversky",
+   "start": 28.76,
+   "end": 29.28
+  },
+  {
+   "word": "called",
+   "start": 29.28,
+   "end": 29.7
+  },
+  {
+   "word": "this",
+   "start": 29.7,
+   "end": 30.02
+  },
+  {
+   "word": "the",
+   "start": 30.02,
+   "end": 30.3
+  },
+  {
+   "word": "planning",
+   "start": 30.3,
+   "end": 30.7
+  },
+  {
+   "word": "fallacy.",
+   "start": 30.7,
+   "end": 31.26
+  },
+  {
+   "word": "When",
+   "start": 31.88,
+   "end": 32.22
+  },
+  {
+   "word": "you",
+   "start": 32.22,
+   "end": 32.34
+  },
+  {
+   "word": "plan,",
+   "start": 32.34,
+   "end": 32.72
+  },
+  {
+   "word": "you",
+   "start": 33.04,
+   "end": 33.14
+  },
+  {
+   "word": "picture",
+   "start": 33.14,
+   "end": 33.44
+  },
+  {
+   "word": "the",
+   "start": 33.44,
+   "end": 33.66
+  },
+  {
+   "word": "perfect",
+   "start": 33.66,
+   "end": 34.1
+  },
+  {
+   "word": "version.",
+   "start": 34.1,
+   "end": 34.54
+  },
+  {
+   "word": "No",
+   "start": 35.08,
+   "end": 35.24
+  },
+  {
+   "word": "distractions.",
+   "start": 35.24,
+   "end": 35.76
+  },
+  {
+   "word": "No",
+   "start": 36.24,
+   "end": 36.34
+  },
+  {
+   "word": "problems.",
+   "start": 36.34,
+   "end": 36.84
+  },
+  {
+   "word": "No",
+   "start": 37.32,
+   "end": 37.52
+  },
+  {
+   "word": "bad",
+   "start": 37.52,
+   "end": 37.78
+  },
+  {
+   "word": "days.",
+   "start": 37.78,
+   "end": 38.18
+  },
+  {
+   "word": "But",
+   "start": 38.94,
+   "end": 39.04
+  },
+  {
+   "word": "real",
+   "start": 39.04,
+   "end": 39.32
+  },
+  {
+   "word": "life",
+   "start": 39.32,
+   "end": 39.68
+  },
+  {
+   "word": "always",
+   "start": 39.68,
+   "end": 40.2
+  },
+  {
+   "word": "has",
+   "start": 40.2,
+   "end": 40.56
+  },
+  {
+   "word": "them.",
+   "start": 40.56,
+   "end": 40.76
+  },
+  {
+   "word": "So",
+   "start": 41.54,
+   "end": 41.76
+  },
+  {
+   "word": "here's",
+   "start": 41.76,
+   "end": 42.2
+  },
+  {
+   "word": "the",
+   "start": 42.2,
+   "end": 42.32
+  },
+  {
+   "word": "fix.",
+   "start": 42.32,
+   "end": 42.54
+  },
+  {
+   "word": "Don't",
+   "start": 43.38,
+   "end": 43.62
+  },
+  {
+   "word": "ask,",
+   "start": 43.62,
+   "end": 43.88
+  },
+  {
+   "word": "\"how",
+   "start": 44.1,
+   "end": 44.32
+  },
+  {
+   "word": "long",
+   "start": 44.32,
+   "end": 44.6
+  },
+  {
+   "word": "should",
+   "start": 44.6,
+   "end": 44.86
+  },
+  {
+   "word": "this",
+   "start": 44.86,
+   "end": 45.1
+  },
+  {
+   "word": "take?\"",
+   "start": 45.1,
+   "end": 45.38
+  },
+  {
+   "word": "Ask,",
+   "start": 45.92,
+   "end": 46.2
+  },
+  {
+   "word": "\"how",
+   "start": 46.6,
+   "end": 46.84
+  },
+  {
+   "word": "long",
+   "start": 46.84,
+   "end": 47.1
+  },
+  {
+   "word": "did",
+   "start": 47.1,
+   "end": 47.28
+  },
+  {
+   "word": "it",
+   "start": 47.28,
+   "end": 47.38
+  },
+  {
+   "word": "take",
+   "start": 47.38,
+   "end": 47.6
+  },
+  {
+   "word": "last",
+   "start": 47.6,
+   "end": 47.94
+  },
+  {
+   "word": "time?\"",
+   "start": 47.94,
+   "end": 48.28
+  },
+  {
+   "word": "Your",
+   "start": 49.04,
+   "end": 49.16
+  },
+  {
+   "word": "past",
+   "start": 49.16,
+   "end": 49.58
+  },
+  {
+   "word": "is",
+   "start": 49.58,
+   "end": 49.94
+  },
+  {
+   "word": "a",
+   "start": 49.94,
+   "end": 50.04
+  },
+  {
+   "word": "better",
+   "start": 50.04,
+   "end": 50.28
+  },
+  {
+   "word": "planner",
+   "start": 50.28,
+   "end": 50.7
+  },
+  {
+   "word": "than",
+   "start": 50.7,
+   "end": 50.96
+  },
+  {
+   "word": "your",
+   "start": 50.96,
+   "end": 51.12
+  },
+  {
+   "word": "hopes.",
+   "start": 51.12,
+   "end": 51.42
+  },
+  {
+   "word": "Follow",
+   "start": 51.98,
+   "end": 52.46
+  },
+  {
+   "word": "for",
+   "start": 52.46,
+   "end": 52.78
+  },
+  {
+   "word": "more",
+   "start": 52.78,
+   "end": 52.96
+  },
+  {
+   "word": "psychology.",
+   "start": 52.96,
+   "end": 53.44
+  }
+ ]
+}
