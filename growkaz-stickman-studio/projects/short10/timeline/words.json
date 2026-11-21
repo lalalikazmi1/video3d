@@ -1,0 +1,565 @@
+{
+ "source": "whisper:small+script",
+ "words": [
+  {
+   "word": "Why",
+   "start": 0.0,
+   "end": 0.26
+  },
+  {
+   "word": "do",
+   "start": 0.26,
+   "end": 0.4
+  },
+  {
+   "word": "you",
+   "start": 0.4,
+   "end": 0.52
+  },
+  {
+   "word": "suddenly",
+   "start": 0.52,
+   "end": 0.92
+  },
+  {
+   "word": "want",
+   "start": 0.92,
+   "end": 1.2
+  },
+  {
+   "word": "to",
+   "start": 1.2,
+   "end": 1.38
+  },
+  {
+   "word": "clean",
+   "start": 1.38,
+   "end": 1.62
+  },
+  {
+   "word": "your",
+   "start": 1.62,
+   "end": 1.82
+  },
+  {
+   "word": "room",
+   "start": 1.82,
+   "end": 2.22
+  },
+  {
+   "word": "the",
+   "start": 2.22,
+   "end": 2.42
+  },
+  {
+   "word": "moment",
+   "start": 2.42,
+   "end": 2.8
+  },
+  {
+   "word": "you",
+   "start": 2.8,
+   "end": 3.02
+  },
+  {
+   "word": "sit",
+   "start": 3.02,
+   "end": 3.2
+  },
+  {
+   "word": "down",
+   "start": 3.2,
+   "end": 3.42
+  },
+  {
+   "word": "to",
+   "start": 3.42,
+   "end": 3.6
+  },
+  {
+   "word": "study?",
+   "start": 3.6,
+   "end": 3.94
+  },
+  {
+   "word": "It's",
+   "start": 4.58,
+   "end": 4.78
+  },
+  {
+   "word": "not",
+   "start": 4.78,
+   "end": 4.92
+  },
+  {
+   "word": "because",
+   "start": 4.92,
+   "end": 5.18
+  },
+  {
+   "word": "you",
+   "start": 5.18,
+   "end": 5.38
+  },
+  {
+   "word": "love",
+   "start": 5.38,
+   "end": 5.6
+  },
+  {
+   "word": "cleaning.",
+   "start": 5.6,
+   "end": 6.02
+  },
+  {
+   "word": "Psychologists",
+   "start": 6.86,
+   "end": 7.54
+  },
+  {
+   "word": "Fuschia",
+   "start": 7.54,
+   "end": 8.2
+  },
+  {
+   "word": "Sirois",
+   "start": 8.2,
+   "end": 8.62
+  },
+  {
+   "word": "and",
+   "start": 8.62,
+   "end": 9.0
+  },
+  {
+   "word": "Timothy",
+   "start": 9.0,
+   "end": 9.34
+  },
+  {
+   "word": "Pychyl",
+   "start": 9.34,
+   "end": 9.84
+  },
+  {
+   "word": "say",
+   "start": 9.84,
+   "end": 10.16
+  },
+  {
+   "word": "procrastination",
+   "start": 10.16,
+   "end": 10.96
+  },
+  {
+   "word": "isn't",
+   "start": 10.96,
+   "end": 11.66
+  },
+  {
+   "word": "a",
+   "start": 11.66,
+   "end": 11.8
+  },
+  {
+   "word": "time-management",
+   "start": 11.8,
+   "end": 12.56
+  },
+  {
+   "word": "problem.",
+   "start": 12.56,
+   "end": 13.04
+  },
+  {
+   "word": "It's",
+   "start": 13.5,
+   "end": 13.82
+  },
+  {
+   "word": "a",
+   "start": 13.82,
+   "end": 13.9
+  },
+  {
+   "word": "mood-management",
+   "start": 13.9,
+   "end": 14.76
+  },
+  {
+   "word": "problem.",
+   "start": 14.76,
+   "end": 15.22
+  },
+  {
+   "word": "When",
+   "start": 15.98,
+   "end": 16.12
+  },
+  {
+   "word": "a",
+   "start": 16.12,
+   "end": 16.26
+  },
+  {
+   "word": "task",
+   "start": 16.26,
+   "end": 16.48
+  },
+  {
+   "word": "feels",
+   "start": 16.48,
+   "end": 16.82
+  },
+  {
+   "word": "boring,",
+   "start": 16.82,
+   "end": 17.32
+  },
+  {
+   "word": "hard,",
+   "start": 17.68,
+   "end": 18.1
+  },
+  {
+   "word": "or",
+   "start": 18.32,
+   "end": 18.42
+  },
+  {
+   "word": "uncertain,",
+   "start": 18.42,
+   "end": 18.9
+  },
+  {
+   "word": "it",
+   "start": 19.48,
+   "end": 19.62
+  },
+  {
+   "word": "creates",
+   "start": 19.62,
+   "end": 19.94
+  },
+  {
+   "word": "a",
+   "start": 19.94,
+   "end": 20.18
+  },
+  {
+   "word": "small,",
+   "start": 20.18,
+   "end": 20.58
+  },
+  {
+   "word": "unpleasant",
+   "start": 20.58,
+   "end": 21.28
+  },
+  {
+   "word": "feeling.",
+   "start": 21.28,
+   "end": 21.82
+  },
+  {
+   "word": "And",
+   "start": 22.4,
+   "end": 22.6
+  },
+  {
+   "word": "your",
+   "start": 22.6,
+   "end": 22.74
+  },
+  {
+   "word": "brain",
+   "start": 22.74,
+   "end": 23.12
+  },
+  {
+   "word": "wants",
+   "start": 23.12,
+   "end": 23.56
+  },
+  {
+   "word": "that",
+   "start": 23.56,
+   "end": 23.82
+  },
+  {
+   "word": "feeling",
+   "start": 23.82,
+   "end": 24.16
+  },
+  {
+   "word": "gone.",
+   "start": 24.16,
+   "end": 24.72
+  },
+  {
+   "word": "Right",
+   "start": 25.18,
+   "end": 25.56
+  },
+  {
+   "word": "now.",
+   "start": 25.56,
+   "end": 25.88
+  },
+  {
+   "word": "So",
+   "start": 26.49,
+   "end": 26.82
+  },
+  {
+   "word": "it",
+   "start": 26.82,
+   "end": 27.22
+  },
+  {
+   "word": "reaches",
+   "start": 27.22,
+   "end": 27.52
+  },
+  {
+   "word": "for",
+   "start": 27.52,
+   "end": 27.78
+  },
+  {
+   "word": "anything",
+   "start": 27.78,
+   "end": 28.1
+  },
+  {
+   "word": "that",
+   "start": 28.1,
+   "end": 28.48
+  },
+  {
+   "word": "feels",
+   "start": 28.48,
+   "end": 28.72
+  },
+  {
+   "word": "better.",
+   "start": 28.72,
+   "end": 29.06
+  },
+  {
+   "word": "Your",
+   "start": 29.66,
+   "end": 29.82
+  },
+  {
+   "word": "phone.",
+   "start": 29.82,
+   "end": 30.16
+  },
+  {
+   "word": "A",
+   "start": 30.6,
+   "end": 30.72
+  },
+  {
+   "word": "snack.",
+   "start": 30.72,
+   "end": 30.94
+  },
+  {
+   "word": "Suddenly,",
+   "start": 31.56,
+   "end": 32.06
+  },
+  {
+   "word": "your",
+   "start": 32.06,
+   "end": 32.6
+  },
+  {
+   "word": "messy",
+   "start": 32.6,
+   "end": 32.9
+  },
+  {
+   "word": "room.",
+   "start": 32.9,
+   "end": 33.24
+  },
+  {
+   "word": "Your",
+   "start": 33.98,
+   "end": 34.12
+  },
+  {
+   "word": "brain",
+   "start": 34.12,
+   "end": 34.4
+  },
+  {
+   "word": "isn't",
+   "start": 34.4,
+   "end": 34.84
+  },
+  {
+   "word": "choosing",
+   "start": 34.84,
+   "end": 35.18
+  },
+  {
+   "word": "the",
+   "start": 35.18,
+   "end": 35.48
+  },
+  {
+   "word": "room.",
+   "start": 35.48,
+   "end": 35.74
+  },
+  {
+   "word": "It's",
+   "start": 36.16,
+   "end": 36.34
+  },
+  {
+   "word": "escaping",
+   "start": 36.34,
+   "end": 36.78
+  },
+  {
+   "word": "the",
+   "start": 36.78,
+   "end": 37.04
+  },
+  {
+   "word": "feeling.",
+   "start": 37.04,
+   "end": 37.44
+  },
+  {
+   "word": "So",
+   "start": 38.26,
+   "end": 38.36
+  },
+  {
+   "word": "here's",
+   "start": 38.36,
+   "end": 38.66
+  },
+  {
+   "word": "the",
+   "start": 38.66,
+   "end": 38.78
+  },
+  {
+   "word": "trick.",
+   "start": 38.78,
+   "end": 39.04
+  },
+  {
+   "word": "Make",
+   "start": 39.8,
+   "end": 39.96
+  },
+  {
+   "word": "the",
+   "start": 39.96,
+   "end": 40.14
+  },
+  {
+   "word": "first",
+   "start": 40.14,
+   "end": 40.38
+  },
+  {
+   "word": "step",
+   "start": 40.38,
+   "end": 40.72
+  },
+  {
+   "word": "so",
+   "start": 40.72,
+   "end": 41.04
+  },
+  {
+   "word": "small",
+   "start": 41.04,
+   "end": 41.56
+  },
+  {
+   "word": "it",
+   "start": 41.56,
+   "end": 41.86
+  },
+  {
+   "word": "doesn't",
+   "start": 41.86,
+   "end": 42.24
+  },
+  {
+   "word": "feel",
+   "start": 42.24,
+   "end": 42.5
+  },
+  {
+   "word": "bad.",
+   "start": 42.5,
+   "end": 42.86
+  },
+  {
+   "word": "Don't",
+   "start": 43.54,
+   "end": 43.72
+  },
+  {
+   "word": "write",
+   "start": 43.72,
+   "end": 43.84
+  },
+  {
+   "word": "the",
+   "start": 43.84,
+   "end": 44.04
+  },
+  {
+   "word": "essay.",
+   "start": 44.04,
+   "end": 44.3
+  },
+  {
+   "word": "Write",
+   "start": 44.86,
+   "end": 45.1
+  },
+  {
+   "word": "one",
+   "start": 45.1,
+   "end": 45.5
+  },
+  {
+   "word": "sentence.",
+   "start": 45.5,
+   "end": 46.02
+  },
+  {
+   "word": "Follow",
+   "start": 46.66,
+   "end": 47.18
+  },
+  {
+   "word": "for",
+   "start": 47.18,
+   "end": 47.5
+  },
+  {
+   "word": "more",
+   "start": 47.5,
+   "end": 47.7
+  },
+  {
+   "word": "psychology.",
+   "start": 47.7,
+   "end": 48.14
+  }
+ ]
+}
