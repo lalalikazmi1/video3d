@@ -1,0 +1,625 @@
+{
+ "source": "whisper:small+script",
+ "words": [
+  {
+   "word": "Why",
+   "start": 0.0,
+   "end": 0.26
+  },
+  {
+   "word": "are",
+   "start": 0.26,
+   "end": 0.38
+  },
+  {
+   "word": "you",
+   "start": 0.38,
+   "end": 0.54
+  },
+  {
+   "word": "patient",
+   "start": 0.54,
+   "end": 0.92
+  },
+  {
+   "word": "with",
+   "start": 0.92,
+   "end": 1.14
+  },
+  {
+   "word": "strangers,",
+   "start": 1.14,
+   "end": 1.68
+  },
+  {
+   "word": "but",
+   "start": 1.68,
+   "end": 2.3
+  },
+  {
+   "word": "snap",
+   "start": 2.3,
+   "end": 2.72
+  },
+  {
+   "word": "at",
+   "start": 2.72,
+   "end": 2.96
+  },
+  {
+   "word": "the",
+   "start": 2.96,
+   "end": 3.04
+  },
+  {
+   "word": "people",
+   "start": 3.04,
+   "end": 3.28
+  },
+  {
+   "word": "you",
+   "start": 3.28,
+   "end": 3.46
+  },
+  {
+   "word": "love",
+   "start": 3.46,
+   "end": 3.68
+  },
+  {
+   "word": "most?",
+   "start": 3.68,
+   "end": 4.12
+  },
+  {
+   "word": "In",
+   "start": 4.74,
+   "end": 5.24
+  },
+  {
+   "word": "the",
+   "start": 5.24,
+   "end": 5.34
+  },
+  {
+   "word": "1980s,",
+   "start": 5.34,
+   "end": 6.2
+  },
+  {
+   "word": "psychologist",
+   "start": 6.38,
+   "end": 6.94
+  },
+  {
+   "word": "Rena",
+   "start": 6.94,
+   "end": 7.4
+  },
+  {
+   "word": "Repetti",
+   "start": 7.4,
+   "end": 7.86
+  },
+  {
+   "word": "studied",
+   "start": 7.86,
+   "end": 8.38
+  },
+  {
+   "word": "air",
+   "start": 8.38,
+   "end": 8.66
+  },
+  {
+   "word": "traffic",
+   "start": 8.66,
+   "end": 9.0
+  },
+  {
+   "word": "controllers",
+   "start": 9.0,
+   "end": 9.48
+  },
+  {
+   "word": "and",
+   "start": 9.48,
+   "end": 9.86
+  },
+  {
+   "word": "their",
+   "start": 9.86,
+   "end": 10.0
+  },
+  {
+   "word": "families.",
+   "start": 10.0,
+   "end": 10.38
+  },
+  {
+   "word": "On",
+   "start": 11.26,
+   "end": 11.42
+  },
+  {
+   "word": "their",
+   "start": 11.42,
+   "end": 11.56
+  },
+  {
+   "word": "most",
+   "start": 11.56,
+   "end": 11.88
+  },
+  {
+   "word": "stressful",
+   "start": 11.88,
+   "end": 12.44
+  },
+  {
+   "word": "days",
+   "start": 12.44,
+   "end": 12.78
+  },
+  {
+   "word": "at",
+   "start": 12.78,
+   "end": 12.96
+  },
+  {
+   "word": "work,",
+   "start": 12.96,
+   "end": 13.26
+  },
+  {
+   "word": "they",
+   "start": 13.58,
+   "end": 13.72
+  },
+  {
+   "word": "were",
+   "start": 13.72,
+   "end": 13.84
+  },
+  {
+   "word": "calm",
+   "start": 13.84,
+   "end": 14.3
+  },
+  {
+   "word": "and",
+   "start": 14.3,
+   "end": 14.54
+  },
+  {
+   "word": "controlled",
+   "start": 14.54,
+   "end": 15.06
+  },
+  {
+   "word": "with",
+   "start": 15.06,
+   "end": 15.34
+  },
+  {
+   "word": "the",
+   "start": 15.34,
+   "end": 15.52
+  },
+  {
+   "word": "planes.",
+   "start": 15.52,
+   "end": 15.84
+  },
+  {
+   "word": "But",
+   "start": 16.52,
+   "end": 16.78
+  },
+  {
+   "word": "at",
+   "start": 16.78,
+   "end": 16.92
+  },
+  {
+   "word": "home,",
+   "start": 16.92,
+   "end": 17.24
+  },
+  {
+   "word": "they",
+   "start": 17.52,
+   "end": 17.68
+  },
+  {
+   "word": "pulled",
+   "start": 17.68,
+   "end": 17.96
+  },
+  {
+   "word": "away,",
+   "start": 17.96,
+   "end": 18.34
+  },
+  {
+   "word": "or",
+   "start": 18.34,
+   "end": 18.72
+  },
+  {
+   "word": "got",
+   "start": 18.72,
+   "end": 18.94
+  },
+  {
+   "word": "irritable.",
+   "start": 18.94,
+   "end": 19.42
+  },
+  {
+   "word": "Psychologists",
+   "start": 20.34,
+   "end": 20.98
+  },
+  {
+   "word": "call",
+   "start": 20.98,
+   "end": 21.42
+  },
+  {
+   "word": "this",
+   "start": 21.42,
+   "end": 21.68
+  },
+  {
+   "word": "spillover.",
+   "start": 21.68,
+   "end": 22.46
+  },
+  {
+   "word": "You",
+   "start": 23.14,
+   "end": 23.28
+  },
+  {
+   "word": "hold",
+   "start": 23.28,
+   "end": 23.54
+  },
+  {
+   "word": "it",
+   "start": 23.54,
+   "end": 23.62
+  },
+  {
+   "word": "together",
+   "start": 23.62,
+   "end": 23.92
+  },
+  {
+   "word": "all",
+   "start": 23.92,
+   "end": 24.32
+  },
+  {
+   "word": "day,",
+   "start": 24.32,
+   "end": 24.66
+  },
+  {
+   "word": "at",
+   "start": 24.92,
+   "end": 25.22
+  },
+  {
+   "word": "school,",
+   "start": 25.22,
+   "end": 25.54
+  },
+  {
+   "word": "at",
+   "start": 25.94,
+   "end": 26.06
+  },
+  {
+   "word": "work,",
+   "start": 26.06,
+   "end": 26.34
+  },
+  {
+   "word": "with",
+   "start": 26.76,
+   "end": 26.9
+  },
+  {
+   "word": "strangers.",
+   "start": 26.9,
+   "end": 27.28
+  },
+  {
+   "word": "And",
+   "start": 27.28,
+   "end": 27.82
+  },
+  {
+   "word": "when",
+   "start": 27.82,
+   "end": 28.38
+  },
+  {
+   "word": "you",
+   "start": 28.38,
+   "end": 28.5
+  },
+  {
+   "word": "get",
+   "start": 28.5,
+   "end": 28.64
+  },
+  {
+   "word": "home,",
+   "start": 28.64,
+   "end": 28.96
+  },
+  {
+   "word": "the",
+   "start": 29.42,
+   "end": 29.52
+  },
+  {
+   "word": "effort",
+   "start": 29.52,
+   "end": 29.78
+  },
+  {
+   "word": "stops.",
+   "start": 29.78,
+   "end": 30.24
+  },
+  {
+   "word": "The",
+   "start": 31.08,
+   "end": 31.2
+  },
+  {
+   "word": "stress",
+   "start": 31.2,
+   "end": 31.56
+  },
+  {
+   "word": "comes",
+   "start": 31.56,
+   "end": 31.9
+  },
+  {
+   "word": "out",
+   "start": 31.9,
+   "end": 32.24
+  },
+  {
+   "word": "on",
+   "start": 32.24,
+   "end": 32.38
+  },
+  {
+   "word": "the",
+   "start": 32.38,
+   "end": 32.48
+  },
+  {
+   "word": "people",
+   "start": 32.48,
+   "end": 32.76
+  },
+  {
+   "word": "who",
+   "start": 32.76,
+   "end": 32.98
+  },
+  {
+   "word": "feel",
+   "start": 32.98,
+   "end": 33.22
+  },
+  {
+   "word": "safe.",
+   "start": 33.22,
+   "end": 33.68
+  },
+  {
+   "word": "Because",
+   "start": 34.12,
+   "end": 34.72
+  },
+  {
+   "word": "deep",
+   "start": 34.72,
+   "end": 35.0
+  },
+  {
+   "word": "down,",
+   "start": 35.0,
+   "end": 35.34
+  },
+  {
+   "word": "you",
+   "start": 35.82,
+   "end": 35.94
+  },
+  {
+   "word": "know",
+   "start": 35.94,
+   "end": 36.22
+  },
+  {
+   "word": "they'll",
+   "start": 36.22,
+   "end": 36.58
+  },
+  {
+   "word": "still",
+   "start": 36.58,
+   "end": 36.84
+  },
+  {
+   "word": "love",
+   "start": 36.84,
+   "end": 37.12
+  },
+  {
+   "word": "you",
+   "start": 37.12,
+   "end": 37.26
+  },
+  {
+   "word": "tomorrow.",
+   "start": 37.26,
+   "end": 37.64
+  },
+  {
+   "word": "That's",
+   "start": 38.5,
+   "end": 39.06
+  },
+  {
+   "word": "not",
+   "start": 39.06,
+   "end": 39.2
+  },
+  {
+   "word": "an",
+   "start": 39.2,
+   "end": 39.36
+  },
+  {
+   "word": "excuse.",
+   "start": 39.36,
+   "end": 39.72
+  },
+  {
+   "word": "But",
+   "start": 40.28,
+   "end": 40.62
+  },
+  {
+   "word": "it",
+   "start": 40.62,
+   "end": 40.74
+  },
+  {
+   "word": "is",
+   "start": 40.74,
+   "end": 41.16
+  },
+  {
+   "word": "an",
+   "start": 41.16,
+   "end": 41.4
+  },
+  {
+   "word": "explanation.",
+   "start": 41.4,
+   "end": 41.94
+  },
+  {
+   "word": "So",
+   "start": 42.88,
+   "end": 43.1
+  },
+  {
+   "word": "next",
+   "start": 43.1,
+   "end": 43.28
+  },
+  {
+   "word": "time",
+   "start": 43.28,
+   "end": 43.54
+  },
+  {
+   "word": "you",
+   "start": 43.54,
+   "end": 43.66
+  },
+  {
+   "word": "snap,",
+   "start": 43.66,
+   "end": 43.9
+  },
+  {
+   "word": "pause.",
+   "start": 44.6,
+   "end": 44.88
+  },
+  {
+   "word": "Say",
+   "start": 45.68,
+   "end": 45.94
+  },
+  {
+   "word": "\"I'm",
+   "start": 46.52,
+   "end": 46.66
+  },
+  {
+   "word": "stressed,",
+   "start": 46.66,
+   "end": 46.98
+  },
+  {
+   "word": "it's",
+   "start": 47.5,
+   "end": 47.66
+  },
+  {
+   "word": "not",
+   "start": 47.66,
+   "end": 47.82
+  },
+  {
+   "word": "you.\"",
+   "start": 47.82,
+   "end": 48.06
+  },
+  {
+   "word": "And",
+   "start": 48.56,
+   "end": 48.9
+  },
+  {
+   "word": "then",
+   "start": 48.9,
+   "end": 49.18
+  },
+  {
+   "word": "say",
+   "start": 49.52,
+   "end": 49.66
+  },
+  {
+   "word": "sorry.",
+   "start": 49.66,
+   "end": 50.0
+  },
+  {
+   "word": "Follow",
+   "start": 50.76,
+   "end": 51.26
+  },
+  {
+   "word": "for",
+   "start": 51.26,
+   "end": 51.58
+  },
+  {
+   "word": "more",
+   "start": 51.58,
+   "end": 51.74
+  },
+  {
+   "word": "psychology.",
+   "start": 51.74,
+   "end": 52.2
+  }
+ ]
+}
