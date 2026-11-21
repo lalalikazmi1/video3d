@@ -1,0 +1,665 @@
+{
+ "source": "whisper:small+script",
+ "words": [
+  {
+   "word": "Why",
+   "start": 0.0,
+   "end": 0.24
+  },
+  {
+   "word": "do",
+   "start": 0.24,
+   "end": 0.4
+  },
+  {
+   "word": "some",
+   "start": 0.4,
+   "end": 0.68
+  },
+  {
+   "word": "people",
+   "start": 0.68,
+   "end": 1.06
+  },
+  {
+   "word": "never",
+   "start": 1.06,
+   "end": 1.48
+  },
+  {
+   "word": "admit",
+   "start": 1.48,
+   "end": 1.84
+  },
+  {
+   "word": "they're",
+   "start": 1.84,
+   "end": 2.14
+  },
+  {
+   "word": "wrong,",
+   "start": 2.14,
+   "end": 2.44
+  },
+  {
+   "word": "even",
+   "start": 2.76,
+   "end": 3.04
+  },
+  {
+   "word": "when",
+   "start": 3.04,
+   "end": 3.2
+  },
+  {
+   "word": "the",
+   "start": 3.2,
+   "end": 3.34
+  },
+  {
+   "word": "proof",
+   "start": 3.34,
+   "end": 3.68
+  },
+  {
+   "word": "is",
+   "start": 3.68,
+   "end": 3.9
+  },
+  {
+   "word": "right",
+   "start": 3.9,
+   "end": 4.22
+  },
+  {
+   "word": "in",
+   "start": 4.22,
+   "end": 4.38
+  },
+  {
+   "word": "front",
+   "start": 4.38,
+   "end": 4.6
+  },
+  {
+   "word": "of",
+   "start": 4.6,
+   "end": 4.76
+  },
+  {
+   "word": "them?",
+   "start": 4.76,
+   "end": 4.94
+  },
+  {
+   "word": "In",
+   "start": 5.8,
+   "end": 5.96
+  },
+  {
+   "word": "1954,",
+   "start": 5.96,
+   "end": 6.58
+  },
+  {
+   "word": "psychologist",
+   "start": 7.28,
+   "end": 7.96
+  },
+  {
+   "word": "Leon",
+   "start": 7.96,
+   "end": 8.38
+  },
+  {
+   "word": "Festinger",
+   "start": 8.38,
+   "end": 9.0
+  },
+  {
+   "word": "secretly",
+   "start": 9.0,
+   "end": 9.58
+  },
+  {
+   "word": "joined",
+   "start": 9.58,
+   "end": 10.04
+  },
+  {
+   "word": "a",
+   "start": 10.04,
+   "end": 10.22
+  },
+  {
+   "word": "group",
+   "start": 10.22,
+   "end": 10.46
+  },
+  {
+   "word": "who",
+   "start": 10.46,
+   "end": 10.64
+  },
+  {
+   "word": "believed",
+   "start": 10.64,
+   "end": 10.96
+  },
+  {
+   "word": "the",
+   "start": 10.96,
+   "end": 11.2
+  },
+  {
+   "word": "world",
+   "start": 11.2,
+   "end": 11.48
+  },
+  {
+   "word": "would",
+   "start": 11.48,
+   "end": 11.66
+  },
+  {
+   "word": "end",
+   "start": 11.66,
+   "end": 12.02
+  },
+  {
+   "word": "in",
+   "start": 12.02,
+   "end": 12.24
+  },
+  {
+   "word": "a",
+   "start": 12.24,
+   "end": 12.38
+  },
+  {
+   "word": "great",
+   "start": 12.38,
+   "end": 12.64
+  },
+  {
+   "word": "flood",
+   "start": 12.64,
+   "end": 13.1
+  },
+  {
+   "word": "on",
+   "start": 13.1,
+   "end": 13.42
+  },
+  {
+   "word": "December",
+   "start": 13.42,
+   "end": 13.7
+  },
+  {
+   "word": "twenty-first.",
+   "start": 13.7,
+   "end": 15.28
+  },
+  {
+   "word": "Some",
+   "start": 15.28,
+   "end": 15.54
+  },
+  {
+   "word": "of",
+   "start": 15.54,
+   "end": 15.64
+  },
+  {
+   "word": "them",
+   "start": 15.64,
+   "end": 15.8
+  },
+  {
+   "word": "quit",
+   "start": 15.8,
+   "end": 16.04
+  },
+  {
+   "word": "their",
+   "start": 16.04,
+   "end": 16.22
+  },
+  {
+   "word": "jobs.",
+   "start": 16.22,
+   "end": 16.7
+  },
+  {
+   "word": "Gave",
+   "start": 17.04,
+   "end": 17.24
+  },
+  {
+   "word": "away",
+   "start": 17.24,
+   "end": 17.52
+  },
+  {
+   "word": "everything.",
+   "start": 17.52,
+   "end": 18.12
+  },
+  {
+   "word": "Then",
+   "start": 18.88,
+   "end": 19.22
+  },
+  {
+   "word": "the",
+   "start": 19.22,
+   "end": 19.58
+  },
+  {
+   "word": "day",
+   "start": 19.58,
+   "end": 19.82
+  },
+  {
+   "word": "came.",
+   "start": 19.82,
+   "end": 20.16
+  },
+  {
+   "word": "And",
+   "start": 20.76,
+   "end": 21.06
+  },
+  {
+   "word": "nothing",
+   "start": 21.06,
+   "end": 21.42
+  },
+  {
+   "word": "happened.",
+   "start": 21.42,
+   "end": 21.84
+  },
+  {
+   "word": "You'd",
+   "start": 22.54,
+   "end": 22.78
+  },
+  {
+   "word": "expect",
+   "start": 22.78,
+   "end": 23.06
+  },
+  {
+   "word": "them",
+   "start": 23.06,
+   "end": 23.36
+  },
+  {
+   "word": "to",
+   "start": 23.36,
+   "end": 23.52
+  },
+  {
+   "word": "give",
+   "start": 23.52,
+   "end": 23.68
+  },
+  {
+   "word": "up.",
+   "start": 23.68,
+   "end": 23.88
+  },
+  {
+   "word": "Instead,",
+   "start": 24.5,
+   "end": 24.9
+  },
+  {
+   "word": "many",
+   "start": 24.9,
+   "end": 25.56
+  },
+  {
+   "word": "believed",
+   "start": 25.56,
+   "end": 26.04
+  },
+  {
+   "word": "even",
+   "start": 26.04,
+   "end": 26.48
+  },
+  {
+   "word": "harder.",
+   "start": 26.48,
+   "end": 26.92
+  },
+  {
+   "word": "They",
+   "start": 27.54,
+   "end": 27.72
+  },
+  {
+   "word": "decided",
+   "start": 27.72,
+   "end": 28.14
+  },
+  {
+   "word": "their",
+   "start": 28.14,
+   "end": 28.44
+  },
+  {
+   "word": "faith",
+   "start": 28.44,
+   "end": 28.88
+  },
+  {
+   "word": "had",
+   "start": 28.88,
+   "end": 29.12
+  },
+  {
+   "word": "saved",
+   "start": 29.12,
+   "end": 29.5
+  },
+  {
+   "word": "the",
+   "start": 29.5,
+   "end": 29.74
+  },
+  {
+   "word": "world,",
+   "start": 29.74,
+   "end": 30.12
+  },
+  {
+   "word": "and",
+   "start": 30.12,
+   "end": 30.6
+  },
+  {
+   "word": "started",
+   "start": 30.6,
+   "end": 30.92
+  },
+  {
+   "word": "trying",
+   "start": 30.92,
+   "end": 31.22
+  },
+  {
+   "word": "to",
+   "start": 31.22,
+   "end": 31.4
+  },
+  {
+   "word": "recruit",
+   "start": 31.4,
+   "end": 31.74
+  },
+  {
+   "word": "more",
+   "start": 31.74,
+   "end": 32.08
+  },
+  {
+   "word": "people.",
+   "start": 32.08,
+   "end": 32.48
+  },
+  {
+   "word": "Festinger",
+   "start": 33.1,
+   "end": 33.6
+  },
+  {
+   "word": "called",
+   "start": 33.6,
+   "end": 33.92
+  },
+  {
+   "word": "this",
+   "start": 33.92,
+   "end": 34.24
+  },
+  {
+   "word": "cognitive",
+   "start": 34.24,
+   "end": 34.78
+  },
+  {
+   "word": "dissonance.",
+   "start": 34.78,
+   "end": 35.6
+  },
+  {
+   "word": "When",
+   "start": 36.2,
+   "end": 36.38
+  },
+  {
+   "word": "the",
+   "start": 36.38,
+   "end": 36.5
+  },
+  {
+   "word": "truth",
+   "start": 36.5,
+   "end": 36.82
+  },
+  {
+   "word": "clashes",
+   "start": 36.82,
+   "end": 37.4
+  },
+  {
+   "word": "with",
+   "start": 37.4,
+   "end": 37.68
+  },
+  {
+   "word": "who",
+   "start": 37.68,
+   "end": 37.86
+  },
+  {
+   "word": "you",
+   "start": 37.86,
+   "end": 38.04
+  },
+  {
+   "word": "think",
+   "start": 38.04,
+   "end": 38.32
+  },
+  {
+   "word": "you",
+   "start": 38.32,
+   "end": 38.58
+  },
+  {
+   "word": "are,",
+   "start": 38.58,
+   "end": 38.88
+  },
+  {
+   "word": "it",
+   "start": 39.22,
+   "end": 39.3
+  },
+  {
+   "word": "feels",
+   "start": 39.3,
+   "end": 39.56
+  },
+  {
+   "word": "painful.",
+   "start": 39.56,
+   "end": 40.02
+  },
+  {
+   "word": "And",
+   "start": 40.7,
+   "end": 40.78
+  },
+  {
+   "word": "changing",
+   "start": 40.78,
+   "end": 41.12
+  },
+  {
+   "word": "your",
+   "start": 41.12,
+   "end": 41.36
+  },
+  {
+   "word": "story",
+   "start": 41.36,
+   "end": 41.82
+  },
+  {
+   "word": "is",
+   "start": 41.82,
+   "end": 42.14
+  },
+  {
+   "word": "easier",
+   "start": 42.14,
+   "end": 42.64
+  },
+  {
+   "word": "than",
+   "start": 42.64,
+   "end": 42.88
+  },
+  {
+   "word": "admitting",
+   "start": 42.88,
+   "end": 43.2
+  },
+  {
+   "word": "you",
+   "start": 43.2,
+   "end": 43.5
+  },
+  {
+   "word": "were",
+   "start": 43.5,
+   "end": 43.62
+  },
+  {
+   "word": "wrong.",
+   "start": 43.62,
+   "end": 43.94
+  },
+  {
+   "word": "So",
+   "start": 44.66,
+   "end": 44.98
+  },
+  {
+   "word": "next",
+   "start": 44.98,
+   "end": 45.32
+  },
+  {
+   "word": "time",
+   "start": 45.32,
+   "end": 45.6
+  },
+  {
+   "word": "you",
+   "start": 45.6,
+   "end": 45.72
+  },
+  {
+   "word": "catch",
+   "start": 45.72,
+   "end": 45.94
+  },
+  {
+   "word": "yourself",
+   "start": 45.94,
+   "end": 46.3
+  },
+  {
+   "word": "defending",
+   "start": 46.3,
+   "end": 46.76
+  },
+  {
+   "word": "something,",
+   "start": 46.76,
+   "end": 47.26
+  },
+  {
+   "word": "ask:",
+   "start": 47.66,
+   "end": 48.0
+  },
+  {
+   "word": "am",
+   "start": 48.58,
+   "end": 48.72
+  },
+  {
+   "word": "I",
+   "start": 48.72,
+   "end": 48.84
+  },
+  {
+   "word": "protecting",
+   "start": 48.84,
+   "end": 49.24
+  },
+  {
+   "word": "the",
+   "start": 49.24,
+   "end": 49.46
+  },
+  {
+   "word": "truth,",
+   "start": 49.46,
+   "end": 49.82
+  },
+  {
+   "word": "or",
+   "start": 49.82,
+   "end": 50.36
+  },
+  {
+   "word": "my",
+   "start": 50.36,
+   "end": 50.54
+  },
+  {
+   "word": "pride?",
+   "start": 50.54,
+   "end": 50.96
+  },
+  {
+   "word": "Follow",
+   "start": 51.54,
+   "end": 52.06
+  },
+  {
+   "word": "for",
+   "start": 52.06,
+   "end": 52.36
+  },
+  {
+   "word": "more",
+   "start": 52.36,
+   "end": 52.56
+  },
+  {
+   "word": "psychology.",
+   "start": 52.56,
+   "end": 52.92
+  }
+ ]
+}

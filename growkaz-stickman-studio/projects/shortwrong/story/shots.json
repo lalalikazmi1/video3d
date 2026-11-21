@@ -1,0 +1,372 @@
+{
+ "title": "Short - Never Admit Wrong",
+ "duration": 53.551,
+ "shots": [
+  {
+   "id": "E01",
+   "start": 0,
+   "end": 5.65,
+   "line": "",
+   "scene": "",
+   "set": "",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.1,
+     "name": "blip",
+     "gain": -12
+    }
+   ]
+  },
+  {
+   "id": "E02",
+   "start": 5.65,
+   "end": 8.85,
+   "line": "",
+   "scene": "",
+   "set": "",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": []
+  },
+  {
+   "id": "E03",
+   "start": 8.85,
+   "end": 12.49,
+   "line": "",
+   "scene": "",
+   "set": "",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": []
+  },
+  {
+   "id": "E04",
+   "start": 12.49,
+   "end": 13.27,
+   "line": "",
+   "scene": "",
+   "set": "",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.15,
+     "name": "thunder",
+     "gain": -10
+    }
+   ]
+  },
+  {
+   "id": "E05",
+   "start": 13.27,
+   "end": 15.13,
+   "line": "",
+   "scene": "",
+   "set": "",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.05,
+     "name": "pop",
+     "gain": -12
+    }
+   ]
+  },
+  {
+   "id": "E06",
+   "start": 15.13,
+   "end": 16.89,
+   "line": "",
+   "scene": "",
+   "set": "",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.05,
+     "name": "whoosh",
+     "gain": -12
+    }
+   ]
+  },
+  {
+   "id": "E07",
+   "start": 16.89,
+   "end": 18.73,
+   "line": "",
+   "scene": "",
+   "set": "",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.1,
+     "name": "pop",
+     "gain": -14
+    },
+    {
+     "at": 0.5,
+     "name": "pop",
+     "gain": -14
+    },
+    {
+     "at": 0.9,
+     "name": "pop",
+     "gain": -14
+    }
+   ]
+  },
+  {
+   "id": "E08",
+   "start": 18.73,
+   "end": 20.61,
+   "line": "",
+   "scene": "",
+   "set": "",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "tick",
+     "gain": -12
+    },
+    {
+     "at": 0.8,
+     "name": "tick",
+     "gain": -12
+    },
+    {
+     "at": 1.4,
+     "name": "tick",
+     "gain": -12
+    }
+   ]
+  },
+  {
+   "id": "E09",
+   "start": 20.61,
+   "end": 22.39,
+   "line": "",
+   "scene": "",
+   "set": "",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "shimmer",
+     "gain": -12
+    }
+   ]
+  },
+  {
+   "id": "E10",
+   "start": 22.39,
+   "end": 24.35,
+   "line": "",
+   "scene": "",
+   "set": "",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": []
+  },
+  {
+   "id": "E11",
+   "start": 24.35,
+   "end": 27.39,
+   "line": "",
+   "scene": "",
+   "set": "",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 2.13,
+     "name": "vineboom",
+     "gain": -8
+    }
+   ]
+  },
+  {
+   "id": "E12",
+   "start": 27.39,
+   "end": 31.25,
+   "line": "",
+   "scene": "",
+   "set": "",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.73,
+     "name": "shimmer",
+     "gain": -12
+    }
+   ]
+  },
+  {
+   "id": "E13",
+   "start": 31.25,
+   "end": 32.95,
+   "line": "",
+   "scene": "",
+   "set": "",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.15,
+     "name": "pop",
+     "gain": -12
+    }
+   ]
+  },
+  {
+   "id": "E14",
+   "start": 32.95,
+   "end": 36.05,
+   "line": "",
+   "scene": "",
+   "set": "",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.05,
+     "name": "riser",
+     "gain": -14
+    }
+   ]
+  },
+  {
+   "id": "E15",
+   "start": 36.05,
+   "end": 40.55,
+   "line": "",
+   "scene": "",
+   "set": "",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.77,
+     "name": "glitch",
+     "gain": -10
+    }
+   ]
+  },
+  {
+   "id": "E16",
+   "start": 40.55,
+   "end": 44.51,
+   "line": "",
+   "scene": "",
+   "set": "",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": []
+  },
+  {
+   "id": "E17",
+   "start": 44.51,
+   "end": 48.69,
+   "line": "",
+   "scene": "",
+   "set": "",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": []
+  },
+  {
+   "id": "E18",
+   "start": 48.69,
+   "end": 51.39,
+   "line": "",
+   "scene": "",
+   "set": "",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.85,
+     "name": "impact",
+     "gain": -10
+    }
+   ]
+  },
+  {
+   "id": "E19",
+   "start": 51.39,
+   "end": 53.551,
+   "line": "",
+   "scene": "",
+   "set": "",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.1,
+     "name": "pop",
+     "gain": -12
+    }
+   ]
+  }
+ ],
+ "music": [
+  {
+   "start": 0,
+   "end": 25,
+   "mood": "mystery",
+   "intensity": 0.5
+  },
+  {
+   "start": 25,
+   "end": 53.551,
+   "mood": "tension",
+   "intensity": 0.55
+  }
+ ],
+ "sfx": []
+}
