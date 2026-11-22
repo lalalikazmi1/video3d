@@ -1,0 +1,660 @@
+{
+ "source": "whisper:small+script",
+ "words": [
+  {
+   "word": "A",
+   "start": 0.0,
+   "end": 0.14
+  },
+  {
+   "word": "great",
+   "start": 0.14,
+   "end": 0.44
+  },
+  {
+   "word": "holiday",
+   "start": 0.44,
+   "end": 0.98
+  },
+  {
+   "word": "with",
+   "start": 0.98,
+   "end": 1.42
+  },
+  {
+   "word": "a",
+   "start": 1.42,
+   "end": 1.58
+  },
+  {
+   "word": "terrible",
+   "start": 1.58,
+   "end": 2.1
+  },
+  {
+   "word": "last",
+   "start": 2.1,
+   "end": 2.5
+  },
+  {
+   "word": "day",
+   "start": 2.5,
+   "end": 2.86
+  },
+  {
+   "word": "somehow",
+   "start": 2.86,
+   "end": 3.44
+  },
+  {
+   "word": "feels",
+   "start": 3.44,
+   "end": 3.88
+  },
+  {
+   "word": "like",
+   "start": 3.88,
+   "end": 4.14
+  },
+  {
+   "word": "a",
+   "start": 4.14,
+   "end": 4.22
+  },
+  {
+   "word": "bad",
+   "start": 4.22,
+   "end": 4.58
+  },
+  {
+   "word": "holiday.",
+   "start": 4.58,
+   "end": 5.0
+  },
+  {
+   "word": "Why?",
+   "start": 5.58,
+   "end": 5.94
+  },
+  {
+   "word": "In",
+   "start": 6.94,
+   "end": 7.18
+  },
+  {
+   "word": "1993,",
+   "start": 7.18,
+   "end": 7.82
+  },
+  {
+   "word": "psychologist",
+   "start": 8.44,
+   "end": 9.04
+  },
+  {
+   "word": "Daniel",
+   "start": 9.04,
+   "end": 9.54
+  },
+  {
+   "word": "Kahneman",
+   "start": 9.54,
+   "end": 10.08
+  },
+  {
+   "word": "asked",
+   "start": 10.08,
+   "end": 10.6
+  },
+  {
+   "word": "people",
+   "start": 10.6,
+   "end": 10.94
+  },
+  {
+   "word": "to",
+   "start": 10.94,
+   "end": 11.16
+  },
+  {
+   "word": "put",
+   "start": 11.16,
+   "end": 11.32
+  },
+  {
+   "word": "their",
+   "start": 11.32,
+   "end": 11.52
+  },
+  {
+   "word": "hand",
+   "start": 11.52,
+   "end": 11.86
+  },
+  {
+   "word": "in",
+   "start": 11.86,
+   "end": 12.1
+  },
+  {
+   "word": "painfully",
+   "start": 12.1,
+   "end": 12.78
+  },
+  {
+   "word": "cold",
+   "start": 12.78,
+   "end": 13.08
+  },
+  {
+   "word": "water.",
+   "start": 13.08,
+   "end": 13.56
+  },
+  {
+   "word": "Once",
+   "start": 14.06,
+   "end": 14.54
+  },
+  {
+   "word": "for",
+   "start": 14.54,
+   "end": 14.84
+  },
+  {
+   "word": "sixty",
+   "start": 14.84,
+   "end": 15.2
+  },
+  {
+   "word": "seconds.",
+   "start": 15.2,
+   "end": 15.66
+  },
+  {
+   "word": "And",
+   "start": 16.26,
+   "end": 16.46
+  },
+  {
+   "word": "once",
+   "start": 16.46,
+   "end": 16.82
+  },
+  {
+   "word": "for",
+   "start": 16.82,
+   "end": 17.16
+  },
+  {
+   "word": "sixty",
+   "start": 17.16,
+   "end": 17.52
+  },
+  {
+   "word": "seconds,",
+   "start": 17.52,
+   "end": 18.04
+  },
+  {
+   "word": "plus",
+   "start": 18.04,
+   "end": 18.44
+  },
+  {
+   "word": "thirty",
+   "start": 18.44,
+   "end": 18.88
+  },
+  {
+   "word": "more,",
+   "start": 18.88,
+   "end": 19.32
+  },
+  {
+   "word": "while",
+   "start": 19.32,
+   "end": 19.74
+  },
+  {
+   "word": "the",
+   "start": 19.74,
+   "end": 19.88
+  },
+  {
+   "word": "water",
+   "start": 19.88,
+   "end": 20.12
+  },
+  {
+   "word": "warmed",
+   "start": 20.12,
+   "end": 20.5
+  },
+  {
+   "word": "up",
+   "start": 20.5,
+   "end": 20.76
+  },
+  {
+   "word": "just",
+   "start": 20.76,
+   "end": 21.08
+  },
+  {
+   "word": "a",
+   "start": 21.08,
+   "end": 21.3
+  },
+  {
+   "word": "little.",
+   "start": 21.3,
+   "end": 21.48
+  },
+  {
+   "word": "Then",
+   "start": 22.16,
+   "end": 22.56
+  },
+  {
+   "word": "he",
+   "start": 22.56,
+   "end": 22.72
+  },
+  {
+   "word": "asked:",
+   "start": 22.72,
+   "end": 23.1
+  },
+  {
+   "word": "which",
+   "start": 23.66,
+   "end": 23.82
+  },
+  {
+   "word": "one",
+   "start": 23.82,
+   "end": 24.04
+  },
+  {
+   "word": "do",
+   "start": 24.04,
+   "end": 24.18
+  },
+  {
+   "word": "you",
+   "start": 24.18,
+   "end": 24.26
+  },
+  {
+   "word": "want",
+   "start": 24.26,
+   "end": 24.44
+  },
+  {
+   "word": "to",
+   "start": 24.44,
+   "end": 24.62
+  },
+  {
+   "word": "repeat?",
+   "start": 24.62,
+   "end": 24.92
+  },
+  {
+   "word": "Most",
+   "start": 24.92,
+   "end": 26.18
+  },
+  {
+   "word": "people",
+   "start": 26.18,
+   "end": 26.56
+  },
+  {
+   "word": "chose",
+   "start": 26.56,
+   "end": 26.92
+  },
+  {
+   "word": "the",
+   "start": 26.92,
+   "end": 27.16
+  },
+  {
+   "word": "longer",
+   "start": 27.16,
+   "end": 27.44
+  },
+  {
+   "word": "one.",
+   "start": 27.44,
+   "end": 27.74
+  },
+  {
+   "word": "More",
+   "start": 28.2,
+   "end": 28.48
+  },
+  {
+   "word": "pain",
+   "start": 28.48,
+   "end": 28.86
+  },
+  {
+   "word": "in",
+   "start": 28.86,
+   "end": 29.06
+  },
+  {
+   "word": "total.",
+   "start": 29.06,
+   "end": 29.36
+  },
+  {
+   "word": "But",
+   "start": 29.98,
+   "end": 30.3
+  },
+  {
+   "word": "it",
+   "start": 30.3,
+   "end": 30.68
+  },
+  {
+   "word": "ended",
+   "start": 30.68,
+   "end": 31.06
+  },
+  {
+   "word": "better.",
+   "start": 31.06,
+   "end": 31.46
+  },
+  {
+   "word": "Kahneman",
+   "start": 32.14,
+   "end": 32.76
+  },
+  {
+   "word": "called",
+   "start": 32.76,
+   "end": 33.1
+  },
+  {
+   "word": "this",
+   "start": 33.1,
+   "end": 33.44
+  },
+  {
+   "word": "the",
+   "start": 33.44,
+   "end": 33.72
+  },
+  {
+   "word": "peak-end",
+   "start": 33.72,
+   "end": 34.42
+  },
+  {
+   "word": "rule.",
+   "start": 34.42,
+   "end": 34.76
+  },
+  {
+   "word": "Your",
+   "start": 35.44,
+   "end": 35.54
+  },
+  {
+   "word": "brain",
+   "start": 35.54,
+   "end": 35.8
+  },
+  {
+   "word": "doesn't",
+   "start": 35.8,
+   "end": 36.16
+  },
+  {
+   "word": "remember",
+   "start": 36.16,
+   "end": 36.6
+  },
+  {
+   "word": "the",
+   "start": 36.6,
+   "end": 36.78
+  },
+  {
+   "word": "whole",
+   "start": 36.78,
+   "end": 37.08
+  },
+  {
+   "word": "experience.",
+   "start": 37.08,
+   "end": 37.76
+  },
+  {
+   "word": "It",
+   "start": 38.32,
+   "end": 38.52
+  },
+  {
+   "word": "remembers",
+   "start": 38.52,
+   "end": 38.86
+  },
+  {
+   "word": "the",
+   "start": 38.86,
+   "end": 39.2
+  },
+  {
+   "word": "most",
+   "start": 39.2,
+   "end": 39.4
+  },
+  {
+   "word": "intense",
+   "start": 39.4,
+   "end": 39.98
+  },
+  {
+   "word": "moment,",
+   "start": 39.98,
+   "end": 40.42
+  },
+  {
+   "word": "and",
+   "start": 40.42,
+   "end": 40.86
+  },
+  {
+   "word": "how",
+   "start": 40.86,
+   "end": 41.1
+  },
+  {
+   "word": "it",
+   "start": 41.1,
+   "end": 41.2
+  },
+  {
+   "word": "ended.",
+   "start": 41.2,
+   "end": 41.42
+  },
+  {
+   "word": "Everything",
+   "start": 42.12,
+   "end": 42.46
+  },
+  {
+   "word": "else",
+   "start": 42.46,
+   "end": 42.8
+  },
+  {
+   "word": "gets",
+   "start": 42.8,
+   "end": 43.18
+  },
+  {
+   "word": "blurry.",
+   "start": 43.18,
+   "end": 43.52
+  },
+  {
+   "word": "So",
+   "start": 44.54,
+   "end": 44.86
+  },
+  {
+   "word": "the",
+   "start": 44.86,
+   "end": 45.28
+  },
+  {
+   "word": "ending",
+   "start": 45.28,
+   "end": 45.66
+  },
+  {
+   "word": "matters",
+   "start": 45.66,
+   "end": 46.08
+  },
+  {
+   "word": "more",
+   "start": 46.08,
+   "end": 46.44
+  },
+  {
+   "word": "than",
+   "start": 46.44,
+   "end": 46.64
+  },
+  {
+   "word": "you",
+   "start": 46.64,
+   "end": 46.78
+  },
+  {
+   "word": "think.",
+   "start": 46.78,
+   "end": 47.06
+  },
+  {
+   "word": "End",
+   "start": 47.86,
+   "end": 48.08
+  },
+  {
+   "word": "your",
+   "start": 48.08,
+   "end": 48.24
+  },
+  {
+   "word": "day",
+   "start": 48.24,
+   "end": 48.52
+  },
+  {
+   "word": "with",
+   "start": 48.52,
+   "end": 48.78
+  },
+  {
+   "word": "something",
+   "start": 48.78,
+   "end": 49.12
+  },
+  {
+   "word": "good.",
+   "start": 49.12,
+   "end": 49.56
+  },
+  {
+   "word": "End",
+   "start": 49.56,
+   "end": 50.36
+  },
+  {
+   "word": "a",
+   "start": 50.36,
+   "end": 50.52
+  },
+  {
+   "word": "fight",
+   "start": 50.52,
+   "end": 50.78
+  },
+  {
+   "word": "with",
+   "start": 50.78,
+   "end": 51.18
+  },
+  {
+   "word": "a",
+   "start": 51.18,
+   "end": 51.32
+  },
+  {
+   "word": "hug.",
+   "start": 51.32,
+   "end": 51.58
+  },
+  {
+   "word": "End",
+   "start": 51.58,
+   "end": 52.42
+  },
+  {
+   "word": "a",
+   "start": 52.42,
+   "end": 52.56
+  },
+  {
+   "word": "meeting",
+   "start": 52.56,
+   "end": 52.84
+  },
+  {
+   "word": "with",
+   "start": 52.84,
+   "end": 53.32
+  },
+  {
+   "word": "a",
+   "start": 53.32,
+   "end": 53.44
+  },
+  {
+   "word": "win.",
+   "start": 53.44,
+   "end": 53.76
+  },
+  {
+   "word": "Follow",
+   "start": 54.32,
+   "end": 54.76
+  },
+  {
+   "word": "for",
+   "start": 54.76,
+   "end": 55.1
+  },
+  {
+   "word": "more",
+   "start": 55.1,
+   "end": 55.28
+  },
+  {
+   "word": "psychology.",
+   "start": 55.28,
+   "end": 55.76
+  }
+ ]
+}
