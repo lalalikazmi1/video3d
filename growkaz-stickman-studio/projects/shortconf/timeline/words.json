@@ -1,0 +1,655 @@
+{
+ "source": "whisper:small+script",
+ "words": [
+  {
+   "word": "The",
+   "start": 0.0,
+   "end": 0.16
+  },
+  {
+   "word": "loudest",
+   "start": 0.16,
+   "end": 0.58
+  },
+  {
+   "word": "person",
+   "start": 0.58,
+   "end": 0.92
+  },
+  {
+   "word": "in",
+   "start": 0.92,
+   "end": 1.1
+  },
+  {
+   "word": "the",
+   "start": 1.1,
+   "end": 1.2
+  },
+  {
+   "word": "room",
+   "start": 1.2,
+   "end": 1.52
+  },
+  {
+   "word": "isn't",
+   "start": 1.52,
+   "end": 2.1
+  },
+  {
+   "word": "always",
+   "start": 2.1,
+   "end": 2.48
+  },
+  {
+   "word": "the",
+   "start": 2.48,
+   "end": 2.72
+  },
+  {
+   "word": "smartest.",
+   "start": 2.72,
+   "end": 3.06
+  },
+  {
+   "word": "So",
+   "start": 3.68,
+   "end": 4.0
+  },
+  {
+   "word": "why",
+   "start": 4.0,
+   "end": 4.42
+  },
+  {
+   "word": "do",
+   "start": 4.42,
+   "end": 4.52
+  },
+  {
+   "word": "we",
+   "start": 4.52,
+   "end": 4.64
+  },
+  {
+   "word": "believe",
+   "start": 4.64,
+   "end": 4.96
+  },
+  {
+   "word": "them?",
+   "start": 4.96,
+   "end": 5.22
+  },
+  {
+   "word": "In",
+   "start": 6.1,
+   "end": 6.28
+  },
+  {
+   "word": "2012,",
+   "start": 6.28,
+   "end": 6.82
+  },
+  {
+   "word": "psychologist",
+   "start": 7.26,
+   "end": 7.88
+  },
+  {
+   "word": "Cameron",
+   "start": 7.88,
+   "end": 8.4
+  },
+  {
+   "word": "Anderson",
+   "start": 8.4,
+   "end": 8.84
+  },
+  {
+   "word": "and",
+   "start": 8.84,
+   "end": 9.18
+  },
+  {
+   "word": "his",
+   "start": 9.18,
+   "end": 9.32
+  },
+  {
+   "word": "colleagues",
+   "start": 9.32,
+   "end": 9.8
+  },
+  {
+   "word": "put",
+   "start": 9.8,
+   "end": 10.2
+  },
+  {
+   "word": "students",
+   "start": 10.2,
+   "end": 10.6
+  },
+  {
+   "word": "into",
+   "start": 10.6,
+   "end": 10.9
+  },
+  {
+   "word": "groups",
+   "start": 10.9,
+   "end": 11.34
+  },
+  {
+   "word": "to",
+   "start": 11.34,
+   "end": 11.56
+  },
+  {
+   "word": "solve",
+   "start": 11.56,
+   "end": 11.82
+  },
+  {
+   "word": "problems",
+   "start": 11.82,
+   "end": 12.34
+  },
+  {
+   "word": "together.",
+   "start": 12.34,
+   "end": 12.66
+  },
+  {
+   "word": "Some",
+   "start": 13.44,
+   "end": 13.68
+  },
+  {
+   "word": "of",
+   "start": 13.68,
+   "end": 13.82
+  },
+  {
+   "word": "them",
+   "start": 13.82,
+   "end": 14.0
+  },
+  {
+   "word": "were",
+   "start": 14.0,
+   "end": 14.3
+  },
+  {
+   "word": "overconfident.",
+   "start": 14.3,
+   "end": 15.16
+  },
+  {
+   "word": "They",
+   "start": 15.72,
+   "end": 15.88
+  },
+  {
+   "word": "thought",
+   "start": 15.88,
+   "end": 16.12
+  },
+  {
+   "word": "they",
+   "start": 16.12,
+   "end": 16.3
+  },
+  {
+   "word": "were",
+   "start": 16.3,
+   "end": 16.44
+  },
+  {
+   "word": "much",
+   "start": 16.44,
+   "end": 16.8
+  },
+  {
+   "word": "better",
+   "start": 16.8,
+   "end": 17.14
+  },
+  {
+   "word": "than",
+   "start": 17.14,
+   "end": 17.36
+  },
+  {
+   "word": "they",
+   "start": 17.36,
+   "end": 17.5
+  },
+  {
+   "word": "actually",
+   "start": 17.5,
+   "end": 17.86
+  },
+  {
+   "word": "were.",
+   "start": 17.86,
+   "end": 18.18
+  },
+  {
+   "word": "You'd",
+   "start": 18.88,
+   "end": 19.12
+  },
+  {
+   "word": "expect",
+   "start": 19.12,
+   "end": 19.4
+  },
+  {
+   "word": "the",
+   "start": 19.4,
+   "end": 19.66
+  },
+  {
+   "word": "group",
+   "start": 19.66,
+   "end": 19.84
+  },
+  {
+   "word": "to",
+   "start": 19.84,
+   "end": 20.0
+  },
+  {
+   "word": "notice.",
+   "start": 20.0,
+   "end": 20.26
+  },
+  {
+   "word": "They",
+   "start": 20.94,
+   "end": 21.24
+  },
+  {
+   "word": "didn't.",
+   "start": 21.24,
+   "end": 21.66
+  },
+  {
+   "word": "The",
+   "start": 22.28,
+   "end": 22.48
+  },
+  {
+   "word": "overconfident",
+   "start": 22.48,
+   "end": 23.24
+  },
+  {
+   "word": "people",
+   "start": 23.24,
+   "end": 23.58
+  },
+  {
+   "word": "were",
+   "start": 23.58,
+   "end": 23.86
+  },
+  {
+   "word": "rated",
+   "start": 23.86,
+   "end": 24.14
+  },
+  {
+   "word": "as",
+   "start": 24.14,
+   "end": 24.42
+  },
+  {
+   "word": "more",
+   "start": 24.42,
+   "end": 24.72
+  },
+  {
+   "word": "competent,",
+   "start": 24.72,
+   "end": 25.2
+  },
+  {
+   "word": "more",
+   "start": 25.6,
+   "end": 25.78
+  },
+  {
+   "word": "respected,",
+   "start": 25.78,
+   "end": 26.22
+  },
+  {
+   "word": "and",
+   "start": 26.74,
+   "end": 27.06
+  },
+  {
+   "word": "more",
+   "start": 27.06,
+   "end": 27.36
+  },
+  {
+   "word": "likely",
+   "start": 27.36,
+   "end": 27.7
+  },
+  {
+   "word": "to",
+   "start": 27.7,
+   "end": 27.9
+  },
+  {
+   "word": "be",
+   "start": 27.9,
+   "end": 28.04
+  },
+  {
+   "word": "seen",
+   "start": 28.04,
+   "end": 28.32
+  },
+  {
+   "word": "as",
+   "start": 28.32,
+   "end": 28.46
+  },
+  {
+   "word": "leaders.",
+   "start": 28.46,
+   "end": 28.78
+  },
+  {
+   "word": "Even",
+   "start": 29.35,
+   "end": 29.68
+  },
+  {
+   "word": "though",
+   "start": 29.68,
+   "end": 29.94
+  },
+  {
+   "word": "they",
+   "start": 29.94,
+   "end": 30.12
+  },
+  {
+   "word": "weren't",
+   "start": 30.12,
+   "end": 30.56
+  },
+  {
+   "word": "any",
+   "start": 30.56,
+   "end": 30.76
+  },
+  {
+   "word": "better.",
+   "start": 30.76,
+   "end": 31.04
+  },
+  {
+   "word": "Why?",
+   "start": 31.82,
+   "end": 32.1
+  },
+  {
+   "word": "Because",
+   "start": 32.8,
+   "end": 33.12
+  },
+  {
+   "word": "confidence",
+   "start": 33.12,
+   "end": 33.7
+  },
+  {
+   "word": "looks",
+   "start": 33.7,
+   "end": 34.34
+  },
+  {
+   "word": "like",
+   "start": 34.34,
+   "end": 34.7
+  },
+  {
+   "word": "competence.",
+   "start": 34.7,
+   "end": 35.24
+  },
+  {
+   "word": "For",
+   "start": 35.9,
+   "end": 36.1
+  },
+  {
+   "word": "our",
+   "start": 36.1,
+   "end": 36.3
+  },
+  {
+   "word": "brains,",
+   "start": 36.3,
+   "end": 36.76
+  },
+  {
+   "word": "sounding",
+   "start": 37.2,
+   "end": 37.46
+  },
+  {
+   "word": "sure",
+   "start": 37.46,
+   "end": 37.9
+  },
+  {
+   "word": "is",
+   "start": 37.9,
+   "end": 38.28
+  },
+  {
+   "word": "a",
+   "start": 38.28,
+   "end": 38.42
+  },
+  {
+   "word": "shortcut",
+   "start": 38.42,
+   "end": 38.74
+  },
+  {
+   "word": "for",
+   "start": 38.74,
+   "end": 39.1
+  },
+  {
+   "word": "being",
+   "start": 39.1,
+   "end": 39.34
+  },
+  {
+   "word": "right.",
+   "start": 39.34,
+   "end": 39.68
+  },
+  {
+   "word": "And",
+   "start": 40.14,
+   "end": 40.52
+  },
+  {
+   "word": "most",
+   "start": 40.52,
+   "end": 40.8
+  },
+  {
+   "word": "of",
+   "start": 40.8,
+   "end": 40.96
+  },
+  {
+   "word": "the",
+   "start": 40.96,
+   "end": 41.06
+  },
+  {
+   "word": "time,",
+   "start": 41.06,
+   "end": 41.36
+  },
+  {
+   "word": "we",
+   "start": 41.6,
+   "end": 41.76
+  },
+  {
+   "word": "don't",
+   "start": 41.76,
+   "end": 41.96
+  },
+  {
+   "word": "check.",
+   "start": 41.96,
+   "end": 42.24
+  },
+  {
+   "word": "So",
+   "start": 43.08,
+   "end": 43.46
+  },
+  {
+   "word": "next",
+   "start": 43.46,
+   "end": 43.84
+  },
+  {
+   "word": "time",
+   "start": 43.84,
+   "end": 44.12
+  },
+  {
+   "word": "someone",
+   "start": 44.12,
+   "end": 44.48
+  },
+  {
+   "word": "sounds",
+   "start": 44.48,
+   "end": 44.9
+  },
+  {
+   "word": "certain,",
+   "start": 44.9,
+   "end": 45.44
+  },
+  {
+   "word": "ask",
+   "start": 45.84,
+   "end": 46.08
+  },
+  {
+   "word": "one",
+   "start": 46.08,
+   "end": 46.44
+  },
+  {
+   "word": "question:",
+   "start": 46.44,
+   "end": 46.92
+  },
+  {
+   "word": "what's",
+   "start": 47.62,
+   "end": 47.86
+  },
+  {
+   "word": "their",
+   "start": 47.86,
+   "end": 48.0
+  },
+  {
+   "word": "track",
+   "start": 48.0,
+   "end": 48.32
+  },
+  {
+   "word": "record?",
+   "start": 48.32,
+   "end": 48.62
+  },
+  {
+   "word": "Not",
+   "start": 49.16,
+   "end": 49.44
+  },
+  {
+   "word": "how",
+   "start": 49.44,
+   "end": 49.74
+  },
+  {
+   "word": "they",
+   "start": 49.74,
+   "end": 49.94
+  },
+  {
+   "word": "say",
+   "start": 49.94,
+   "end": 50.16
+  },
+  {
+   "word": "it.",
+   "start": 50.16,
+   "end": 50.34
+  },
+  {
+   "word": "What",
+   "start": 50.74,
+   "end": 50.9
+  },
+  {
+   "word": "they've",
+   "start": 50.9,
+   "end": 51.16
+  },
+  {
+   "word": "actually",
+   "start": 51.16,
+   "end": 51.6
+  },
+  {
+   "word": "done.",
+   "start": 51.6,
+   "end": 52.08
+  },
+  {
+   "word": "Follow",
+   "start": 52.72,
+   "end": 53.26
+  },
+  {
+   "word": "for",
+   "start": 53.26,
+   "end": 53.58
+  },
+  {
+   "word": "more",
+   "start": 53.58,
+   "end": 53.78
+  },
+  {
+   "word": "psychology.",
+   "start": 53.78,
+   "end": 54.24
+  }
+ ]
+}
