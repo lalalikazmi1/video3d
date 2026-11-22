@@ -1,0 +1,23 @@
+{
+ "title": "Short - Ex",
+ "aspect": "9:16",
+ "resolution": "1080p",
+ "fps": 24,
+ "style": "ember",
+ "voiceover": "input/voiceover.mp3",
+ "script": "input/script.txt",
+ "duration": 54.126,
+ "captions": false,
+ "bars": "none",
+ "fadeIn": 0.5,
+ "fadeOut": 0.3,
+ "music": {
+  "enabled": true,
+  "gainDb": -17
+ },
+ "sfx": {
+  "enabled": true,
+  "gainDb": -6
+ },
+ "loudness": -14
+}

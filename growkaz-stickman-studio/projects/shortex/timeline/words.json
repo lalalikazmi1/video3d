@@ -1,0 +1,660 @@
+{
+ "source": "whisper:small+script",
+ "words": [
+  {
+   "word": "It's",
+   "start": 0.0,
+   "end": 0.26
+  },
+  {
+   "word": "been",
+   "start": 0.26,
+   "end": 0.44
+  },
+  {
+   "word": "months.",
+   "start": 0.44,
+   "end": 0.9
+  },
+  {
+   "word": "So",
+   "start": 1.32,
+   "end": 1.66
+  },
+  {
+   "word": "why",
+   "start": 1.66,
+   "end": 2.08
+  },
+  {
+   "word": "can't",
+   "start": 2.08,
+   "end": 2.38
+  },
+  {
+   "word": "you",
+   "start": 2.38,
+   "end": 2.46
+  },
+  {
+   "word": "stop",
+   "start": 2.46,
+   "end": 2.8
+  },
+  {
+   "word": "thinking",
+   "start": 2.8,
+   "end": 3.24
+  },
+  {
+   "word": "about",
+   "start": 3.24,
+   "end": 3.54
+  },
+  {
+   "word": "your",
+   "start": 3.54,
+   "end": 3.76
+  },
+  {
+   "word": "ex?",
+   "start": 3.76,
+   "end": 4.02
+  },
+  {
+   "word": "In",
+   "start": 4.96,
+   "end": 5.26
+  },
+  {
+   "word": "2010,",
+   "start": 5.26,
+   "end": 5.76
+  },
+  {
+   "word": "anthropologist",
+   "start": 6.24,
+   "end": 6.98
+  },
+  {
+   "word": "Helen",
+   "start": 6.98,
+   "end": 7.32
+  },
+  {
+   "word": "Fisher",
+   "start": 7.32,
+   "end": 7.68
+  },
+  {
+   "word": "and",
+   "start": 7.68,
+   "end": 8.02
+  },
+  {
+   "word": "her",
+   "start": 8.02,
+   "end": 8.16
+  },
+  {
+   "word": "team",
+   "start": 8.16,
+   "end": 8.38
+  },
+  {
+   "word": "put",
+   "start": 8.38,
+   "end": 8.78
+  },
+  {
+   "word": "people",
+   "start": 8.78,
+   "end": 9.12
+  },
+  {
+   "word": "who",
+   "start": 9.12,
+   "end": 9.36
+  },
+  {
+   "word": "had",
+   "start": 9.36,
+   "end": 9.5
+  },
+  {
+   "word": "just",
+   "start": 9.5,
+   "end": 9.76
+  },
+  {
+   "word": "been",
+   "start": 9.76,
+   "end": 10.02
+  },
+  {
+   "word": "dumped",
+   "start": 10.02,
+   "end": 10.4
+  },
+  {
+   "word": "into",
+   "start": 10.4,
+   "end": 10.76
+  },
+  {
+   "word": "a",
+   "start": 10.76,
+   "end": 10.98
+  },
+  {
+   "word": "brain",
+   "start": 10.98,
+   "end": 11.2
+  },
+  {
+   "word": "scanner.",
+   "start": 11.2,
+   "end": 11.56
+  },
+  {
+   "word": "Then",
+   "start": 12.34,
+   "end": 12.64
+  },
+  {
+   "word": "they",
+   "start": 12.64,
+   "end": 13.04
+  },
+  {
+   "word": "showed",
+   "start": 13.04,
+   "end": 13.3
+  },
+  {
+   "word": "them",
+   "start": 13.3,
+   "end": 13.52
+  },
+  {
+   "word": "a",
+   "start": 13.52,
+   "end": 13.6
+  },
+  {
+   "word": "photo",
+   "start": 13.6,
+   "end": 13.9
+  },
+  {
+   "word": "of",
+   "start": 13.9,
+   "end": 14.18
+  },
+  {
+   "word": "their",
+   "start": 14.18,
+   "end": 14.34
+  },
+  {
+   "word": "ex.",
+   "start": 14.34,
+   "end": 14.7
+  },
+  {
+   "word": "The",
+   "start": 15.62,
+   "end": 15.84
+  },
+  {
+   "word": "parts",
+   "start": 15.84,
+   "end": 16.08
+  },
+  {
+   "word": "of",
+   "start": 16.08,
+   "end": 16.22
+  },
+  {
+   "word": "the",
+   "start": 16.22,
+   "end": 16.32
+  },
+  {
+   "word": "brain",
+   "start": 16.32,
+   "end": 16.6
+  },
+  {
+   "word": "that",
+   "start": 16.6,
+   "end": 16.78
+  },
+  {
+   "word": "lit",
+   "start": 16.78,
+   "end": 17.0
+  },
+  {
+   "word": "up",
+   "start": 17.0,
+   "end": 17.28
+  },
+  {
+   "word": "weren't",
+   "start": 17.28,
+   "end": 17.68
+  },
+  {
+   "word": "just",
+   "start": 17.68,
+   "end": 17.9
+  },
+  {
+   "word": "linked",
+   "start": 17.9,
+   "end": 18.2
+  },
+  {
+   "word": "to",
+   "start": 18.2,
+   "end": 18.46
+  },
+  {
+   "word": "sadness.",
+   "start": 18.46,
+   "end": 18.9
+  },
+  {
+   "word": "They",
+   "start": 19.4,
+   "end": 19.7
+  },
+  {
+   "word": "were",
+   "start": 19.7,
+   "end": 19.84
+  },
+  {
+   "word": "linked",
+   "start": 19.84,
+   "end": 20.12
+  },
+  {
+   "word": "to",
+   "start": 20.12,
+   "end": 20.32
+  },
+  {
+   "word": "reward,",
+   "start": 20.32,
+   "end": 20.8
+  },
+  {
+   "word": "craving,",
+   "start": 21.24,
+   "end": 21.54
+  },
+  {
+   "word": "and",
+   "start": 22.02,
+   "end": 22.14
+  },
+  {
+   "word": "addiction.",
+   "start": 22.14,
+   "end": 22.54
+  },
+  {
+   "word": "The",
+   "start": 23.28,
+   "end": 23.5
+  },
+  {
+   "word": "same",
+   "start": 23.5,
+   "end": 23.78
+  },
+  {
+   "word": "areas",
+   "start": 23.78,
+   "end": 24.22
+  },
+  {
+   "word": "that",
+   "start": 24.22,
+   "end": 24.46
+  },
+  {
+   "word": "light",
+   "start": 24.46,
+   "end": 24.68
+  },
+  {
+   "word": "up",
+   "start": 24.68,
+   "end": 24.92
+  },
+  {
+   "word": "when",
+   "start": 24.92,
+   "end": 25.1
+  },
+  {
+   "word": "people",
+   "start": 25.1,
+   "end": 25.38
+  },
+  {
+   "word": "crave",
+   "start": 25.38,
+   "end": 25.72
+  },
+  {
+   "word": "drugs.",
+   "start": 25.72,
+   "end": 26.2
+  },
+  {
+   "word": "That's",
+   "start": 26.92,
+   "end": 27.56
+  },
+  {
+   "word": "why",
+   "start": 27.56,
+   "end": 27.72
+  },
+  {
+   "word": "you",
+   "start": 27.72,
+   "end": 27.88
+  },
+  {
+   "word": "check",
+   "start": 27.88,
+   "end": 28.1
+  },
+  {
+   "word": "their",
+   "start": 28.1,
+   "end": 28.24
+  },
+  {
+   "word": "profile.",
+   "start": 28.24,
+   "end": 28.74
+  },
+  {
+   "word": "Reread",
+   "start": 29.36,
+   "end": 29.82
+  },
+  {
+   "word": "old",
+   "start": 29.82,
+   "end": 29.96
+  },
+  {
+   "word": "messages.",
+   "start": 29.96,
+   "end": 30.42
+  },
+  {
+   "word": "Hope",
+   "start": 31.0,
+   "end": 31.26
+  },
+  {
+   "word": "they'll",
+   "start": 31.26,
+   "end": 31.48
+  },
+  {
+   "word": "text.",
+   "start": 31.48,
+   "end": 31.88
+  },
+  {
+   "word": "It's",
+   "start": 32.72,
+   "end": 33.04
+  },
+  {
+   "word": "not",
+   "start": 33.04,
+   "end": 33.18
+  },
+  {
+   "word": "weakness.",
+   "start": 33.18,
+   "end": 33.54
+  },
+  {
+   "word": "Your",
+   "start": 34.18,
+   "end": 34.34
+  },
+  {
+   "word": "brain",
+   "start": 34.34,
+   "end": 34.72
+  },
+  {
+   "word": "is",
+   "start": 34.72,
+   "end": 34.98
+  },
+  {
+   "word": "going",
+   "start": 34.98,
+   "end": 35.2
+  },
+  {
+   "word": "through",
+   "start": 35.2,
+   "end": 35.48
+  },
+  {
+   "word": "withdrawal.",
+   "start": 35.48,
+   "end": 36.04
+  },
+  {
+   "word": "And",
+   "start": 36.68,
+   "end": 36.86
+  },
+  {
+   "word": "like",
+   "start": 36.86,
+   "end": 37.06
+  },
+  {
+   "word": "any",
+   "start": 37.06,
+   "end": 37.32
+  },
+  {
+   "word": "withdrawal,",
+   "start": 37.32,
+   "end": 37.82
+  },
+  {
+   "word": "every",
+   "start": 38.32,
+   "end": 38.52
+  },
+  {
+   "word": "little",
+   "start": 38.52,
+   "end": 38.82
+  },
+  {
+   "word": "\"hit\"",
+   "start": 38.82,
+   "end": 39.24
+  },
+  {
+   "word": "keeps",
+   "start": 39.24,
+   "end": 39.82
+  },
+  {
+   "word": "the",
+   "start": 39.82,
+   "end": 40.04
+  },
+  {
+   "word": "craving",
+   "start": 40.04,
+   "end": 40.32
+  },
+  {
+   "word": "alive.",
+   "start": 40.32,
+   "end": 40.76
+  },
+  {
+   "word": "So",
+   "start": 41.5,
+   "end": 41.84
+  },
+  {
+   "word": "the",
+   "start": 41.84,
+   "end": 42.0
+  },
+  {
+   "word": "fastest",
+   "start": 42.0,
+   "end": 42.38
+  },
+  {
+   "word": "way",
+   "start": 42.38,
+   "end": 42.7
+  },
+  {
+   "word": "through",
+   "start": 42.7,
+   "end": 42.96
+  },
+  {
+   "word": "is",
+   "start": 42.96,
+   "end": 43.46
+  },
+  {
+   "word": "the",
+   "start": 43.46,
+   "end": 43.64
+  },
+  {
+   "word": "hardest.",
+   "start": 43.64,
+   "end": 43.92
+  },
+  {
+   "word": "No",
+   "start": 44.78,
+   "end": 45.0
+  },
+  {
+   "word": "checking.",
+   "start": 45.0,
+   "end": 45.32
+  },
+  {
+   "word": "No",
+   "start": 45.84,
+   "end": 45.94
+  },
+  {
+   "word": "scrolling.",
+   "start": 45.94,
+   "end": 46.4
+  },
+  {
+   "word": "No",
+   "start": 46.94,
+   "end": 47.12
+  },
+  {
+   "word": "\"just",
+   "start": 47.12,
+   "end": 47.62
+  },
+  {
+   "word": "one",
+   "start": 47.62,
+   "end": 47.92
+  },
+  {
+   "word": "look\".",
+   "start": 47.92,
+   "end": 48.22
+  },
+  {
+   "word": "Give",
+   "start": 48.86,
+   "end": 49.14
+  },
+  {
+   "word": "your",
+   "start": 49.14,
+   "end": 49.34
+  },
+  {
+   "word": "brain",
+   "start": 49.34,
+   "end": 49.62
+  },
+  {
+   "word": "time",
+   "start": 49.62,
+   "end": 50.06
+  },
+  {
+   "word": "to",
+   "start": 50.06,
+   "end": 50.32
+  },
+  {
+   "word": "forget",
+   "start": 50.32,
+   "end": 50.7
+  },
+  {
+   "word": "the",
+   "start": 50.7,
+   "end": 50.94
+  },
+  {
+   "word": "reward.",
+   "start": 50.94,
+   "end": 51.36
+  },
+  {
+   "word": "Follow",
+   "start": 51.36,
+   "end": 52.6
+  },
+  {
+   "word": "for",
+   "start": 52.6,
+   "end": 52.92
+  },
+  {
+   "word": "more",
+   "start": 52.92,
+   "end": 53.12
+  },
+  {
+   "word": "psychology.",
+   "start": 53.12,
+   "end": 53.6
+  }
+ ]
+}
