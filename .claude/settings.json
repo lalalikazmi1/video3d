@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__ElevenLabs",
+      "mcp__ElevenLabs__creative_generate_speech",
+      "mcp__ElevenLabs__creative_get_flow_run_status",
+      "mcp__ElevenLabs__creative_list_voices",
+      "Bash(curl:*)"
+    ]
+  }
+}
