@@ -1,0 +1,705 @@
+{
+ "source": "whisper:small+script",
+ "words": [
+  {
+   "word": "What",
+   "start": 0.0,
+   "end": 0.24
+  },
+  {
+   "word": "if",
+   "start": 0.24,
+   "end": 0.4
+  },
+  {
+   "word": "you",
+   "start": 0.4,
+   "end": 0.52
+  },
+  {
+   "word": "never",
+   "start": 0.52,
+   "end": 0.9
+  },
+  {
+   "word": "felt",
+   "start": 0.9,
+   "end": 1.26
+  },
+  {
+   "word": "fear",
+   "start": 1.26,
+   "end": 1.66
+  },
+  {
+   "word": "again?",
+   "start": 1.66,
+   "end": 2.06
+  },
+  {
+   "word": "No",
+   "start": 2.8,
+   "end": 2.98
+  },
+  {
+   "word": "nerves",
+   "start": 2.98,
+   "end": 3.38
+  },
+  {
+   "word": "before",
+   "start": 3.38,
+   "end": 3.68
+  },
+  {
+   "word": "an",
+   "start": 3.68,
+   "end": 3.88
+  },
+  {
+   "word": "exam.",
+   "start": 3.88,
+   "end": 4.26
+  },
+  {
+   "word": "No",
+   "start": 4.76,
+   "end": 4.9
+  },
+  {
+   "word": "anxiety.",
+   "start": 4.9,
+   "end": 5.4
+  },
+  {
+   "word": "No",
+   "start": 5.98,
+   "end": 6.1
+  },
+  {
+   "word": "panic.",
+   "start": 6.1,
+   "end": 6.5
+  },
+  {
+   "word": "Sounds",
+   "start": 7.2,
+   "end": 7.5
+  },
+  {
+   "word": "perfect,",
+   "start": 7.5,
+   "end": 7.96
+  },
+  {
+   "word": "right?",
+   "start": 8.1,
+   "end": 8.28
+  },
+  {
+   "word": "There's",
+   "start": 9.08,
+   "end": 9.46
+  },
+  {
+   "word": "a",
+   "start": 9.46,
+   "end": 9.56
+  },
+  {
+   "word": "woman",
+   "start": 9.56,
+   "end": 9.74
+  },
+  {
+   "word": "known",
+   "start": 9.74,
+   "end": 10.0
+  },
+  {
+   "word": "to",
+   "start": 10.0,
+   "end": 10.18
+  },
+  {
+   "word": "scientists",
+   "start": 10.18,
+   "end": 10.82
+  },
+  {
+   "word": "only",
+   "start": 10.82,
+   "end": 11.3
+  },
+  {
+   "word": "as",
+   "start": 11.3,
+   "end": 11.66
+  },
+  {
+   "word": "S.M.",
+   "start": 11.66,
+   "end": 12.14
+  },
+  {
+   "word": "A",
+   "start": 13.18,
+   "end": 13.34
+  },
+  {
+   "word": "rare",
+   "start": 13.34,
+   "end": 13.54
+  },
+  {
+   "word": "condition",
+   "start": 13.54,
+   "end": 14.1
+  },
+  {
+   "word": "damaged",
+   "start": 14.1,
+   "end": 14.52
+  },
+  {
+   "word": "a",
+   "start": 14.52,
+   "end": 14.84
+  },
+  {
+   "word": "small",
+   "start": 14.84,
+   "end": 15.14
+  },
+  {
+   "word": "part",
+   "start": 15.14,
+   "end": 15.42
+  },
+  {
+   "word": "of",
+   "start": 15.42,
+   "end": 15.56
+  },
+  {
+   "word": "her",
+   "start": 15.56,
+   "end": 15.68
+  },
+  {
+   "word": "brain",
+   "start": 15.68,
+   "end": 16.08
+  },
+  {
+   "word": "called",
+   "start": 16.08,
+   "end": 16.4
+  },
+  {
+   "word": "the",
+   "start": 16.4,
+   "end": 16.66
+  },
+  {
+   "word": "amygdala,",
+   "start": 16.66,
+   "end": 17.16
+  },
+  {
+   "word": "and",
+   "start": 17.4,
+   "end": 17.76
+  },
+  {
+   "word": "she",
+   "start": 17.76,
+   "end": 17.94
+  },
+  {
+   "word": "can't",
+   "start": 17.94,
+   "end": 18.36
+  },
+  {
+   "word": "feel",
+   "start": 18.36,
+   "end": 18.66
+  },
+  {
+   "word": "fear.",
+   "start": 18.66,
+   "end": 19.12
+  },
+  {
+   "word": "Researchers",
+   "start": 20.0,
+   "end": 20.38
+  },
+  {
+   "word": "took",
+   "start": 20.38,
+   "end": 20.86
+  },
+  {
+   "word": "her",
+   "start": 20.86,
+   "end": 20.98
+  },
+  {
+   "word": "to",
+   "start": 20.98,
+   "end": 21.14
+  },
+  {
+   "word": "an",
+   "start": 21.14,
+   "end": 21.28
+  },
+  {
+   "word": "exotic",
+   "start": 21.28,
+   "end": 21.66
+  },
+  {
+   "word": "pet",
+   "start": 21.66,
+   "end": 22.0
+  },
+  {
+   "word": "store.",
+   "start": 22.0,
+   "end": 22.34
+  },
+  {
+   "word": "She",
+   "start": 22.92,
+   "end": 23.08
+  },
+  {
+   "word": "walked",
+   "start": 23.08,
+   "end": 23.3
+  },
+  {
+   "word": "straight",
+   "start": 23.3,
+   "end": 23.76
+  },
+  {
+   "word": "up",
+   "start": 23.76,
+   "end": 23.94
+  },
+  {
+   "word": "to",
+   "start": 23.94,
+   "end": 24.08
+  },
+  {
+   "word": "the",
+   "start": 24.08,
+   "end": 24.2
+  },
+  {
+   "word": "snakes",
+   "start": 24.2,
+   "end": 24.5
+  },
+  {
+   "word": "and",
+   "start": 24.5,
+   "end": 24.82
+  },
+  {
+   "word": "tried",
+   "start": 24.82,
+   "end": 25.1
+  },
+  {
+   "word": "to",
+   "start": 25.1,
+   "end": 25.28
+  },
+  {
+   "word": "touch",
+   "start": 25.28,
+   "end": 25.6
+  },
+  {
+   "word": "them.",
+   "start": 25.6,
+   "end": 25.82
+  },
+  {
+   "word": "They",
+   "start": 26.28,
+   "end": 26.44
+  },
+  {
+   "word": "had",
+   "start": 26.44,
+   "end": 26.6
+  },
+  {
+   "word": "to",
+   "start": 26.6,
+   "end": 26.74
+  },
+  {
+   "word": "stop",
+   "start": 26.74,
+   "end": 27.02
+  },
+  {
+   "word": "her.",
+   "start": 27.02,
+   "end": 27.3
+  },
+  {
+   "word": "They",
+   "start": 27.8,
+   "end": 28.1
+  },
+  {
+   "word": "took",
+   "start": 28.1,
+   "end": 28.34
+  },
+  {
+   "word": "her",
+   "start": 28.34,
+   "end": 28.46
+  },
+  {
+   "word": "to",
+   "start": 28.46,
+   "end": 28.58
+  },
+  {
+   "word": "a",
+   "start": 28.58,
+   "end": 28.74
+  },
+  {
+   "word": "haunted",
+   "start": 28.74,
+   "end": 29.0
+  },
+  {
+   "word": "house.",
+   "start": 29.0,
+   "end": 29.42
+  },
+  {
+   "word": "She",
+   "start": 29.96,
+   "end": 30.16
+  },
+  {
+   "word": "laughed",
+   "start": 30.16,
+   "end": 30.56
+  },
+  {
+   "word": "at",
+   "start": 30.56,
+   "end": 30.76
+  },
+  {
+   "word": "the",
+   "start": 30.76,
+   "end": 30.86
+  },
+  {
+   "word": "monsters,",
+   "start": 30.86,
+   "end": 31.26
+  },
+  {
+   "word": "and",
+   "start": 31.26,
+   "end": 31.72
+  },
+  {
+   "word": "even",
+   "start": 31.72,
+   "end": 31.92
+  },
+  {
+   "word": "scared",
+   "start": 31.92,
+   "end": 32.36
+  },
+  {
+   "word": "one",
+   "start": 32.36,
+   "end": 32.58
+  },
+  {
+   "word": "of",
+   "start": 32.58,
+   "end": 32.7
+  },
+  {
+   "word": "the",
+   "start": 32.7,
+   "end": 32.84
+  },
+  {
+   "word": "actors.",
+   "start": 32.84,
+   "end": 33.14
+  },
+  {
+   "word": "But",
+   "start": 33.86,
+   "end": 34.1
+  },
+  {
+   "word": "in",
+   "start": 34.1,
+   "end": 34.24
+  },
+  {
+   "word": "real",
+   "start": 34.24,
+   "end": 34.5
+  },
+  {
+   "word": "life,",
+   "start": 34.5,
+   "end": 34.9
+  },
+  {
+   "word": "she's",
+   "start": 35.16,
+   "end": 35.42
+  },
+  {
+   "word": "walked",
+   "start": 35.42,
+   "end": 35.66
+  },
+  {
+   "word": "into",
+   "start": 35.66,
+   "end": 35.9
+  },
+  {
+   "word": "dangerous",
+   "start": 35.9,
+   "end": 36.4
+  },
+  {
+   "word": "situations",
+   "start": 36.4,
+   "end": 37.04
+  },
+  {
+   "word": "that",
+   "start": 37.04,
+   "end": 37.5
+  },
+  {
+   "word": "most",
+   "start": 37.5,
+   "end": 37.8
+  },
+  {
+   "word": "people",
+   "start": 37.8,
+   "end": 38.18
+  },
+  {
+   "word": "would",
+   "start": 38.18,
+   "end": 38.44
+  },
+  {
+   "word": "run",
+   "start": 38.44,
+   "end": 38.72
+  },
+  {
+   "word": "from.",
+   "start": 38.72,
+   "end": 39.06
+  },
+  {
+   "word": "Because",
+   "start": 39.6,
+   "end": 39.92
+  },
+  {
+   "word": "fear",
+   "start": 39.92,
+   "end": 40.32
+  },
+  {
+   "word": "isn't",
+   "start": 40.32,
+   "end": 40.86
+  },
+  {
+   "word": "the",
+   "start": 40.86,
+   "end": 41.0
+  },
+  {
+   "word": "enemy.",
+   "start": 41.0,
+   "end": 41.24
+  },
+  {
+   "word": "It's",
+   "start": 41.84,
+   "end": 42.02
+  },
+  {
+   "word": "an",
+   "start": 42.02,
+   "end": 42.12
+  },
+  {
+   "word": "alarm",
+   "start": 42.12,
+   "end": 42.44
+  },
+  {
+   "word": "system",
+   "start": 42.44,
+   "end": 42.88
+  },
+  {
+   "word": "that's",
+   "start": 42.88,
+   "end": 43.3
+  },
+  {
+   "word": "kept",
+   "start": 43.3,
+   "end": 43.48
+  },
+  {
+   "word": "humans",
+   "start": 43.48,
+   "end": 43.84
+  },
+  {
+   "word": "alive",
+   "start": 43.84,
+   "end": 44.3
+  },
+  {
+   "word": "for",
+   "start": 44.3,
+   "end": 44.56
+  },
+  {
+   "word": "millions",
+   "start": 44.56,
+   "end": 45.04
+  },
+  {
+   "word": "of",
+   "start": 45.04,
+   "end": 45.34
+  },
+  {
+   "word": "years.",
+   "start": 45.34,
+   "end": 45.62
+  },
+  {
+   "word": "So",
+   "start": 46.3,
+   "end": 46.52
+  },
+  {
+   "word": "next",
+   "start": 46.52,
+   "end": 46.68
+  },
+  {
+   "word": "time",
+   "start": 46.68,
+   "end": 46.96
+  },
+  {
+   "word": "you",
+   "start": 46.96,
+   "end": 47.12
+  },
+  {
+   "word": "feel",
+   "start": 47.12,
+   "end": 47.34
+  },
+  {
+   "word": "scared,",
+   "start": 47.34,
+   "end": 47.84
+  },
+  {
+   "word": "remember:",
+   "start": 48.2,
+   "end": 48.44
+  },
+  {
+   "word": "your",
+   "start": 49.06,
+   "end": 49.24
+  },
+  {
+   "word": "brain",
+   "start": 49.24,
+   "end": 49.66
+  },
+  {
+   "word": "is",
+   "start": 49.66,
+   "end": 49.96
+  },
+  {
+   "word": "trying",
+   "start": 49.96,
+   "end": 50.34
+  },
+  {
+   "word": "to",
+   "start": 50.34,
+   "end": 50.58
+  },
+  {
+   "word": "protect",
+   "start": 50.58,
+   "end": 50.9
+  },
+  {
+   "word": "you.",
+   "start": 50.9,
+   "end": 51.24
+  },
+  {
+   "word": "Follow",
+   "start": 51.24,
+   "end": 52.2
+  },
+  {
+   "word": "for",
+   "start": 52.2,
+   "end": 52.5
+  },
+  {
+   "word": "more",
+   "start": 52.5,
+   "end": 52.7
+  },
+  {
+   "word": "psychology.",
+   "start": 52.7,
+   "end": 53.16
+  }
+ ]
+}
