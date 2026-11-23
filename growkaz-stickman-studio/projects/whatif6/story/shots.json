@@ -1,0 +1,406 @@
+{
+ "title": "What If You Could See Your Life From the Outside",
+ "duration": 51.148,
+ "shots": [
+  {
+   "id": "E01",
+   "start": 0,
+   "end": 3.03,
+   "line": "",
+   "scene": "",
+   "set": "",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.05,
+     "name": "riser",
+     "gain": -14
+    }
+   ]
+  },
+  {
+   "id": "E02",
+   "start": 3.03,
+   "end": 5.43,
+   "line": "",
+   "scene": "",
+   "set": "",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.91,
+     "name": "shimmer",
+     "gain": -12
+    }
+   ]
+  },
+  {
+   "id": "E03",
+   "start": 5.43,
+   "end": 6.71,
+   "line": "",
+   "scene": "",
+   "set": "",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.05,
+     "name": "hit",
+     "gain": -10
+    }
+   ]
+  },
+  {
+   "id": "E04",
+   "start": 6.71,
+   "end": 8.35,
+   "line": "",
+   "scene": "",
+   "set": "",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.05,
+     "name": "scratch",
+     "gain": -12
+    }
+   ]
+  },
+  {
+   "id": "E05",
+   "start": 8.35,
+   "end": 11.15,
+   "line": "",
+   "scene": "",
+   "set": "",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.99,
+     "name": "pop",
+     "gain": -12
+    },
+    {
+     "at": 1.87,
+     "name": "vineboom",
+     "gain": -10
+    }
+   ]
+  },
+  {
+   "id": "E06",
+   "start": 11.15,
+   "end": 14.15,
+   "line": "",
+   "scene": "",
+   "set": "",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.91,
+     "name": "ding",
+     "gain": -10
+    }
+   ]
+  },
+  {
+   "id": "E07",
+   "start": 14.15,
+   "end": 15.95,
+   "line": "",
+   "scene": "",
+   "set": "",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.05,
+     "name": "hum",
+     "gain": -12
+    }
+   ]
+  },
+  {
+   "id": "E08",
+   "start": 15.95,
+   "end": 17.89,
+   "line": "",
+   "scene": "",
+   "set": "",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.29,
+     "name": "stinger",
+     "gain": -10
+    }
+   ]
+  },
+  {
+   "id": "E09",
+   "start": 17.89,
+   "end": 23.97,
+   "line": "",
+   "scene": "",
+   "set": "",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.43,
+     "name": "pop",
+     "gain": -12
+    }
+   ]
+  },
+  {
+   "id": "E10",
+   "start": 23.97,
+   "end": 25.11,
+   "line": "",
+   "scene": "",
+   "set": "",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.15,
+     "name": "riser",
+     "gain": -12
+    }
+   ]
+  },
+  {
+   "id": "E11",
+   "start": 25.11,
+   "end": 28.25,
+   "line": "",
+   "scene": "",
+   "set": "",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.25,
+     "name": "pop",
+     "gain": -12
+    }
+   ]
+  },
+  {
+   "id": "E12",
+   "start": 28.25,
+   "end": 30.33,
+   "line": "",
+   "scene": "",
+   "set": "",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.15,
+     "name": "ding",
+     "gain": -10
+    }
+   ]
+  },
+  {
+   "id": "E13",
+   "start": 30.33,
+   "end": 34.15,
+   "line": "",
+   "scene": "",
+   "set": "",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 2.59,
+     "name": "glitch",
+     "gain": -10
+    }
+   ]
+  },
+  {
+   "id": "E14",
+   "start": 34.15,
+   "end": 36.65,
+   "line": "",
+   "scene": "",
+   "set": "",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.75,
+     "name": "swish",
+     "gain": -10
+    }
+   ]
+  },
+  {
+   "id": "E15",
+   "start": 36.65,
+   "end": 40.43,
+   "line": "",
+   "scene": "",
+   "set": "",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.81,
+     "name": "blip",
+     "gain": -12
+    }
+   ]
+  },
+  {
+   "id": "E16",
+   "start": 40.43,
+   "end": 41.53,
+   "line": "",
+   "scene": "",
+   "set": "",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.15,
+     "name": "whoosh",
+     "gain": -12
+    }
+   ]
+  },
+  {
+   "id": "E17",
+   "start": 41.53,
+   "end": 43.49,
+   "line": "",
+   "scene": "",
+   "set": "",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.11,
+     "name": "cheer",
+     "gain": -18
+    }
+   ]
+  },
+  {
+   "id": "E18",
+   "start": 43.49,
+   "end": 46.43,
+   "line": "",
+   "scene": "",
+   "set": "",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.91,
+     "name": "whoosh",
+     "gain": -12
+    }
+   ]
+  },
+  {
+   "id": "E19",
+   "start": 46.43,
+   "end": 49.21,
+   "line": "",
+   "scene": "",
+   "set": "",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 2.01,
+     "name": "ding",
+     "gain": -10
+    }
+   ]
+  },
+  {
+   "id": "E20",
+   "start": 49.21,
+   "end": 51.148,
+   "line": "",
+   "scene": "",
+   "set": "",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.1,
+     "name": "pop",
+     "gain": -12
+    }
+   ]
+  }
+ ],
+ "music": [
+  {
+   "start": 0,
+   "end": 25,
+   "mood": "mystery",
+   "intensity": 0.5
+  },
+  {
+   "start": 25,
+   "end": 51.148,
+   "mood": "tension",
+   "intensity": 0.55
+  }
+ ],
+ "sfx": []
+}
