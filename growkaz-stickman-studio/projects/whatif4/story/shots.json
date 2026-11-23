@@ -1,0 +1,316 @@
+{
+ "title": "What If - Never Sleep",
+ "duration": 54.518,
+ "shots": [
+  {
+   "id": "E01",
+   "start": 0,
+   "end": 2.23,
+   "line": "",
+   "scene": "",
+   "set": "",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.05,
+     "name": "riser",
+     "gain": -14
+    },
+    {
+     "at": 0.6,
+     "name": "scratch",
+     "gain": -12
+    }
+   ]
+  },
+  {
+   "id": "E02",
+   "start": 2.23,
+   "end": 5.53,
+   "line": "",
+   "scene": "",
+   "set": "",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.15,
+     "name": "ding",
+     "gain": -10
+    }
+   ]
+  },
+  {
+   "id": "E03",
+   "start": 5.53,
+   "end": 8.95,
+   "line": "",
+   "scene": "",
+   "set": "",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.67,
+     "name": "pop",
+     "gain": -12
+    },
+    {
+     "at": 1.49,
+     "name": "pop",
+     "gain": -12
+    },
+    {
+     "at": 2.35,
+     "name": "pop",
+     "gain": -12
+    }
+   ]
+  },
+  {
+   "id": "E04",
+   "start": 8.95,
+   "end": 14.87,
+   "line": "",
+   "scene": "",
+   "set": "",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": []
+  },
+  {
+   "id": "E05",
+   "start": 14.87,
+   "end": 19.69,
+   "line": "",
+   "scene": "",
+   "set": "",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "tick",
+     "gain": -14
+    },
+    {
+     "at": 0.9,
+     "name": "tick",
+     "gain": -14
+    },
+    {
+     "at": 1.5,
+     "name": "tick",
+     "gain": -14
+    },
+    {
+     "at": 2.1,
+     "name": "tick",
+     "gain": -14
+    },
+    {
+     "at": 2.7,
+     "name": "tick",
+     "gain": -14
+    }
+   ]
+  },
+  {
+   "id": "E06",
+   "start": 19.69,
+   "end": 22.99,
+   "line": "",
+   "scene": "",
+   "set": "",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.1,
+     "name": "hum",
+     "gain": -14
+    }
+   ]
+  },
+  {
+   "id": "E07",
+   "start": 22.99,
+   "end": 28.43,
+   "line": "",
+   "scene": "",
+   "set": "",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.73,
+     "name": "glitch",
+     "gain": -10
+    }
+   ]
+  },
+  {
+   "id": "E08",
+   "start": 28.43,
+   "end": 34.99,
+   "line": "",
+   "scene": "",
+   "set": "",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 2.53,
+     "name": "scratch",
+     "gain": -12
+    }
+   ]
+  },
+  {
+   "id": "E09",
+   "start": 34.99,
+   "end": 37.77,
+   "line": "",
+   "scene": "",
+   "set": "",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.41,
+     "name": "shimmer",
+     "gain": -12
+    }
+   ]
+  },
+  {
+   "id": "E10",
+   "start": 37.77,
+   "end": 43.99,
+   "line": "",
+   "scene": "",
+   "set": "",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 2.73,
+     "name": "ding",
+     "gain": -12
+    }
+   ]
+  },
+  {
+   "id": "E11",
+   "start": 43.99,
+   "end": 47.23,
+   "line": "",
+   "scene": "",
+   "set": "",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.15,
+     "name": "whoosh",
+     "gain": -12
+    }
+   ]
+  },
+  {
+   "id": "E12",
+   "start": 47.23,
+   "end": 49.59,
+   "line": "",
+   "scene": "",
+   "set": "",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.4,
+     "name": "ding",
+     "gain": -10
+    }
+   ]
+  },
+  {
+   "id": "E13",
+   "start": 49.59,
+   "end": 52.45,
+   "line": "",
+   "scene": "",
+   "set": "",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.31,
+     "name": "shimmer",
+     "gain": -12
+    }
+   ]
+  },
+  {
+   "id": "E14",
+   "start": 52.45,
+   "end": 54.518,
+   "line": "",
+   "scene": "",
+   "set": "",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.1,
+     "name": "pop",
+     "gain": -12
+    }
+   ]
+  }
+ ],
+ "music": [
+  {
+   "start": 0,
+   "end": 25,
+   "mood": "mystery",
+   "intensity": 0.5
+  },
+  {
+   "start": 25,
+   "end": 54.518,
+   "mood": "tension",
+   "intensity": 0.55
+  }
+ ],
+ "sfx": []
+}

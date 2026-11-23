@@ -1,0 +1,27 @@
+import { E, S, ease, prog, clamp, lerp, seg, circle, ring, rr, poly, glow, linGrad, alpha, text, FONTS } from '/engine/core.js';
+import { bigFace, drawFigure, POSES } from '/engine/rig2d.js';
+import { shot } from './_kit.js';
+import { cross, check } from './_h.js';
+import { phone, bell, bedroom, clockFace, heart, lightning, timer } from './_s.js';
+import { shirt, spotlight, cyber, highlighter, replay, coffee, bush, grass, note } from './_e.js';
+import { laptop, tabs, pyramid, dominos, residue, flowWave, desk } from './_l.js';
+import { calendar, inbox, shockBox, lion, suitcase, shield, monster, todo, sunsetSky } from './_d.js';
+import * as CAST from '../cast.js';
+const ui = () => S().ui;
+const big = (g, str, x, y, size, col, a = 1) => text(g, str, E.W * x, E.H * y, { size, color: col || ui().cream, font: FONTS.title, weight: 700, glow: 20, glowColor: alpha(col || ui().gold, 0.5), alpha: a });
+const fadeIn = (t, c, d = 0.4) => ease.out(prog(t, c, c + d));
+
+shot('E01', { bg: 'black', drawFirst(g, t) { bedroom(g, t); }, draw(g, t) { cross(g, E.W / 2, E.H * 0.6, 300, prog(t, 0.6, 1), '#d63a2a'); }, pops: [[0.1, 'WHAT IF', 0.5, 0.08, 110, 'gold'], [0.5, 'YOU NEVER SLEPT?', 0.5, 0.16, 90, 'cream']], dust: false });
+shot('E02', { bg: 'black', draw(g, t) { clockFace(g, E.W / 2, E.H * 0.45, 260, t * 3, (t * 180) % 60); }, pops: [['Eight', '+8 HOURS', 0.5, 0.1, 120, 'green'], ['every', 'EVERY DAY', 0.5, 0.82, 96, 'gold']], dust: false });
+shot('E03', { bg: 'stage', figs: [{ x: 0, o: 'YOU', pose: 'cheer', expr: 'joy', s: 1.4 }], pops: [['study', 'STUDY', 0.2, 0.14, 72, 'gold'], ['game', 'GAME', 0.5, 0.2, 72, 'gold'], [1.03, 'LIVE', 0.8, 0.14, 72, 'gold']] });
+shot('E04', { bg: 'school', figs: [{ x: 0, o: 'RANDY', pose: 'cheer', expr: 'joy', s: 1.4 }], badge: [0.2, '1964'], pops: [['seventeen', '17 YEARS OLD', 0.5, 0.12, 90, 'gold'], ['Randy', 'RANDY GARDNER', 0.5, 0.2, 84, 'cream']] });
+shot('E05', { bg: 'black', draw(g, t) { const n = Math.min(11, 1 + Math.floor(t * 3)); calendar(g, E.W / 2, E.H * 0.42, 1.2, 'DAYS AWAKE', '#c84a3a', String(n)); }, pops: [['project', 'A SCIENCE PROJECT', 0.5, 0.08, 84, 'cream'], [1.45, '11 DAYS STRAIGHT', 0.5, 0.8, 96, 'red']], dust: false });
+shot('E06', { bg: 'black', draw(g, t) { calendar(g, E.W * 0.78, E.H * 0.2, 0.5, 'DAY', '#c84a3a', '2'); g.save(); g.filter = 'blur(' + (6 + 4 * Math.sin(t * 3)) + 'px)'; bigFace(g, E.W / 2, E.H * 0.62, 300, { outfit: CAST.RANDY, expr: 'sleepy', look: [0, 0], rimColor: ui().gold }); g.restore(); }, pops: [[0.99, 'CAN’T FOCUS HIS EYES', 0.5, 0.36, 76, 'cream']], dust: false });
+shot('E07', { bg: 'black', draw(g, t) { calendar(g, E.W * 0.78, E.H * 0.2, 0.5, 'DAY', '#c84a3a', '4'); bigFace(g, E.W / 2, E.H * 0.7, 280, { outfit: CAST.RANDY, expr: 'shocked', look: [0.5, -0.5], rimColor: '#8a5ad6' }); for (let j = 0; j < 5; j++) { const an = t * 1.5 + j * 1.26; g.save(); g.globalAlpha = 0.6; circle(g, E.W / 2 + Math.cos(an) * 360, E.H * 0.36 + Math.sin(an) * 120, 40, ['#8a5ad6', '#3a9e5a', '#d6a03a', '#3a8fd6', '#c84a3a'][j]); g.restore(); } }, pops: [['hallucinating', 'HALLUCINATING', 0.5, 0.1, 96, 'red'], [1.63, '“I’M A FAMOUS FOOTBALLER”', 0.5, 0.46, 62, 'gold']], dust: false });
+shot('E08', { bg: 'black', draw(g, t) { calendar(g, E.W * 0.78, E.H * 0.2, 0.5, 'DAY', '#c84a3a', '11'); text(g, '7 + 5 = ?', E.W / 2, E.H * 0.4, { size: 140, color: ui().cream, font: FONTS.title, weight: 700 }); bigFace(g, E.W / 2, E.H * 0.84, 240, { outfit: CAST.RANDY, expr: 'sleepy', look: [0, -0.5], rimColor: ui().gold }); }, pops: [['maths', 'SIMPLE MATHS: HARD', 0.5, 0.1, 84, 'red'], [1.97, 'LOSING HIS SENTENCES', 0.5, 0.56, 76, 'cream']], dust: false });
+shot('E09', { bg: 'black', drawFirst(g, t) { bedroom(g, t); bigFace(g, E.W * 0.5, E.H * 0.86, 260, { outfit: CAST.YOU, expr: 'sleepy', look: [0, -0.6], rimColor: '#7ab8ff' }); }, pops: [['wasted', 'SLEEP ISN’T WASTED TIME', 0.5, 0.12, 62, 'green']], dust: false });
+shot('E10', { bg: 'black', icons: [['brain', 0.5, 0.45, 1.6, 0.05]], draw(g, t, i, { cue }) { const k = clamp(prog(t, cue('stores'), cue('stores') + 2)); for (let j = 0; j < 6; j++) { const p = clamp(k * 6 - j); if (p > 0) { g.save(); g.globalAlpha = p; rr(g, E.W * (0.2 + (j % 3) * 0.3) - 60, E.H * (0.76 + Math.floor(j / 3) * 0.08) - 30, 120, 60, 6); g.fillStyle = ['#3a8fd6', '#d6a03a', '#3a9e5a'][j % 3]; g.fill(); g.restore(); } } }, pops: [['stores', 'STORES YOUR MEMORIES', 0.5, 0.12, 80, 'gold']] });
+shot('E11', { bg: 'black', icons: [['brain', 0.5, 0.45, 1.6, 0.05]], draw(g, t) { const waste = (k) => { for (let j = 0; j < 24; j++) { const an = j * 2.4, r = 120 + (j % 5) * 30; g.save(); g.globalAlpha = 1 - k; circle(g, E.W / 2 + Math.cos(an) * r, E.H * 0.45 + Math.sin(an) * r * 0.7, 14, '#8a6a3a'); g.restore(); } }; waste(clamp(t / 3)); }, badge: [0.2, '2013'], pops: [['clears', 'CLEARS OUT WASTE', 0.5, 0.12, 90, 'green'], [0.97, 'THAT BUILDS UP WHILE AWAKE', 0.5, 0.82, 60, 'cream']] });
+shot('E12', { bg: 'black', draw(g, t) { clockFace(g, E.W / 2, E.H * 0.45, 240, 8, 0); check(g, E.W * 0.78, E.H * 0.3, 90, prog(t, 0.4, 0.9), '#5fd17a'); }, pops: [[0.71, '8 HOURS: NOT LOST', 0.5, 0.12, 90, 'green']], dust: false });
+shot('E13', { bg: 'black', drawFirst(g, t) { sunsetSky(g, 0.05); }, figs: [{ x: 0, o: 'YOU', pose: 'cheer', expr: 'joy', s: 1.5 }], pops: [['ready', 'READY FOR TOMORROW', 0.5, 0.12, 84, 'gold']] });
+shot('E14', { bg: 'black', icons: [['brain', 0.5, 0.45, 1.6, 0.05]], pops: [[0.1, 'FOLLOW FOR MORE', 0.5, 0.75, 100, 'red'], [0.3, 'PSYCHOLOGY', 0.5, 0.84, 90, 'gold']], dust: false });
