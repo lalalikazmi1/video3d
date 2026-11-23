@@ -1,0 +1,665 @@
+{
+ "source": "whisper:small+script",
+ "words": [
+  {
+   "word": "What",
+   "start": 0.0,
+   "end": 0.22
+  },
+  {
+   "word": "if",
+   "start": 0.22,
+   "end": 0.38
+  },
+  {
+   "word": "you",
+   "start": 0.38,
+   "end": 0.5
+  },
+  {
+   "word": "could",
+   "start": 0.5,
+   "end": 0.68
+  },
+  {
+   "word": "read",
+   "start": 0.68,
+   "end": 0.9
+  },
+  {
+   "word": "everyone's",
+   "start": 0.9,
+   "end": 1.74
+  },
+  {
+   "word": "mind",
+   "start": 1.74,
+   "end": 2.04
+  },
+  {
+   "word": "for",
+   "start": 2.04,
+   "end": 2.34
+  },
+  {
+   "word": "one",
+   "start": 2.34,
+   "end": 2.66
+  },
+  {
+   "word": "day?",
+   "start": 2.66,
+   "end": 3.0
+  },
+  {
+   "word": "You'd",
+   "start": 3.74,
+   "end": 3.96
+  },
+  {
+   "word": "finally",
+   "start": 3.96,
+   "end": 4.32
+  },
+  {
+   "word": "know",
+   "start": 4.32,
+   "end": 4.66
+  },
+  {
+   "word": "what",
+   "start": 4.66,
+   "end": 4.82
+  },
+  {
+   "word": "they",
+   "start": 4.82,
+   "end": 4.94
+  },
+  {
+   "word": "really",
+   "start": 4.94,
+   "end": 5.3
+  },
+  {
+   "word": "think",
+   "start": 5.3,
+   "end": 5.58
+  },
+  {
+   "word": "of",
+   "start": 5.58,
+   "end": 5.76
+  },
+  {
+   "word": "you.",
+   "start": 5.76,
+   "end": 5.92
+  },
+  {
+   "word": "Your",
+   "start": 6.34,
+   "end": 6.5
+  },
+  {
+   "word": "crush.",
+   "start": 6.5,
+   "end": 6.84
+  },
+  {
+   "word": "Your",
+   "start": 7.3,
+   "end": 7.38
+  },
+  {
+   "word": "boss.",
+   "start": 7.38,
+   "end": 7.68
+  },
+  {
+   "word": "The",
+   "start": 8.26,
+   "end": 8.38
+  },
+  {
+   "word": "people",
+   "start": 8.38,
+   "end": 8.58
+  },
+  {
+   "word": "who",
+   "start": 8.58,
+   "end": 8.76
+  },
+  {
+   "word": "saw",
+   "start": 8.76,
+   "end": 8.96
+  },
+  {
+   "word": "you",
+   "start": 8.96,
+   "end": 9.1
+  },
+  {
+   "word": "trip",
+   "start": 9.1,
+   "end": 9.3
+  },
+  {
+   "word": "this",
+   "start": 9.3,
+   "end": 9.56
+  },
+  {
+   "word": "morning.",
+   "start": 9.56,
+   "end": 9.84
+  },
+  {
+   "word": "So",
+   "start": 10.58,
+   "end": 10.9
+  },
+  {
+   "word": "you",
+   "start": 10.9,
+   "end": 11.28
+  },
+  {
+   "word": "walk",
+   "start": 11.28,
+   "end": 11.48
+  },
+  {
+   "word": "into",
+   "start": 11.48,
+   "end": 11.68
+  },
+  {
+   "word": "a",
+   "start": 11.68,
+   "end": 11.88
+  },
+  {
+   "word": "room,",
+   "start": 11.88,
+   "end": 12.12
+  },
+  {
+   "word": "and",
+   "start": 12.12,
+   "end": 12.66
+  },
+  {
+   "word": "you",
+   "start": 12.66,
+   "end": 12.8
+  },
+  {
+   "word": "listen.",
+   "start": 12.8,
+   "end": 13.12
+  },
+  {
+   "word": "And",
+   "start": 13.88,
+   "end": 14.04
+  },
+  {
+   "word": "here's",
+   "start": 14.04,
+   "end": 14.36
+  },
+  {
+   "word": "what",
+   "start": 14.36,
+   "end": 14.5
+  },
+  {
+   "word": "you'd",
+   "start": 14.5,
+   "end": 14.68
+  },
+  {
+   "word": "probably",
+   "start": 14.68,
+   "end": 15.1
+  },
+  {
+   "word": "hear.",
+   "start": 15.1,
+   "end": 15.56
+  },
+  {
+   "word": "Nothing",
+   "start": 16.26,
+   "end": 16.64
+  },
+  {
+   "word": "about",
+   "start": 16.64,
+   "end": 17.08
+  },
+  {
+   "word": "you.",
+   "start": 17.08,
+   "end": 17.5
+  },
+  {
+   "word": "In",
+   "start": 18.3,
+   "end": 18.48
+  },
+  {
+   "word": "one",
+   "start": 18.48,
+   "end": 18.7
+  },
+  {
+   "word": "famous",
+   "start": 18.7,
+   "end": 19.04
+  },
+  {
+   "word": "study",
+   "start": 19.04,
+   "end": 19.44
+  },
+  {
+   "word": "at",
+   "start": 19.44,
+   "end": 19.62
+  },
+  {
+   "word": "Cornell",
+   "start": 19.62,
+   "end": 19.92
+  },
+  {
+   "word": "University,",
+   "start": 19.92,
+   "end": 20.68
+  },
+  {
+   "word": "students",
+   "start": 21.0,
+   "end": 21.38
+  },
+  {
+   "word": "wore",
+   "start": 21.38,
+   "end": 21.72
+  },
+  {
+   "word": "an",
+   "start": 21.72,
+   "end": 21.92
+  },
+  {
+   "word": "embarrassing",
+   "start": 21.92,
+   "end": 22.44
+  },
+  {
+   "word": "T-shirt",
+   "start": 22.44,
+   "end": 23.08
+  },
+  {
+   "word": "into",
+   "start": 23.08,
+   "end": 23.32
+  },
+  {
+   "word": "a",
+   "start": 23.32,
+   "end": 23.54
+  },
+  {
+   "word": "room,",
+   "start": 23.54,
+   "end": 23.84
+  },
+  {
+   "word": "and",
+   "start": 23.84,
+   "end": 24.18
+  },
+  {
+   "word": "guessed",
+   "start": 24.18,
+   "end": 24.46
+  },
+  {
+   "word": "half",
+   "start": 24.46,
+   "end": 24.86
+  },
+  {
+   "word": "the",
+   "start": 24.86,
+   "end": 25.02
+  },
+  {
+   "word": "people",
+   "start": 25.02,
+   "end": 25.26
+  },
+  {
+   "word": "would",
+   "start": 25.26,
+   "end": 25.46
+  },
+  {
+   "word": "notice.",
+   "start": 25.46,
+   "end": 25.8
+  },
+  {
+   "word": "Only",
+   "start": 26.42,
+   "end": 26.78
+  },
+  {
+   "word": "about",
+   "start": 26.78,
+   "end": 27.0
+  },
+  {
+   "word": "a",
+   "start": 27.0,
+   "end": 27.16
+  },
+  {
+   "word": "quarter",
+   "start": 27.16,
+   "end": 27.46
+  },
+  {
+   "word": "did.",
+   "start": 27.46,
+   "end": 27.78
+  },
+  {
+   "word": "Psychologists",
+   "start": 28.54,
+   "end": 29.18
+  },
+  {
+   "word": "call",
+   "start": 29.18,
+   "end": 29.54
+  },
+  {
+   "word": "it",
+   "start": 29.54,
+   "end": 29.74
+  },
+  {
+   "word": "the",
+   "start": 29.74,
+   "end": 29.98
+  },
+  {
+   "word": "spotlight",
+   "start": 29.98,
+   "end": 30.4
+  },
+  {
+   "word": "effect.",
+   "start": 30.4,
+   "end": 30.92
+  },
+  {
+   "word": "And",
+   "start": 31.44,
+   "end": 31.72
+  },
+  {
+   "word": "it",
+   "start": 31.72,
+   "end": 31.8
+  },
+  {
+   "word": "gets",
+   "start": 31.8,
+   "end": 32.0
+  },
+  {
+   "word": "better.",
+   "start": 32.0,
+   "end": 32.34
+  },
+  {
+   "word": "Studies",
+   "start": 32.9,
+   "end": 33.24
+  },
+  {
+   "word": "on",
+   "start": 33.24,
+   "end": 33.56
+  },
+  {
+   "word": "the",
+   "start": 33.56,
+   "end": 33.68
+  },
+  {
+   "word": "illusion",
+   "start": 33.68,
+   "end": 34.06
+  },
+  {
+   "word": "of",
+   "start": 34.06,
+   "end": 34.28
+  },
+  {
+   "word": "transparency",
+   "start": 34.28,
+   "end": 35.06
+  },
+  {
+   "word": "show",
+   "start": 35.06,
+   "end": 35.52
+  },
+  {
+   "word": "we",
+   "start": 35.52,
+   "end": 35.72
+  },
+  {
+   "word": "massively",
+   "start": 35.72,
+   "end": 36.28
+  },
+  {
+   "word": "overestimate",
+   "start": 36.28,
+   "end": 37.24
+  },
+  {
+   "word": "how",
+   "start": 37.24,
+   "end": 37.54
+  },
+  {
+   "word": "much",
+   "start": 37.54,
+   "end": 37.78
+  },
+  {
+   "word": "others",
+   "start": 37.78,
+   "end": 38.08
+  },
+  {
+   "word": "can",
+   "start": 38.08,
+   "end": 38.34
+  },
+  {
+   "word": "see",
+   "start": 38.34,
+   "end": 38.62
+  },
+  {
+   "word": "our",
+   "start": 38.62,
+   "end": 38.78
+  },
+  {
+   "word": "nerves,",
+   "start": 38.78,
+   "end": 39.2
+  },
+  {
+   "word": "our",
+   "start": 39.6,
+   "end": 39.66
+  },
+  {
+   "word": "awkwardness,",
+   "start": 39.66,
+   "end": 40.34
+  },
+  {
+   "word": "our",
+   "start": 40.64,
+   "end": 40.78
+  },
+  {
+   "word": "panic.",
+   "start": 40.78,
+   "end": 41.16
+  },
+  {
+   "word": "So",
+   "start": 41.88,
+   "end": 42.2
+  },
+  {
+   "word": "if",
+   "start": 42.2,
+   "end": 42.62
+  },
+  {
+   "word": "you",
+   "start": 42.62,
+   "end": 42.76
+  },
+  {
+   "word": "could",
+   "start": 42.76,
+   "end": 43.04
+  },
+  {
+   "word": "read",
+   "start": 43.04,
+   "end": 43.26
+  },
+  {
+   "word": "minds,",
+   "start": 43.26,
+   "end": 43.62
+  },
+  {
+   "word": "you'd",
+   "start": 44.14,
+   "end": 44.3
+  },
+  {
+   "word": "discover",
+   "start": 44.3,
+   "end": 44.66
+  },
+  {
+   "word": "the",
+   "start": 44.66,
+   "end": 44.88
+  },
+  {
+   "word": "most",
+   "start": 44.88,
+   "end": 45.12
+  },
+  {
+   "word": "freeing",
+   "start": 45.12,
+   "end": 45.68
+  },
+  {
+   "word": "truth",
+   "start": 45.68,
+   "end": 46.0
+  },
+  {
+   "word": "of",
+   "start": 46.0,
+   "end": 46.3
+  },
+  {
+   "word": "all.",
+   "start": 46.3,
+   "end": 46.56
+  },
+  {
+   "word": "Everyone",
+   "start": 47.24,
+   "end": 47.64
+  },
+  {
+   "word": "is",
+   "start": 47.64,
+   "end": 48.06
+  },
+  {
+   "word": "too",
+   "start": 48.06,
+   "end": 48.34
+  },
+  {
+   "word": "busy",
+   "start": 48.34,
+   "end": 48.64
+  },
+  {
+   "word": "worrying",
+   "start": 48.64,
+   "end": 49.14
+  },
+  {
+   "word": "about",
+   "start": 49.14,
+   "end": 49.46
+  },
+  {
+   "word": "themselves.",
+   "start": 49.46,
+   "end": 49.98
+  },
+  {
+   "word": "Follow",
+   "start": 50.86,
+   "end": 51.26
+  },
+  {
+   "word": "for",
+   "start": 51.26,
+   "end": 51.54
+  },
+  {
+   "word": "more",
+   "start": 51.54,
+   "end": 51.72
+  },
+  {
+   "word": "psychology.",
+   "start": 51.72,
+   "end": 52.22
+  }
+ ]
+}
